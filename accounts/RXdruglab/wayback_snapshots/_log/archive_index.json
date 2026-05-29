@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-05-29T12:10:06",
+  "last_updated": "2026-05-29T12:10:54",
   "html": {
     "https://web.archive.org/web/20241108054804if_/https://twitter.com/RXdruglab/status/1854762793792139384": {
       "status": "done",
@@ -12447,13 +12447,13 @@
   },
   "videos": {
     "https://video.twimg.com/ext_tw_video/1884526241858174976/pu/vid/avc1/576x1280/E3Og1fkQWLvURxuD.mp4?tag=12": {
-      "status": "failed",
+      "status": "failed_all",
       "referenced_by": [
         "20250129085729_twitter_com_RXdruglab_status_1884526267724390431.json"
       ],
-      "last_updated": "2026-05-29T11:11:23",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250129085729im_/https://video.twimg.com/ext_tw_video/1884526241858174976/pu/vid/avc1/576x1280/E3Og1fkQWLvURxuD.mp4?tag=12 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fb1b8cd25a0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 3
+      "last_updated": "2026-05-29T12:10:29",
+      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20250129085729/https://video.twimg.com/ext_tw_video/1884526241858174976/pu/vid/avc1/576x1280/E3Og1fkQWLvURxuD.mp4?tag=12",
+      "miss_count": 4
     },
     "https://video.twimg.com/amplify_video/1892955488700243968/vid/avc1/720x1280/KMmzB9OGSDXztdhS.mp4?tag=14": {
       "status": "done",
@@ -12467,9 +12467,9 @@
       "referenced_by": [
         "20250224212044_twitter_com_RXdruglab_status_1894135397011394692.json"
       ],
-      "last_updated": "2026-05-29T11:11:15",
+      "last_updated": "2026-05-29T12:10:32",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20250224212044/https://video.twimg.com/ext_tw_video/1894135351419056128/pu/vid/avc1/576x1280/ztOxz3qabxxBfvMg.mp4?tag=12",
-      "miss_count": 2
+      "miss_count": 3
     },
     "https://video.twimg.com/amplify_video/1900205958716153859/vid/avc1/592x1280/CrajcRTMT7TDQ4ik.mp4?tag=16": {
       "status": "done",
@@ -12484,9 +12484,9 @@
         "20250327050337_twitter_com_RXdruglab_status_1905123522403553432.json",
         "20250327050437_twitter_com_RXdruglab_status_1905123772358881334.json"
       ],
-      "last_updated": "2026-05-29T11:11:16",
+      "last_updated": "2026-05-29T12:10:36",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20250327050337/https://video.twimg.com/amplify_video/1905122674067795968/vid/avc1/648x1080/8MQO8Y-4c6nRNuLN.mp4?tag=14",
-      "miss_count": 4
+      "miss_count": 5
     },
     "https://video.twimg.com/ext_tw_video/1906213314826231808/pu/vid/avc1/720x900/7aWEL0LkFCjcAgkI.mp4?tag=12": {
       "status": "done",
@@ -12500,36 +12500,36 @@
       "referenced_by": [
         "20250407130842_twitter_com_RXdruglab_status_1909231863308382655.json"
       ],
-      "last_updated": "2026-05-29T11:11:27",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250407130842im_/https://video.twimg.com/ext_tw_video/1909229653153497088/pu/vid/avc1/720x960/_RlwFgEC7XJbx_aT.mp4?tag=12 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fb1b8c90b30>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 3
+      "last_updated": "2026-05-29T12:10:40",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250407130842im_/https://video.twimg.com/ext_tw_video/1909229653153497088/pu/vid/avc1/720x960/_RlwFgEC7XJbx_aT.mp4?tag=12 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f5639af74a0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/ext_tw_video/1909645636523507713/pu/vid/avc1/720x1280/7EL_XxzZOdSr-yzE.mp4?tag=12": {
       "status": "failed",
       "referenced_by": [
         "20250410112455_twitter_com_RXdruglab_status_1910292906185003030.json"
       ],
-      "last_updated": "2026-05-29T11:11:32",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250410112455im_/https://video.twimg.com/ext_tw_video/1909645636523507713/pu/vid/avc1/720x1280/7EL_XxzZOdSr-yzE.mp4?tag=12 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fb1b8c926c0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 3
+      "last_updated": "2026-05-29T12:10:45",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250410112455im_/https://video.twimg.com/ext_tw_video/1909645636523507713/pu/vid/avc1/720x1280/7EL_XxzZOdSr-yzE.mp4?tag=12 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f5639ab8dd0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/amplify_video/1913559957334847488/vid/avc1/720x1280/qnnYrKSIDcJhAOTl.mp4?tag=14": {
       "status": "failed",
       "referenced_by": [
         "20250419123910_twitter_com_RXdruglab_status_1913573085644833183.json"
       ],
-      "last_updated": "2026-05-29T11:11:36",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250419123910im_/https://video.twimg.com/amplify_video/1913559957334847488/vid/avc1/720x1280/qnnYrKSIDcJhAOTl.mp4?tag=14 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fb1b8cbc2f0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 3
+      "last_updated": "2026-05-29T12:10:49",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250419123910im_/https://video.twimg.com/amplify_video/1913559957334847488/vid/avc1/720x1280/qnnYrKSIDcJhAOTl.mp4?tag=14 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f5639f458b0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/ext_tw_video/1933898536850198528/pu/vid/avc1/720x1280/wa6q0c306LW0c8HG.mp4?tag=12": {
-      "status": "failed_all",
+      "status": "failed",
       "referenced_by": [
         "20250614152839_twitter_com_RXdruglab_status_1933909456506732864.json"
       ],
-      "last_updated": "2026-05-29T11:11:15",
-      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20250614152839/https://video.twimg.com/ext_tw_video/1933898536850198528/pu/vid/avc1/720x1280/wa6q0c306LW0c8HG.mp4?tag=12",
-      "miss_count": 2
+      "last_updated": "2026-05-29T12:10:54",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250614152839im_/https://video.twimg.com/ext_tw_video/1933898536850198528/pu/vid/avc1/720x1280/wa6q0c306LW0c8HG.mp4?tag=12 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f5639af73b0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 3
     },
     "https://video.twimg.com/amplify_video/1990465610955042819/vid/avc1/1080x1920/tPScmhKuKjVqz-FP.mp4": {
       "status": "done",
@@ -30056,7 +30056,7 @@
       "miss_count": 2
     },
     "20250129085729_twitter_com_RXdruglab_status_1884526267724390431.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [
@@ -30067,7 +30067,7 @@
           "https://pbs.twimg.com/profile_images/1770636826644303872/IbmGaLKB_normal.jpg"
         ]
       },
-      "last_updated": "2026-05-29T11:11:17",
+      "last_updated": "2026-05-29T12:10:29",
       "miss_count": 2
     },
     "20250129104937_twitter_com_RXdruglab_status_1884554487869878531.json": {
@@ -40249,7 +40249,7 @@
       "last_updated": "2026-05-29T10:22:15"
     },
     "20250614152839_twitter_com_RXdruglab_status_1933909456506732864.json": {
-      "status": "done",
+      "status": "failed",
       "depends_on": {
         "images": [],
         "videos": [
@@ -40260,7 +40260,7 @@
           "https://pbs.twimg.com/profile_images/1923304720611024896/ImSJUBEb_normal.jpg"
         ]
       },
-      "last_updated": "2026-05-29T11:11:15",
+      "last_updated": "2026-05-29T12:10:54",
       "miss_count": 1
     },
     "20250615051040_twitter_com_RXdruglab_status_1934116326282612858.json": {
