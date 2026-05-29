@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "3022697779",
+    "conversation_id": "1990471779635376524",
+    "created_at": "2025-11-17T17:27:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-17T18:27:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1990471779635376524"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/lixinquan021/s…",
+          "end": 71,
+          "expanded_url": "https://twitter.com/lixinquan021/status/1990466181770453425",
+          "start": 48,
+          "url": "https://t.co/YvUw76j9UV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990471779635376524",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990466181770453425",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "有些卡西酮类物质非常容易制作，简单到甚至一锅反应就可以做出来了，需要的试剂还都是合法随便买的。 https://t.co/YvUw76j9UV"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 21223,
+        "height": 1920,
+        "media_key": "13_1990465610955042819",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1990465610955042819/img/-sSjgouPkldNhNNV.jpg",
+        "public_metrics": {
+          "view_count": 2
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1990465610955042819/vid/avc1/480x852/4V0xgyVuCgXg8KB1.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1990465610955042819/pl/q0RYeISfAdw2euAP.m3u8"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1990465610955042819/vid/avc1/320x568/tjWrgUFWgj9RT9US.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1990465610955042819/vid/avc1/720x1280/-tGXWT2VheH80Yvr.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1990465610955042819/vid/avc1/1080x1920/tPScmhKuKjVqz-FP.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3022697779",
+        "conversation_id": "1990471779635376524",
+        "created_at": "2025-11-17T17:27:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T18:27:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990471779635376524"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lixinquan021/s…",
+              "end": 71,
+              "expanded_url": "https://twitter.com/lixinquan021/status/1990466181770453425",
+              "start": 48,
+              "url": "https://t.co/YvUw76j9UV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990471779635376524",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990466181770453425",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有些卡西酮类物质非常容易制作，简单到甚至一锅反应就可以做出来了，需要的试剂还都是合法随便买的。 https://t.co/YvUw76j9UV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1990465610955042819"
+          ]
+        },
+        "author_id": "926832662718775296",
+        "conversation_id": "1990466181770453425",
+        "created_at": "2025-11-17T17:04:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T18:04:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990466181770453425"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Y1D1CZw5HZ",
+              "end": 35,
+              "expanded_url": "https://x.com/lixinquan021/status/1990466181770453425/video/1",
+              "media_key": "13_1990465610955042819",
+              "start": 12,
+              "url": "https://t.co/Y1D1CZw5HZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990466181770453425",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "假冰是什么，是毒品吗？ https://t.co/Y1D1CZw5HZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-02-16T15:27:54.000Z",
+        "description": "本不一定什么时候就没，请添加下方网址的telegram频道以获得持续更新。\n以禁毒、法律教育及损害减少（harm reduction）为目的，通过非世俗及去道德的理念，追求真实的知识与反馈。除替代为目的，部分良性物质，以及特殊情况下的损害减少，不推荐任何人摄入我提及的物质。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/XDrugLab",
+                "end": 23,
+                "expanded_url": "https://t.me/XDrugLab",
+                "start": 0,
+                "url": "https://t.co/KMcpbSmDcL"
+              }
+            ]
+          }
+        },
+        "id": "3022697779",
+        "name": "药物实验室",
+        "pinned_tweet_id": "1917542345039569145",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854259369203879954/nxgmCDHX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16292,
+          "following_count": 18,
+          "like_count": 21,
+          "listed_count": 20,
+          "media_count": 52,
+          "tweet_count": 1325
+        },
+        "url": "https://t.co/KMcpbSmDcL",
+        "username": "RXdruglab",
+        "verified": false
+      },
+      {
+        "created_at": "2017-11-04T15:25:01.000Z",
+        "description": "13年戒毒戒酒经验，毛发检测，物质鉴定，李云齐律师团队。排毒配方快速排出身体和毛发囊的毒素，误吸后排毒，毛发囊最快15到30天左右干净阴性。微信：jiance56  TG电报：cchy321",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCEhTh…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/channel/UCEhThn4H1h8PNOPDrGodz5Q",
+                "start": 0,
+                "url": "https://t.co/U6wTh4PLQW"
+              }
+            ]
+          }
+        },
+        "id": "926832662718775296",
+        "location": "Shanghai",
+        "name": "李云齐检测 排毒 毒辩",
+        "pinned_tweet_id": "1981751795203621294",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1820876686839418880/H3a2EyW6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 453,
+          "following_count": 11,
+          "like_count": 8,
+          "listed_count": 1,
+          "media_count": 249,
+          "tweet_count": 278
+        },
+        "url": "https://t.co/U6wTh4PLQW",
+        "username": "lixinquan021",
+        "verified": true
+      }
+    ]
+  }
+}

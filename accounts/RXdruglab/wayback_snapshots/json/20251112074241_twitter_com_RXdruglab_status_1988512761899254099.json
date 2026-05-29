@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "3022697779",
+    "conversation_id": "1988512761899254099",
+    "created_at": "2025-11-12T07:42:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-12T08:42:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1988512761899254099"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/RXdruglab/stat…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/RXdruglab/status/1864655899199197398",
+          "start": 9,
+          "url": "https://t.co/SOkE9dWAgn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988512761899254099",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1864655899199197398",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "已经联系不上了。 https://t.co/SOkE9dWAgn"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3022697779",
+        "conversation_id": "1988512761899254099",
+        "created_at": "2025-11-12T07:42:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T08:42:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988512761899254099"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/RXdruglab/stat…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/RXdruglab/status/1864655899199197398",
+              "start": 9,
+              "url": "https://t.co/SOkE9dWAgn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988512761899254099",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1864655899199197398",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "已经联系不上了。 https://t.co/SOkE9dWAgn"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3022697779",
+        "conversation_id": "1864655899199197398",
+        "created_at": "2024-12-05T12:59:44.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-05T13:59:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1864655899199197398"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1864655899199197398",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 17792,
+          "like_count": 76,
+          "quote_count": 1,
+          "reply_count": 16,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我之前一个朋友说想自杀，我问了一下说想五年后自杀，我就给他说某种常见物质可以自杀。没想到他提前了，过了一个月就尝试了，结果摄入后三十秒就呕吐出来了，然后晕了两天，也没死了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-02-16T15:27:54.000Z",
+        "description": "本不一定什么时候就没，请添加下方网址的telegram频道以获得持续更新。\n以禁毒、法律教育及损害减少（harm reduction）为目的，通过非世俗及去道德的理念，追求真实的知识与反馈。除替代为目的，部分良性物质，以及特殊情况下的损害减少，不推荐任何人摄入我提及的物质。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/XDrugLab",
+                "end": 23,
+                "expanded_url": "https://t.me/XDrugLab",
+                "start": 0,
+                "url": "https://t.co/KMcpbSmDcL"
+              }
+            ]
+          }
+        },
+        "id": "3022697779",
+        "name": "药物实验室",
+        "pinned_tweet_id": "1917542345039569145",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854259369203879954/nxgmCDHX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16204,
+          "following_count": 17,
+          "like_count": 20,
+          "listed_count": 20,
+          "media_count": 52,
+          "tweet_count": 1293
+        },
+        "url": "https://t.co/KMcpbSmDcL",
+        "username": "RXdruglab",
+        "verified": false
+      }
+    ]
+  }
+}

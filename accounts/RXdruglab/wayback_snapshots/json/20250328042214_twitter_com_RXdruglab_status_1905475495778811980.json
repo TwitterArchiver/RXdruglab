@@ -1,0 +1,107 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "3022697779",
+    "conversation_id": "1905475495778811980",
+    "created_at": "2025-03-28T04:22:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-28T05:22:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1905475495778811980"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1905475495778811980",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "血清素综合征是因体内血清素过量导致的急性中毒反应，症状包括高热、肌肉强直、意识混乱、癫痫发作等，可致命，多因过量服用药物导致，严重时需立即送医。常由混用或过量服用促血清素药物引发，如高剂量血清素类致幻剂，或且联用SSRI等抗抑郁药物。诊治手册建议服用苯二氮卓类药物和赛庚啶。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3022697779",
+        "conversation_id": "1905475495778811980",
+        "created_at": "2025-03-28T04:22:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-28T05:22:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1905475495778811980"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1905475495778811980",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "血清素综合征是因体内血清素过量导致的急性中毒反应，症状包括高热、肌肉强直、意识混乱、癫痫发作等，可致命，多因过量服用药物导致，严重时需立即送医。常由混用或过量服用促血清素药物引发，如高剂量血清素类致幻剂，或且联用SSRI等抗抑郁药物。诊治手册建议服用苯二氮卓类药物和赛庚啶。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-02-16T15:27:54.000Z",
+        "description": "本不一定什么时候就没，请添加下方网址的telegram频道以获得持续更新。\n以禁毒、法律教育及损害减少（harm reduction）为目的，通过非世俗及去道德的理念，追求真实的知识与反馈。除替代为目的，部分良性物质，以及特殊情况下的损害减少，不推荐任何人摄入我提及的物质。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/XDrugLab",
+                "end": 23,
+                "expanded_url": "https://t.me/XDrugLab",
+                "start": 0,
+                "url": "https://t.co/KMcpbSmDcL"
+              }
+            ]
+          }
+        },
+        "id": "3022697779",
+        "name": "药物实验室",
+        "pinned_tweet_id": "1861564676557152611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854259369203879954/nxgmCDHX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14166,
+          "following_count": 16,
+          "like_count": 17,
+          "listed_count": 11,
+          "media_count": 28,
+          "tweet_count": 817
+        },
+        "url": "https://t.co/KMcpbSmDcL",
+        "username": "RXdruglab",
+        "verified": false
+      }
+    ]
+  }
+}

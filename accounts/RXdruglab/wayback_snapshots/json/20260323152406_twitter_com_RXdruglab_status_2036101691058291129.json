@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "3022697779",
+    "conversation_id": "2035983034827362676",
+    "created_at": "2026-03-23T15:24:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-23T16:24:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036101691058291129"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1730944679028445184",
+          "start": 0,
+          "username": "Knyamoemoe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036101691058291129",
+    "in_reply_to_user_id": "1730944679028445184",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036090027596218787",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Knyamoemoe 就是因为吃愈美片，因为某种原因被发现了，然后被抓去做笔录，在笔录中明确写的吃愈美片，并且没有其他任何违禁物质摄入及检出，最后下了一个书面的行政处罚决定书是吗？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3022697779",
+        "conversation_id": "2035983034827362676",
+        "created_at": "2026-03-23T15:24:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T16:24:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036101691058291129"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1730944679028445184",
+              "start": 0,
+              "username": "Knyamoemoe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036101691058291129",
+        "in_reply_to_user_id": "1730944679028445184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036090027596218787",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Knyamoemoe 就是因为吃愈美片，因为某种原因被发现了，然后被抓去做笔录，在笔录中明确写的吃愈美片，并且没有其他任何违禁物质摄入及检出，最后下了一个书面的行政处罚决定书是吗？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730944679028445184",
+        "conversation_id": "2035983034827362676",
+        "created_at": "2026-03-23T14:37:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T15:37:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036090027596218787"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "3022697779",
+              "start": 0,
+              "username": "RXdruglab"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036090027596218787",
+        "in_reply_to_user_id": "3022697779",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 35,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035983034827362676",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RXdruglab 嗯呢，但是当时有未成年保护所以不在乎行政处罚"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-02-16T15:27:54.000Z",
+        "description": "本不一定什么时候就没，请添加下方网址的telegram频道以获得持续更新。\n以禁毒、法律教育及损害减少（harm reduction）为目的，通过非世俗及去道德的理念，追求真实的知识与反馈。除替代为目的，部分良性物质，以及特殊情况下的损害减少，不推荐任何人摄入我提及的物质。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/XDrugLab",
+                "end": 23,
+                "expanded_url": "https://t.me/XDrugLab",
+                "start": 0,
+                "url": "https://t.co/KMcpbSmDcL"
+              }
+            ]
+          }
+        },
+        "id": "3022697779",
+        "name": "药物实验室",
+        "pinned_tweet_id": "1917542345039569145",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854259369203879954/nxgmCDHX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19026,
+          "following_count": 16,
+          "like_count": 35,
+          "listed_count": 23,
+          "media_count": 53,
+          "tweet_count": 1618
+        },
+        "url": "https://t.co/KMcpbSmDcL",
+        "username": "RXdruglab",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-02T13:39:21.000Z",
+        "description": "",
+        "id": "1730944679028445184",
+        "name": "死了还执着什么",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011195380784832514/17OWcJOi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 57,
+          "like_count": 4537,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 345
+        },
+        "username": "Knyamoemoe",
+        "verified": false
+      }
+    ]
+  }
+}

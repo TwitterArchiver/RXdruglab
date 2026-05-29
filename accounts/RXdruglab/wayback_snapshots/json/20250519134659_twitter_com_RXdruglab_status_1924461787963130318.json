@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "3022697779",
+    "conversation_id": "1924250238262636958",
+    "created_at": "2025-05-19T13:46:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-19T14:46:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1924461787963130318"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1828716045001232384",
+          "start": 0,
+          "username": "zwh087"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1924461787963130318",
+    "in_reply_to_user_id": "1828716045001232384",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1924461183794622618",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zwh087 初始1mg就可以了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3022697779",
+        "conversation_id": "1924250238262636958",
+        "created_at": "2025-05-19T13:46:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-19T14:46:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1924461787963130318"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1828716045001232384",
+              "start": 0,
+              "username": "zwh087"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1924461787963130318",
+        "in_reply_to_user_id": "1828716045001232384",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1924461183794622618",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zwh087 初始1mg就可以了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1828716045001232384",
+        "conversation_id": "1924250238262636958",
+        "created_at": "2025-05-19T13:44:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-19T14:44:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1924461183794622618"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "3022697779",
+              "start": 0,
+              "username": "RXdruglab"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1924461183794622618",
+        "in_reply_to_user_id": "3022697779",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1924250238262636958",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RXdruglab 一次用量多少请问😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-02-16T15:27:54.000Z",
+        "description": "本不一定什么时候就没，请添加下方网址的telegram频道以获得持续更新。\n以禁毒、法律教育及损害减少（harm reduction）为目的，通过非世俗及去道德的理念，追求真实的知识与反馈。除替代为目的，部分良性物质，以及特殊情况下的损害减少，不推荐任何人摄入我提及的物质。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/XDrugLab",
+                "end": 23,
+                "expanded_url": "https://t.me/XDrugLab",
+                "start": 0,
+                "url": "https://t.co/KMcpbSmDcL"
+              }
+            ]
+          }
+        },
+        "id": "3022697779",
+        "name": "药物实验室",
+        "pinned_tweet_id": "1924319003457253636",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854259369203879954/nxgmCDHX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14994,
+          "following_count": 17,
+          "like_count": 28,
+          "listed_count": 13,
+          "media_count": 41,
+          "tweet_count": 1019
+        },
+        "url": "https://t.co/KMcpbSmDcL",
+        "username": "RXdruglab",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-28T08:47:53.000Z",
+        "description": "",
+        "id": "1828716045001232384",
+        "name": "fiona",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1833478514030612481/KG0tknVV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 86,
+          "like_count": 38,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 7
+        },
+        "username": "zwh087",
+        "verified": false
+      }
+    ]
+  }
+}

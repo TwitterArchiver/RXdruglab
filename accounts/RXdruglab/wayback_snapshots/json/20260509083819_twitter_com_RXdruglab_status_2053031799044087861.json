@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "3022697779",
+    "conversation_id": "2052270039303397429",
+    "created_at": "2026-05-09T08:38:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T09:38:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053031799044087861"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1697262753852080129",
+          "start": 0,
+          "username": "User649513558"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053031799044087861",
+    "in_reply_to_user_id": "1697262753852080129",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052270039303397429",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@User649513558 施维宝的加兰他敏没了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3022697779",
+        "conversation_id": "2052270039303397429",
+        "created_at": "2026-05-09T08:38:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T09:38:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053031799044087861"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1697262753852080129",
+              "start": 0,
+              "username": "User649513558"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053031799044087861",
+        "in_reply_to_user_id": "1697262753852080129",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052270039303397429",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@User649513558 施维宝的加兰他敏没了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1697262753852080129",
+        "conversation_id": "2052270039303397429",
+        "created_at": "2026-05-07T06:11:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T07:11:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052270039303397429"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2052270039303397429",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为什么加兰他敏现在这么贵?25年的时候一盒只用20块。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-02-16T15:27:54.000Z",
+        "description": "本不一定什么时候就没，请添加下方网址的telegram频道以获得持续更新。\n以禁毒、法律教育及损害减少（harm reduction）为目的，通过非世俗及去道德的理念，追求真实的知识与反馈。除替代为目的，部分良性物质，以及特殊情况下的损害减少，不推荐任何人摄入我提及的物质。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/XDrugLab",
+                "end": 23,
+                "expanded_url": "https://t.me/XDrugLab",
+                "start": 0,
+                "url": "https://t.co/KMcpbSmDcL"
+              }
+            ]
+          }
+        },
+        "id": "3022697779",
+        "name": "药物实验室",
+        "pinned_tweet_id": "1917542345039569145",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854259369203879954/nxgmCDHX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19219,
+          "following_count": 17,
+          "like_count": 37,
+          "listed_count": 23,
+          "media_count": 55,
+          "tweet_count": 1702
+        },
+        "url": "https://t.co/KMcpbSmDcL",
+        "username": "RXdruglab",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-31T14:59:24.000Z",
+        "description": "",
+        "id": "1697262753852080129",
+        "name": "Alter",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917953848666439680/OaA6--Hi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 47,
+          "like_count": 450,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 93
+        },
+        "username": "User649513558",
+        "verified": false
+      }
+    ]
+  }
+}

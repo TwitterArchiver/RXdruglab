@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "3022697779",
+    "conversation_id": "1885674653940924652",
+    "created_at": "2025-02-02T05:19:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-02T06:19:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1885920947548594500"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "24620118",
+          "start": 0,
+          "username": "geekeepee"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1885920947548594500",
+    "in_reply_to_user_id": "24620118",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1885920813645168996",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@geekeepee 是的。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3022697779",
+        "conversation_id": "1885674653940924652",
+        "created_at": "2025-02-02T05:19:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-02T06:19:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1885920947548594500"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "24620118",
+              "start": 0,
+              "username": "geekeepee"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1885920947548594500",
+        "in_reply_to_user_id": "24620118",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1885920813645168996",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@geekeepee 是的。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "24620118",
+        "conversation_id": "1885674653940924652",
+        "created_at": "2025-02-02T05:18:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-02T06:18:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1885920813645168996"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "3022697779",
+              "start": 0,
+              "username": "RXdruglab"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1885920813645168996",
+        "in_reply_to_user_id": "3022697779",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1885674653940924652",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RXdruglab 这是你们play的一环吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-02-16T15:27:54.000Z",
+        "description": "本不一定什么时候就没，请添加下方网址的telegram频道以获得持续更新。\n以禁毒、法律教育及损害减少（harm reduction）为目的，通过非世俗及去道德的理念，追求真实的知识与反馈。除替代为目的，部分良性物质，以及特殊情况下的损害减少，不推荐任何人摄入我提及的物质。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/XDrugLab",
+                "end": 23,
+                "expanded_url": "https://t.me/XDrugLab",
+                "start": 0,
+                "url": "https://t.co/KMcpbSmDcL"
+              }
+            ]
+          }
+        },
+        "id": "3022697779",
+        "name": "药物实验室",
+        "pinned_tweet_id": "1861564676557152611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854259369203879954/nxgmCDHX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9510,
+          "following_count": 16,
+          "like_count": 11,
+          "listed_count": 11,
+          "media_count": 23,
+          "tweet_count": 623
+        },
+        "url": "https://t.co/KMcpbSmDcL",
+        "username": "RXdruglab",
+        "verified": false
+      },
+      {
+        "created_at": "2009-03-16T00:53:01.000Z",
+        "description": "据点模块",
+        "id": "24620118",
+        "location": "萨凡纳，ga",
+        "name": "研究据点擎天堡",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1441101545194487815/b2FuI7rv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 292,
+          "like_count": 182,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 2498
+        },
+        "username": "geekeepee",
+        "verified": false
+      }
+    ]
+  }
+}

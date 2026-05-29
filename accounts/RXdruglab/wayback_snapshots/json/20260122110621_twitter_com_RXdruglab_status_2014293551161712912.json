@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "3022697779",
+    "conversation_id": "2014293551161712912",
+    "created_at": "2026-01-22T11:06:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-22T12:06:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2014293551161712912"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/guaiqiaochen/s…",
+          "end": 53,
+          "expanded_url": "https://twitter.com/guaiqiaochen/status/2014240088037949821",
+          "start": 30,
+          "url": "https://t.co/qZAAbtEDPI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014293551161712912",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014240088037949821",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "JB增大可以考虑真空泵，可以让JB增大一圈，不过时效有限。 https://t.co/qZAAbtEDPI"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3022697779",
+        "conversation_id": "2014293551161712912",
+        "created_at": "2026-01-22T11:06:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-22T12:06:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2014293551161712912"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/guaiqiaochen/s…",
+              "end": 53,
+              "expanded_url": "https://twitter.com/guaiqiaochen/status/2014240088037949821",
+              "start": 30,
+              "url": "https://t.co/qZAAbtEDPI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014293551161712912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014240088037949821",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "JB增大可以考虑真空泵，可以让JB增大一圈，不过时效有限。 https://t.co/qZAAbtEDPI"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676977545512902656",
+        "conversation_id": "2014082438054724009",
+        "created_at": "2026-01-22T07:33:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-22T08:33:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014240088037949821"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "3022697779",
+              "start": 0,
+              "username": "RXdruglab"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014240088037949821",
+        "in_reply_to_user_id": "3022697779",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 30,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014082438054724009",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RXdruglab 效果明显不，能不能起到增大的作用😋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-02-16T15:27:54.000Z",
+        "description": "本不一定什么时候就没，请添加下方网址的telegram频道以获得持续更新。\n以禁毒、法律教育及损害减少（harm reduction）为目的，通过非世俗及去道德的理念，追求真实的知识与反馈。除替代为目的，部分良性物质，以及特殊情况下的损害减少，不推荐任何人摄入我提及的物质。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/XDrugLab",
+                "end": 23,
+                "expanded_url": "https://t.me/XDrugLab",
+                "start": 0,
+                "url": "https://t.co/KMcpbSmDcL"
+              }
+            ]
+          }
+        },
+        "id": "3022697779",
+        "name": "药物实验室",
+        "pinned_tweet_id": "1917542345039569145",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854259369203879954/nxgmCDHX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17321,
+          "following_count": 19,
+          "like_count": 28,
+          "listed_count": 21,
+          "media_count": 52,
+          "tweet_count": 1468
+        },
+        "url": "https://t.co/KMcpbSmDcL",
+        "username": "RXdruglab",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-06T15:33:07.000Z",
+        "description": "感谢关注喵，可爱小男娘一枚，目前在浙江漂流，泛性恋，渴望被爱，希望以后能往女装cos方向发展，目前只能发点色色，希望有赞助喵",
+        "id": "1676977545512902656",
+        "name": "乖巧的西瓜",
+        "pinned_tweet_id": "1981613828279546023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1689811556148871168/xAUOtlgG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 324,
+          "following_count": 71,
+          "like_count": 105,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 132
+        },
+        "username": "guaiqiaochen",
+        "verified": false
+      }
+    ]
+  }
+}

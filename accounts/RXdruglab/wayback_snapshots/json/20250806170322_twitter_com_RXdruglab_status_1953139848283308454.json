@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "3022697779",
+    "conversation_id": "1953042193599635934",
+    "created_at": "2025-08-06T17:03:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-06T18:03:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1953139848283308454"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1722343055163027456",
+          "start": 0,
+          "username": "OgawaSakii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1953139848283308454",
+    "in_reply_to_user_id": "1722343055163027456",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1953139151714566638",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OgawaSakii 要社会性的，具体幻觉内容不是很感兴趣，除非是巨量下的特别体验。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3022697779",
+        "conversation_id": "1953042193599635934",
+        "created_at": "2025-08-06T17:03:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-06T18:03:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953139848283308454"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1722343055163027456",
+              "start": 0,
+              "username": "OgawaSakii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953139848283308454",
+        "in_reply_to_user_id": "1722343055163027456",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953139151714566638",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OgawaSakii 要社会性的，具体幻觉内容不是很感兴趣，除非是巨量下的特别体验。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722343055163027456",
+        "conversation_id": "1953042193599635934",
+        "created_at": "2025-08-06T17:00:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-06T18:00:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953139151714566638"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "3022697779",
+              "start": 0,
+              "username": "RXdruglab"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953139151714566638",
+        "in_reply_to_user_id": "3022697779",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953101173520777402",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RXdruglab 这种情况下、怎么样都不奇怪吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-02-16T15:27:54.000Z",
+        "description": "本不一定什么时候就没，请添加下方网址的telegram频道以获得持续更新。\n以禁毒、法律教育及损害减少（harm reduction）为目的，通过非世俗及去道德的理念，追求真实的知识与反馈。除替代为目的，部分良性物质，以及特殊情况下的损害减少，不推荐任何人摄入我提及的物质。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/XDrugLab",
+                "end": 23,
+                "expanded_url": "https://t.me/XDrugLab",
+                "start": 0,
+                "url": "https://t.co/KMcpbSmDcL"
+              }
+            ]
+          }
+        },
+        "id": "3022697779",
+        "name": "药物实验室",
+        "pinned_tweet_id": "1917542345039569145",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854259369203879954/nxgmCDHX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15433,
+          "following_count": 17,
+          "like_count": 35,
+          "listed_count": 14,
+          "media_count": 44,
+          "tweet_count": 1117
+        },
+        "url": "https://t.co/KMcpbSmDcL",
+        "username": "RXdruglab",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-08T19:59:26.000Z",
+        "description": "犹记当时灯火朦胧，烟花盛世，终成旧梦",
+        "id": "1722343055163027456",
+        "location": "见泷原",
+        "name": "咲是甜食不是天使",
+        "pinned_tweet_id": "1863327292812140686",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1857065181399932929/ZUJ-aA6m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 168,
+          "following_count": 323,
+          "like_count": 2179,
+          "listed_count": 0,
+          "media_count": 135,
+          "tweet_count": 1353
+        },
+        "username": "OgawaSakii",
+        "verified": false
+      }
+    ]
+  }
+}

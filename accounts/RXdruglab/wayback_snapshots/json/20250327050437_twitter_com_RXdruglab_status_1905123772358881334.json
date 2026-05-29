@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "3022697779",
+    "conversation_id": "1905123772358881334",
+    "created_at": "2025-03-27T05:04:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-27T06:04:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1905123772358881334"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/kansj68531/sta…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/kansj68531/status/1905122750944915596",
+          "start": 11,
+          "url": "https://t.co/5J5Thno0yz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1905123772358881334",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1905122750944915596",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我不会让你死我手里。 https://t.co/5J5Thno0yz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1905122674076241920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnBa-nHbUAAWp2O.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1080,
+        "media_key": "3_1905122674822795264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnBa-p5a0AAd_ny.jpg",
+        "width": 1080
+      },
+      {
+        "duration_ms": 21033,
+        "height": 1080,
+        "media_key": "13_1905122674067795968",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1905122674067795968/img/HaV-pyPYmJJ1x6wV.jpg",
+        "public_metrics": {
+          "view_count": 13
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1905122674067795968/vid/avc1/320x532/UNlgPHoOF3WRDvS5.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1905122674067795968/vid/avc1/480x800/G5PO3v9s-WLGJuyW.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1905122674067795968/vid/avc1/648x1080/8MQO8Y-4c6nRNuLN.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1905122674067795968/pl/VLVZkNQ3dkkr6ijj.m3u8?tag=14"
+          }
+        ],
+        "width": 648
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3022697779",
+        "conversation_id": "1905123772358881334",
+        "created_at": "2025-03-27T05:04:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-27T06:04:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1905123772358881334"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kansj68531/sta…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/kansj68531/status/1905122750944915596",
+              "start": 11,
+              "url": "https://t.co/5J5Thno0yz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1905123772358881334",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1905122750944915596",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我不会让你死我手里。 https://t.co/5J5Thno0yz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1905122674076241920",
+            "3_1905122674822795264",
+            "13_1905122674067795968"
+          ]
+        },
+        "author_id": "1699445300950093824",
+        "conversation_id": "1905122750944915596",
+        "created_at": "2025-03-27T05:00:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-27T06:00:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1905122750944915596"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ERB3fwuLJ5",
+              "end": 77,
+              "expanded_url": "https://x.com/kansj68531/status/1905122750944915596/video/1",
+              "media_key": "3_1905122674076241920",
+              "start": 54,
+              "url": "https://t.co/ERB3fwuLJ5"
+            },
+            {
+              "display_url": "pic.x.com/ERB3fwuLJ5",
+              "end": 77,
+              "expanded_url": "https://x.com/kansj68531/status/1905122750944915596/video/1",
+              "media_key": "3_1905122674822795264",
+              "start": 54,
+              "url": "https://t.co/ERB3fwuLJ5"
+            },
+            {
+              "display_url": "pic.x.com/ERB3fwuLJ5",
+              "end": 77,
+              "expanded_url": "https://x.com/kansj68531/status/1905122750944915596/video/1",
+              "media_key": "13_1905122674067795968",
+              "start": 54,
+              "url": "https://t.co/ERB3fwuLJ5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1905122750944915596",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 38,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "老师我要是死了，你敢看楼下吗？你会不会拍我尸体照，然后给我打个码发推，说妈的我精神病地雷妹女友跳楼自杀了。 https://t.co/ERB3fwuLJ5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-02-16T15:27:54.000Z",
+        "description": "本不一定什么时候就没，请添加下方网址的telegram频道以获得持续更新。\n以禁毒、法律教育及损害减少（harm reduction）为目的，通过非世俗及去道德的理念，追求真实的知识与反馈。除替代为目的，部分良性物质，以及特殊情况下的损害减少，不推荐任何人摄入我提及的物质。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/XDrugLab",
+                "end": 23,
+                "expanded_url": "https://t.me/XDrugLab",
+                "start": 0,
+                "url": "https://t.co/KMcpbSmDcL"
+              }
+            ]
+          }
+        },
+        "id": "3022697779",
+        "name": "药物实验室",
+        "pinned_tweet_id": "1861564676557152611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854259369203879954/nxgmCDHX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14117,
+          "following_count": 16,
+          "like_count": 17,
+          "listed_count": 11,
+          "media_count": 28,
+          "tweet_count": 797
+        },
+        "url": "https://t.co/KMcpbSmDcL",
+        "username": "RXdruglab",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-06T15:31:58.000Z",
+        "description": "问IP52，🚪188，有线下爸爸活。",
+        "id": "1699445300950093824",
+        "location": "Macau",
+        "name": "林林林林林",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899304337999810560/sEeF268-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3820,
+          "following_count": 46,
+          "like_count": 396,
+          "listed_count": 9,
+          "media_count": 7,
+          "tweet_count": 33
+        },
+        "username": "kansj68531",
+        "verified": false
+      }
+    ]
+  }
+}

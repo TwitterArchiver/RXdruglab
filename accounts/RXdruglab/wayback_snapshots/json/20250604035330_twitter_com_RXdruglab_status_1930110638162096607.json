@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "3022697779",
+    "conversation_id": "1929733519707623866",
+    "created_at": "2025-06-04T03:53:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-04T04:53:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1930110638162096607"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "28940967",
+          "start": 0,
+          "username": "lidangzzz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1930110638162096607",
+    "in_reply_to_user_id": "28940967",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1929733519707623866",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lidangzzz 他是混动的。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1914,
+        "media_key": "3_1929731667096133632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsfIuiEWYAAUy_t.png",
+        "width": 1666
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3022697779",
+        "conversation_id": "1929733519707623866",
+        "created_at": "2025-06-04T03:53:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-04T04:53:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1930110638162096607"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "28940967",
+              "start": 0,
+              "username": "lidangzzz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930110638162096607",
+        "in_reply_to_user_id": "28940967",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1929733519707623866",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lidangzzz 他是混动的。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1929731667096133632"
+          ]
+        },
+        "author_id": "28940967",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596794716162",
+              "name": "Financial services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "News from Bloomberg LP (not Mike Bloomberg)",
+              "id": "10044802072",
+              "name": "Bloomberg"
+            }
+          }
+        ],
+        "conversation_id": "1929733519707623866",
+        "created_at": "2025-06-03T02:54:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-03T03:54:18.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1929733349989318849",
+          "1929733519707623866"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KVUbVyctIU",
+              "end": 176,
+              "expanded_url": "https://x.com/lidangzzz/status/1929733519707623866/photo/1",
+              "media_key": "3_1929731667096133632",
+              "start": 153,
+              "url": "https://t.co/KVUbVyctIU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929733519707623866",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "Bloomberg最近刚刚发现中国卡车已经逐渐用电动替换汽油了。\n\n其实我半年前就发现了，抖音有个叫精彩小胖的，开一辆100度电的电皮卡，天天在货拉拉接单，拉1000公里的长途，\n\n不过电卡车续航短，小胖每开200公里就要充一次电，就必须找地方吃顿饭，吃完饭就晕碳，然后睡一晚上，经常1000公里开三天，\n\n好处是，电卡车成本比油卡车成本低太多了，1000公里卡车需要2000元油费，而电卡车只需要300块钱，直接省大钱。\n\n缺点是因为经常下高速充电，而高速充电桩1块钱/度，小胖还要钻进村子里充5毛钱/度的便宜电，非常浪费时间，小胖就要自己找地方吃饭、洗澡、睡觉，一睡就睡过头，闹钟都叫不醒，半夜又不想开，经常1000公里开三天才能到。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 280,
+          "impression_count": 678973,
+          "like_count": 734,
+          "quote_count": 9,
+          "reply_count": 190,
+          "retweet_count": 82
+        },
+        "reply_settings": "everyone",
+        "text": "Bloomberg最近刚刚发现中国卡车已经逐渐用电动替换汽油了。\n\n其实我半年前就发现了，抖音有个叫精彩小胖的，开一辆100度电的电皮卡，天天在货拉拉接单，拉1000公里的长途，\n\n不过电卡车续航短，小胖每开200公里就要充一次电，就必须找地方吃顿饭，吃完饭就晕碳，然后睡一晚上，经常1000公里开三天， https://t.co/KVUbVyctIU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-02-16T15:27:54.000Z",
+        "description": "本不一定什么时候就没，请添加下方网址的telegram频道以获得持续更新。\n以禁毒、法律教育及损害减少（harm reduction）为目的，通过非世俗及去道德的理念，追求真实的知识与反馈。除替代为目的，部分良性物质，以及特殊情况下的损害减少，不推荐任何人摄入我提及的物质。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/XDrugLab",
+                "end": 23,
+                "expanded_url": "https://t.me/XDrugLab",
+                "start": 0,
+                "url": "https://t.co/KMcpbSmDcL"
+              }
+            ]
+          }
+        },
+        "id": "3022697779",
+        "name": "药物实验室",
+        "pinned_tweet_id": "1917542345039569145",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854259369203879954/nxgmCDHX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15129,
+          "following_count": 17,
+          "like_count": 29,
+          "listed_count": 12,
+          "media_count": 44,
+          "tweet_count": 1022
+        },
+        "url": "https://t.co/KMcpbSmDcL",
+        "username": "RXdruglab",
+        "verified": false
+      },
+      {
+        "created_at": "2009-04-05T04:33:19.000Z",
+        "description": "co-founder @HedgehogLabHQ @Project_DARC",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 11,
+                "username": "HedgehogLabHQ"
+              },
+              {
+                "end": 39,
+                "start": 26,
+                "username": "Project_DARC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/lidang",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/lidang",
+                "start": 0,
+                "url": "https://t.co/R98hZRJzFO"
+              }
+            ]
+          }
+        },
+        "id": "28940967",
+        "location": "Houston, TX",
+        "name": "lidang 立党 （全网劝人卖房、劝人学CS、劝人买SP500和NASDAQ100第一人）",
+        "pinned_tweet_id": "1806640806452744310",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1589854626282618880/Pl_kF0yY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1596631,
+          "following_count": 2676,
+          "like_count": 26107,
+          "listed_count": 3630,
+          "media_count": 8099,
+          "tweet_count": 38739
+        },
+        "url": "https://t.co/R98hZRJzFO",
+        "username": "lidangzzz",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,398 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1947892159618723840"
+      ],
+      "media_source_tweet_id": [
+        "1947892894397829170"
+      ]
+    },
+    "author_id": "3022697779",
+    "conversation_id": "2033570606982340623",
+    "created_at": "2026-03-16T15:46:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-16T16:46:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033570606982340623"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 73,
+          "normalized_text": "Wallach",
+          "probability": 0.5964,
+          "start": 67,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1421738675273076736",
+          "start": 3,
+          "username": "nervewing"
+        },
+        {
+          "end": 27,
+          "id": "1495481894997315585",
+          "start": 15,
+          "username": "pyrovaleron"
+        },
+        {
+          "end": 37,
+          "id": "936782105605836802",
+          "start": 28,
+          "username": "Josikinz"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/wN9EqGweYc",
+          "end": 114,
+          "expanded_url": "https://x.com/nervewing/status/1947892894397829170/photo/1",
+          "media_key": "3_1947892159618723840",
+          "start": 91,
+          "url": "https://t.co/wN9EqGweYc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033570606982340623",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1947892894397829170",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nervewing: @pyrovaleron @Josikinz That's not really true (from Wallach's dissertation) https://t.co/wN9EqGweYc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1163,
+        "media_key": "3_1947892159618723840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwhNmUrXsAA_rFn.jpg",
+        "width": 926
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1947892159618723840"
+          ],
+          "media_source_tweet_id": [
+            "1947892894397829170"
+          ]
+        },
+        "author_id": "3022697779",
+        "conversation_id": "2033570606982340623",
+        "created_at": "2026-03-16T15:46:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T16:46:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033570606982340623"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 73,
+              "normalized_text": "Wallach",
+              "probability": 0.5964,
+              "start": 67,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1421738675273076736",
+              "start": 3,
+              "username": "nervewing"
+            },
+            {
+              "end": 27,
+              "id": "1495481894997315585",
+              "start": 15,
+              "username": "pyrovaleron"
+            },
+            {
+              "end": 37,
+              "id": "936782105605836802",
+              "start": 28,
+              "username": "Josikinz"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wN9EqGweYc",
+              "end": 114,
+              "expanded_url": "https://x.com/nervewing/status/1947892894397829170/photo/1",
+              "media_key": "3_1947892159618723840",
+              "start": 91,
+              "url": "https://t.co/wN9EqGweYc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033570606982340623",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947892894397829170",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nervewing: @pyrovaleron @Josikinz That's not really true (from Wallach's dissertation) https://t.co/wN9EqGweYc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1947892159618723840"
+          ]
+        },
+        "author_id": "1421738675273076736",
+        "conversation_id": "1947492140650561815",
+        "created_at": "2025-07-23T05:33:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-23T06:33:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947892894397829170"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 58,
+              "normalized_text": "Wallach",
+              "probability": 0.5968,
+              "start": 52,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1495481894997315585",
+              "start": 0,
+              "username": "pyrovaleron"
+            },
+            {
+              "end": 22,
+              "id": "936782105605836802",
+              "start": 13,
+              "username": "Josikinz"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wN9EqGweYc",
+              "end": 99,
+              "expanded_url": "https://x.com/nervewing/status/1947892894397829170/photo/1",
+              "media_key": "3_1947892159618723840",
+              "start": 76,
+              "url": "https://t.co/wN9EqGweYc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947892894397829170",
+        "in_reply_to_user_id": "1495481894997315585",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 360,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947547298491470179",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pyrovaleron @Josikinz That's not really true (from Wallach's dissertation) https://t.co/wN9EqGweYc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-02-16T15:27:54.000Z",
+        "description": "本不一定什么时候就没，请添加下方网址的telegram频道以获得持续更新。\n以禁毒、法律教育及损害减少（harm reduction）为目的，通过非世俗及去道德的理念，追求真实的知识与反馈。除替代为目的，部分良性物质，以及特殊情况下的损害减少，不推荐任何人摄入我提及的物质。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/XDrugLab",
+                "end": 23,
+                "expanded_url": "https://t.me/XDrugLab",
+                "start": 0,
+                "url": "https://t.co/KMcpbSmDcL"
+              }
+            ]
+          }
+        },
+        "id": "3022697779",
+        "name": "药物实验室",
+        "pinned_tweet_id": "1917542345039569145",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854259369203879954/nxgmCDHX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19072,
+          "following_count": 15,
+          "like_count": 31,
+          "listed_count": 24,
+          "media_count": 53,
+          "tweet_count": 1590
+        },
+        "url": "https://t.co/KMcpbSmDcL",
+        "username": "RXdruglab",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-01T07:45:06.000Z",
+        "description": "The world should be enhanced | ex drug chemist| I write a lot about novel drugs and their effects| #1 contributor to erowid exp vaults| they/them. I love bugs",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "nervewing.blogspot.com",
+                "end": 23,
+                "expanded_url": "http://nervewing.blogspot.com/",
+                "start": 0,
+                "url": "https://t.co/oy6twsH52V"
+              }
+            ]
+          }
+        },
+        "id": "1421738675273076736",
+        "location": "up",
+        "name": "nervewing",
+        "pinned_tweet_id": "1421922170582839305",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1421739092740612100/t1m2XlXP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6936,
+          "following_count": 1326,
+          "like_count": 6626,
+          "listed_count": 25,
+          "media_count": 351,
+          "tweet_count": 4171
+        },
+        "url": "https://t.co/oy6twsH52V",
+        "username": "nervewing",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-20T19:34:11.000Z",
+        "description": "ouppy",
+        "id": "1495481894997315585",
+        "location": "☭📕;🇨🇿;🏳️‍⚧️",
+        "name": "april",
+        "pinned_tweet_id": "1982341177555791894",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1840129696828145664/q4vpbS0e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 292,
+          "following_count": 830,
+          "like_count": 7361,
+          "listed_count": 3,
+          "media_count": 333,
+          "tweet_count": 8877
+        },
+        "username": "pyrovaleron",
+        "verified": false
+      },
+      {
+        "created_at": "2017-12-02T02:20:33.000Z",
+        "description": "Researcher @mindstatedesign, Subjective Effect Documentation expert, founder of various projects, glitchybrained-intersex-technoshaman, etc. views=mine",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 11,
+                "username": "mindstatedesign"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "josiekins.xyz",
+                "end": 23,
+                "expanded_url": "http://josiekins.xyz",
+                "start": 0,
+                "url": "https://t.co/r0b1px3EV3"
+              }
+            ]
+          }
+        },
+        "id": "936782105605836802",
+        "location": "hyperspace",
+        "name": "Josie Kins",
+        "pinned_tweet_id": "1892669514984137087",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1603209877966315521/M0J9toDl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15127,
+          "following_count": 483,
+          "like_count": 412,
+          "listed_count": 128,
+          "media_count": 289,
+          "tweet_count": 1388
+        },
+        "url": "https://t.co/r0b1px3EV3",
+        "username": "Josikinz",
+        "verified": true
+      }
+    ]
+  }
+}

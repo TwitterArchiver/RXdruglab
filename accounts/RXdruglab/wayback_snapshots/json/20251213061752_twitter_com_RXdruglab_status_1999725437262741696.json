@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "3022697779",
+    "conversation_id": "1999352568095604882",
+    "created_at": "2025-12-13T06:17:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-13T07:17:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999725437262741696"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1690775362110926848",
+          "start": 0,
+          "username": "adioslasater"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999725437262741696",
+    "in_reply_to_user_id": "1690775362110926848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999664966098649374",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@adioslasater 我这个号发的几乎都是原创的。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3022697779",
+        "conversation_id": "1999352568095604882",
+        "created_at": "2025-12-13T06:17:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-13T07:17:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999725437262741696"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1690775362110926848",
+              "start": 0,
+              "username": "adioslasater"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999725437262741696",
+        "in_reply_to_user_id": "1690775362110926848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999664966098649374",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@adioslasater 我这个号发的几乎都是原创的。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1690775362110926848",
+        "conversation_id": "1999352568095604882",
+        "created_at": "2025-12-13T02:17:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-13T03:17:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999664966098649374"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "3022697779",
+              "start": 0,
+              "username": "RXdruglab"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999664966098649374",
+        "in_reply_to_user_id": "3022697779",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1259,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999352568095604882",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RXdruglab 文案都不是原创的, 看一次无语一次, 哪一句是有理论支撑的, 又或者你跳过吗, 要劝人也不是以这种吓唬人的方式......"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-02-16T15:27:54.000Z",
+        "description": "本不一定什么时候就没，请添加下方网址的telegram频道以获得持续更新。\n以禁毒、法律教育及损害减少（harm reduction）为目的，通过非世俗及去道德的理念，追求真实的知识与反馈。除替代为目的，部分良性物质，以及特殊情况下的损害减少，不推荐任何人摄入我提及的物质。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/XDrugLab",
+                "end": 23,
+                "expanded_url": "https://t.me/XDrugLab",
+                "start": 0,
+                "url": "https://t.co/KMcpbSmDcL"
+              }
+            ]
+          }
+        },
+        "id": "3022697779",
+        "name": "药物实验室",
+        "pinned_tweet_id": "1917542345039569145",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854259369203879954/nxgmCDHX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17064,
+          "following_count": 18,
+          "like_count": 23,
+          "listed_count": 21,
+          "media_count": 52,
+          "tweet_count": 1410
+        },
+        "url": "https://t.co/KMcpbSmDcL",
+        "username": "RXdruglab",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-13T17:20:54.000Z",
+        "description": "i am not made for the life i have, i never meant to hurt anyone.",
+        "id": "1690775362110926848",
+        "location": "in the swimming pool",
+        "name": "每天起床就想死",
+        "pinned_tweet_id": "1986139641930793185",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1802056394390265856/sEb_cZ69_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1982,
+          "following_count": 567,
+          "like_count": 3380,
+          "listed_count": 3,
+          "media_count": 869,
+          "tweet_count": 6977
+        },
+        "username": "adioslasater",
+        "verified": false
+      }
+    ]
+  }
+}

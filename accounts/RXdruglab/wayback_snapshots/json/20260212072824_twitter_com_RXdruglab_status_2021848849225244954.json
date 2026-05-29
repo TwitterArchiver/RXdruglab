@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2021846392629866497",
+        "3_2021846494442360832"
+      ],
+      "media_source_tweet_id": [
+        "2021846724671852724",
+        "2021846724671852724"
+      ]
+    },
+    "author_id": "3022697779",
+    "conversation_id": "2021848849225244954",
+    "created_at": "2026-02-12T07:28:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-12T08:28:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021848849225244954"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2226994771",
+          "start": 3,
+          "username": "Druglab_Store"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ojNFMjaaTd",
+          "end": 88,
+          "expanded_url": "https://x.com/Druglab_Store/status/2021846724671852724/photo/1",
+          "media_key": "3_2021846392629866497",
+          "start": 65,
+          "url": "https://t.co/ojNFMjaaTd"
+        },
+        {
+          "display_url": "pic.x.com/ojNFMjaaTd",
+          "end": 88,
+          "expanded_url": "https://x.com/Druglab_Store/status/2021846724671852724/photo/1",
+          "media_key": "3_2021846494442360832",
+          "start": 65,
+          "url": "https://t.co/ojNFMjaaTd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021848849225244954",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021846724671852724",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Druglab_Store: 继续预订替米考林，超级神奇的抗焦虑药物，包括心烦意乱，悲伤难受的负面情绪，都可以快速消除。 https://t.co/ojNFMjaaTd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1135,
+        "media_key": "3_2021846392629866497",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA8KlPcbsAES4jk.jpg",
+        "width": 882
+      },
+      {
+        "height": 1146,
+        "media_key": "3_2021846494442360832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA8KrKubEAAM-lu.jpg",
+        "width": 888
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2021846392629866497",
+            "3_2021846494442360832"
+          ],
+          "media_source_tweet_id": [
+            "2021846724671852724",
+            "2021846724671852724"
+          ]
+        },
+        "author_id": "3022697779",
+        "conversation_id": "2021848849225244954",
+        "created_at": "2026-02-12T07:28:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T08:28:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021848849225244954"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2226994771",
+              "start": 3,
+              "username": "Druglab_Store"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ojNFMjaaTd",
+              "end": 88,
+              "expanded_url": "https://x.com/Druglab_Store/status/2021846724671852724/photo/1",
+              "media_key": "3_2021846392629866497",
+              "start": 65,
+              "url": "https://t.co/ojNFMjaaTd"
+            },
+            {
+              "display_url": "pic.x.com/ojNFMjaaTd",
+              "end": 88,
+              "expanded_url": "https://x.com/Druglab_Store/status/2021846724671852724/photo/1",
+              "media_key": "3_2021846494442360832",
+              "start": 65,
+              "url": "https://t.co/ojNFMjaaTd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021848849225244954",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021846724671852724",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Druglab_Store: 继续预订替米考林，超级神奇的抗焦虑药物，包括心烦意乱，悲伤难受的负面情绪，都可以快速消除。 https://t.co/ojNFMjaaTd"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2021846392629866497",
+            "3_2021846494442360832"
+          ]
+        },
+        "author_id": "2226994771",
+        "conversation_id": "2021846724671852724",
+        "created_at": "2026-02-12T07:19:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T08:19:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021846724671852724"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ojNFMjaaTd",
+              "end": 69,
+              "expanded_url": "https://x.com/Druglab_Store/status/2021846724671852724/photo/1",
+              "media_key": "3_2021846392629866497",
+              "start": 46,
+              "url": "https://t.co/ojNFMjaaTd"
+            },
+            {
+              "display_url": "pic.x.com/ojNFMjaaTd",
+              "end": 69,
+              "expanded_url": "https://x.com/Druglab_Store/status/2021846724671852724/photo/1",
+              "media_key": "3_2021846494442360832",
+              "start": 46,
+              "url": "https://t.co/ojNFMjaaTd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021846724671852724",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "继续预订替米考林，超级神奇的抗焦虑药物，包括心烦意乱，悲伤难受的负面情绪，都可以快速消除。 https://t.co/ojNFMjaaTd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-02-16T15:27:54.000Z",
+        "description": "本不一定什么时候就没，请添加下方网址的telegram频道以获得持续更新。\n以禁毒、法律教育及损害减少（harm reduction）为目的，通过非世俗及去道德的理念，追求真实的知识与反馈。除替代为目的，部分良性物质，以及特殊情况下的损害减少，不推荐任何人摄入我提及的物质。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/XDrugLab",
+                "end": 23,
+                "expanded_url": "https://t.me/XDrugLab",
+                "start": 0,
+                "url": "https://t.co/KMcpbSmDcL"
+              }
+            ]
+          }
+        },
+        "id": "3022697779",
+        "name": "药物实验室",
+        "pinned_tweet_id": "1917542345039569145",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854259369203879954/nxgmCDHX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17323,
+          "following_count": 16,
+          "like_count": 29,
+          "listed_count": 20,
+          "media_count": 52,
+          "tweet_count": 1521
+        },
+        "url": "https://t.co/KMcpbSmDcL",
+        "username": "RXdruglab",
+        "verified": false
+      },
+      {
+        "created_at": "2013-12-02T17:14:39.000Z",
+        "description": "药物实验室的卖货号",
+        "id": "2226994771",
+        "name": "药实销售频道",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021681186830200832/bzG6bnHU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 0,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 41
+        },
+        "username": "Druglab_Store",
+        "verified": false
+      }
+    ]
+  }
+}

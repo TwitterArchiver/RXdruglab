@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "3022697779",
+    "conversation_id": "1995078740825788795",
+    "created_at": "2025-12-01T04:15:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-01T05:15:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995346105597661275"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1247452588674387969",
+          "start": 0,
+          "username": "m9m7m6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995346105597661275",
+    "in_reply_to_user_id": "1247452588674387969",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995166226348462222",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@m9m7m6 不是。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3022697779",
+        "conversation_id": "1995078740825788795",
+        "created_at": "2025-12-01T04:15:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-01T05:15:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995346105597661275"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1247452588674387969",
+              "start": 0,
+              "username": "m9m7m6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995346105597661275",
+        "in_reply_to_user_id": "1247452588674387969",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995166226348462222",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@m9m7m6 不是。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1247452588674387969",
+        "conversation_id": "1995078740825788795",
+        "created_at": "2025-11-30T16:21:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T17:21:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995166226348462222"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "3022697779",
+              "start": 0,
+              "username": "RXdruglab"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995166226348462222",
+        "in_reply_to_user_id": "3022697779",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 451,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995078740825788795",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RXdruglab 不想干，封存是对大众跟企事业单位封存，不是对公安机关封存，该查还要查，基层就是不如狗，来回折腾已经是日常了，不然吃干饭吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-02-16T15:27:54.000Z",
+        "description": "本不一定什么时候就没，请添加下方网址的telegram频道以获得持续更新。\n以禁毒、法律教育及损害减少（harm reduction）为目的，通过非世俗及去道德的理念，追求真实的知识与反馈。除替代为目的，部分良性物质，以及特殊情况下的损害减少，不推荐任何人摄入我提及的物质。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/XDrugLab",
+                "end": 23,
+                "expanded_url": "https://t.me/XDrugLab",
+                "start": 0,
+                "url": "https://t.co/KMcpbSmDcL"
+              }
+            ]
+          }
+        },
+        "id": "3022697779",
+        "name": "药物实验室",
+        "pinned_tweet_id": "1917542345039569145",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854259369203879954/nxgmCDHX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16858,
+          "following_count": 18,
+          "like_count": 23,
+          "listed_count": 21,
+          "media_count": 52,
+          "tweet_count": 1367
+        },
+        "url": "https://t.co/KMcpbSmDcL",
+        "username": "RXdruglab",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-07T09:14:17.000Z",
+        "description": "🇰🇵인민 Mandarin閱讀可以",
+        "id": "1247452588674387969",
+        "name": "🥪",
+        "pinned_tweet_id": "1969883410945716650",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994103368885886976/kNh65eCg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72,
+          "following_count": 1054,
+          "like_count": 2918,
+          "listed_count": 6,
+          "media_count": 41,
+          "tweet_count": 795
+        },
+        "username": "m9m7m6",
+        "verified": false
+      }
+    ]
+  }
+}

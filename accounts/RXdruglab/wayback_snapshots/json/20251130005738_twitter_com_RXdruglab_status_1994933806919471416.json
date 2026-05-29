@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "3022697779",
+    "conversation_id": "1994415911143641373",
+    "created_at": "2025-11-30T00:57:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-30T01:57:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994933806919471416"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1761710738496970752",
+          "start": 0,
+          "username": "fish1072297057"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994933806919471416",
+    "in_reply_to_user_id": "1761710738496970752",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994836561293447404",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fish1072297057 除了我说的这些类别，我敢赌。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3022697779",
+        "conversation_id": "1994415911143641373",
+        "created_at": "2025-11-30T00:57:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T01:57:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994933806919471416"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1761710738496970752",
+              "start": 0,
+              "username": "fish1072297057"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994933806919471416",
+        "in_reply_to_user_id": "1761710738496970752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994836561293447404",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fish1072297057 除了我说的这些类别，我敢赌。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1761710738496970752",
+        "conversation_id": "1994415911143641373",
+        "created_at": "2025-11-29T18:31:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T19:31:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994836561293447404"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "3022697779",
+              "start": 0,
+              "username": "RXdruglab"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994836561293447404",
+        "in_reply_to_user_id": "3022697779",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 393,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994415911143641373",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RXdruglab 那你敢赌吗\n过期一两天还好说，但是话又说回来谁有心思天天看"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-02-16T15:27:54.000Z",
+        "description": "本不一定什么时候就没，请添加下方网址的telegram频道以获得持续更新。\n以禁毒、法律教育及损害减少（harm reduction）为目的，通过非世俗及去道德的理念，追求真实的知识与反馈。除替代为目的，部分良性物质，以及特殊情况下的损害减少，不推荐任何人摄入我提及的物质。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/XDrugLab",
+                "end": 23,
+                "expanded_url": "https://t.me/XDrugLab",
+                "start": 0,
+                "url": "https://t.co/KMcpbSmDcL"
+              }
+            ]
+          }
+        },
+        "id": "3022697779",
+        "name": "药物实验室",
+        "pinned_tweet_id": "1917542345039569145",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854259369203879954/nxgmCDHX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16689,
+          "following_count": 18,
+          "like_count": 22,
+          "listed_count": 20,
+          "media_count": 53,
+          "tweet_count": 1354
+        },
+        "url": "https://t.co/KMcpbSmDcL",
+        "username": "RXdruglab",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-25T11:12:32.000Z",
+        "description": "幼師|會一點點心理學|不是男同!|⚠️鍵政!|中文(繁简)  ○|English △|少量の日本語△|한국어 (¿) | 跨性別友好|語言障礙x心理疾病患者|重度睡眠障礙焦慮抑鬱症|少量R16照片\n愛看看不愛看滾，沒人逼你看我的帖子",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/flyingfishfurry",
+                "end": 23,
+                "expanded_url": "https://t.me/flyingfishfurry",
+                "start": 0,
+                "url": "https://t.co/dn13VDKO8m"
+              }
+            ]
+          }
+        },
+        "id": "1761710738496970752",
+        "location": "North Korea",
+        "name": "Fly1ngFish飛魚♿..zzZZ♿R.I.P",
+        "pinned_tweet_id": "1982869354321719378",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956419921380012032/ZZJ8UU4E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1975,
+          "following_count": 701,
+          "like_count": 9541,
+          "listed_count": 2,
+          "media_count": 1037,
+          "tweet_count": 12148
+        },
+        "url": "https://t.co/dn13VDKO8m",
+        "username": "fish1072297057",
+        "verified": false
+      }
+    ]
+  }
+}

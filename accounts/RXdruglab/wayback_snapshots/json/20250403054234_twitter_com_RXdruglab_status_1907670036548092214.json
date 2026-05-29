@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "3022697779",
+    "conversation_id": "1907670036548092214",
+    "created_at": "2025-04-03T05:42:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-03T06:42:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1907670036548092214"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1804587925805596672",
+          "start": 3,
+          "username": "OverSpeed_Wiki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1907670036548092214",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1907465482363678860",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @OverSpeed_Wiki: 明明DXM作为圈内最知名的药物的之一，其机理、性质和滥用危害应早已被人熟知，可我为什么还要特别写一段话指出该账号的问题呢？\n因为就在这几天，我亲眼见证一例因为od右美导致认知能力下降的\n原提问者明确问了是od（过量服用），该账号仍然以「D…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3022697779",
+        "conversation_id": "1907670036548092214",
+        "created_at": "2025-04-03T05:42:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-03T06:42:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1907670036548092214"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1804587925805596672",
+              "start": 3,
+              "username": "OverSpeed_Wiki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907670036548092214",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1907465482363678860",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @OverSpeed_Wiki: 明明DXM作为圈内最知名的药物的之一，其机理、性质和滥用危害应早已被人熟知，可我为什么还要特别写一段话指出该账号的问题呢？\n因为就在这几天，我亲眼见证一例因为od右美导致认知能力下降的\n原提问者明确问了是od（过量服用），该账号仍然以「D…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1804587925805596672",
+        "conversation_id": "1907465482363678860",
+        "created_at": "2025-04-02T16:09:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-02T17:09:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1907465482363678860"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/OverSpeed_Wiki…",
+              "end": 170,
+              "expanded_url": "https://twitter.com/OverSpeed_Wiki/status/1907458298854748296",
+              "start": 147,
+              "url": "https://t.co/9yHIBTWxnb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907465482363678860",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1816,
+          "like_count": 13,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1907458298854748296",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "明明DXM作为圈内最知名的药物的之一，其机理、性质和滥用危害应早已被人熟知，可我为什么还要特别写一段话指出该账号的问题呢？\n因为就在这几天，我亲眼见证一例因为od右美导致认知能力下降的\n原提问者明确问了是od（过量服用），该账号仍然以「DXM可以抗抑郁」为由进行推荐，实属偷换概念，有误导之嫌 https://t.co/9yHIBTWxnb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-02-16T15:27:54.000Z",
+        "description": "本不一定什么时候就没，请添加下方网址的telegram频道以获得持续更新。\n以禁毒、法律教育及损害减少（harm reduction）为目的，通过非世俗及去道德的理念，追求真实的知识与反馈。除替代为目的，部分良性物质，以及特殊情况下的损害减少，不推荐任何人摄入我提及的物质。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/XDrugLab",
+                "end": 23,
+                "expanded_url": "https://t.me/XDrugLab",
+                "start": 0,
+                "url": "https://t.co/KMcpbSmDcL"
+              }
+            ]
+          }
+        },
+        "id": "3022697779",
+        "name": "药物实验室",
+        "pinned_tweet_id": "1861564676557152611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854259369203879954/nxgmCDHX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14468,
+          "following_count": 15,
+          "like_count": 20,
+          "listed_count": 11,
+          "media_count": 30,
+          "tweet_count": 860
+        },
+        "url": "https://t.co/KMcpbSmDcL",
+        "username": "RXdruglab",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-22T18:51:15.000Z",
+        "description": "本号为Oswiki编辑组人员多人共同使用",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "overspeed.wiki",
+                "end": 23,
+                "expanded_url": "https://overspeed.wiki/",
+                "start": 0,
+                "url": "https://t.co/YS4b5CWFxU"
+              }
+            ]
+          }
+        },
+        "id": "1804587925805596672",
+        "name": "OverSpeed Wiki",
+        "pinned_tweet_id": "1903403105963872404",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1849769703323115520/zFJO4jWH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3241,
+          "following_count": 495,
+          "like_count": 8817,
+          "listed_count": 6,
+          "media_count": 162,
+          "tweet_count": 2471
+        },
+        "url": "https://t.co/YS4b5CWFxU",
+        "username": "OverSpeed_Wiki",
+        "verified": false
+      }
+    ]
+  }
+}

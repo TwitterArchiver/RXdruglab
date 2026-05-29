@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "3022697779",
+    "conversation_id": "1862575306860896710",
+    "created_at": "2024-11-29T19:12:12.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-29T20:12:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1862575306860896710"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Baiz_Hua/statu…",
+          "end": 57,
+          "expanded_url": "https://twitter.com/Baiz_Hua/status/1862060837697212698",
+          "start": 34,
+          "url": "https://t.co/pz1NK5Ml3R"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1862575306860896710",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1862060837697212698",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "三种西药有两种我都不认识，还有一种是中药制剂，网上30一瓶卖88。 https://t.co/pz1NK5Ml3R"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3022697779",
+        "conversation_id": "1862575306860896710",
+        "created_at": "2024-11-29T19:12:12.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-29T20:12:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1862575306860896710"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Baiz_Hua/statu…",
+              "end": 57,
+              "expanded_url": "https://twitter.com/Baiz_Hua/status/1862060837697212698",
+              "start": 34,
+              "url": "https://t.co/pz1NK5Ml3R"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1862575306860896710",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1862060837697212698",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "三种西药有两种我都不认识，还有一种是中药制剂，网上30一瓶卖88。 https://t.co/pz1NK5Ml3R"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1862060829450887168"
+          ]
+        },
+        "author_id": "1094900139515236352",
+        "conversation_id": "1861494861142335521",
+        "created_at": "2024-11-28T09:07:53.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-28T10:07:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1862060837697212698"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1490015599514116097",
+              "start": 0,
+              "username": "liuckyulu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/OGFJKuuM4Q",
+              "end": 46,
+              "expanded_url": "https://x.com/Baiz_Hua/status/1862060837697212698/photo/1",
+              "media_key": "3_1862060829450887168",
+              "start": 23,
+              "url": "https://t.co/OGFJKuuM4Q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1862060837697212698",
+        "in_reply_to_user_id": "1490015599514116097",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1861942098225987645",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@liuckyulu 破案了是湿疹，药真贵啊 https://t.co/OGFJKuuM4Q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-02-16T15:27:54.000Z",
+        "description": "本账号不一定什么时候就没，请添加下方网址的telegram频道以获得持续更新。\n以禁毒、法律教育及损害减少（harm reduction）为目的，通过非世俗及去道德的理念，追求真实的知识与反馈。除替代为目的，部分良性物质，以及特殊情况下的损害减少，不推荐任何人摄入我提及的物质。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/XDrugLab",
+                "end": 23,
+                "expanded_url": "https://t.me/XDrugLab",
+                "start": 0,
+                "url": "https://t.co/71vzzaVErr"
+              }
+            ]
+          }
+        },
+        "id": "3022697779",
+        "name": "药物实验室",
+        "pinned_tweet_id": "1861564676557152611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854259369203879954/nxgmCDHX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 528,
+          "following_count": 6,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 151
+        },
+        "url": "https://t.co/71vzzaVErr",
+        "username": "RXdruglab",
+        "verified": false
+      },
+      {
+        "created_at": "2019-02-11T10:05:10.000Z",
+        "description": "有没有一起玩ff14的🥺",
+        "id": "1094900139515236352",
+        "name": "Baihua",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1094900550452146176/6TY8bTsG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 39,
+          "like_count": 11461,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 747
+        },
+        "username": "Baiz_Hua",
+        "verified": false
+      }
+    ]
+  }
+}

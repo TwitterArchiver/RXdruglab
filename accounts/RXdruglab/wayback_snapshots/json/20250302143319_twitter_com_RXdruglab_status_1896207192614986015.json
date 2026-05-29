@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "3022697779",
+    "conversation_id": "1895735571127156875",
+    "created_at": "2025-03-02T14:33:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-02T15:33:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1896207192614986015"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1687683075738882050",
+          "start": 0,
+          "username": "XinShi68040"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1896207192614986015",
+    "in_reply_to_user_id": "1687683075738882050",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1896205833563959463",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XinShi68040 并没有的。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3022697779",
+        "conversation_id": "1895735571127156875",
+        "created_at": "2025-03-02T14:33:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-02T15:33:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1896207192614986015"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1687683075738882050",
+              "start": 0,
+              "username": "XinShi68040"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896207192614986015",
+        "in_reply_to_user_id": "1687683075738882050",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1896205833563959463",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XinShi68040 并没有的。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1687683075738882050",
+        "conversation_id": "1895735571127156875",
+        "created_at": "2025-03-02T14:27:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-02T15:27:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1896205833563959463"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "3022697779",
+              "start": 0,
+              "username": "RXdruglab"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896205833563959463",
+        "in_reply_to_user_id": "3022697779",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1895735571127156875",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RXdruglab 你好，我想知道有没什么药物可以让自己没有痛苦，不会感觉到剧烈的疼痛或者难受之类的死去？唔，你可以私聊告诉我就行，因为我感觉真的，有时候感觉，好累"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-02-16T15:27:54.000Z",
+        "description": "本不一定什么时候就没，请添加下方网址的telegram频道以获得持续更新。\n以禁毒、法律教育及损害减少（harm reduction）为目的，通过非世俗及去道德的理念，追求真实的知识与反馈。除替代为目的，部分良性物质，以及特殊情况下的损害减少，不推荐任何人摄入我提及的物质。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/XDrugLab",
+                "end": 23,
+                "expanded_url": "https://t.me/XDrugLab",
+                "start": 0,
+                "url": "https://t.co/KMcpbSmDcL"
+              }
+            ]
+          }
+        },
+        "id": "3022697779",
+        "name": "药物实验室",
+        "pinned_tweet_id": "1861564676557152611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854259369203879954/nxgmCDHX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13489,
+          "following_count": 18,
+          "like_count": 9,
+          "listed_count": 12,
+          "media_count": 22,
+          "tweet_count": 700
+        },
+        "url": "https://t.co/KMcpbSmDcL",
+        "username": "RXdruglab",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-05T04:33:18.000Z",
+        "description": "努力不再被封禁，再封就没有号了！！",
+        "id": "1687683075738882050",
+        "name": "重新开始玩推特",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1687683393629417472/zG5wgDyq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 433,
+          "like_count": 1610,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 1133
+        },
+        "username": "XinShi68040",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "3022697779",
+    "conversation_id": "2035983034827362676",
+    "created_at": "2026-03-24T10:52:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-24T11:52:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036395822083088499"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1602483077208473600",
+          "start": 0,
+          "username": "HumbertoCurti11"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036395822083088499",
+    "in_reply_to_user_id": "1602483077208473600",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036395206992601599",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HumbertoCurti11 法律意义上没事，家庭意义上就不一定了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3022697779",
+        "conversation_id": "2035983034827362676",
+        "created_at": "2026-03-24T10:52:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T11:52:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036395822083088499"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1602483077208473600",
+              "start": 0,
+              "username": "HumbertoCurti11"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036395822083088499",
+        "in_reply_to_user_id": "1602483077208473600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036395206992601599",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HumbertoCurti11 法律意义上没事，家庭意义上就不一定了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1602483077208473600",
+        "conversation_id": "2035983034827362676",
+        "created_at": "2026-03-24T10:50:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T11:50:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036395206992601599"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "3022697779",
+              "start": 0,
+              "username": "RXdruglab"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036395206992601599",
+        "in_reply_to_user_id": "3022697779",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036395038452994125",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RXdruglab 没事吧应该..叫我妈打电话回去问了一下是这样子说的…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-02-16T15:27:54.000Z",
+        "description": "本不一定什么时候就没，请添加下方网址的telegram频道以获得持续更新。\n以禁毒、法律教育及损害减少（harm reduction）为目的，通过非世俗及去道德的理念，追求真实的知识与反馈。除替代为目的，部分良性物质，以及特殊情况下的损害减少，不推荐任何人摄入我提及的物质。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/XDrugLab",
+                "end": 23,
+                "expanded_url": "https://t.me/XDrugLab",
+                "start": 0,
+                "url": "https://t.co/KMcpbSmDcL"
+              }
+            ]
+          }
+        },
+        "id": "3022697779",
+        "name": "药物实验室",
+        "pinned_tweet_id": "1917542345039569145",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854259369203879954/nxgmCDHX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19035,
+          "following_count": 16,
+          "like_count": 35,
+          "listed_count": 23,
+          "media_count": 53,
+          "tweet_count": 1629
+        },
+        "url": "https://t.co/KMcpbSmDcL",
+        "username": "RXdruglab",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-13T01:58:44.000Z",
+        "description": "",
+        "id": "1602483077208473600",
+        "name": "W",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970451561957756928/5MMBYVeN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 108,
+          "like_count": 49,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 44
+        },
+        "username": "HumbertoCurti11",
+        "verified": false
+      }
+    ]
+  }
+}

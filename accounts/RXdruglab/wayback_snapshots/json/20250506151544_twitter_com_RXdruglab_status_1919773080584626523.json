@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "3022697779",
+    "conversation_id": "1919773080584626523",
+    "created_at": "2025-05-06T15:15:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-06T16:15:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1919773080584626523"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/kansj68531/sta…",
+          "end": 84,
+          "expanded_url": "https://twitter.com/kansj68531/status/1919761271412433216",
+          "start": 61,
+          "url": "https://t.co/IgbqbntExT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1919773080584626523",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1919761271412433216",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "宝宝我们和好吧，以后你找我咨询我也不收你钱，你找我要东西我给你成本价+运费就好了。咱都是一类博主，同类博主就要抱团取暖。 https://t.co/IgbqbntExT"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3022697779",
+        "conversation_id": "1919773080584626523",
+        "created_at": "2025-05-06T15:15:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-06T16:15:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1919773080584626523"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kansj68531/sta…",
+              "end": 84,
+              "expanded_url": "https://twitter.com/kansj68531/status/1919761271412433216",
+              "start": 61,
+              "url": "https://t.co/IgbqbntExT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919773080584626523",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1919761271412433216",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "宝宝我们和好吧，以后你找我咨询我也不收你钱，你找我要东西我给你成本价+运费就好了。咱都是一类博主，同类博主就要抱团取暖。 https://t.co/IgbqbntExT"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1699445300950093824",
+        "conversation_id": "1919761271412433216",
+        "created_at": "2025-05-06T14:28:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-06T15:28:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1919761271412433216"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/psyofsouthwest…",
+              "end": 96,
+              "expanded_url": "https://twitter.com/psyofsouthwest/status/1919758361660158077",
+              "start": 73,
+              "url": "https://t.co/6GeYYD6vEu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919761271412433216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 299,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1919758361660158077",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "他很厉害，说话很chic，用词也精辟，我比不上他。并且这位大po做的是禁毒，我是支持合理吸毒的，只要不是硬毒品或阿片类并且合理的滥用我都是支持的 https://t.co/6GeYYD6vEu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-02-16T15:27:54.000Z",
+        "description": "本不一定什么时候就没，请添加下方网址的telegram频道以获得持续更新。\n以禁毒、法律教育及损害减少（harm reduction）为目的，通过非世俗及去道德的理念，追求真实的知识与反馈。除替代为目的，部分良性物质，以及特殊情况下的损害减少，不推荐任何人摄入我提及的物质。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/XDrugLab",
+                "end": 23,
+                "expanded_url": "https://t.me/XDrugLab",
+                "start": 0,
+                "url": "https://t.co/KMcpbSmDcL"
+              }
+            ]
+          }
+        },
+        "id": "3022697779",
+        "name": "药物实验室",
+        "pinned_tweet_id": "1917542345039569145",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854259369203879954/nxgmCDHX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14858,
+          "following_count": 18,
+          "like_count": 25,
+          "listed_count": 12,
+          "media_count": 40,
+          "tweet_count": 977
+        },
+        "url": "https://t.co/KMcpbSmDcL",
+        "username": "RXdruglab",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-06T15:31:58.000Z",
+        "description": "药圈第一个地雷女科普系博主，会回复用药咨询，想聊天请过🚪。",
+        "id": "1699445300950093824",
+        "location": "Macau",
+        "name": "林讨厌你",
+        "pinned_tweet_id": "1907251008314687503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908615592078434304/ofFo_Pzi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4793,
+          "following_count": 61,
+          "like_count": 741,
+          "listed_count": 10,
+          "media_count": 15,
+          "tweet_count": 41
+        },
+        "username": "kansj68531",
+        "verified": false
+      }
+    ]
+  }
+}

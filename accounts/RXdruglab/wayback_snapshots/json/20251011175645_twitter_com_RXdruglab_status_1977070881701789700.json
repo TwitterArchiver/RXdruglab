@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "3022697779",
+    "conversation_id": "1977059277333557718",
+    "created_at": "2025-10-11T17:56:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-11T18:56:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1977070881701789700"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1514554987719770118",
+          "start": 0,
+          "username": "The00729"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977070881701789700",
+    "in_reply_to_user_id": "1514554987719770118",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977059277333557718",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@The00729 我最近在玩三角洲。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3022697779",
+        "conversation_id": "1977059277333557718",
+        "created_at": "2025-10-11T17:56:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-11T18:56:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977070881701789700"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1514554987719770118",
+              "start": 0,
+              "username": "The00729"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977070881701789700",
+        "in_reply_to_user_id": "1514554987719770118",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977059277333557718",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@The00729 我最近在玩三角洲。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1514554987719770118",
+        "conversation_id": "1977059277333557718",
+        "created_at": "2025-10-11T17:10:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-11T18:10:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1977059277333557718"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1977059277333557718",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 35,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "重回王者峡谷了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-02-16T15:27:54.000Z",
+        "description": "本不一定什么时候就没，请添加下方网址的telegram频道以获得持续更新。\n以禁毒、法律教育及损害减少（harm reduction）为目的，通过非世俗及去道德的理念，追求真实的知识与反馈。除替代为目的，部分良性物质，以及特殊情况下的损害减少，不推荐任何人摄入我提及的物质。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/XDrugLab",
+                "end": 23,
+                "expanded_url": "https://t.me/XDrugLab",
+                "start": 0,
+                "url": "https://t.co/KMcpbSmDcL"
+              }
+            ]
+          }
+        },
+        "id": "3022697779",
+        "name": "药物实验室",
+        "pinned_tweet_id": "1917542345039569145",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854259369203879954/nxgmCDHX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16104,
+          "following_count": 18,
+          "like_count": 40,
+          "listed_count": 18,
+          "media_count": 52,
+          "tweet_count": 1266
+        },
+        "url": "https://t.co/KMcpbSmDcL",
+        "username": "RXdruglab",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-14T10:43:55.000Z",
+        "description": "",
+        "id": "1514554987719770118",
+        "location": "解开中··",
+        "name": "STILNOX",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863233320856764416/5DGdXcx5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 846,
+          "following_count": 456,
+          "like_count": 6035,
+          "listed_count": 3,
+          "media_count": 476,
+          "tweet_count": 1978
+        },
+        "username": "The00729",
+        "verified": false
+      }
+    ]
+  }
+}

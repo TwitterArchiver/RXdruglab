@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "3022697779",
+    "conversation_id": "1892440987923886105",
+    "created_at": "2025-02-20T05:07:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-20T06:07:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1892440987923886105"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/kansj68531/sta…",
+          "end": 35,
+          "expanded_url": "https://twitter.com/kansj68531/status/1892428138077913225",
+          "start": 12,
+          "url": "https://t.co/YIX6gqoKPZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1892440987923886105",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1892428138077913225",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "小狗又趁我睡觉发情了。 https://t.co/YIX6gqoKPZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1102,
+        "media_key": "3_1892428129794142208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GkNBW4dWMAA59b2.jpg",
+        "width": 826
+      },
+      {
+        "height": 1416,
+        "media_key": "3_1892428129639227392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GkNBW34aYAAE7XF.jpg",
+        "width": 1062
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3022697779",
+        "conversation_id": "1892440987923886105",
+        "created_at": "2025-02-20T05:07:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-20T06:07:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1892440987923886105"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kansj68531/sta…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/kansj68531/status/1892428138077913225",
+              "start": 12,
+              "url": "https://t.co/YIX6gqoKPZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1892440987923886105",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1892428138077913225",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "小狗又趁我睡觉发情了。 https://t.co/YIX6gqoKPZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1892428129794142208",
+            "3_1892428129639227392"
+          ]
+        },
+        "author_id": "1699445300950093824",
+        "conversation_id": "1892428138077913225",
+        "created_at": "2025-02-20T04:16:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-20T05:16:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1892428138077913225"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/s9sRDgHr06",
+              "end": 41,
+              "expanded_url": "https://x.com/kansj68531/status/1892428138077913225/photo/1",
+              "media_key": "3_1892428129794142208",
+              "start": 18,
+              "url": "https://t.co/s9sRDgHr06"
+            },
+            {
+              "display_url": "pic.x.com/s9sRDgHr06",
+              "end": 41,
+              "expanded_url": "https://x.com/kansj68531/status/1892428138077913225/photo/1",
+              "media_key": "3_1892428129639227392",
+              "start": 18,
+              "url": "https://t.co/s9sRDgHr06"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1892428138077913225",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 148,
+          "like_count": 10,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "破三十赞发涩涩版，虽然知道不可能🤓 https://t.co/s9sRDgHr06"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-02-16T15:27:54.000Z",
+        "description": "本不一定什么时候就没，请添加下方网址的telegram频道以获得持续更新。\n以禁毒、法律教育及损害减少（harm reduction）为目的，通过非世俗及去道德的理念，追求真实的知识与反馈。除替代为目的，部分良性物质，以及特殊情况下的损害减少，不推荐任何人摄入我提及的物质。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/XDrugLab",
+                "end": 23,
+                "expanded_url": "https://t.me/XDrugLab",
+                "start": 0,
+                "url": "https://t.co/KMcpbSmDcL"
+              }
+            ]
+          }
+        },
+        "id": "3022697779",
+        "name": "药物实验室",
+        "pinned_tweet_id": "1861564676557152611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854259369203879954/nxgmCDHX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12018,
+          "following_count": 17,
+          "like_count": 9,
+          "listed_count": 11,
+          "media_count": 21,
+          "tweet_count": 670
+        },
+        "url": "https://t.co/KMcpbSmDcL",
+        "username": "RXdruglab",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-06T15:31:58.000Z",
+        "description": "",
+        "id": "1699445300950093824",
+        "location": "Macau",
+        "name": "林林林林林-",
+        "pinned_tweet_id": "1882158398491558276",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888034100495400961/lsuzzYlq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1074,
+          "following_count": 27,
+          "like_count": 547,
+          "listed_count": 2,
+          "media_count": 12,
+          "tweet_count": 48
+        },
+        "username": "kansj68531",
+        "verified": false
+      }
+    ]
+  }
+}

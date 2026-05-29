@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "3022697779",
+    "conversation_id": "1932682717776523507",
+    "created_at": "2025-06-11T06:14:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-11T07:14:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1932682717776523507"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/lilk1kopops/st…",
+          "end": 36,
+          "expanded_url": "https://twitter.com/lilk1kopops/status/1932344501194068087",
+          "start": 13,
+          "url": "https://t.co/CRZJaj1aFR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1932682717776523507",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1932344501194068087",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "又一个被警察骗了的傻逼。 https://t.co/CRZJaj1aFR"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3022697779",
+        "conversation_id": "1932682717776523507",
+        "created_at": "2025-06-11T06:14:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-11T07:14:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1932682717776523507"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lilk1kopops/st…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/lilk1kopops/status/1932344501194068087",
+              "start": 13,
+              "url": "https://t.co/CRZJaj1aFR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932682717776523507",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1932344501194068087",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "又一个被警察骗了的傻逼。 https://t.co/CRZJaj1aFR"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1693881438268256256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          }
+        ],
+        "conversation_id": "1932344501194068087",
+        "created_at": "2025-06-10T07:50:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-10T08:50:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1932344501194068087"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/memeland009/st…",
+              "end": 143,
+              "expanded_url": "https://twitter.com/memeland009/status/1932327651508617602",
+              "start": 120,
+              "url": "https://t.co/V8WCWkr7oR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932344501194068087",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "第一点，如果你被派出所传唤，你有义务提供手机密码。否则不配合调查的话，阻碍办案会再加一罪。\n\n电脑桌面端是一个界面类似91手机助手的软件，会导出你所有的手机序列号、微信、图片、Gmail、Outlook、telegram、推特等一切内容。\n\n但是公安会遵循法律办事，就事论事只查阅你这次案件相关的内容。至于个人隐私或其他内容，看一眼就滑过去了。不至于为了你的案件违反纪律。\n\n地方派出所很繁忙，每天可能都会导入几十只手机。本地存储量有限，大概会在365天或一个时间段清空一次存储内容。\n\n第二点，如果你不配合，苹果手机不提供密码，公安插入设备后可以破解苹果手机。这一步在派出所可以直接做到，不需要上升到其它部门。\n\n如果你是杠精，觉得iPhone手机很安全，天王老子也破解不了，或者你认为一定要出具执法文书给苹果公司或三方平台才能破解。那么你杠就是你对。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 96,
+          "impression_count": 134529,
+          "like_count": 144,
+          "quote_count": 8,
+          "reply_count": 80,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "1932327651508617602",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "第一点，如果你被派出所传唤，你有义务提供手机密码。否则不配合调查的话，阻碍办案会再加一罪。\n\n电脑桌面端是一个界面类似91手机助手的软件，会导出你所有的手机序列号、微信、图片、Gmail、Outlook、telegram、推特等一切内容。 https://t.co/V8WCWkr7oR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-02-16T15:27:54.000Z",
+        "description": "本不一定什么时候就没，请添加下方网址的telegram频道以获得持续更新。\n以禁毒、法律教育及损害减少（harm reduction）为目的，通过非世俗及去道德的理念，追求真实的知识与反馈。除替代为目的，部分良性物质，以及特殊情况下的损害减少，不推荐任何人摄入我提及的物质。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/XDrugLab",
+                "end": 23,
+                "expanded_url": "https://t.me/XDrugLab",
+                "start": 0,
+                "url": "https://t.co/KMcpbSmDcL"
+              }
+            ]
+          }
+        },
+        "id": "3022697779",
+        "name": "药物实验室",
+        "pinned_tweet_id": "1917542345039569145",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854259369203879954/nxgmCDHX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15168,
+          "following_count": 17,
+          "like_count": 29,
+          "listed_count": 12,
+          "media_count": 45,
+          "tweet_count": 1047
+        },
+        "url": "https://t.co/KMcpbSmDcL",
+        "username": "RXdruglab",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-22T07:03:38.000Z",
+        "description": "| TradFi turned Degen, ex Startup Founder, HF/PE Investor\n| 支付宝微信刷USDT消费，美团滴滴携程 ChatGPT 谷歌微软苹果商店，限高也能用\n| 链上银行@0xinfini 开卡🔗https://t.co/Lir6XbscpR",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 118,
+                "start": 109,
+                "username": "0xinfini"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "app.infini.money/signup?ref=JBO…",
+                "end": 145,
+                "expanded_url": "http://app.infini.money/signup?ref=JBOBKRD",
+                "start": 122,
+                "url": "https://t.co/Lir6XbscpR"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "okx.com/join/4742118",
+                "end": 23,
+                "expanded_url": "http://okx.com/join/4742118",
+                "start": 0,
+                "url": "https://t.co/UgUIzlULHc"
+              }
+            ]
+          }
+        },
+        "id": "1693881438268256256",
+        "location": "Hong Kong SAR",
+        "name": "K1ko妹妹的爸比",
+        "pinned_tweet_id": "1917442079447474462",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875211415285612545/biwCTFto_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6881,
+          "following_count": 587,
+          "like_count": 2591,
+          "listed_count": 16,
+          "media_count": 64,
+          "tweet_count": 839
+        },
+        "url": "https://t.co/UgUIzlULHc",
+        "username": "lilk1kopops",
+        "verified": true
+      }
+    ]
+  }
+}

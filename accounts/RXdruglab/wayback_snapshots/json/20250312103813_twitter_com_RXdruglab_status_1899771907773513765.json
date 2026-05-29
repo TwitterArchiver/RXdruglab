@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1899771190933348352"
+      ],
+      "media_source_tweet_id": [
+        "1899771201767236093"
+      ]
+    },
+    "author_id": "3022697779",
+    "conversation_id": "1899771907773513765",
+    "created_at": "2025-03-12T10:38:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-12T11:38:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1899771907773513765"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1699445300950093824",
+          "start": 3,
+          "username": "kansj68531"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/seS3oK7SsL",
+          "end": 74,
+          "expanded_url": "https://x.com/kansj68531/status/1899771201767236093/photo/1",
+          "media_key": "3_1899771190933348352",
+          "start": 51,
+          "url": "https://t.co/seS3oK7SsL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1899771907773513765",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1899771201767236093",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kansj68531: “你不能不要我”\n“为什么”\n“我是你女友”\n“女友也有现的和前的” https://t.co/seS3oK7SsL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1899771190933348352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gl1X1S4aYAA-UWL.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1899771190933348352"
+          ],
+          "media_source_tweet_id": [
+            "1899771201767236093"
+          ]
+        },
+        "author_id": "3022697779",
+        "conversation_id": "1899771907773513765",
+        "created_at": "2025-03-12T10:38:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-12T11:38:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1899771907773513765"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1699445300950093824",
+              "start": 3,
+              "username": "kansj68531"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/seS3oK7SsL",
+              "end": 74,
+              "expanded_url": "https://x.com/kansj68531/status/1899771201767236093/photo/1",
+              "media_key": "3_1899771190933348352",
+              "start": 51,
+              "url": "https://t.co/seS3oK7SsL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1899771907773513765",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1899771201767236093",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kansj68531: “你不能不要我”\n“为什么”\n“我是你女友”\n“女友也有现的和前的” https://t.co/seS3oK7SsL"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1899771190933348352"
+          ]
+        },
+        "author_id": "1699445300950093824",
+        "conversation_id": "1899771201767236093",
+        "created_at": "2025-03-12T10:35:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-12T11:35:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1899771201767236093"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/seS3oK7SsL",
+              "end": 58,
+              "expanded_url": "https://x.com/kansj68531/status/1899771201767236093/photo/1",
+              "media_key": "3_1899771190933348352",
+              "start": 35,
+              "url": "https://t.co/seS3oK7SsL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1899771201767236093",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "“你不能不要我”\n“为什么”\n“我是你女友”\n“女友也有现的和前的” https://t.co/seS3oK7SsL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-02-16T15:27:54.000Z",
+        "description": "本不一定什么时候就没，请添加下方网址的telegram频道以获得持续更新。\n以禁毒、法律教育及损害减少（harm reduction）为目的，通过非世俗及去道德的理念，追求真实的知识与反馈。除替代为目的，部分良性物质，以及特殊情况下的损害减少，不推荐任何人摄入我提及的物质。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/XDrugLab",
+                "end": 23,
+                "expanded_url": "https://t.me/XDrugLab",
+                "start": 0,
+                "url": "https://t.co/KMcpbSmDcL"
+              }
+            ]
+          }
+        },
+        "id": "3022697779",
+        "name": "药物实验室",
+        "pinned_tweet_id": "1861564676557152611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854259369203879954/nxgmCDHX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13780,
+          "following_count": 17,
+          "like_count": 11,
+          "listed_count": 12,
+          "media_count": 23,
+          "tweet_count": 716
+        },
+        "url": "https://t.co/KMcpbSmDcL",
+        "username": "RXdruglab",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-06T15:31:58.000Z",
+        "description": "",
+        "id": "1699445300950093824",
+        "location": "Macau",
+        "name": "林林林林",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899304337999810560/sEeF268-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3620,
+          "following_count": 35,
+          "like_count": 764,
+          "listed_count": 9,
+          "media_count": 1,
+          "tweet_count": 37
+        },
+        "username": "kansj68531",
+        "verified": false
+      }
+    ]
+  }
+}

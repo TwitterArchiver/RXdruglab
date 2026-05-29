@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "3022697779",
+    "conversation_id": "1951259451249532986",
+    "created_at": "2025-08-03T13:26:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-03T14:26:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1951998202787561507"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1906777409170685952",
+          "start": 0,
+          "username": "hijgfg71857"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1951998202787561507",
+    "in_reply_to_user_id": "1906777409170685952",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1951997839170486610",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hijgfg71857 你说得非常有道理，其本质就是这样的。不过转化成现实案例，大多也就是我说的情况。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3022697779",
+        "conversation_id": "1951259451249532986",
+        "created_at": "2025-08-03T13:26:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-03T14:26:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1951998202787561507"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1906777409170685952",
+              "start": 0,
+              "username": "hijgfg71857"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951998202787561507",
+        "in_reply_to_user_id": "1906777409170685952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1951997839170486610",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hijgfg71857 你说得非常有道理，其本质就是这样的。不过转化成现实案例，大多也就是我说的情况。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906777409170685952",
+        "conversation_id": "1951259451249532986",
+        "created_at": "2025-08-03T13:25:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-03T14:25:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1951997839170486610"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "3022697779",
+              "start": 0,
+              "username": "RXdruglab"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951997839170486610",
+        "in_reply_to_user_id": "3022697779",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1951259451249532986",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RXdruglab 事实上你没有价值不会有人因为你有抑郁症关心你 你所说的因为是女的所以有人抛来橄榄枝不就是漂亮女人有性价值吗？那么同样 好看的男性更是稀缺资源 会有很多白骑士综合症女性想要拯救的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-02-16T15:27:54.000Z",
+        "description": "本不一定什么时候就没，请添加下方网址的telegram频道以获得持续更新。\n以禁毒、法律教育及损害减少（harm reduction）为目的，通过非世俗及去道德的理念，追求真实的知识与反馈。除替代为目的，部分良性物质，以及特殊情况下的损害减少，不推荐任何人摄入我提及的物质。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/XDrugLab",
+                "end": 23,
+                "expanded_url": "https://t.me/XDrugLab",
+                "start": 0,
+                "url": "https://t.co/KMcpbSmDcL"
+              }
+            ]
+          }
+        },
+        "id": "3022697779",
+        "name": "药物实验室",
+        "pinned_tweet_id": "1917542345039569145",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854259369203879954/nxgmCDHX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15417,
+          "following_count": 17,
+          "like_count": 34,
+          "listed_count": 14,
+          "media_count": 44,
+          "tweet_count": 1096
+        },
+        "url": "https://t.co/KMcpbSmDcL",
+        "username": "RXdruglab",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-31T18:35:47.000Z",
+        "description": "",
+        "id": "1906777409170685952",
+        "name": "Hijgfg",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934354830602153984/cR3Io8bD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 7,
+          "like_count": 5,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 10
+        },
+        "username": "hijgfg71857",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "3022697779",
+    "conversation_id": "1877313568049090710",
+    "created_at": "2025-01-10T00:08:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-10T01:08:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1877507845429616867"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1616914728529563650",
+          "start": 0,
+          "username": "angelkawaii_p"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1877507845429616867",
+    "in_reply_to_user_id": "1616914728529563650",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1877507666660221032",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@angelkawaii_p 没错，就是这样。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3022697779",
+        "conversation_id": "1877313568049090710",
+        "created_at": "2025-01-10T00:08:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-10T01:08:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1877507845429616867"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1616914728529563650",
+              "start": 0,
+              "username": "angelkawaii_p"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1877507845429616867",
+        "in_reply_to_user_id": "1616914728529563650",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1877507666660221032",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@angelkawaii_p 没错，就是这样。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1616914728529563650",
+        "conversation_id": "1877313568049090710",
+        "created_at": "2025-01-10T00:08:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-10T01:08:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1877507666660221032"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "3022697779",
+              "start": 0,
+              "username": "RXdruglab"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1877507666660221032",
+        "in_reply_to_user_id": "3022697779",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1877313568049090710",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RXdruglab 嗑药给我最大的启发就是让我相信了大脑决定了意识，什么曼德拉效应，即视感，灵魂只不过是大脑溜大了罢了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-02-16T15:27:54.000Z",
+        "description": "本账号不一定什么时候就没，请添加下方网址的telegram频道以获得持续更新。\n以禁毒、法律教育及损害减少（harm reduction）为目的，通过非世俗及去道德的理念，追求真实的知识与反馈。除替代为目的，部分良性物质，以及特殊情况下的损害减少，不推荐任何人摄入我提及的物质。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/XDrugLab",
+                "end": 23,
+                "expanded_url": "https://t.me/XDrugLab",
+                "start": 0,
+                "url": "https://t.co/71vzzaVErr"
+              }
+            ]
+          }
+        },
+        "id": "3022697779",
+        "name": "药物实验室",
+        "pinned_tweet_id": "1861564676557152611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854259369203879954/nxgmCDHX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2203,
+          "following_count": 15,
+          "like_count": 7,
+          "listed_count": 4,
+          "media_count": 20,
+          "tweet_count": 445
+        },
+        "url": "https://t.co/71vzzaVErr",
+        "username": "RXdruglab",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-21T21:45:02.000Z",
+        "description": "阿虚子转生号（大号黑历史锁了）07年天残双相木桶饭🍥2023 11 24 我很糟糕但请互fo",
+        "id": "1616914728529563650",
+        "location": "宛平南路600号mect室",
+        "name": "阿虚",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827178116747583488/F7KjsvuD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93,
+          "following_count": 114,
+          "like_count": 7,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 105
+        },
+        "username": "angelkawaii_p",
+        "verified": true
+      }
+    ]
+  }
+}

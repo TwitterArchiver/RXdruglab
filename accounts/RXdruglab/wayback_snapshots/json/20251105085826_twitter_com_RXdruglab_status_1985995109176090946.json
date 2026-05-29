@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "3022697779",
+    "conversation_id": "1985991189917798651",
+    "created_at": "2025-11-05T08:58:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-05T09:58:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1985995109176090946"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1638893284218261504",
+          "start": 0,
+          "username": "Benzyl_titanium"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985995109176090946",
+    "in_reply_to_user_id": "1638893284218261504",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985991189917798651",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Benzyl_titanium 我感觉这个可以做个三角洲的黑卡。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1985991181399191554",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4-odQ5bcAIE5k3.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1985991186746900480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4-odk0bAAATFMg.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3022697779",
+        "conversation_id": "1985991189917798651",
+        "created_at": "2025-11-05T08:58:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-05T09:58:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985995109176090946"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1638893284218261504",
+              "start": 0,
+              "username": "Benzyl_titanium"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985995109176090946",
+        "in_reply_to_user_id": "1638893284218261504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985991189917798651",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Benzyl_titanium 我感觉这个可以做个三角洲的黑卡。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1985991181399191554",
+            "3_1985991186746900480"
+          ]
+        },
+        "author_id": "1638893284218261504",
+        "conversation_id": "1985991189917798651",
+        "created_at": "2025-11-05T08:42:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-05T09:42:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1985991189917798651"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nAExf77Aee",
+              "end": 30,
+              "expanded_url": "https://x.com/Benzyl_titanium/status/1985991189917798651/photo/1",
+              "media_key": "3_1985991181399191554",
+              "start": 7,
+              "url": "https://t.co/nAExf77Aee"
+            },
+            {
+              "display_url": "pic.x.com/nAExf77Aee",
+              "end": 30,
+              "expanded_url": "https://x.com/Benzyl_titanium/status/1985991189917798651/photo/1",
+              "media_key": "3_1985991186746900480",
+              "start": 7,
+              "url": "https://t.co/nAExf77Aee"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985991189917798651",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "白嫖嘉立创（ https://t.co/nAExf77Aee"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-02-16T15:27:54.000Z",
+        "description": "本不一定什么时候就没，请添加下方网址的telegram频道以获得持续更新。\n以禁毒、法律教育及损害减少（harm reduction）为目的，通过非世俗及去道德的理念，追求真实的知识与反馈。除替代为目的，部分良性物质，以及特殊情况下的损害减少，不推荐任何人摄入我提及的物质。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/XDrugLab",
+                "end": 23,
+                "expanded_url": "https://t.me/XDrugLab",
+                "start": 0,
+                "url": "https://t.co/KMcpbSmDcL"
+              }
+            ]
+          }
+        },
+        "id": "3022697779",
+        "name": "药物实验室",
+        "pinned_tweet_id": "1917542345039569145",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854259369203879954/nxgmCDHX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16205,
+          "following_count": 18,
+          "like_count": 20,
+          "listed_count": 20,
+          "media_count": 52,
+          "tweet_count": 1288
+        },
+        "url": "https://t.co/KMcpbSmDcL",
+        "username": "RXdruglab",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-23T13:19:49.000Z",
+        "description": "Tetrabenzyl titanium 四苄基钛 四苄钛 死变态 苄钛 Fuck Organic Chemistry 友姬花穴 | 药物画学 | 有机合不成 | 精神药理学 | 网络药理学 | 计算机辅助药物设计 @biantailab",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 119,
+                "start": 108,
+                "username": "biantailab"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "Benzyl-titanium.top",
+                "end": 23,
+                "expanded_url": "https://www.Benzyl-titanium.top",
+                "start": 0,
+                "url": "https://t.co/avoL4bLU1u"
+              }
+            ]
+          }
+        },
+        "id": "1638893284218261504",
+        "location": "BianTai LAB",
+        "name": "Benzyl titanium",
+        "pinned_tweet_id": "1925059483618967837",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921007502403268610/6Y_cusVt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1763,
+          "following_count": 537,
+          "like_count": 8319,
+          "listed_count": 7,
+          "media_count": 377,
+          "tweet_count": 2143
+        },
+        "url": "https://t.co/avoL4bLU1u",
+        "username": "Benzyl_titanium",
+        "verified": false
+      }
+    ]
+  }
+}

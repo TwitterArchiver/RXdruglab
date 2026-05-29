@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "3022697779",
+    "conversation_id": "1999352568095604882",
+    "created_at": "2025-12-14T14:35:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-14T15:35:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000213063467974664"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1970723128071659520",
+          "start": 0,
+          "username": "bansthpure"
+        },
+        {
+          "end": 20,
+          "id": "1598199229083635713",
+          "start": 12,
+          "username": "lcn5531"
+        },
+        {
+          "end": 36,
+          "id": "1770685467077259265",
+          "start": 21,
+          "username": "strawberry_iir"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000213063467974664",
+    "in_reply_to_user_id": "1970723128071659520",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000212642313687341",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bansthpure @lcn5531 @strawberry_iir 空气中78%都是氮气。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3022697779",
+        "conversation_id": "1999352568095604882",
+        "created_at": "2025-12-14T14:35:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-14T15:35:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000213063467974664"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1970723128071659520",
+              "start": 0,
+              "username": "bansthpure"
+            },
+            {
+              "end": 20,
+              "id": "1598199229083635713",
+              "start": 12,
+              "username": "lcn5531"
+            },
+            {
+              "end": 36,
+              "id": "1770685467077259265",
+              "start": 21,
+              "username": "strawberry_iir"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000213063467974664",
+        "in_reply_to_user_id": "1970723128071659520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000212642313687341",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bansthpure @lcn5531 @strawberry_iir 空气中78%都是氮气。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1970723128071659520",
+        "conversation_id": "1999352568095604882",
+        "created_at": "2025-12-14T14:33:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-14T15:33:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000212642313687341"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1598199229083635713",
+              "start": 0,
+              "username": "lcn5531"
+            },
+            {
+              "end": 24,
+              "id": "1770685467077259265",
+              "start": 9,
+              "username": "strawberry_iir"
+            },
+            {
+              "end": 35,
+              "id": "3022697779",
+              "start": 25,
+              "username": "RXdruglab"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000212642313687341",
+        "in_reply_to_user_id": "1598199229083635713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999883806720033051",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lcn5531 @strawberry_iir @RXdruglab 氮气买不到呀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-02-16T15:27:54.000Z",
+        "description": "本不一定什么时候就没，请添加下方网址的telegram频道以获得持续更新。\n以禁毒、法律教育及损害减少（harm reduction）为目的，通过非世俗及去道德的理念，追求真实的知识与反馈。除替代为目的，部分良性物质，以及特殊情况下的损害减少，不推荐任何人摄入我提及的物质。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/XDrugLab",
+                "end": 23,
+                "expanded_url": "https://t.me/XDrugLab",
+                "start": 0,
+                "url": "https://t.co/KMcpbSmDcL"
+              }
+            ]
+          }
+        },
+        "id": "3022697779",
+        "name": "药物实验室",
+        "pinned_tweet_id": "1917542345039569145",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854259369203879954/nxgmCDHX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17255,
+          "following_count": 18,
+          "like_count": 23,
+          "listed_count": 21,
+          "media_count": 52,
+          "tweet_count": 1414
+        },
+        "url": "https://t.co/KMcpbSmDcL",
+        "username": "RXdruglab",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-24T05:33:15.000Z",
+        "description": "",
+        "id": "1970723128071659520",
+        "name": "B",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970723613704966144/CS_6vQs-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 16,
+          "like_count": 8,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 10
+        },
+        "username": "bansthpure",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-01T06:16:28.000Z",
+        "description": "",
+        "id": "1598199229083635713",
+        "name": "lcn5531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1751981983591432192/zc226sha_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 86,
+          "like_count": 27560,
+          "listed_count": 1,
+          "media_count": 0,
+          "tweet_count": 241
+        },
+        "username": "lcn5531",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-21T05:34:59.000Z",
+        "description": "🍓",
+        "id": "1770685467077259265",
+        "name": "sani",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1770687476920721409/lJO_yzH9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 15,
+          "like_count": 82,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 38
+        },
+        "username": "strawberry_iir",
+        "verified": false
+      }
+    ]
+  }
+}

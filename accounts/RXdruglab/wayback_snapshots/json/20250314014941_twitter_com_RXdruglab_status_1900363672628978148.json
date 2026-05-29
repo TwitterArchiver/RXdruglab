@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "3022697779",
+    "conversation_id": "1900323617491345887",
+    "created_at": "2025-03-14T01:49:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-14T02:49:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1900363672628978148"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1900363672628978148",
+    "in_reply_to_user_id": "3022697779",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1900323617491345887",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "1,中国对芬太尼的补贴是出口退税的补贴，不是针对芬太尼及其前体的补贴。\n2,芬太尼不是止痛药滥用，街头芬太尼的整个产品路径，和医用正规芬太尼无关。\n3，芬太尼因为剂量小，价格极其低廉，前体可能每公斤一万人民币左右，大约能生产一公斤芬太尼。单次使用的原料成本只有几分钱。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_1900323527791960065",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gl9OLiBbYAE5-hQ.jpg",
+        "width": 2230
+      },
+      {
+        "height": 4096,
+        "media_key": "3_1900323527796154369",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gl9OLiCbYAEbfw4.jpg",
+        "width": 2230
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3022697779",
+        "conversation_id": "1900323617491345887",
+        "created_at": "2025-03-14T01:49:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-14T02:49:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1900363672628978148"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1900363672628978148",
+        "in_reply_to_user_id": "3022697779",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1900323617491345887",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "1,中国对芬太尼的补贴是出口退税的补贴，不是针对芬太尼及其前体的补贴。\n2,芬太尼不是止痛药滥用，街头芬太尼的整个产品路径，和医用正规芬太尼无关。\n3，芬太尼因为剂量小，价格极其低廉，前体可能每公斤一万人民币左右，大约能生产一公斤芬太尼。单次使用的原料成本只有几分钱。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1900323527791960065",
+            "3_1900323527796154369"
+          ]
+        },
+        "author_id": "3022697779",
+        "conversation_id": "1900323617491345887",
+        "created_at": "2025-03-13T23:10:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-14T00:10:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1900323617491345887"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aBBpZD9KyV",
+              "end": 35,
+              "expanded_url": "https://x.com/RXdruglab/status/1900323617491345887/photo/1",
+              "media_key": "3_1900323527791960065",
+              "start": 12,
+              "url": "https://t.co/aBBpZD9KyV"
+            },
+            {
+              "display_url": "pic.x.com/aBBpZD9KyV",
+              "end": 35,
+              "expanded_url": "https://x.com/RXdruglab/status/1900323617491345887/photo/1",
+              "media_key": "3_1900323527796154369",
+              "start": 12,
+              "url": "https://t.co/aBBpZD9KyV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1900323617491345887",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 989,
+          "like_count": 10,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "关于芬太尼的一些知识。 https://t.co/aBBpZD9KyV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-02-16T15:27:54.000Z",
+        "description": "本不一定什么时候就没，请添加下方网址的telegram频道以获得持续更新。\n以禁毒、法律教育及损害减少（harm reduction）为目的，通过非世俗及去道德的理念，追求真实的知识与反馈。除替代为目的，部分良性物质，以及特殊情况下的损害减少，不推荐任何人摄入我提及的物质。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/XDrugLab",
+                "end": 23,
+                "expanded_url": "https://t.me/XDrugLab",
+                "start": 0,
+                "url": "https://t.co/KMcpbSmDcL"
+              }
+            ]
+          }
+        },
+        "id": "3022697779",
+        "name": "药物实验室",
+        "pinned_tweet_id": "1861564676557152611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854259369203879954/nxgmCDHX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13868,
+          "following_count": 17,
+          "like_count": 11,
+          "listed_count": 12,
+          "media_count": 24,
+          "tweet_count": 727
+        },
+        "url": "https://t.co/KMcpbSmDcL",
+        "username": "RXdruglab",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2017221223080693760"
+      ],
+      "media_source_tweet_id": [
+        "2017221374683787543"
+      ]
+    },
+    "author_id": "3022697779",
+    "conversation_id": "2017222037690106033",
+    "created_at": "2026-01-30T13:03:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-30T14:03:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017222037690106033"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1783797146694934528",
+          "start": 3,
+          "username": "linanxxxx04"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/7XgYjztBZY",
+          "end": 46,
+          "expanded_url": "https://x.com/linanxxxx04/status/2017221374683787543/photo/1",
+          "media_key": "3_2017221223080693760",
+          "start": 23,
+          "url": "https://t.co/7XgYjztBZY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017222037690106033",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017221374683787543",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @linanxxxx04: 物质介绍。 https://t.co/7XgYjztBZY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1131,
+        "media_key": "3_2017221223080693760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_6cA8MakAALWZp.jpg",
+        "width": 995
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2017221223080693760"
+          ],
+          "media_source_tweet_id": [
+            "2017221374683787543"
+          ]
+        },
+        "author_id": "3022697779",
+        "conversation_id": "2017222037690106033",
+        "created_at": "2026-01-30T13:03:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T14:03:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017222037690106033"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1783797146694934528",
+              "start": 3,
+              "username": "linanxxxx04"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7XgYjztBZY",
+              "end": 46,
+              "expanded_url": "https://x.com/linanxxxx04/status/2017221374683787543/photo/1",
+              "media_key": "3_2017221223080693760",
+              "start": 23,
+              "url": "https://t.co/7XgYjztBZY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017222037690106033",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017221374683787543",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @linanxxxx04: 物质介绍。 https://t.co/7XgYjztBZY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2017221223080693760"
+          ]
+        },
+        "author_id": "1783797146694934528",
+        "conversation_id": "2017221374683787543",
+        "created_at": "2026-01-30T13:00:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T14:00:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017221374683787543"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7XgYjztBZY",
+              "end": 29,
+              "expanded_url": "https://x.com/linanxxxx04/status/2017221374683787543/photo/1",
+              "media_key": "3_2017221223080693760",
+              "start": 6,
+              "url": "https://t.co/7XgYjztBZY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017221374683787543",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "物质介绍。 https://t.co/7XgYjztBZY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-02-16T15:27:54.000Z",
+        "description": "本不一定什么时候就没，请添加下方网址的telegram频道以获得持续更新。\n以禁毒、法律教育及损害减少（harm reduction）为目的，通过非世俗及去道德的理念，追求真实的知识与反馈。除替代为目的，部分良性物质，以及特殊情况下的损害减少，不推荐任何人摄入我提及的物质。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/XDrugLab",
+                "end": 23,
+                "expanded_url": "https://t.me/XDrugLab",
+                "start": 0,
+                "url": "https://t.co/KMcpbSmDcL"
+              }
+            ]
+          }
+        },
+        "id": "3022697779",
+        "name": "药物实验室",
+        "pinned_tweet_id": "1917542345039569145",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854259369203879954/nxgmCDHX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17343,
+          "following_count": 18,
+          "like_count": 31,
+          "listed_count": 20,
+          "media_count": 52,
+          "tweet_count": 1488
+        },
+        "url": "https://t.co/KMcpbSmDcL",
+        "username": "RXdruglab",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-26T09:56:05.000Z",
+        "description": "本号为药物实验室销售频道",
+        "id": "1783797146694934528",
+        "name": "药实销售频道",
+        "pinned_tweet_id": "1937268338083926125",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984574512952684545/N9pz8K6I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 295,
+          "following_count": 2,
+          "like_count": 65,
+          "listed_count": 1,
+          "media_count": 1,
+          "tweet_count": 3
+        },
+        "username": "linanxxxx04",
+        "verified": false
+      }
+    ]
+  }
+}

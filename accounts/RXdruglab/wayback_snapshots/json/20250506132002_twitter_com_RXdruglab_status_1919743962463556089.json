@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1919742963212812289",
+        "3_1919743625002643456"
+      ]
+    },
+    "author_id": "3022697779",
+    "conversation_id": "1919743962463556089",
+    "created_at": "2025-05-06T13:20:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-06T14:20:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1919743962463556089"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/geYYH0suFO",
+          "end": 116,
+          "expanded_url": "https://x.com/RXdruglab/status/1919743962463556089/photo/1",
+          "media_key": "3_1919742963212812289",
+          "start": 93,
+          "url": "https://t.co/geYYH0suFO"
+        },
+        {
+          "display_url": "pic.x.com/geYYH0suFO",
+          "end": 116,
+          "expanded_url": "https://x.com/RXdruglab/status/1919743962463556089/photo/1",
+          "media_key": "3_1919743625002643456",
+          "start": 93,
+          "url": "https://t.co/geYYH0suFO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1919743962463556089",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "今天去寄快递的时候，快递站有个小册子，快递站的员工说前一段时间深圳刚抓了十几个从香港那边来的贩毒的，所以社区要加强宣传，谨防这些物品混入快递。并说那些贩毒挣来的钱真的是有命挣，没命花。 https://t.co/geYYH0suFO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1038,
+        "media_key": "3_1919742963212812289",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqRMDcZbAAErX1G.jpg",
+        "width": 1442
+      },
+      {
+        "height": 1027,
+        "media_key": "3_1919743625002643456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqRMp9wacAA2Ncg.jpg",
+        "width": 1461
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1919742963212812289",
+            "3_1919743625002643456"
+          ]
+        },
+        "author_id": "3022697779",
+        "conversation_id": "1919743962463556089",
+        "created_at": "2025-05-06T13:20:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-06T14:20:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1919743962463556089"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/geYYH0suFO",
+              "end": 116,
+              "expanded_url": "https://x.com/RXdruglab/status/1919743962463556089/photo/1",
+              "media_key": "3_1919742963212812289",
+              "start": 93,
+              "url": "https://t.co/geYYH0suFO"
+            },
+            {
+              "display_url": "pic.x.com/geYYH0suFO",
+              "end": 116,
+              "expanded_url": "https://x.com/RXdruglab/status/1919743962463556089/photo/1",
+              "media_key": "3_1919743625002643456",
+              "start": 93,
+              "url": "https://t.co/geYYH0suFO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919743962463556089",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天去寄快递的时候，快递站有个小册子，快递站的员工说前一段时间深圳刚抓了十几个从香港那边来的贩毒的，所以社区要加强宣传，谨防这些物品混入快递。并说那些贩毒挣来的钱真的是有命挣，没命花。 https://t.co/geYYH0suFO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-02-16T15:27:54.000Z",
+        "description": "本不一定什么时候就没，请添加下方网址的telegram频道以获得持续更新。\n以禁毒、法律教育及损害减少（harm reduction）为目的，通过非世俗及去道德的理念，追求真实的知识与反馈。除替代为目的，部分良性物质，以及特殊情况下的损害减少，不推荐任何人摄入我提及的物质。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/XDrugLab",
+                "end": 23,
+                "expanded_url": "https://t.me/XDrugLab",
+                "start": 0,
+                "url": "https://t.co/KMcpbSmDcL"
+              }
+            ]
+          }
+        },
+        "id": "3022697779",
+        "name": "药物实验室",
+        "pinned_tweet_id": "1917542345039569145",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854259369203879954/nxgmCDHX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14848,
+          "following_count": 18,
+          "like_count": 25,
+          "listed_count": 12,
+          "media_count": 40,
+          "tweet_count": 975
+        },
+        "url": "https://t.co/KMcpbSmDcL",
+        "username": "RXdruglab",
+        "verified": false
+      }
+    ]
+  }
+}

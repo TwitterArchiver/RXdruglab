@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "3022697779",
+    "conversation_id": "1905256114142519405",
+    "created_at": "2025-03-27T13:50:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-27T14:50:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1905256114142519405"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1528928909734973440",
+          "start": 3,
+          "username": "HiyouNeko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1905256114142519405",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "1904712557199581346",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @HiyouNeko: 讲个冷笑话，pdd买亚硝酸钠，先用后付"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3022697779",
+        "conversation_id": "1905256114142519405",
+        "created_at": "2025-03-27T13:50:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-27T14:50:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1905256114142519405"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1528928909734973440",
+              "start": 3,
+              "username": "HiyouNeko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1905256114142519405",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "1904712557199581346",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @HiyouNeko: 讲个冷笑话，pdd买亚硝酸钠，先用后付"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1528928909734973440",
+        "conversation_id": "1904712557199581346",
+        "created_at": "2025-03-26T01:50:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-26T02:50:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1904712557199581346"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1904712557199581346",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 19,
+          "impression_count": 34364,
+          "like_count": 496,
+          "quote_count": 2,
+          "reply_count": 21,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "讲个冷笑话，pdd买亚硝酸钠，先用后付"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-02-16T15:27:54.000Z",
+        "description": "本不一定什么时候就没，请添加下方网址的telegram频道以获得持续更新。\n以禁毒、法律教育及损害减少（harm reduction）为目的，通过非世俗及去道德的理念，追求真实的知识与反馈。除替代为目的，部分良性物质，以及特殊情况下的损害减少，不推荐任何人摄入我提及的物质。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/XDrugLab",
+                "end": 23,
+                "expanded_url": "https://t.me/XDrugLab",
+                "start": 0,
+                "url": "https://t.co/KMcpbSmDcL"
+              }
+            ]
+          }
+        },
+        "id": "3022697779",
+        "name": "药物实验室",
+        "pinned_tweet_id": "1861564676557152611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854259369203879954/nxgmCDHX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14136,
+          "following_count": 16,
+          "like_count": 17,
+          "listed_count": 11,
+          "media_count": 28,
+          "tweet_count": 811
+        },
+        "url": "https://t.co/KMcpbSmDcL",
+        "username": "RXdruglab",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-24T02:40:46.000Z",
+        "description": "❦ RIP.2028/07/09 ❦ 是友跨顺难 ❦ 我要把xyn加工成🍥吃 ❦ 水系魔法老登 ❦ 这个世上没有比假花更美的花❦ 一起打瓦我们就是好朋友 ❦ 真的真的很喜欢酥萌老师～ @show5560",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 92,
+                "username": "show5560"
+              }
+            ]
+          }
+        },
+        "id": "1528928909734973440",
+        "location": "蓝靛厂火器营",
+        "name": "不眠希汐♠️",
+        "pinned_tweet_id": "1894678243124690979",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894949951496679424/xyq_kbSD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2066,
+          "following_count": 956,
+          "like_count": 8448,
+          "listed_count": 6,
+          "media_count": 643,
+          "tweet_count": 2675
+        },
+        "username": "HiyouNeko",
+        "verified": false
+      }
+    ]
+  }
+}

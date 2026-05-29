@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "3022697779",
+    "conversation_id": "1899239350254407900",
+    "created_at": "2025-03-10T23:22:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-11T00:22:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1899239350254407900"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/kansj68531/sta…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/kansj68531/status/1899197915996012944",
+          "start": 8,
+          "url": "https://t.co/FYYbkMlfk8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1899239350254407900",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1899197915996012944",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "小女友又作了。 https://t.co/FYYbkMlfk8"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3022697779",
+        "conversation_id": "1899239350254407900",
+        "created_at": "2025-03-10T23:22:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-11T00:22:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1899239350254407900"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kansj68531/sta…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/kansj68531/status/1899197915996012944",
+              "start": 8,
+              "url": "https://t.co/FYYbkMlfk8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1899239350254407900",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1899197915996012944",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "小女友又作了。 https://t.co/FYYbkMlfk8"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1699445300950093824",
+        "conversation_id": "1899197915996012944",
+        "created_at": "2025-03-10T20:37:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-10T21:37:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1899197915996012944"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1899197915996012944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 685,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "和实验室就是，互相用死威胁对方，控制对方，我们两个烂种，就真的太适合一起发烂发臭，不祸害别人，也是造福苍生。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-02-16T15:27:54.000Z",
+        "description": "本不一定什么时候就没，请添加下方网址的telegram频道以获得持续更新。\n以禁毒、法律教育及损害减少（harm reduction）为目的，通过非世俗及去道德的理念，追求真实的知识与反馈。除替代为目的，部分良性物质，以及特殊情况下的损害减少，不推荐任何人摄入我提及的物质。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/XDrugLab",
+                "end": 23,
+                "expanded_url": "https://t.me/XDrugLab",
+                "start": 0,
+                "url": "https://t.co/KMcpbSmDcL"
+              }
+            ]
+          }
+        },
+        "id": "3022697779",
+        "name": "药物实验室",
+        "pinned_tweet_id": "1861564676557152611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854259369203879954/nxgmCDHX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13722,
+          "following_count": 17,
+          "like_count": 11,
+          "listed_count": 12,
+          "media_count": 22,
+          "tweet_count": 705
+        },
+        "url": "https://t.co/KMcpbSmDcL",
+        "username": "RXdruglab",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-06T15:31:58.000Z",
+        "description": "禁毒文学科普，纯公益账号",
+        "id": "1699445300950093824",
+        "location": "Macau",
+        "name": "药物实验室💊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899197317997027328/8ry4WGF0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3605,
+          "following_count": 33,
+          "like_count": 757,
+          "listed_count": 9,
+          "media_count": 0,
+          "tweet_count": 32
+        },
+        "username": "kansj68531",
+        "verified": false
+      }
+    ]
+  }
+}

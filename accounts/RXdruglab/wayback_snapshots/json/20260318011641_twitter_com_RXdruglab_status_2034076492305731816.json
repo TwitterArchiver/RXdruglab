@@ -1,0 +1,154 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "3022697779",
+    "conversation_id": "2034076490233717202",
+    "created_at": "2026-03-18T01:16:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-18T02:16:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034076492305731816"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2034076492305731816",
+    "in_reply_to_user_id": "3022697779",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034076490233717202",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "除纳洛酮外，补充电解质（比如喝运动饮料）也是非常重要的，严重的时候还要服用或注射呕吐抑制剂（比如昂丹司琼）。\n网上卖的其他的东西，我觉得不靠谱，最多通过占用代谢，而让代谢系统减缓酒精吸收速度，但这会增加了吸收时间。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3022697779",
+        "conversation_id": "2034076490233717202",
+        "created_at": "2026-03-18T01:16:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T02:16:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034076492305731816"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2034076492305731816",
+        "in_reply_to_user_id": "3022697779",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034076490233717202",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "除纳洛酮外，补充电解质（比如喝运动饮料）也是非常重要的，严重的时候还要服用或注射呕吐抑制剂（比如昂丹司琼）。\n网上卖的其他的东西，我觉得不靠谱，最多通过占用代谢，而让代谢系统减缓酒精吸收速度，但这会增加了吸收时间。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3022697779",
+        "conversation_id": "2034076490233717202",
+        "created_at": "2026-03-18T01:16:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T02:16:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034076490233717202"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2034076490233717202",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "纳洛酮是目前能取得的最有效也可能是唯一有效的醒酒药，原理是抢先与受体结合，让酒精无法在中枢神经产生效果。如果发生严重醉酒的情况，可以舌下含服，有迅速促醒的功效，同时也有反抑制呼吸的功能。但是只能在酒后使用，事前事中是不行的，更不能妄想能喝更多。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-02-16T15:27:54.000Z",
+        "description": "本不一定什么时候就没，请添加下方网址的telegram频道以获得持续更新。\n以禁毒、法律教育及损害减少（harm reduction）为目的，通过非世俗及去道德的理念，追求真实的知识与反馈。除替代为目的，部分良性物质，以及特殊情况下的损害减少，不推荐任何人摄入我提及的物质。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/XDrugLab",
+                "end": 23,
+                "expanded_url": "https://t.me/XDrugLab",
+                "start": 0,
+                "url": "https://t.co/KMcpbSmDcL"
+              }
+            ]
+          }
+        },
+        "id": "3022697779",
+        "name": "药物实验室",
+        "pinned_tweet_id": "1917542345039569145",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854259369203879954/nxgmCDHX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19072,
+          "following_count": 16,
+          "like_count": 33,
+          "listed_count": 24,
+          "media_count": 53,
+          "tweet_count": 1596
+        },
+        "url": "https://t.co/KMcpbSmDcL",
+        "username": "RXdruglab",
+        "verified": false
+      }
+    ]
+  }
+}

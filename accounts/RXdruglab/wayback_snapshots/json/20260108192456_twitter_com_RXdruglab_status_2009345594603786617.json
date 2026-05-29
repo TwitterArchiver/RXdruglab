@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "3022697779",
+    "conversation_id": "2009345594603786617",
+    "created_at": "2026-01-08T19:24:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-08T20:24:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2009345594603786617"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/venom1s/status…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/venom1s/status/2009269553507831930",
+          "start": 7,
+          "url": "https://t.co/wYQ1QRTOtx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009345594603786617",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009269553507831930",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "印度也这样？ https://t.co/wYQ1QRTOtx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 633,
+        "media_key": "3_2009269547120140288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-JcAe4bIAAwIK1.jpg",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3022697779",
+        "conversation_id": "2009345594603786617",
+        "created_at": "2026-01-08T19:24:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-08T20:24:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2009345594603786617"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/venom1s/status…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/venom1s/status/2009269553507831930",
+              "start": 7,
+              "url": "https://t.co/wYQ1QRTOtx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009345594603786617",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009269553507831930",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "印度也这样？ https://t.co/wYQ1QRTOtx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2009269547120140288"
+          ]
+        },
+        "author_id": "1480927857631272972",
+        "conversation_id": "2009269553507831930",
+        "created_at": "2026-01-08T14:22:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-08T15:22:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2009269553507831930"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5m1JsiTuTC",
+              "end": 57,
+              "expanded_url": "https://x.com/venom1s/status/2009269553507831930/photo/1",
+              "media_key": "3_2009269547120140288",
+              "start": 34,
+              "url": "https://t.co/5m1JsiTuTC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009269553507831930",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 583,
+          "impression_count": 203974,
+          "like_count": 7761,
+          "quote_count": 19,
+          "reply_count": 118,
+          "retweet_count": 576
+        },
+        "reply_settings": "everyone",
+        "text": "Save Indian men from biased laws. https://t.co/5m1JsiTuTC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-02-16T15:27:54.000Z",
+        "description": "本不一定什么时候就没，请添加下方网址的telegram频道以获得持续更新。\n以禁毒、法律教育及损害减少（harm reduction）为目的，通过非世俗及去道德的理念，追求真实的知识与反馈。除替代为目的，部分良性物质，以及特殊情况下的损害减少，不推荐任何人摄入我提及的物质。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/XDrugLab",
+                "end": 23,
+                "expanded_url": "https://t.me/XDrugLab",
+                "start": 0,
+                "url": "https://t.co/KMcpbSmDcL"
+              }
+            ]
+          }
+        },
+        "id": "3022697779",
+        "name": "药物实验室",
+        "pinned_tweet_id": "1917542345039569145",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854259369203879954/nxgmCDHX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17299,
+          "following_count": 18,
+          "like_count": 24,
+          "listed_count": 21,
+          "media_count": 52,
+          "tweet_count": 1453
+        },
+        "url": "https://t.co/KMcpbSmDcL",
+        "username": "RXdruglab",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-11T15:41:40.000Z",
+        "description": "It's not who I am underneath, but what I do that defines me.",
+        "id": "1480927857631272972",
+        "name": "︎ ︎venom",
+        "pinned_tweet_id": "1828114794798555495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1595612326773735424/PoYzZVwm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64527,
+          "following_count": 738,
+          "like_count": 48988,
+          "listed_count": 162,
+          "media_count": 5943,
+          "tweet_count": 17888
+        },
+        "username": "venom1s",
+        "verified": true
+      }
+    ]
+  }
+}

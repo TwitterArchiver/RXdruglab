@@ -1,0 +1,303 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "3022697779",
+    "conversation_id": "1903057939830890665",
+    "created_at": "2025-03-28T20:42:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-28T21:42:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1905722121453711539"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1891002291752476672",
+          "start": 0,
+          "username": "xuxu1pBoomsini1"
+        },
+        {
+          "end": 26,
+          "id": "1244111412999229441",
+          "start": 17,
+          "username": "ADXMLLHH"
+        },
+        {
+          "end": 43,
+          "id": "1752833082325938176",
+          "start": 27,
+          "username": "GwynethNet68856"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1905722121453711539",
+    "in_reply_to_user_id": "1891002291752476672",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1905676800325279767",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xuxu1pBoomsini1 @ADXMLLHH @GwynethNet68856 我操，他是呼吸抑制死的啊。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3022697779",
+        "conversation_id": "1903057939830890665",
+        "created_at": "2025-03-28T20:42:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-28T21:42:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1905722121453711539"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1891002291752476672",
+              "start": 0,
+              "username": "xuxu1pBoomsini1"
+            },
+            {
+              "end": 26,
+              "id": "1244111412999229441",
+              "start": 17,
+              "username": "ADXMLLHH"
+            },
+            {
+              "end": 43,
+              "id": "1752833082325938176",
+              "start": 27,
+              "username": "GwynethNet68856"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1905722121453711539",
+        "in_reply_to_user_id": "1891002291752476672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1905676800325279767",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xuxu1pBoomsini1 @ADXMLLHH @GwynethNet68856 我操，他是呼吸抑制死的啊。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1891002291752476672",
+        "conversation_id": "1903057939830890665",
+        "created_at": "2025-03-28T17:42:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-28T18:42:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1905676800325279767"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1244111412999229441",
+              "start": 0,
+              "username": "ADXMLLHH"
+            },
+            {
+              "end": 26,
+              "id": "1752833082325938176",
+              "start": 10,
+              "username": "GwynethNet68856"
+            },
+            {
+              "end": 37,
+              "id": "3022697779",
+              "start": 27,
+              "username": "RXdruglab"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1905676800325279767",
+        "in_reply_to_user_id": "1244111412999229441",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1903311859819876590",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ADXMLLHH @GwynethNet68856 @RXdruglab 这个号主还真因为呼吸抑制死掉了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-02-16T15:27:54.000Z",
+        "description": "本不一定什么时候就没，请添加下方网址的telegram频道以获得持续更新。\n以禁毒、法律教育及损害减少（harm reduction）为目的，通过非世俗及去道德的理念，追求真实的知识与反馈。除替代为目的，部分良性物质，以及特殊情况下的损害减少，不推荐任何人摄入我提及的物质。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/XDrugLab",
+                "end": 23,
+                "expanded_url": "https://t.me/XDrugLab",
+                "start": 0,
+                "url": "https://t.co/KMcpbSmDcL"
+              }
+            ]
+          }
+        },
+        "id": "3022697779",
+        "name": "药物实验室",
+        "pinned_tweet_id": "1861564676557152611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854259369203879954/nxgmCDHX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14188,
+          "following_count": 16,
+          "like_count": 17,
+          "listed_count": 11,
+          "media_count": 28,
+          "tweet_count": 823
+        },
+        "url": "https://t.co/KMcpbSmDcL",
+        "username": "RXdruglab",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-16T05:51:03.000Z",
+        "description": "跪求世界善待我",
+        "id": "1891002291752476672",
+        "location": "🚪66",
+        "name": "绪绪",
+        "pinned_tweet_id": "1904440290456269225",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904646830547156992/dqSgAKSh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 532,
+          "following_count": 47,
+          "like_count": 871,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 212
+        },
+        "username": "xuxu1pBoomsini1",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-29T03:57:41.000Z",
+        "description": "022 推广自辨",
+        "id": "1244111412999229441",
+        "location": "Tianjin",
+        "name": "CC不吃糖",
+        "pinned_tweet_id": "1868286608685900131",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1456117181541138432/QfoV6QqB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2347,
+          "following_count": 70,
+          "like_count": 259,
+          "listed_count": 1,
+          "media_count": 27,
+          "tweet_count": 140
+        },
+        "username": "ADXMLLHH",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-31T23:16:00.000Z",
+        "description": "号主换人这里是Yuki大号@Healer_Gu tg群：https://t.co/7ZsZhEIg7a",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 13,
+                "username": "Healer_Gu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/yuki_nb1",
+                "end": 51,
+                "expanded_url": "https://t.me/yuki_nb1",
+                "start": 28,
+                "url": "https://t.co/7ZsZhEIg7a"
+              }
+            ]
+          }
+        },
+        "id": "1752833082325938176",
+        "name": "YuKiiiii",
+        "pinned_tweet_id": "1904270360885051811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880369359161552896/SzJfPRRd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 156,
+          "following_count": 64,
+          "like_count": 30,
+          "listed_count": 1,
+          "media_count": 22,
+          "tweet_count": 95
+        },
+        "username": "GwynethNet68856",
+        "verified": false
+      }
+    ]
+  }
+}

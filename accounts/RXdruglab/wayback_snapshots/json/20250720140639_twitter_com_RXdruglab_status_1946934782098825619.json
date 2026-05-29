@@ -1,0 +1,147 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1946934762565750786"
+      ]
+    },
+    "author_id": "3022697779",
+    "conversation_id": "1946934782098825619",
+    "created_at": "2025-07-20T14:06:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-20T15:06:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1946934782098825619"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/DhND54zIOV",
+          "end": 83,
+          "expanded_url": "https://x.com/RXdruglab/status/1946934782098825619/photo/1",
+          "media_key": "3_1946934762565750786",
+          "start": 60,
+          "url": "https://t.co/DhND54zIOV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1946934782098825619",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 9,
+      "impression_count": 2796,
+      "like_count": 31,
+      "quote_count": 0,
+      "reply_count": 5,
+      "retweet_count": 6
+    },
+    "reply_settings": "everyone",
+    "text": "被蚊虫叮咬后处理的十种方法。 这个文的目的不仅是用10种方法教你如何处理一个问题，而是用多种思路去解决一个同样的问题。 https://t.co/DhND54zIOV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_1946934762565750786",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwTm2euXUAIgCKu.jpg",
+        "width": 2065
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1946934762565750786"
+          ]
+        },
+        "author_id": "3022697779",
+        "conversation_id": "1946934782098825619",
+        "created_at": "2025-07-20T14:06:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-20T15:06:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1946934782098825619"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DhND54zIOV",
+              "end": 83,
+              "expanded_url": "https://x.com/RXdruglab/status/1946934782098825619/photo/1",
+              "media_key": "3_1946934762565750786",
+              "start": 60,
+              "url": "https://t.co/DhND54zIOV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946934782098825619",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 2796,
+          "like_count": 31,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "被蚊虫叮咬后处理的十种方法。 这个文的目的不仅是用10种方法教你如何处理一个问题，而是用多种思路去解决一个同样的问题。 https://t.co/DhND54zIOV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-02-16T15:27:54.000Z",
+        "description": "本不一定什么时候就没，请添加下方网址的telegram频道以获得持续更新。\n以禁毒、法律教育及损害减少（harm reduction）为目的，通过非世俗及去道德的理念，追求真实的知识与反馈。除替代为目的，部分良性物质，以及特殊情况下的损害减少，不推荐任何人摄入我提及的物质。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/XDrugLab",
+                "end": 23,
+                "expanded_url": "https://t.me/XDrugLab",
+                "start": 0,
+                "url": "https://t.co/KMcpbSmDcL"
+              }
+            ]
+          }
+        },
+        "id": "3022697779",
+        "name": "药物实验室",
+        "pinned_tweet_id": "1917542345039569145",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854259369203879954/nxgmCDHX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15322,
+          "following_count": 16,
+          "like_count": 34,
+          "listed_count": 14,
+          "media_count": 44,
+          "tweet_count": 1073
+        },
+        "url": "https://t.co/KMcpbSmDcL",
+        "username": "RXdruglab",
+        "verified": false
+      }
+    ]
+  }
+}

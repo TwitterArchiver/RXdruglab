@@ -1,0 +1,154 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "3022697779",
+    "conversation_id": "1934496819981234527",
+    "created_at": "2025-06-16T06:23:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-16T07:23:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1934497064232398988"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1934497064232398988",
+    "in_reply_to_user_id": "3022697779",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1934496819981234527",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "一定要承认“坏种”的存在，有些人就是这样的人。\n但是坏种不一定就会成为坏人，我见过很多从小很坏，但是因为家庭教育原因后天变得很好的人。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3022697779",
+        "conversation_id": "1934496819981234527",
+        "created_at": "2025-06-16T06:23:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-16T07:23:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1934497064232398988"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1934497064232398988",
+        "in_reply_to_user_id": "3022697779",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1934496819981234527",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "一定要承认“坏种”的存在，有些人就是这样的人。\n但是坏种不一定就会成为坏人，我见过很多从小很坏，但是因为家庭教育原因后天变得很好的人。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3022697779",
+        "conversation_id": "1934496819981234527",
+        "created_at": "2025-06-16T06:22:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-16T07:22:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1934496819981234527"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1934496819981234527",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在互联网上能看到很多“A娃焦虑”──也就是对自己患有ADHD的孩子感到焦虑──的家长，甚至把孩子的一切行为都归结于ADHD，实际上这是完全错误甚至愚蠢的，ADHD不会影响先天人格，更不可能在10岁前就因为ADHD变成了糟糕人格。那么实际上孩子的一切恶劣行为，要么是家长没教育好，要么是孩子就是个坏种。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-02-16T15:27:54.000Z",
+        "description": "本不一定什么时候就没，请添加下方网址的telegram频道以获得持续更新。\n以禁毒、法律教育及损害减少（harm reduction）为目的，通过非世俗及去道德的理念，追求真实的知识与反馈。除替代为目的，部分良性物质，以及特殊情况下的损害减少，不推荐任何人摄入我提及的物质。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/XDrugLab",
+                "end": 23,
+                "expanded_url": "https://t.me/XDrugLab",
+                "start": 0,
+                "url": "https://t.co/KMcpbSmDcL"
+              }
+            ]
+          }
+        },
+        "id": "3022697779",
+        "name": "药物实验室",
+        "pinned_tweet_id": "1917542345039569145",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854259369203879954/nxgmCDHX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15190,
+          "following_count": 17,
+          "like_count": 32,
+          "listed_count": 12,
+          "media_count": 45,
+          "tweet_count": 1052
+        },
+        "url": "https://t.co/KMcpbSmDcL",
+        "username": "RXdruglab",
+        "verified": false
+      }
+    ]
+  }
+}

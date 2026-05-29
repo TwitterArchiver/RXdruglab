@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "3022697779",
+    "conversation_id": "1887546770865148302",
+    "created_at": "2025-02-07T10:41:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-07T11:41:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1887814006968291342"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1812463896378408960",
+          "start": 0,
+          "username": "81986w"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1887814006968291342",
+    "in_reply_to_user_id": "1812463896378408960",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1887798196170289248",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@81986w 胶囊是保持完整一段时间后立刻释放，片剂是相对慢速释放。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3022697779",
+        "conversation_id": "1887546770865148302",
+        "created_at": "2025-02-07T10:41:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-07T11:41:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1887814006968291342"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1812463896378408960",
+              "start": 0,
+              "username": "81986w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1887814006968291342",
+        "in_reply_to_user_id": "1812463896378408960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1887798196170289248",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@81986w 胶囊是保持完整一段时间后立刻释放，片剂是相对慢速释放。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1812463896378408960",
+        "conversation_id": "1887546770865148302",
+        "created_at": "2025-02-07T09:38:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-07T10:38:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1887798196170289248"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "3022697779",
+              "start": 0,
+              "username": "RXdruglab"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1887798196170289248",
+        "in_reply_to_user_id": "3022697779",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1887546770865148302",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RXdruglab 有些胶囊是肠溶胶囊 需要注意这个\n并且胶囊释放好像并不会加快药物释放，市面上的大部分胶囊类型都是保护胃肠道的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-02-16T15:27:54.000Z",
+        "description": "本不一定什么时候就没，请添加下方网址的telegram频道以获得持续更新。\n以禁毒、法律教育及损害减少（harm reduction）为目的，通过非世俗及去道德的理念，追求真实的知识与反馈。除替代为目的，部分良性物质，以及特殊情况下的损害减少，不推荐任何人摄入我提及的物质。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/XDrugLab",
+                "end": 23,
+                "expanded_url": "https://t.me/XDrugLab",
+                "start": 0,
+                "url": "https://t.co/KMcpbSmDcL"
+              }
+            ]
+          }
+        },
+        "id": "3022697779",
+        "name": "药物实验室",
+        "pinned_tweet_id": "1861564676557152611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854259369203879954/nxgmCDHX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11672,
+          "following_count": 15,
+          "like_count": 11,
+          "listed_count": 10,
+          "media_count": 21,
+          "tweet_count": 628
+        },
+        "url": "https://t.co/KMcpbSmDcL",
+        "username": "RXdruglab",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-14T12:27:35.000Z",
+        "description": "不拉黑他人 不反中共不反民进党不反国民党不反美不反日不反欧 只反傻逼和邪教，破防请自觉拉黑避免被我打脸",
+        "id": "1812463896378408960",
+        "name": "夏凌源",
+        "pinned_tweet_id": "1886888293012529291",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1883506094494064641/lRpf38VF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 38,
+          "like_count": 333,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 503
+        },
+        "username": "81986w",
+        "verified": false
+      }
+    ]
+  }
+}

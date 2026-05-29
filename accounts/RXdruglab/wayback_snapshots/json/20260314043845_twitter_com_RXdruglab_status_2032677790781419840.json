@@ -1,0 +1,327 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "3022697779",
+    "conversation_id": "2032475028655407593",
+    "created_at": "2026-03-14T04:38:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-14T05:38:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032677790781419840"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "525304287",
+          "start": 0,
+          "username": "HiFrey"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032677790781419840",
+    "in_reply_to_user_id": "525304287",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032475028655407593",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HiFrey 3b都费劲，内存也不够吧应该。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3377,
+        "media_key": "3_2032475019205574656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDTNQu6agAAFypT.jpg",
+        "width": 3377
+      },
+      {
+        "height": 2585,
+        "media_key": "3_2032475019167907840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDTNQuxbwAAIAeX.jpg",
+        "width": 2585
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3022697779",
+        "conversation_id": "2032475028655407593",
+        "created_at": "2026-03-14T04:38:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T05:38:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032677790781419840"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "525304287",
+              "start": 0,
+              "username": "HiFrey"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032677790781419840",
+        "in_reply_to_user_id": "525304287",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032475028655407593",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HiFrey 3b都费劲，内存也不够吧应该。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2032475019205574656",
+            "3_2032475019167907840"
+          ]
+        },
+        "author_id": "525304287",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2032475028655407593",
+        "created_at": "2026-03-13T15:13:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T16:13:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032475028655407593"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Hju5693YsR",
+              "end": 138,
+              "expanded_url": "https://x.com/HiFrey/status/2032475028655407593/photo/1",
+              "media_key": "3_2032475019205574656",
+              "start": 115,
+              "url": "https://t.co/Hju5693YsR"
+            },
+            {
+              "display_url": "pic.x.com/Hju5693YsR",
+              "end": 138,
+              "expanded_url": "https://x.com/HiFrey/status/2032475028655407593/photo/1",
+              "media_key": "3_2032475019167907840",
+              "start": 115,
+              "url": "https://t.co/Hju5693YsR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032475028655407593",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 68,
+          "impression_count": 27988,
+          "like_count": 77,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "买了个小玩具，nanopi R6C，这小东西真强，竟然有6TOPS的算力，完全够跑本地小模型了，先把用了5年多的J4105软路由给换掉，后续再慢慢折腾这个小东西。就是现在内存硬盘涨价，导致这些开发板也涨价的厉害，没有什么性价比。 https://t.co/Hju5693YsR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-02-16T15:27:54.000Z",
+        "description": "本不一定什么时候就没，请添加下方网址的telegram频道以获得持续更新。\n以禁毒、法律教育及损害减少（harm reduction）为目的，通过非世俗及去道德的理念，追求真实的知识与反馈。除替代为目的，部分良性物质，以及特殊情况下的损害减少，不推荐任何人摄入我提及的物质。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/XDrugLab",
+                "end": 23,
+                "expanded_url": "https://t.me/XDrugLab",
+                "start": 0,
+                "url": "https://t.co/KMcpbSmDcL"
+              }
+            ]
+          }
+        },
+        "id": "3022697779",
+        "name": "药物实验室",
+        "pinned_tweet_id": "1917542345039569145",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854259369203879954/nxgmCDHX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19070,
+          "following_count": 16,
+          "like_count": 32,
+          "listed_count": 24,
+          "media_count": 53,
+          "tweet_count": 1581
+        },
+        "url": "https://t.co/KMcpbSmDcL",
+        "username": "RXdruglab",
+        "verified": false
+      },
+      {
+        "created_at": "2012-03-15T11:58:29.000Z",
+        "description": "迎面吹来那自由的风！\nhttps://t.co/Z4gkEb0Nto   https://t.co/xkSZtZhgUl  URL shortener\nhttps://t.co/shHivlzYOZ   Whois lookup\nhttps://t.co/m4gyKtmAzD   Free PDF tools\nhttps://t.co/d2Tppm3UeB  Favicon API\nhttps://t.co/Y0UOJ7VHOd  URL redirect checker\nhttps://t.co/87CS6KmfN5  Temp mail",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "T.im",
+                "end": 34,
+                "expanded_url": "http://T.im",
+                "start": 11,
+                "url": "https://t.co/Z4gkEb0Nto"
+              },
+              {
+                "display_url": "T.mr",
+                "end": 60,
+                "expanded_url": "http://T.mr",
+                "start": 37,
+                "url": "https://t.co/xkSZtZhgUl"
+              },
+              {
+                "display_url": "W.is",
+                "end": 99,
+                "expanded_url": "http://W.is",
+                "start": 76,
+                "url": "https://t.co/shHivlzYOZ"
+              },
+              {
+                "display_url": "PDF.is",
+                "end": 138,
+                "expanded_url": "http://PDF.is",
+                "start": 115,
+                "url": "https://t.co/m4gyKtmAzD"
+              },
+              {
+                "display_url": "Favicon.is",
+                "end": 179,
+                "expanded_url": "http://Favicon.is",
+                "start": 156,
+                "url": "https://t.co/d2Tppm3UeB"
+              },
+              {
+                "display_url": "Trueurl.com",
+                "end": 216,
+                "expanded_url": "http://Trueurl.com",
+                "start": 193,
+                "url": "https://t.co/Y0UOJ7VHOd"
+              },
+              {
+                "display_url": "MR.email",
+                "end": 262,
+                "expanded_url": "http://MR.email",
+                "start": 239,
+                "url": "https://t.co/87CS6KmfN5"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ip.im",
+                "end": 23,
+                "expanded_url": "http://ip.im",
+                "start": 0,
+                "url": "https://t.co/iKicWr6xdz"
+              }
+            ]
+          }
+        },
+        "id": "525304287",
+        "location": "china",
+        "name": "Frey轰轰",
+        "pinned_tweet_id": "2022565962738737369",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/761510836707794944/rOV-fm0A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21549,
+          "following_count": 681,
+          "like_count": 2230,
+          "listed_count": 120,
+          "media_count": 489,
+          "tweet_count": 5790
+        },
+        "url": "https://t.co/iKicWr6xdz",
+        "username": "HiFrey",
+        "verified": true
+      }
+    ]
+  }
+}

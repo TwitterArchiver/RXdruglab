@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "3022697779",
+    "conversation_id": "1899797598640193647",
+    "created_at": "2026-03-21T09:55:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-21T10:55:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035294267732832637"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1763535824719929344",
+          "start": 0,
+          "username": "xx4805323512706"
+        },
+        {
+          "end": 30,
+          "id": "955686752940834816",
+          "start": 17,
+          "username": "QIANsleep777"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035294267732832637",
+    "in_reply_to_user_id": "1763535824719929344",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035291927105691761",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xx4805323512706 @QIANsleep777 应该会，但是愈美是合法的。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3022697779",
+        "conversation_id": "1899797598640193647",
+        "created_at": "2026-03-21T09:55:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-21T10:55:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035294267732832637"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1763535824719929344",
+              "start": 0,
+              "username": "xx4805323512706"
+            },
+            {
+              "end": 30,
+              "id": "955686752940834816",
+              "start": 17,
+              "username": "QIANsleep777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035294267732832637",
+        "in_reply_to_user_id": "1763535824719929344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035291927105691761",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xx4805323512706 @QIANsleep777 应该会，但是愈美是合法的。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1763535824719929344",
+        "conversation_id": "1899797598640193647",
+        "created_at": "2026-03-21T09:46:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-21T10:46:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035291927105691761"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "955686752940834816",
+              "start": 0,
+              "username": "QIANsleep777"
+            },
+            {
+              "end": 24,
+              "id": "3022697779",
+              "start": 14,
+              "username": "RXdruglab"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035291927105691761",
+        "in_reply_to_user_id": "955686752940834816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026991887815737839",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QIANsleep777 @RXdruglab 你好想问一下，我被头发检测了，49天内，我共吃了58粒愚美片，共计0.87g右美沙芬，会被检测出头发阳性吗。时间是1月31日吃了8，2月4吃了4，2月13吃了10，2月20吃了10，2月21吃了12，3月13吃了14，3月20日被头发检测，希望能得到你的回复，谢谢你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-02-16T15:27:54.000Z",
+        "description": "本不一定什么时候就没，请添加下方网址的telegram频道以获得持续更新。\n以禁毒、法律教育及损害减少（harm reduction）为目的，通过非世俗及去道德的理念，追求真实的知识与反馈。除替代为目的，部分良性物质，以及特殊情况下的损害减少，不推荐任何人摄入我提及的物质。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/XDrugLab",
+                "end": 23,
+                "expanded_url": "https://t.me/XDrugLab",
+                "start": 0,
+                "url": "https://t.co/KMcpbSmDcL"
+              }
+            ]
+          }
+        },
+        "id": "3022697779",
+        "name": "药物实验室",
+        "pinned_tweet_id": "1917542345039569145",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854259369203879954/nxgmCDHX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19034,
+          "following_count": 16,
+          "like_count": 34,
+          "listed_count": 24,
+          "media_count": 53,
+          "tweet_count": 1600
+        },
+        "url": "https://t.co/KMcpbSmDcL",
+        "username": "RXdruglab",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-01T12:04:48.000Z",
+        "description": "",
+        "id": "1763535824719929344",
+        "name": "djwisi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919633610547855364/KLqzQAVj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 59,
+          "like_count": 7,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 23
+        },
+        "username": "xx4805323512706",
+        "verified": false
+      },
+      {
+        "created_at": "2018-01-23T06:20:52.000Z",
+        "description": "ようこそボクの感情のゴミ箱！ 恋人:@Ange_Katrina_ と@midori_2434 神様:@jam_madmed",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 18,
+                "username": "Ange_Katrina_"
+              },
+              {
+                "end": 46,
+                "start": 34,
+                "username": "midori_2434"
+              },
+              {
+                "end": 61,
+                "start": 50,
+                "username": "jam_madmed"
+              }
+            ]
+          }
+        },
+        "id": "955686752940834816",
+        "location": "天堂",
+        "name": "蜜柑アレルギー",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1682476037429686272/TmKnOSIa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 487,
+          "like_count": 8228,
+          "listed_count": 2,
+          "media_count": 235,
+          "tweet_count": 4939
+        },
+        "username": "QIANsleep777",
+        "verified": false
+      }
+    ]
+  }
+}

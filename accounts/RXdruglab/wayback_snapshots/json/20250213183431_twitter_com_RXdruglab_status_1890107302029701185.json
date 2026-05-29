@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "3022697779",
+    "conversation_id": "1885262359037694333",
+    "created_at": "2025-02-13T18:34:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-13T19:34:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1890107302029701185"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1835916332447199232",
+          "start": 0,
+          "username": "C173F263Y084"
+        },
+        {
+          "end": 28,
+          "id": "1858396685954899968",
+          "start": 14,
+          "username": "yaoyaobabe219"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1890107302029701185",
+    "in_reply_to_user_id": "1835916332447199232",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1890103413620531478",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@C173F263Y084 @yaoyaobabe219 不是，大麻有合法和非法两个渠道。\n有人非法种大麻进去了。有合法种大麻的和监狱联系，让这些非法种大麻的人在监狱里种大麻然后合法地拿去卖。所得的利润的一部分，让合法经营监狱大麻的人，拿来为那些因为非法种大麻而进去的人提供法律援助。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3022697779",
+        "conversation_id": "1885262359037694333",
+        "created_at": "2025-02-13T18:34:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-13T19:34:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1890107302029701185"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1835916332447199232",
+              "start": 0,
+              "username": "C173F263Y084"
+            },
+            {
+              "end": 28,
+              "id": "1858396685954899968",
+              "start": 14,
+              "username": "yaoyaobabe219"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1890107302029701185",
+        "in_reply_to_user_id": "1835916332447199232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1890103413620531478",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@C173F263Y084 @yaoyaobabe219 不是，大麻有合法和非法两个渠道。\n有人非法种大麻进去了。有合法种大麻的和监狱联系，让这些非法种大麻的人在监狱里种大麻然后合法地拿去卖。所得的利润的一部分，让合法经营监狱大麻的人，拿来为那些因为非法种大麻而进去的人提供法律援助。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1835916332447199232",
+        "conversation_id": "1885262359037694333",
+        "created_at": "2025-02-13T18:19:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-13T19:19:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1890103413620531478"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1858396685954899968",
+              "start": 0,
+              "username": "yaoyaobabe219"
+            },
+            {
+              "end": 25,
+              "id": "3022697779",
+              "start": 15,
+              "username": "RXdruglab"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1890103413620531478",
+        "in_reply_to_user_id": "1858396685954899968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1885303992617767365",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yaoyaobabe219 @RXdruglab 因为非法种大麻进去了，所以种合法大麻减刑，应该是这个意思"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-02-16T15:27:54.000Z",
+        "description": "本不一定什么时候就没，请添加下方网址的telegram频道以获得持续更新。\n以禁毒、法律教育及损害减少（harm reduction）为目的，通过非世俗及去道德的理念，追求真实的知识与反馈。除替代为目的，部分良性物质，以及特殊情况下的损害减少，不推荐任何人摄入我提及的物质。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/XDrugLab",
+                "end": 23,
+                "expanded_url": "https://t.me/XDrugLab",
+                "start": 0,
+                "url": "https://t.co/KMcpbSmDcL"
+              }
+            ]
+          }
+        },
+        "id": "3022697779",
+        "name": "药物实验室",
+        "pinned_tweet_id": "1861564676557152611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854259369203879954/nxgmCDHX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11839,
+          "following_count": 18,
+          "like_count": 12,
+          "listed_count": 10,
+          "media_count": 22,
+          "tweet_count": 650
+        },
+        "url": "https://t.co/KMcpbSmDcL",
+        "username": "RXdruglab",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-17T05:39:45.000Z",
+        "description": "懒狗大学生一个，喜欢拍拍照片。",
+        "id": "1835916332447199232",
+        "location": "青羊区快活村 Tel:12339",
+        "name": "崔奉壹",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1836261422113890305/8OkSLq-P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 335,
+          "like_count": 170,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 514
+        },
+        "username": "C173F263Y084",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-18T06:28:15.000Z",
+        "description": "📍沈阳 /07/♓️/🚪99",
+        "id": "1858396685954899968",
+        "location": "距你1.6km",
+        "name": "幺鸡",
+        "pinned_tweet_id": "1873730926720762089",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1858396847880142848/uohQi8BV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 932,
+          "following_count": 30,
+          "like_count": 1203,
+          "listed_count": 0,
+          "media_count": 292,
+          "tweet_count": 572
+        },
+        "username": "yaoyaobabe219",
+        "verified": false
+      }
+    ]
+  }
+}

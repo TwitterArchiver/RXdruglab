@@ -1,0 +1,154 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "3022697779",
+    "conversation_id": "2014342761718469030",
+    "created_at": "2026-01-22T14:21:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-22T15:21:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014342763672953311"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2014342763672953311",
+    "in_reply_to_user_id": "3022697779",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014342761718469030",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "看单有打氟比洛芬酯注射液，事后吃了一粒洛芬待因，全程及事后没有明显痛感，最疼的时候是放滞留针。没有手术恐惧感。不过我的牙并非阻生，也比较好拔。\n阻滞麻醉用麻药是阿替卡因肾上腺素注射液，没听说过。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3022697779",
+        "conversation_id": "2014342761718469030",
+        "created_at": "2026-01-22T14:21:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-22T15:21:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014342763672953311"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2014342763672953311",
+        "in_reply_to_user_id": "3022697779",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014342761718469030",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "看单有打氟比洛芬酯注射液，事后吃了一粒洛芬待因，全程及事后没有明显痛感，最疼的时候是放滞留针。没有手术恐惧感。不过我的牙并非阻生，也比较好拔。\n阻滞麻醉用麻药是阿替卡因肾上腺素注射液，没听说过。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3022697779",
+        "conversation_id": "2014342761718469030",
+        "created_at": "2026-01-22T14:21:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-22T15:21:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014342761718469030"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2014342761718469030",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天早上智齿持续疼，所以就挂了个上午的号去拔牙了。\n特意选的舒适化拔牙。躺下后注射瑞马唑仑，很快人就迷迷糊糊的了，有轻微闭眼幻觉。过了一会儿感觉到有人在嘴里打针，疼一下，有点苦，让医生把液体吸走。\n又过了一会儿感觉到医生在嘴里操作，有感觉但是不疼，还没有心理变化的时候就拔好了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-02-16T15:27:54.000Z",
+        "description": "本不一定什么时候就没，请添加下方网址的telegram频道以获得持续更新。\n以禁毒、法律教育及损害减少（harm reduction）为目的，通过非世俗及去道德的理念，追求真实的知识与反馈。除替代为目的，部分良性物质，以及特殊情况下的损害减少，不推荐任何人摄入我提及的物质。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/XDrugLab",
+                "end": 23,
+                "expanded_url": "https://t.me/XDrugLab",
+                "start": 0,
+                "url": "https://t.co/KMcpbSmDcL"
+              }
+            ]
+          }
+        },
+        "id": "3022697779",
+        "name": "药物实验室",
+        "pinned_tweet_id": "1917542345039569145",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854259369203879954/nxgmCDHX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17319,
+          "following_count": 19,
+          "like_count": 28,
+          "listed_count": 20,
+          "media_count": 52,
+          "tweet_count": 1470
+        },
+        "url": "https://t.co/KMcpbSmDcL",
+        "username": "RXdruglab",
+        "verified": false
+      }
+    ]
+  }
+}

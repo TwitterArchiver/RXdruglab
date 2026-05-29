@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "3022697779",
+    "conversation_id": "1969042270813819381",
+    "created_at": "2025-10-11T22:21:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-11T23:21:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1977137573479989272"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1944461657209765888",
+          "start": 0,
+          "username": "LoveZ_xxxx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977137573479989272",
+    "in_reply_to_user_id": "1944461657209765888",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977120998303711505",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LoveZ_xxxx 找我买一瓶吧，100块钱就有100粒，不用吃几十片药片，一片就够了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3022697779",
+        "conversation_id": "1969042270813819381",
+        "created_at": "2025-10-11T22:21:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-11T23:21:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977137573479989272"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1944461657209765888",
+              "start": 0,
+              "username": "LoveZ_xxxx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977137573479989272",
+        "in_reply_to_user_id": "1944461657209765888",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977120998303711505",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LoveZ_xxxx 找我买一瓶吧，100块钱就有100粒，不用吃几十片药片，一片就够了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1944461657209765888",
+        "conversation_id": "1969042270813819381",
+        "created_at": "2025-10-11T21:15:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-11T22:15:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977120998303711505"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "3022697779",
+              "start": 0,
+              "username": "RXdruglab"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977120998303711505",
+        "in_reply_to_user_id": "3022697779",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969042270813819381",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RXdruglab 太好了这是真有用的知识 过几天试一下"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-02-16T15:27:54.000Z",
+        "description": "本不一定什么时候就没，请添加下方网址的telegram频道以获得持续更新。\n以禁毒、法律教育及损害减少（harm reduction）为目的，通过非世俗及去道德的理念，追求真实的知识与反馈。除替代为目的，部分良性物质，以及特殊情况下的损害减少，不推荐任何人摄入我提及的物质。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/XDrugLab",
+                "end": 23,
+                "expanded_url": "https://t.me/XDrugLab",
+                "start": 0,
+                "url": "https://t.co/KMcpbSmDcL"
+              }
+            ]
+          }
+        },
+        "id": "3022697779",
+        "name": "药物实验室",
+        "pinned_tweet_id": "1917542345039569145",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854259369203879954/nxgmCDHX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16099,
+          "following_count": 18,
+          "like_count": 40,
+          "listed_count": 18,
+          "media_count": 52,
+          "tweet_count": 1266
+        },
+        "url": "https://t.co/KMcpbSmDcL",
+        "username": "RXdruglab",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-13T18:19:30.000Z",
+        "description": "爱慕口吻对象皆是我担",
+        "id": "1944461657209765888",
+        "name": "mimimi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965012664893190144/htcbs3kg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 48,
+          "like_count": 260,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 109
+        },
+        "username": "LoveZ_xxxx",
+        "verified": false
+      }
+    ]
+  }
+}

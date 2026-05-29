@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "3022697779",
+    "conversation_id": "1985716625035968618",
+    "created_at": "2025-11-04T14:31:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-04T15:31:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1985716625035968618"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/BelovedUren896…",
+          "end": 116,
+          "expanded_url": "https://twitter.com/BelovedUren8964/status/1985684542133555627",
+          "start": 93,
+          "url": "https://t.co/Ejxk2exefj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985716625035968618",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985684542133555627",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "用哲学（尤其是马哲）去指导科学，最终只会充满错误。科学本身就是一种方法论，不需要再用莫名其妙的不相关哲学去指导。\n有些药物在正常剂量下它就是没有副作用的。（没有说月尘没有副作用的意思） https://t.co/Ejxk2exefj"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3022697779",
+        "conversation_id": "1985716625035968618",
+        "created_at": "2025-11-04T14:31:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-04T15:31:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1985716625035968618"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/BelovedUren896…",
+              "end": 116,
+              "expanded_url": "https://twitter.com/BelovedUren8964/status/1985684542133555627",
+              "start": 93,
+              "url": "https://t.co/Ejxk2exefj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985716625035968618",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985684542133555627",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "用哲学（尤其是马哲）去指导科学，最终只会充满错误。科学本身就是一种方法论，不需要再用莫名其妙的不相关哲学去指导。\n有些药物在正常剂量下它就是没有副作用的。（没有说月尘没有副作用的意思） https://t.co/Ejxk2exefj"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1484072544009347072",
+        "conversation_id": "1985684542133555627",
+        "created_at": "2025-11-04T12:24:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-04T13:24:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1985684542133555627"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1985684542133555627",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 800,
+          "like_count": 11,
+          "quote_count": 5,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "一切药物都是一分为二，对立统一。药物总是有两个对立面。你们月尘如果只有完全的解离，没有副作用，就不符合实际。全世界的药都分裂嘛。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-02-16T15:27:54.000Z",
+        "description": "本不一定什么时候就没，请添加下方网址的telegram频道以获得持续更新。\n以禁毒、法律教育及损害减少（harm reduction）为目的，通过非世俗及去道德的理念，追求真实的知识与反馈。除替代为目的，部分良性物质，以及特殊情况下的损害减少，不推荐任何人摄入我提及的物质。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/XDrugLab",
+                "end": 23,
+                "expanded_url": "https://t.me/XDrugLab",
+                "start": 0,
+                "url": "https://t.co/KMcpbSmDcL"
+              }
+            ]
+          }
+        },
+        "id": "3022697779",
+        "name": "药物实验室",
+        "pinned_tweet_id": "1917542345039569145",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854259369203879954/nxgmCDHX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16201,
+          "following_count": 18,
+          "like_count": 20,
+          "listed_count": 20,
+          "media_count": 52,
+          "tweet_count": 1290
+        },
+        "url": "https://t.co/KMcpbSmDcL",
+        "username": "RXdruglab",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-20T07:57:36.000Z",
+        "description": "叫我雨怜，我是善良猫猫。 无性别者/💊oder 我支持为OD正名/这还用说吗，我是汉奸哪🇯🇵 / #台湾は国です🇹🇼 / 反男反女反跨反人类反一切/支那人没有一个是无辜的/Soulmate 真正的知音 忘れられないの:@Psych_Angel_",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 56,
+                "start": 49,
+                "tag": "台湾は国です"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 122,
+                "start": 109,
+                "username": "Psych_Angel_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/uren68329",
+                "end": 23,
+                "expanded_url": "https://ngl.link/uren68329",
+                "start": 0,
+                "url": "https://t.co/DgJHLTrKH9"
+              }
+            ]
+          }
+        },
+        "id": "1484072544009347072",
+        "location": "Shinjuku-ku, Tokyo",
+        "name": "滨边雨怜会成为真正的传奇",
+        "pinned_tweet_id": "1808346704829468916",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984506531275300864/Xx-IuiTo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 309,
+          "following_count": 509,
+          "like_count": 4613,
+          "listed_count": 1,
+          "media_count": 370,
+          "tweet_count": 3375
+        },
+        "url": "https://t.co/DgJHLTrKH9",
+        "username": "BelovedUren8964",
+        "verified": false
+      }
+    ]
+  }
+}

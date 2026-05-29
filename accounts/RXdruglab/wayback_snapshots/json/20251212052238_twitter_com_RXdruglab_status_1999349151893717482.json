@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "3022697779",
+    "conversation_id": "1999201550544351339",
+    "created_at": "2025-12-12T05:22:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-12T06:22:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999349151893717482"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1630760683813093376",
+          "start": 0,
+          "username": "niqusibahahahah"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999349151893717482",
+    "in_reply_to_user_id": "1630760683813093376",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999343892861460496",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@niqusibahahahah 有些确实会有影响，但是并不是什么夸张的影响。不是说喝了没效果的意思，就是不会叠加得很夸张。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3022697779",
+        "conversation_id": "1999201550544351339",
+        "created_at": "2025-12-12T05:22:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T06:22:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999349151893717482"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1630760683813093376",
+              "start": 0,
+              "username": "niqusibahahahah"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999349151893717482",
+        "in_reply_to_user_id": "1630760683813093376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999343892861460496",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@niqusibahahahah 有些确实会有影响，但是并不是什么夸张的影响。不是说喝了没效果的意思，就是不会叠加得很夸张。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1630760683813093376",
+        "conversation_id": "1999201550544351339",
+        "created_at": "2025-12-12T05:01:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T06:01:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999343892861460496"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "3022697779",
+              "start": 0,
+              "username": "RXdruglab"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999343892861460496",
+        "in_reply_to_user_id": "3022697779",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999201550544351339",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RXdruglab 但是只靠酒精和咖啡因甚至副作用还更小作用，作用还更大…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-02-16T15:27:54.000Z",
+        "description": "本不一定什么时候就没，请添加下方网址的telegram频道以获得持续更新。\n以禁毒、法律教育及损害减少（harm reduction）为目的，通过非世俗及去道德的理念，追求真实的知识与反馈。除替代为目的，部分良性物质，以及特殊情况下的损害减少，不推荐任何人摄入我提及的物质。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/XDrugLab",
+                "end": 23,
+                "expanded_url": "https://t.me/XDrugLab",
+                "start": 0,
+                "url": "https://t.co/KMcpbSmDcL"
+              }
+            ]
+          }
+        },
+        "id": "3022697779",
+        "name": "药物实验室",
+        "pinned_tweet_id": "1917542345039569145",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854259369203879954/nxgmCDHX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16821,
+          "following_count": 18,
+          "like_count": 23,
+          "listed_count": 21,
+          "media_count": 52,
+          "tweet_count": 1397
+        },
+        "url": "https://t.co/KMcpbSmDcL",
+        "username": "RXdruglab",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-01T02:43:59.000Z",
+        "description": "不约炮     所有还没发生的事情都是假的，所有发生的事情都只是发生的那样 🚪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "patreon.com/ZhenDeanna",
+                "end": 23,
+                "expanded_url": "http://patreon.com/ZhenDeanna",
+                "start": 0,
+                "url": "https://t.co/caLMpDu90u"
+              }
+            ]
+          }
+        },
+        "id": "1630760683813093376",
+        "name": "兔子",
+        "pinned_tweet_id": "1993461091817734344",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933585311566884864/gvQduPV5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1228,
+          "following_count": 299,
+          "like_count": 292,
+          "listed_count": 3,
+          "media_count": 67,
+          "tweet_count": 338
+        },
+        "url": "https://t.co/caLMpDu90u",
+        "username": "niqusibahahahah",
+        "verified": false
+      }
+    ]
+  }
+}

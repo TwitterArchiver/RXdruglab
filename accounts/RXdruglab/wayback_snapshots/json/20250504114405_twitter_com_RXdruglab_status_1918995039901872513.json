@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "3022697779",
+    "conversation_id": "1918990921980359079",
+    "created_at": "2025-05-04T11:44:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-04T12:44:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1918995039901872513"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1695830828461514752",
+          "start": 0,
+          "username": "MukugeOvO"
+        },
+        {
+          "end": 27,
+          "id": "937460143910014976",
+          "start": 11,
+          "username": "Someonesxiaohao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1918995039901872513",
+    "in_reply_to_user_id": "1695830828461514752",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1918994964924473812",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MukugeOvO @Someonesxiaohao 我吃着是一点用都没有。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3022697779",
+        "conversation_id": "1918990921980359079",
+        "created_at": "2025-05-04T11:44:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-04T12:44:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1918995039901872513"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1695830828461514752",
+              "start": 0,
+              "username": "MukugeOvO"
+            },
+            {
+              "end": 27,
+              "id": "937460143910014976",
+              "start": 11,
+              "username": "Someonesxiaohao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1918995039901872513",
+        "in_reply_to_user_id": "1695830828461514752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1918994964924473812",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MukugeOvO @Someonesxiaohao 我吃着是一点用都没有。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695830828461514752",
+        "conversation_id": "1918990921980359079",
+        "created_at": "2025-05-04T11:43:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-04T12:43:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1918994964924473812"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "937460143910014976",
+              "start": 0,
+              "username": "Someonesxiaohao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1918994964924473812",
+        "in_reply_to_user_id": "937460143910014976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1918990921980359079",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Someonesxiaohao 蓝睡莲如何呢，也能诱导清醒梦"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-02-16T15:27:54.000Z",
+        "description": "本不一定什么时候就没，请添加下方网址的telegram频道以获得持续更新。\n以禁毒、法律教育及损害减少（harm reduction）为目的，通过非世俗及去道德的理念，追求真实的知识与反馈。除替代为目的，部分良性物质，以及特殊情况下的损害减少，不推荐任何人摄入我提及的物质。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/XDrugLab",
+                "end": 23,
+                "expanded_url": "https://t.me/XDrugLab",
+                "start": 0,
+                "url": "https://t.co/KMcpbSmDcL"
+              }
+            ]
+          }
+        },
+        "id": "3022697779",
+        "name": "药物实验室",
+        "pinned_tweet_id": "1917542345039569145",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854259369203879954/nxgmCDHX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14789,
+          "following_count": 18,
+          "like_count": 26,
+          "listed_count": 12,
+          "media_count": 39,
+          "tweet_count": 959
+        },
+        "url": "https://t.co/KMcpbSmDcL",
+        "username": "RXdruglab",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-27T16:09:20.000Z",
+        "description": "无药可救之人の咸鱼碎碎念",
+        "id": "1695830828461514752",
+        "location": "Synthwave",
+        "name": "小根=^._.^=",
+        "pinned_tweet_id": "1884865691209367616",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1865286330596704256/-t1a9n7A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59,
+          "following_count": 274,
+          "like_count": 5040,
+          "listed_count": 0,
+          "media_count": 170,
+          "tweet_count": 1228
+        },
+        "username": "MukugeOvO",
+        "verified": false
+      },
+      {
+        "created_at": "2017-12-03T23:14:50.000Z",
+        "description": "有购买需求的可以关注。\n防失联可以加主号置顶的telegram频道。",
+        "id": "937460143910014976",
+        "name": "药室销售频道",
+        "pinned_tweet_id": "1880527578190233681",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1891884010948726791/HCvyKg8T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 867,
+          "following_count": 1,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 22
+        },
+        "username": "Someonesxiaohao",
+        "verified": false
+      }
+    ]
+  }
+}

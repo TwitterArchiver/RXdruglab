@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "3022697779",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+          "id": "1552291412820893697",
+          "name": "Education Business"
+        }
+      }
+    ],
+    "conversation_id": "2045203988694610005",
+    "created_at": "2026-04-17T18:13:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-17T19:13:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2045203988694610005"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/bing2000100830…",
+          "end": 51,
+          "expanded_url": "https://twitter.com/bing2000100830/status/2044757196463047005",
+          "start": 28,
+          "url": "https://t.co/5jdNYO48gB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045203988694610005",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044757196463047005",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我初中时候在国旗下做过演讲，主题就是国际禁毒日禁毒的。 https://t.co/5jdNYO48gB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2044757173012746240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGBv0LVbUAAZQ-I.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3022697779",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+              "id": "1552291412820893697",
+              "name": "Education Business"
+            }
+          }
+        ],
+        "conversation_id": "2045203988694610005",
+        "created_at": "2026-04-17T18:13:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T19:13:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045203988694610005"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/bing2000100830…",
+              "end": 51,
+              "expanded_url": "https://twitter.com/bing2000100830/status/2044757196463047005",
+              "start": 28,
+              "url": "https://t.co/5jdNYO48gB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045203988694610005",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044757196463047005",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我初中时候在国旗下做过演讲，主题就是国际禁毒日禁毒的。 https://t.co/5jdNYO48gB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044757173012746240"
+          ]
+        },
+        "author_id": "1243590342911410176",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+              "id": "1552291412820893697",
+              "name": "Education Business"
+            }
+          }
+        ],
+        "conversation_id": "2044757196463047005",
+        "created_at": "2026-04-16T12:38:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T13:38:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044757196463047005"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/88eBdkuXnc",
+              "end": 66,
+              "expanded_url": "https://x.com/bing2000100830/status/2044757196463047005/photo/1",
+              "media_key": "3_2044757173012746240",
+              "start": 43,
+              "url": "https://t.co/88eBdkuXnc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044757196463047005",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 22290,
+          "like_count": 328,
+          "quote_count": 3,
+          "reply_count": 33,
+          "retweet_count": 21
+        },
+        "reply_settings": "everyone",
+        "text": "当你拼命往嘴里灌小药水的时候，有没有想过小时候在学校大礼堂看禁毒教育讲座的时候的你？ https://t.co/88eBdkuXnc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-02-16T15:27:54.000Z",
+        "description": "本不一定什么时候就没，请添加下方网址的telegram频道以获得持续更新。\n以禁毒、法律教育及损害减少（harm reduction）为目的，通过非世俗及去道德的理念，追求真实的知识与反馈。除替代为目的，部分良性物质，以及特殊情况下的损害减少，不推荐任何人摄入我提及的物质。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/XDrugLab",
+                "end": 23,
+                "expanded_url": "https://t.me/XDrugLab",
+                "start": 0,
+                "url": "https://t.co/KMcpbSmDcL"
+              }
+            ]
+          }
+        },
+        "id": "3022697779",
+        "name": "药物实验室",
+        "pinned_tweet_id": "1917542345039569145",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854259369203879954/nxgmCDHX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18578,
+          "following_count": 15,
+          "like_count": 35,
+          "listed_count": 22,
+          "media_count": 53,
+          "tweet_count": 1671
+        },
+        "url": "https://t.co/KMcpbSmDcL",
+        "username": "RXdruglab",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "世界还有很多值得我们逃避的东西。  \n💊",
+        "id": "1243590342911410176",
+        "location": "月球",
+        "name": "饼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 509,
+          "following_count": 937,
+          "like_count": 31300,
+          "listed_count": 2,
+          "media_count": 81,
+          "tweet_count": 1816
+        },
+        "username": "bing2000100830",
+        "verified": false
+      }
+    ]
+  }
+}

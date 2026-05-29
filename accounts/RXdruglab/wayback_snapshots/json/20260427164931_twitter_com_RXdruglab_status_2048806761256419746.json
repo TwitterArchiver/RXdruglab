@@ -1,0 +1,107 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "3022697779",
+    "conversation_id": "2048806761256419746",
+    "created_at": "2026-04-27T16:49:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T17:49:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2048806761256419746"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2048806761256419746",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我昨天去沃尔玛了，我发现店里90%以上的食品品牌都是沃尔玛的自有品牌沃集鲜，包括零食，饮料，冰淇淋这种需要高度加工的食品。\n虽然整体上我认为超市利用供应链优势发展自有品牌产品是好的，但是这种大比例的，我觉得还是不好。沃尔玛中国甚至存在因此倒闭的可能。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3022697779",
+        "conversation_id": "2048806761256419746",
+        "created_at": "2026-04-27T16:49:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T17:49:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048806761256419746"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2048806761256419746",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我昨天去沃尔玛了，我发现店里90%以上的食品品牌都是沃尔玛的自有品牌沃集鲜，包括零食，饮料，冰淇淋这种需要高度加工的食品。\n虽然整体上我认为超市利用供应链优势发展自有品牌产品是好的，但是这种大比例的，我觉得还是不好。沃尔玛中国甚至存在因此倒闭的可能。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-02-16T15:27:54.000Z",
+        "description": "本不一定什么时候就没，请添加下方网址的telegram频道以获得持续更新。\n以禁毒、法律教育及损害减少（harm reduction）为目的，通过非世俗及去道德的理念，追求真实的知识与反馈。除替代为目的，部分良性物质，以及特殊情况下的损害减少，不推荐任何人摄入我提及的物质。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/XDrugLab",
+                "end": 23,
+                "expanded_url": "https://t.me/XDrugLab",
+                "start": 0,
+                "url": "https://t.co/KMcpbSmDcL"
+              }
+            ]
+          }
+        },
+        "id": "3022697779",
+        "name": "药物实验室",
+        "pinned_tweet_id": "1917542345039569145",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854259369203879954/nxgmCDHX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19067,
+          "following_count": 16,
+          "like_count": 36,
+          "listed_count": 23,
+          "media_count": 54,
+          "tweet_count": 1693
+        },
+        "url": "https://t.co/KMcpbSmDcL",
+        "username": "RXdruglab",
+        "verified": false
+      }
+    ]
+  }
+}

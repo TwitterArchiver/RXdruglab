@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "3022697779",
+    "conversation_id": "2023846026042634364",
+    "created_at": "2026-02-17T19:44:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-17T20:44:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2023846026042634364"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/aus_mini/statu…",
+          "end": 122,
+          "expanded_url": "https://twitter.com/aus_mini/status/2023704725984796717",
+          "start": 99,
+          "url": "https://t.co/RgCmZc7ARt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023846026042634364",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023704725984796717",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "假的，东莨菪碱没这么厉害，不会顺从。东莨菪碱是谵妄剂，吃了之后谵妄，谵妄是不可控，和顺从没什么关系，失忆的话会有点，剂量更高会昏厥（会不会死亡我也不知道）。这个可以当晕车药，相对来说不是罕见东西。 https://t.co/RgCmZc7ARt"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 680,
+        "media_key": "3_2023703838327533573",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBWj6z4bcAUR4pE.jpg",
+        "width": 680
+      },
+      {
+        "height": 680,
+        "media_key": "3_2023703838340116484",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBWj6z7bcAQcq2O.png",
+        "width": 658
+      },
+      {
+        "height": 680,
+        "media_key": "3_2023703838277201922",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBWj6zsbcAI1AST.png",
+        "width": 614
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3022697779",
+        "conversation_id": "2023846026042634364",
+        "created_at": "2026-02-17T19:44:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T20:44:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023846026042634364"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/aus_mini/statu…",
+              "end": 122,
+              "expanded_url": "https://twitter.com/aus_mini/status/2023704725984796717",
+              "start": 99,
+              "url": "https://t.co/RgCmZc7ARt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023846026042634364",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023704725984796717",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "假的，东莨菪碱没这么厉害，不会顺从。东莨菪碱是谵妄剂，吃了之后谵妄，谵妄是不可控，和顺从没什么关系，失忆的话会有点，剂量更高会昏厥（会不会死亡我也不知道）。这个可以当晕车药，相对来说不是罕见东西。 https://t.co/RgCmZc7ARt"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2023703838327533573",
+            "3_2023703838340116484",
+            "3_2023703838277201922"
+          ]
+        },
+        "author_id": "1450054325481312261",
+        "conversation_id": "2023704725984796717",
+        "created_at": "2026-02-17T10:22:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T11:22:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023704725984796717"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 6,
+              "start": 1,
+              "tag": "爱泼斯坦"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Imoji9yqdS",
+              "end": 187,
+              "expanded_url": "https://x.com/aus_mini/status/2023704725984796717/photo/1",
+              "media_key": "3_2023703838327533573",
+              "start": 164,
+              "url": "https://t.co/Imoji9yqdS"
+            },
+            {
+              "display_url": "pic.x.com/Imoji9yqdS",
+              "end": 187,
+              "expanded_url": "https://x.com/aus_mini/status/2023704725984796717/photo/1",
+              "media_key": "3_2023703838340116484",
+              "start": 164,
+              "url": "https://t.co/Imoji9yqdS"
+            },
+            {
+              "display_url": "pic.x.com/Imoji9yqdS",
+              "end": 187,
+              "expanded_url": "https://x.com/aus_mini/status/2023704725984796717/photo/1",
+              "media_key": "3_2023703838277201922",
+              "start": 164,
+              "url": "https://t.co/Imoji9yqdS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023704725984796717",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 6,
+                "start": 1,
+                "tag": "爱泼斯坦"
+              },
+              {
+                "end": 258,
+                "start": 245,
+                "tag": "EpsteinFiles"
+              },
+              {
+                "end": 271,
+                "start": 259,
+                "tag": "Scopolamine"
+              },
+              {
+                "end": 278,
+                "start": 272,
+                "tag": "天使喇叭花"
+              },
+              {
+                "end": 290,
+                "start": 279,
+                "tag": "ZombieDrug"
+              }
+            ]
+          },
+          "text": "💥#爱泼斯坦 新解密文件炸了！\n\n2014-2015年邮件里爱泼斯坦反复问“我的trumpet plants（天使喇叭花）在苗圃怎么样？”  \n\n这种花超毒，提炼出的Scopolamine（东莨菪碱）就是臭名昭著的“魔鬼之息 / Zombie Drug”！仅几分钟就能让人 失去自由意志，像行尸走肉般顺从😱\n事后记忆全抹除⚠️\n常规毒检几乎查不出（半衰期才5-6小时）‼️\n\n跟电影《Blink Twice》里富豪用药控制女性的剧情一模一样……\n\n这是他岛上那套“顺从系统”的关键？\n\n  #EpsteinFiles #Scopolamine #天使喇叭花 #ZombieDrug"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 182,
+          "impression_count": 66585,
+          "like_count": 375,
+          "quote_count": 3,
+          "reply_count": 15,
+          "retweet_count": 128
+        },
+        "reply_settings": "everyone",
+        "text": "💥#爱泼斯坦 新解密文件炸了！\n\n2014-2015年邮件里爱泼斯坦反复问“我的trumpet plants（天使喇叭花）在苗圃怎么样？”  \n\n这种花超毒，提炼出的Scopolamine（东莨菪碱）就是臭名昭著的“魔鬼之息 / Zombie Drug”！仅几分钟就能让人 失去自由意志，像行尸走肉般顺从😱\n事后记忆全抹除⚠️ https://t.co/Imoji9yqdS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-02-16T15:27:54.000Z",
+        "description": "本不一定什么时候就没，请添加下方网址的telegram频道以获得持续更新。\n以禁毒、法律教育及损害减少（harm reduction）为目的，通过非世俗及去道德的理念，追求真实的知识与反馈。除替代为目的，部分良性物质，以及特殊情况下的损害减少，不推荐任何人摄入我提及的物质。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/XDrugLab",
+                "end": 23,
+                "expanded_url": "https://t.me/XDrugLab",
+                "start": 0,
+                "url": "https://t.co/KMcpbSmDcL"
+              }
+            ]
+          }
+        },
+        "id": "3022697779",
+        "name": "药物实验室",
+        "pinned_tweet_id": "1917542345039569145",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854259369203879954/nxgmCDHX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17783,
+          "following_count": 18,
+          "like_count": 29,
+          "listed_count": 22,
+          "media_count": 53,
+          "tweet_count": 1539
+        },
+        "url": "https://t.co/KMcpbSmDcL",
+        "username": "RXdruglab",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-18T11:01:32.000Z",
+        "description": "POWER TO WE THE PEOPLE  分享热点新闻，关注疫苗危害， 自然疗法和解药  MAGA",
+        "id": "1450054325481312261",
+        "name": "AusMini",
+        "pinned_tweet_id": "1612621862206582785",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1733428523661238272/JovovqRH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41229,
+          "following_count": 7912,
+          "like_count": 68711,
+          "listed_count": 138,
+          "media_count": 12056,
+          "tweet_count": 29082
+        },
+        "username": "aus_mini",
+        "verified": true
+      }
+    ]
+  }
+}

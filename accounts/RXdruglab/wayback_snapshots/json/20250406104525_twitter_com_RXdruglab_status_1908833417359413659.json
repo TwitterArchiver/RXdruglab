@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "3022697779",
+    "conversation_id": "1908819647429779838",
+    "created_at": "2025-04-06T10:45:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-06T11:45:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1908833417359413659"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1761106331896033283",
+          "start": 0,
+          "username": "nemurikamisama"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1908833417359413659",
+    "in_reply_to_user_id": "1761106331896033283",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1908819647429779838",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nemurikamisama 自己没事上赶着找事，被打被骂真的是活该了。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1908819644133322752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gn19WlzasAAEzcW.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3022697779",
+        "conversation_id": "1908819647429779838",
+        "created_at": "2025-04-06T10:45:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-06T11:45:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1908833417359413659"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1761106331896033283",
+              "start": 0,
+              "username": "nemurikamisama"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908833417359413659",
+        "in_reply_to_user_id": "1761106331896033283",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1908819647429779838",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nemurikamisama 自己没事上赶着找事，被打被骂真的是活该了。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1908819644133322752"
+          ]
+        },
+        "author_id": "1761106331896033283",
+        "conversation_id": "1908819647429779838",
+        "created_at": "2025-04-06T09:50:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-06T10:50:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1908819647429779838"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dRB9gSNvYd",
+              "end": 94,
+              "expanded_url": "https://x.com/nemurikamisama/status/1908819647429779838/photo/1",
+              "media_key": "3_1908819644133322752",
+              "start": 71,
+              "url": "https://t.co/dRB9gSNvYd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908819647429779838",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 618,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我一直秉持著想要人認清自我的想法\n我的發言也不過激 想要一個人認清自我真的很難\n善意換來的是惡意 世界皆如此\n不知道戳他哪裡痛處了瘋狂攻擊我 https://t.co/dRB9gSNvYd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-02-16T15:27:54.000Z",
+        "description": "本不一定什么时候就没，请添加下方网址的telegram频道以获得持续更新。\n以禁毒、法律教育及损害减少（harm reduction）为目的，通过非世俗及去道德的理念，追求真实的知识与反馈。除替代为目的，部分良性物质，以及特殊情况下的损害减少，不推荐任何人摄入我提及的物质。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/XDrugLab",
+                "end": 23,
+                "expanded_url": "https://t.me/XDrugLab",
+                "start": 0,
+                "url": "https://t.co/KMcpbSmDcL"
+              }
+            ]
+          }
+        },
+        "id": "3022697779",
+        "name": "药物实验室",
+        "pinned_tweet_id": "1861564676557152611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854259369203879954/nxgmCDHX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14507,
+          "following_count": 17,
+          "like_count": 20,
+          "listed_count": 11,
+          "media_count": 30,
+          "tweet_count": 868
+        },
+        "url": "https://t.co/KMcpbSmDcL",
+        "username": "RXdruglab",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-23T19:10:51.000Z",
+        "description": "永い眠りにつく\n性別是神\n發言如讓您感到不適我很榮幸....人類殲滅計劃進行中...!",
+        "id": "1761106331896033283",
+        "location": "表世界",
+        "name": "海眠大人🪦⑨",
+        "pinned_tweet_id": "1907500372081734000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905908192493875200/S4gs2hKR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13115,
+          "following_count": 32,
+          "like_count": 6090,
+          "listed_count": 19,
+          "media_count": 322,
+          "tweet_count": 3210
+        },
+        "username": "nemurikamisama",
+        "verified": false
+      }
+    ]
+  }
+}

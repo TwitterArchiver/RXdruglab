@@ -1,0 +1,170 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "3022697779",
+    "conversation_id": "1990096538413224099",
+    "created_at": "2025-11-16T16:39:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-16T17:39:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990097506127302777"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1990097506127302777",
+    "in_reply_to_user_id": "3022697779",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990096538413224099",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "水可能会分层，你可以进一步,只取上层的水。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3022697779",
+        "conversation_id": "1990096538413224099",
+        "created_at": "2025-11-16T16:39:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-16T17:39:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990097506127302777"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1990097506127302777",
+        "in_reply_to_user_id": "3022697779",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990096538413224099",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "水可能会分层，你可以进一步,只取上层的水。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3022697779",
+        "conversation_id": "1990096538413224099",
+        "created_at": "2025-11-16T16:36:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-16T17:36:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990096538413224099"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ww123qwq/statu…",
+              "end": 163,
+              "expanded_url": "https://twitter.com/ww123qwq/status/1989917371184934921",
+              "start": 140,
+              "url": "https://t.co/ApoO2aL0J6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990096538413224099",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 38,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989917371184934921",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "考虑到这个其实不太好买到，我简单说一下，怎么娱乐性使用，别人投稿的，我也不完全确定。\n这个如果直接吃，吃够可待因的量会导致布洛芬摄入过多，可能会造成胃出血等问题。这个的药物结构是，外层可待因，内层是布洛芬。所以你只要把它泡到水里，看着等它外层化完了，把药片捞出来把水喝掉就行了。 https://t.co/ApoO2aL0J6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-02-16T15:27:54.000Z",
+        "description": "本不一定什么时候就没，请添加下方网址的telegram频道以获得持续更新。\n以禁毒、法律教育及损害减少（harm reduction）为目的，通过非世俗及去道德的理念，追求真实的知识与反馈。除替代为目的，部分良性物质，以及特殊情况下的损害减少，不推荐任何人摄入我提及的物质。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/XDrugLab",
+                "end": 23,
+                "expanded_url": "https://t.me/XDrugLab",
+                "start": 0,
+                "url": "https://t.co/KMcpbSmDcL"
+              }
+            ]
+          }
+        },
+        "id": "3022697779",
+        "name": "药物实验室",
+        "pinned_tweet_id": "1917542345039569145",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854259369203879954/nxgmCDHX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16246,
+          "following_count": 18,
+          "like_count": 21,
+          "listed_count": 20,
+          "media_count": 52,
+          "tweet_count": 1316
+        },
+        "url": "https://t.co/KMcpbSmDcL",
+        "username": "RXdruglab",
+        "verified": false
+      }
+    ]
+  }
+}

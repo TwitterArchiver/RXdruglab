@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "3022697779",
+    "conversation_id": "1990091711750832628",
+    "created_at": "2025-11-17T05:40:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-17T06:40:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990294016941043781"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1106987880566513664",
+          "start": 0,
+          "username": "gaystaipo"
+        },
+        {
+          "end": 27,
+          "id": "937460143910014976",
+          "start": 11,
+          "username": "Someonesxiaohao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990294016941043781",
+    "in_reply_to_user_id": "1106987880566513664",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990280374170288403",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gaystaipo @Someonesxiaohao 我12年就开始吃利他林了，你那时候刚上初中吧。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3022697779",
+        "conversation_id": "1990091711750832628",
+        "created_at": "2025-11-17T05:40:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T06:40:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990294016941043781"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1106987880566513664",
+              "start": 0,
+              "username": "gaystaipo"
+            },
+            {
+              "end": 27,
+              "id": "937460143910014976",
+              "start": 11,
+              "username": "Someonesxiaohao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990294016941043781",
+        "in_reply_to_user_id": "1106987880566513664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990280374170288403",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gaystaipo @Someonesxiaohao 我12年就开始吃利他林了，你那时候刚上初中吧。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1106987880566513664",
+        "conversation_id": "1990091711750832628",
+        "created_at": "2025-11-17T04:46:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T05:46:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990280374170288403"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "3022697779",
+              "start": 0,
+              "username": "RXdruglab"
+            },
+            {
+              "end": 27,
+              "id": "937460143910014976",
+              "start": 11,
+              "username": "Someonesxiaohao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990280374170288403",
+        "in_reply_to_user_id": "3022697779",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990277370914468145",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RXdruglab @Someonesxiaohao mescaline是最温和的致幻剂，也是最有治愈性的。非常forgiving，不知道这都能badtrip的人还在玩药？btw 为什么很多药物博主默认别人都没文化哈哈….我十年前已经开始研究这些啦 小弟弟"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-02-16T15:27:54.000Z",
+        "description": "本不一定什么时候就没，请添加下方网址的telegram频道以获得持续更新。\n以禁毒、法律教育及损害减少（harm reduction）为目的，通过非世俗及去道德的理念，追求真实的知识与反馈。除替代为目的，部分良性物质，以及特殊情况下的损害减少，不推荐任何人摄入我提及的物质。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/XDrugLab",
+                "end": 23,
+                "expanded_url": "https://t.me/XDrugLab",
+                "start": 0,
+                "url": "https://t.co/KMcpbSmDcL"
+              }
+            ]
+          }
+        },
+        "id": "3022697779",
+        "name": "药物实验室",
+        "pinned_tweet_id": "1917542345039569145",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854259369203879954/nxgmCDHX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16265,
+          "following_count": 18,
+          "like_count": 21,
+          "listed_count": 20,
+          "media_count": 52,
+          "tweet_count": 1320
+        },
+        "url": "https://t.co/KMcpbSmDcL",
+        "username": "RXdruglab",
+        "verified": false
+      },
+      {
+        "created_at": "2019-03-16T18:37:32.000Z",
+        "description": "一名色胺宝贝，极端听觉与边缘美学探索（99年生于广东 天菜是肉感/穿着正装上班的ordinary guy，Friends or Fun maybe LTR） #Fetish#socks#underwear#suit#leather#bdsm#bear#drugculture",
+        "id": "1106987880566513664",
+        "location": "Guangzhou",
+        "name": "Gaystaatspo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980658806464876544/2GC06QLP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75,
+          "following_count": 618,
+          "like_count": 289,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 99
+        },
+        "username": "gaystaipo",
+        "verified": false
+      },
+      {
+        "created_at": "2017-12-03T23:14:50.000Z",
+        "description": "有购买需求的可以关注。\n防失联可以加主号置顶的telegram频道。",
+        "id": "937460143910014976",
+        "name": "药室销售频道",
+        "pinned_tweet_id": "1880527578190233681",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1891884010948726791/HCvyKg8T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1415,
+          "following_count": 1,
+          "like_count": 0,
+          "listed_count": 4,
+          "media_count": 4,
+          "tweet_count": 36
+        },
+        "username": "Someonesxiaohao",
+        "verified": false
+      }
+    ]
+  }
+}

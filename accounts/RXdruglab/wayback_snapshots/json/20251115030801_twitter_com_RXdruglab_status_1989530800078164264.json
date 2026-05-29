@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "3022697779",
+    "conversation_id": "1989132271144616296",
+    "created_at": "2025-11-15T03:08:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-15T04:08:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989530800078164264"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1871681611416096768",
+          "start": 0,
+          "username": "Rustallintsla"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989530800078164264",
+    "in_reply_to_user_id": "1871681611416096768",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989132271144616296",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rustallintsla 厚底涂层锅是最好的，我用wmf的蜂窝平底锅，是我用过的超过10种平底锅中最好的。\n另外两厘米厚的铁板也特别好，但是用起来麻烦。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1989132266828652544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5rRQf-W4AA4vSi.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3022697779",
+        "conversation_id": "1989132271144616296",
+        "created_at": "2025-11-15T03:08:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-15T04:08:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989530800078164264"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1871681611416096768",
+              "start": 0,
+              "username": "Rustallintsla"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989530800078164264",
+        "in_reply_to_user_id": "1871681611416096768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989132271144616296",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rustallintsla 厚底涂层锅是最好的，我用wmf的蜂窝平底锅，是我用过的超过10种平底锅中最好的。\n另外两厘米厚的铁板也特别好，但是用起来麻烦。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1989132266828652544"
+          ]
+        },
+        "author_id": "1871681611416096768",
+        "conversation_id": "1989132271144616296",
+        "created_at": "2025-11-14T00:44:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T01:44:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989132271144616296"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/54yEKuw6rE",
+              "end": 147,
+              "expanded_url": "https://x.com/Rustallintsla/status/1989132271144616296/photo/1",
+              "media_key": "3_1989132266828652544",
+              "start": 124,
+              "url": "https://t.co/54yEKuw6rE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989132271144616296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "之前看有人推荐过，Costco的铸铁锅，不到20美元，关键是不粘。买了一个回来测试了下，绝了。\n\n亮点： 北美的炉灶火力不行，往往锅烧热了，油也烧热了，但菜一下去，温度无法维持，炒菜成煮菜了。\n\n这个铸铁锅可以吸收储存非常多的热能（因为锅壁厚）， 锅烧热了，油烧热了，再下菜，温度可以维持很久不掉，妥妥的炒菜，保持锅气。\n\n20刀的锅，现在竟成了我家的主锅了。推荐给手机后也是男大厨的你，还可以练臂力，性张力拉满，真的。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 522,
+          "impression_count": 237328,
+          "like_count": 809,
+          "quote_count": 21,
+          "reply_count": 246,
+          "retweet_count": 86
+        },
+        "reply_settings": "everyone",
+        "text": "之前看有人推荐过，Costco的铸铁锅，不到20美元，关键是不粘。买了一个回来测试了下，绝了。\n\n亮点： 北美的炉灶火力不行，往往锅烧热了，油也烧热了，但菜一下去，温度无法维持，炒菜成煮菜了。\n\n这个铸铁锅可以吸收储存非常多的热能（因为锅壁厚）， https://t.co/54yEKuw6rE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-02-16T15:27:54.000Z",
+        "description": "本不一定什么时候就没，请添加下方网址的telegram频道以获得持续更新。\n以禁毒、法律教育及损害减少（harm reduction）为目的，通过非世俗及去道德的理念，追求真实的知识与反馈。除替代为目的，部分良性物质，以及特殊情况下的损害减少，不推荐任何人摄入我提及的物质。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/XDrugLab",
+                "end": 23,
+                "expanded_url": "https://t.me/XDrugLab",
+                "start": 0,
+                "url": "https://t.co/KMcpbSmDcL"
+              }
+            ]
+          }
+        },
+        "id": "3022697779",
+        "name": "药物实验室",
+        "pinned_tweet_id": "1917542345039569145",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854259369203879954/nxgmCDHX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16248,
+          "following_count": 17,
+          "like_count": 21,
+          "listed_count": 20,
+          "media_count": 52,
+          "tweet_count": 1308
+        },
+        "url": "https://t.co/KMcpbSmDcL",
+        "username": "RXdruglab",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-24T22:17:58.000Z",
+        "description": "Tesla options seller. Chicken owner. Love my Devon Rex, Rust.",
+        "id": "1871681611416096768",
+        "location": "Connecticut, USA",
+        "name": "Rustallintsla",
+        "pinned_tweet_id": "1903252916309250163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909461338201464832/IpuJCl9T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2048,
+          "following_count": 158,
+          "like_count": 3121,
+          "listed_count": 17,
+          "media_count": 171,
+          "tweet_count": 3277
+        },
+        "username": "Rustallintsla",
+        "verified": true
+      }
+    ]
+  }
+}

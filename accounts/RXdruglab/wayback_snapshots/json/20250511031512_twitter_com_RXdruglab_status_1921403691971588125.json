@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "3022697779",
+    "conversation_id": "1921393322859319714",
+    "created_at": "2025-05-11T03:15:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-11T04:15:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1921403691971588125"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1837541836485021698",
+          "start": 0,
+          "username": "sh0r123"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1921403691971588125",
+    "in_reply_to_user_id": "1837541836485021698",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1921402292470685906",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sh0r123 你成ai了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3022697779",
+        "conversation_id": "1921393322859319714",
+        "created_at": "2025-05-11T03:15:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-11T04:15:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1921403691971588125"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1837541836485021698",
+              "start": 0,
+              "username": "sh0r123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1921403691971588125",
+        "in_reply_to_user_id": "1837541836485021698",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1921402292470685906",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sh0r123 你成ai了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837541836485021698",
+        "conversation_id": "1921393322859319714",
+        "created_at": "2025-05-11T03:09:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-11T04:09:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1921402292470685906"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "3022697779",
+              "start": 0,
+              "username": "RXdruglab"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1921402292470685906",
+        "in_reply_to_user_id": "3022697779",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1921393322859319714",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RXdruglab 之前在药效中读文章，手机屏幕上全都是根据文字生成的ai图片"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-02-16T15:27:54.000Z",
+        "description": "本不一定什么时候就没，请添加下方网址的telegram频道以获得持续更新。\n以禁毒、法律教育及损害减少（harm reduction）为目的，通过非世俗及去道德的理念，追求真实的知识与反馈。除替代为目的，部分良性物质，以及特殊情况下的损害减少，不推荐任何人摄入我提及的物质。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/XDrugLab",
+                "end": 23,
+                "expanded_url": "https://t.me/XDrugLab",
+                "start": 0,
+                "url": "https://t.co/KMcpbSmDcL"
+              }
+            ]
+          }
+        },
+        "id": "3022697779",
+        "name": "药物实验室",
+        "pinned_tweet_id": "1917542345039569145",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854259369203879954/nxgmCDHX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14888,
+          "following_count": 18,
+          "like_count": 25,
+          "listed_count": 13,
+          "media_count": 40,
+          "tweet_count": 982
+        },
+        "url": "https://t.co/KMcpbSmDcL",
+        "username": "RXdruglab",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-21T17:18:16.000Z",
+        "description": "请用雨水洗刷我的罪孽吧。=阿p 自言自语bot/负能注意 喜欢的事情是听歌和画画。一般路过，什么都不知道 没人想看的标签:Pan/ciswomen/bpd 更多信息↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/marshmallow…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/marshmallow1111",
+                "start": 0,
+                "url": "https://t.co/j9Rl6uAYHx"
+              }
+            ]
+          }
+        },
+        "id": "1837541836485021698",
+        "location": "侦探的书房",
+        "name": "因为月亮很遥远呢",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919112833381675009/NZqnVHFe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 411,
+          "like_count": 1974,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 808
+        },
+        "url": "https://t.co/j9Rl6uAYHx",
+        "username": "sh0r123",
+        "verified": false
+      }
+    ]
+  }
+}

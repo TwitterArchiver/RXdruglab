@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "3022697779",
+    "conversation_id": "1988588151728943324",
+    "created_at": "2025-11-12T13:46:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-12T14:46:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988604403709010329"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1353683586210295808",
+          "start": 0,
+          "username": "jer0217"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988604403709010329",
+    "in_reply_to_user_id": "1353683586210295808",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988588151728943324",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jer0217 雀食。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1988588143415877632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5jiYWTbYAAsiWL.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3022697779",
+        "conversation_id": "1988588151728943324",
+        "created_at": "2025-11-12T13:46:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T14:46:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988604403709010329"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1353683586210295808",
+              "start": 0,
+              "username": "jer0217"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988604403709010329",
+        "in_reply_to_user_id": "1353683586210295808",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988588151728943324",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jer0217 雀食。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1988588143415877632"
+          ]
+        },
+        "author_id": "1353683586210295808",
+        "conversation_id": "1988588151728943324",
+        "created_at": "2025-11-12T12:42:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T13:42:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988588151728943324"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BCGW0fTBqh",
+              "end": 31,
+              "expanded_url": "https://x.com/jer0217/status/1988588151728943324/photo/1",
+              "media_key": "3_1988588143415877632",
+              "start": 8,
+              "url": "https://t.co/BCGW0fTBqh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988588151728943324",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 946,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "比贩毒利润都高 https://t.co/BCGW0fTBqh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-02-16T15:27:54.000Z",
+        "description": "本不一定什么时候就没，请添加下方网址的telegram频道以获得持续更新。\n以禁毒、法律教育及损害减少（harm reduction）为目的，通过非世俗及去道德的理念，追求真实的知识与反馈。除替代为目的，部分良性物质，以及特殊情况下的损害减少，不推荐任何人摄入我提及的物质。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/XDrugLab",
+                "end": 23,
+                "expanded_url": "https://t.me/XDrugLab",
+                "start": 0,
+                "url": "https://t.co/KMcpbSmDcL"
+              }
+            ]
+          }
+        },
+        "id": "3022697779",
+        "name": "药物实验室",
+        "pinned_tweet_id": "1917542345039569145",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854259369203879954/nxgmCDHX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16212,
+          "following_count": 17,
+          "like_count": 20,
+          "listed_count": 20,
+          "media_count": 52,
+          "tweet_count": 1298
+        },
+        "url": "https://t.co/KMcpbSmDcL",
+        "username": "RXdruglab",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-25T12:38:20.000Z",
+        "description": "IGj337er ｜🍑@JerJerJer1011",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 11,
+                "username": "JerJerJer1011"
+              }
+            ]
+          }
+        },
+        "id": "1353683586210295808",
+        "location": "🚪399给我德州买两手",
+        "name": "Jer",
+        "pinned_tweet_id": "1950087160209822052",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980739445214126080/nh2k5LZB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 153947,
+          "following_count": 289,
+          "like_count": 41112,
+          "listed_count": 253,
+          "media_count": 3538,
+          "tweet_count": 23950
+        },
+        "username": "jer0217",
+        "verified": false
+      }
+    ]
+  }
+}

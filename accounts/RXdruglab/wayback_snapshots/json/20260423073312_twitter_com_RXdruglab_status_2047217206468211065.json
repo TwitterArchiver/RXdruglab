@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "3022697779",
+    "conversation_id": "2023758673450070170",
+    "created_at": "2026-04-23T07:33:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T08:33:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047217206468211065"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1906196697018966016",
+          "start": 0,
+          "username": "wang_wen15656"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047217206468211065",
+    "in_reply_to_user_id": "1906196697018966016",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047197858747867300",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wang_wen15656 成分不明，不知道成分，无法确定是否管制，不过一般验不出来。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3022697779",
+        "conversation_id": "2023758673450070170",
+        "created_at": "2026-04-23T07:33:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T08:33:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047217206468211065"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1906196697018966016",
+              "start": 0,
+              "username": "wang_wen15656"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047217206468211065",
+        "in_reply_to_user_id": "1906196697018966016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047197858747867300",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wang_wen15656 成分不明，不知道成分，无法确定是否管制，不过一般验不出来。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906196697018966016",
+        "conversation_id": "2023758673450070170",
+        "created_at": "2026-04-23T06:16:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T07:16:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047197858747867300"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "3022697779",
+              "start": 0,
+              "username": "RXdruglab"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047197858747867300",
+        "in_reply_to_user_id": "3022697779",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023758673450070170",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RXdruglab 我很想知道所谓的“蓝液”的主要成分是什么，属于管制品吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-02-16T15:27:54.000Z",
+        "description": "本不一定什么时候就没，请添加下方网址的telegram频道以获得持续更新。\n以禁毒、法律教育及损害减少（harm reduction）为目的，通过非世俗及去道德的理念，追求真实的知识与反馈。除替代为目的，部分良性物质，以及特殊情况下的损害减少，不推荐任何人摄入我提及的物质。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/XDrugLab",
+                "end": 23,
+                "expanded_url": "https://t.me/XDrugLab",
+                "start": 0,
+                "url": "https://t.co/KMcpbSmDcL"
+              }
+            ]
+          }
+        },
+        "id": "3022697779",
+        "name": "药物实验室",
+        "pinned_tweet_id": "1917542345039569145",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854259369203879954/nxgmCDHX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18658,
+          "following_count": 15,
+          "like_count": 36,
+          "listed_count": 22,
+          "media_count": 54,
+          "tweet_count": 1683
+        },
+        "url": "https://t.co/KMcpbSmDcL",
+        "username": "RXdruglab",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-30T04:08:50.000Z",
+        "description": "Photograph/cosplayer ；\n言和厨子/少前指挥官/VocaloidChina全员厨；\n男的🙃（大约在男娘的路上一去不复返？）；\n产量很低（满脑子涩涩大约还是个受？🥵）；\n中v/少前欢迎扩列+q",
+        "id": "1906196697018966016",
+        "location": "国棉17厂",
+        "name": "小王今天吃🌾",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906198538868207616/t9VGHe1S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 77,
+          "like_count": 228,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 93
+        },
+        "username": "wang_wen15656",
+        "verified": false
+      }
+    ]
+  }
+}

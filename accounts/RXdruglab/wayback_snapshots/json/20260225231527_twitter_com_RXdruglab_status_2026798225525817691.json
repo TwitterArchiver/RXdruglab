@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "3022697779",
+    "conversation_id": "2026798225525817691",
+    "created_at": "2026-02-25T23:15:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-26T00:15:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2026798225525817691"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Shenxiao123971…",
+          "end": 163,
+          "expanded_url": "https://twitter.com/Shenxiao123971/status/2026469965516386379",
+          "start": 140,
+          "url": "https://t.co/1bzsPAIlsp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026798225525817691",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026469965516386379",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "私人医院会存在，但不会崛起。\n首先，对于医生，尤其是优秀医生的职业的稳定性和发展性较差。\n其次，私人医院价格方面可能没有优势。\n然后，私人医院不会承担社会责任（如新冠爆发时期支援异地）且难被政府调度。\n最后，医院作为特殊机构，民众认可度较低。\n它是中国医疗体系的补充而不是替代。 https://t.co/1bzsPAIlsp"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3022697779",
+        "conversation_id": "2026798225525817691",
+        "created_at": "2026-02-25T23:15:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T00:15:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026798225525817691"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Shenxiao123971…",
+              "end": 163,
+              "expanded_url": "https://twitter.com/Shenxiao123971/status/2026469965516386379",
+              "start": 140,
+              "url": "https://t.co/1bzsPAIlsp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026798225525817691",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026469965516386379",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "私人医院会存在，但不会崛起。\n首先，对于医生，尤其是优秀医生的职业的稳定性和发展性较差。\n其次，私人医院价格方面可能没有优势。\n然后，私人医院不会承担社会责任（如新冠爆发时期支援异地）且难被政府调度。\n最后，医院作为特殊机构，民众认可度较低。\n它是中国医疗体系的补充而不是替代。 https://t.co/1bzsPAIlsp"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1939242814547914752",
+        "conversation_id": "2026469965516386379",
+        "created_at": "2026-02-25T01:31:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T02:31:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026469965516386379"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2026469965516386379",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "大家觉得中国私人医院会崛起吗？\n\n我听说了一个故事。\n\n北方某市级医院，一把手强势，二把手温和，两人搭档十年，配合默契，二把手前两年退休了。\n\n退休后，二把手的亲信都为他鸣不平，说一把把手苦活累活都丢给你了，能捞好处的自己拿走，真不是个玩意。\n\n二把手只是微笑不语。\n\n今年，一把手离退休也只有一年了，落马。\n\n知情人说，客观评价一把手，是个工作狂，他全身心都铺在工作上，真的是废寝忘食。\n\n一把手上位之前保养得极好，40多岁的年纪，出专家门诊还被人质疑是小年轻，当了十年院长，头发掉光了，剩下一丁点头发全是白的，老了不止20岁。\n\n医院最近十年发展很不错，一把手工作确实负责努力，成果斐然。\n\n一把手胃里有个间质瘤，查出来的时候他正在推进新院区建设，居然还陪着银行的领导喝白酒，硬生生拖了一个多月，大局已定后，才出去做手术。\n\n贪，那也是真的贪，当了十年主要领导，被查出来捞了600万，给女儿在北京买了一套房。\n\n二把手以前也被查过，两袖清风。\n\n此人清廉之名全院皆知，当年曾被邀请喝茶，大家听闻，连吃瓜的想法都没有，上至副院长下至科室普通医生，都说：“X院绝对没问题。”\n\n果然，第二天就礼送回岗。\n\n他廉洁到，上位之后，本科室的药品回扣都一点不沾了。\n\n我听完这个故事，忍不住感慨，廉政楷模啊。\n\n知情人笑了：二把手在位，做了两件事。\n\n一是学术科研交流，尤其重视神外，频繁邀请北京某顶级医院教授前来讲课。\n\n二把手是内科出身，但对神外极其重视，重视到神外主任都有点受宠若惊，被强制接受各种显微手术仪器，历年高值设备耗材价值近千万，大部分都是院内出钱。\n\n有些设备完全超出了科室水平，100万买回来，一年用两回。\n\n如果不是二把手清廉之名广播天下，神外主任肯定会说二把手腐败了。\n\n厂家当然感激涕零，但能做的回报，也就是请北京某顶级医院的教授来做学术交流而已。\n\n大家猜测，难道是二把手的公子学了神外，导致他对这个学科也产生了特殊感情？\n\n或者说，公子将要到本院神外科发展，先给他铺路？\n\n后来，公子读博，毕业后留在了北京顶尖的医院，博导就是那位频繁来院讲课的教授。\n\n大家恍然。\n\n第二件事，就是推动医联体建设，对一所民营医院也颇多支持。\n\n如今退休，他到民营医院当院长了，年薪税后65万。\n\n民营医院第一次有这个级别的专家坐镇，在医院大门口打了横幅，半边是人像，半边是各种头衔和职务。\n\n如今退休了，二把手也松懈了，酒后和老部下说：“说我是院长，医院又不是我的。”"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 408,
+          "impression_count": 472291,
+          "like_count": 758,
+          "quote_count": 7,
+          "reply_count": 159,
+          "retweet_count": 66
+        },
+        "reply_settings": "everyone",
+        "text": "大家觉得中国私人医院会崛起吗？\n\n我听说了一个故事。\n\n北方某市级医院，一把手强势，二把手温和，两人搭档十年，配合默契，二把手前两年退休了。\n\n退休后，二把手的亲信都为他鸣不平，说一把把手苦活累活都丢给你了，能捞好处的自己拿走，真不是个玩意。\n\n二把手只是微笑不语。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-02-16T15:27:54.000Z",
+        "description": "本不一定什么时候就没，请添加下方网址的telegram频道以获得持续更新。\n以禁毒、法律教育及损害减少（harm reduction）为目的，通过非世俗及去道德的理念，追求真实的知识与反馈。除替代为目的，部分良性物质，以及特殊情况下的损害减少，不推荐任何人摄入我提及的物质。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/XDrugLab",
+                "end": 23,
+                "expanded_url": "https://t.me/XDrugLab",
+                "start": 0,
+                "url": "https://t.co/KMcpbSmDcL"
+              }
+            ]
+          }
+        },
+        "id": "3022697779",
+        "name": "药物实验室",
+        "pinned_tweet_id": "1917542345039569145",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854259369203879954/nxgmCDHX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19061,
+          "following_count": 17,
+          "like_count": 31,
+          "listed_count": 23,
+          "media_count": 53,
+          "tweet_count": 1561
+        },
+        "url": "https://t.co/KMcpbSmDcL",
+        "username": "RXdruglab",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-29T08:42:06.000Z",
+        "description": "shenxiao本xiao：清醒的人性观察者，用文字剖开人生百态   普通人视角｜骂醒自己也骂醒大家😏   不鸡汤、不PUA｜围观我的现实吐槽，少内耗少被骗，一起清醒活着",
+        "id": "1939242814547914752",
+        "name": "shenxiao",
+        "pinned_tweet_id": "2026186053275746353",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963951814086475776/QZLXH7xF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27191,
+          "following_count": 5436,
+          "like_count": 118585,
+          "listed_count": 92,
+          "media_count": 655,
+          "tweet_count": 28966
+        },
+        "username": "Shenxiao123971",
+        "verified": true
+      }
+    ]
+  }
+}

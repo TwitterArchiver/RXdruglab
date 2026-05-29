@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "3022697779",
+    "conversation_id": "1970759168933142659",
+    "created_at": "2025-09-24T09:03:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-24T10:03:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1970776172004012215"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1222546987108581376",
+          "start": 0,
+          "username": "sky_string"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1970776172004012215",
+    "in_reply_to_user_id": "1222546987108581376",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1970759168933142659",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sky_string 感觉还不如前列腺素E1。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2020,
+        "media_key": "3_1970759081515458561",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1mK8W-aoAElmxr.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3022697779",
+        "conversation_id": "1970759168933142659",
+        "created_at": "2025-09-24T09:03:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-24T10:03:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1970776172004012215"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1222546987108581376",
+              "start": 0,
+              "username": "sky_string"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970776172004012215",
+        "in_reply_to_user_id": "1222546987108581376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970759168933142659",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sky_string 感觉还不如前列腺素E1。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1970759081515458561"
+          ]
+        },
+        "author_id": "1222546987108581376",
+        "conversation_id": "1970759168933142659",
+        "created_at": "2025-09-24T07:56:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-24T08:56:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1970759168933142659"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zVDeoaln5P",
+              "end": 51,
+              "expanded_url": "https://x.com/sky_string/status/1970759168933142659/photo/1",
+              "media_key": "3_1970759081515458561",
+              "start": 28,
+              "url": "https://t.co/zVDeoaln5P"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970759168933142659",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 36,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "苯肾上腺素，能激活立毛肌，从而提升敏感度，奇怪的东西😮 https://t.co/zVDeoaln5P"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-02-16T15:27:54.000Z",
+        "description": "本不一定什么时候就没，请添加下方网址的telegram频道以获得持续更新。\n以禁毒、法律教育及损害减少（harm reduction）为目的，通过非世俗及去道德的理念，追求真实的知识与反馈。除替代为目的，部分良性物质，以及特殊情况下的损害减少，不推荐任何人摄入我提及的物质。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/XDrugLab",
+                "end": 23,
+                "expanded_url": "https://t.me/XDrugLab",
+                "start": 0,
+                "url": "https://t.co/KMcpbSmDcL"
+              }
+            ]
+          }
+        },
+        "id": "3022697779",
+        "name": "药物实验室",
+        "pinned_tweet_id": "1917542345039569145",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854259369203879954/nxgmCDHX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16090,
+          "following_count": 18,
+          "like_count": 36,
+          "listed_count": 17,
+          "media_count": 50,
+          "tweet_count": 1236
+        },
+        "url": "https://t.co/KMcpbSmDcL",
+        "username": "RXdruglab",
+        "verified": false
+      },
+      {
+        "created_at": "2020-01-29T15:48:23.000Z",
+        "description": "塑料推友🫶🏻🫰🏻💕 迷幻的bambi | bambi sleep😵‍💫 | good girl🥰",
+        "id": "1222546987108581376",
+        "name": "bambi_obey",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1222547214326587393/I9ir-8Gs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79,
+          "following_count": 151,
+          "like_count": 1632,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 391
+        },
+        "username": "sky_string",
+        "verified": false
+      }
+    ]
+  }
+}

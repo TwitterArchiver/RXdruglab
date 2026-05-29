@@ -1,0 +1,147 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1967508750610432000"
+      ]
+    },
+    "author_id": "3022697779",
+    "conversation_id": "1967508824442740755",
+    "created_at": "2025-09-15T08:40:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-15T09:40:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1967508824442740755"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/tHTIgwh4Lz",
+          "end": 39,
+          "expanded_url": "https://x.com/RXdruglab/status/1967508824442740755/photo/1",
+          "media_key": "3_1967508750610432000",
+          "start": 16,
+          "url": "https://t.co/tHTIgwh4Lz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967508824442740755",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "大概一周有货，需要的私信购买。 https://t.co/tHTIgwh4Lz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3135,
+        "media_key": "3_1967508750610432000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G03-yMybgAAhJv7.jpg",
+        "width": 2478
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1967508750610432000"
+          ]
+        },
+        "author_id": "3022697779",
+        "conversation_id": "1967508824442740755",
+        "created_at": "2025-09-15T08:40:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-15T09:40:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1967508824442740755"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tHTIgwh4Lz",
+              "end": 39,
+              "expanded_url": "https://x.com/RXdruglab/status/1967508824442740755/photo/1",
+              "media_key": "3_1967508750610432000",
+              "start": 16,
+              "url": "https://t.co/tHTIgwh4Lz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967508824442740755",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大概一周有货，需要的私信购买。 https://t.co/tHTIgwh4Lz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-02-16T15:27:54.000Z",
+        "description": "本不一定什么时候就没，请添加下方网址的telegram频道以获得持续更新。\n以禁毒、法律教育及损害减少（harm reduction）为目的，通过非世俗及去道德的理念，追求真实的知识与反馈。除替代为目的，部分良性物质，以及特殊情况下的损害减少，不推荐任何人摄入我提及的物质。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/XDrugLab",
+                "end": 23,
+                "expanded_url": "https://t.me/XDrugLab",
+                "start": 0,
+                "url": "https://t.co/KMcpbSmDcL"
+              }
+            ]
+          }
+        },
+        "id": "3022697779",
+        "name": "药物实验室",
+        "pinned_tweet_id": "1917542345039569145",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854259369203879954/nxgmCDHX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15803,
+          "following_count": 17,
+          "like_count": 36,
+          "listed_count": 15,
+          "media_count": 49,
+          "tweet_count": 1184
+        },
+        "url": "https://t.co/KMcpbSmDcL",
+        "username": "RXdruglab",
+        "verified": false
+      }
+    ]
+  }
+}

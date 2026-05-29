@@ -1,0 +1,327 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "3022697779",
+    "conversation_id": "1969042270813819381",
+    "created_at": "2025-09-19T23:25:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-20T00:25:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1969181032541774093"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1388179504271486979",
+          "start": 0,
+          "username": "yilianQAQ"
+        },
+        {
+          "end": 27,
+          "id": "1692136120027320320",
+          "start": 11,
+          "username": "AlbertIsCypress"
+        },
+        {
+          "end": 40,
+          "id": "1654159503921934337",
+          "start": 28,
+          "username": "404ADHD_DOG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1969181032541774093",
+    "in_reply_to_user_id": "1388179504271486979",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1969157496594915389",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yilianQAQ @AlbertIsCypress @404ADHD_DOG 代谢慢，会短期累积。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3022697779",
+        "conversation_id": "1969042270813819381",
+        "created_at": "2025-09-19T23:25:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-20T00:25:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969181032541774093"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1388179504271486979",
+              "start": 0,
+              "username": "yilianQAQ"
+            },
+            {
+              "end": 27,
+              "id": "1692136120027320320",
+              "start": 11,
+              "username": "AlbertIsCypress"
+            },
+            {
+              "end": 40,
+              "id": "1654159503921934337",
+              "start": 28,
+              "username": "404ADHD_DOG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969181032541774093",
+        "in_reply_to_user_id": "1388179504271486979",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969157496594915389",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yilianQAQ @AlbertIsCypress @404ADHD_DOG 代谢慢，会短期累积。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1388179504271486979",
+        "conversation_id": "1969042270813819381",
+        "created_at": "2025-09-19T21:51:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-19T22:51:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969157496594915389"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "3022697779",
+              "start": 0,
+              "username": "RXdruglab"
+            },
+            {
+              "end": 27,
+              "id": "1692136120027320320",
+              "start": 11,
+              "username": "AlbertIsCypress"
+            },
+            {
+              "end": 40,
+              "id": "1654159503921934337",
+              "start": 28,
+              "username": "404ADHD_DOG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969157496594915389",
+        "in_reply_to_user_id": "3022697779",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969070288009584852",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RXdruglab @AlbertIsCypress @404ADHD_DOG 维生素b不是水溶性吗，多余的会排出去吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-02-16T15:27:54.000Z",
+        "description": "本不一定什么时候就没，请添加下方网址的telegram频道以获得持续更新。\n以禁毒、法律教育及损害减少（harm reduction）为目的，通过非世俗及去道德的理念，追求真实的知识与反馈。除替代为目的，部分良性物质，以及特殊情况下的损害减少，不推荐任何人摄入我提及的物质。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/XDrugLab",
+                "end": 23,
+                "expanded_url": "https://t.me/XDrugLab",
+                "start": 0,
+                "url": "https://t.co/KMcpbSmDcL"
+              }
+            ]
+          }
+        },
+        "id": "3022697779",
+        "name": "药物实验室",
+        "pinned_tweet_id": "1917542345039569145",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854259369203879954/nxgmCDHX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15955,
+          "following_count": 18,
+          "like_count": 36,
+          "listed_count": 16,
+          "media_count": 49,
+          "tweet_count": 1207
+        },
+        "url": "https://t.co/KMcpbSmDcL",
+        "username": "RXdruglab",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-30T17:12:48.000Z",
+        "description": "喵喵喵，是只猫猫，住在大山深处，问就是16岁\n🍥mtf🍥，嗑糖，2022年出柜，状态稳定\n是只发推经常有错字的笨猫猫🈲抽象b🈲（呜呜呜\n最喜欢的可爱喵喵@orangecandy_cat",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 76,
+                "username": "orangecandy_cat"
+              }
+            ]
+          }
+        },
+        "id": "1388179504271486979",
+        "location": "家",
+        "name": "YiLian🏳️‍⚧️（阳光开朗小女孩）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1575867419557609473/ytg9lSxB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1164,
+          "following_count": 253,
+          "like_count": 56339,
+          "listed_count": 4,
+          "media_count": 368,
+          "tweet_count": 8501
+        },
+        "username": "yilianQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-17T11:27:49.000Z",
+        "description": "低浮上|不是人类不说人话&精神(不是情绪)状态是量子叠加态|成分复杂关注请谨慎|INFJ sp/so5w6|Median系统|分裂情感性精神病&阿斯伯格|无性恋&泛浪漫|误block致歉|看我不爽建议您去死捏|接伤口定制 请私信@kanbenshiteyo0o",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 130,
+                "start": 114,
+                "username": "kanbenshiteyo0o"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/OyZXUu3",
+                "end": 23,
+                "expanded_url": "https://b23.tv/OyZXUu3",
+                "start": 0,
+                "url": "https://t.co/oROirNnIey"
+              }
+            ]
+          }
+        },
+        "id": "1692136120027320320",
+        "location": "星期八",
+        "name": "住在星期八的柏树7.0【#INSANE】",
+        "pinned_tweet_id": "1965435278488903800",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965431647366774786/86s4Wmng_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1456,
+          "following_count": 1157,
+          "like_count": 32719,
+          "listed_count": 7,
+          "media_count": 1373,
+          "tweet_count": 9476
+        },
+        "url": "https://t.co/oROirNnIey",
+        "username": "AlbertIsCypress",
+        "verified": true
+      },
+      {
+        "created_at": "2023-05-04T16:22:21.000Z",
+        "description": "ADHD/兽医 让我们一起推翻旧日的主宰。 一起炉馆的好炉友@634LIVINLIMBO",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 30,
+                "username": "634LIVINLIMBO"
+              }
+            ]
+          }
+        },
+        "id": "1654159503921934337",
+        "name": "最佳萌宠",
+        "pinned_tweet_id": "1962910991991415262",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1964040888356917250/TT8FrybT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 266,
+          "like_count": 2222,
+          "listed_count": 1,
+          "media_count": 40,
+          "tweet_count": 774
+        },
+        "username": "404ADHD_DOG",
+        "verified": false
+      }
+    ]
+  }
+}

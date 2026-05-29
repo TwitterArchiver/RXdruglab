@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "3022697779",
+    "conversation_id": "1862101184594755933",
+    "created_at": "2024-11-28T11:48:13.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-28T12:48:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1862101184594755933"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/gy_yuan135/sta…",
+          "end": 54,
+          "expanded_url": "https://twitter.com/gy_yuan135/status/1862095136622027153",
+          "start": 31,
+          "url": "https://t.co/haPkht5bY7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1862101184594755933",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1862095136622027153",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "电子温度计就是不准，准的可以买水银温度计或者nextemp。 https://t.co/haPkht5bY7"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3022697779",
+        "conversation_id": "1862101184594755933",
+        "created_at": "2024-11-28T11:48:13.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-28T12:48:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1862101184594755933"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/gy_yuan135/sta…",
+              "end": 54,
+              "expanded_url": "https://twitter.com/gy_yuan135/status/1862095136622027153",
+              "start": 31,
+              "url": "https://t.co/haPkht5bY7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1862101184594755933",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1862095136622027153",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "电子温度计就是不准，准的可以买水银温度计或者nextemp。 https://t.co/haPkht5bY7"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "38610622",
+        "conversation_id": "1862095136622027153",
+        "created_at": "2024-11-28T11:24:11.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-28T12:24:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1862095136622027153"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1862095136622027153",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 75,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "发烧以后家里三个体温计测出来三个不同的体温，Amazon上立刻又买了一个看看到底哪个能准……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-02-16T15:27:54.000Z",
+        "description": "本账号不一定什么时候就没，请添加下方网址的telegram频道以获得持续更新。\n以禁毒、法律教育及损害减少（harm reduction）为目的，通过非世俗及去道德的理念，追求真实的知识与反馈。除替代为目的，部分良性物质，以及特殊情况下的损害减少，不推荐任何人摄入我提及的物质。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/XDrugLab",
+                "end": 23,
+                "expanded_url": "https://t.me/XDrugLab",
+                "start": 0,
+                "url": "https://t.co/71vzzaVErr"
+              }
+            ]
+          }
+        },
+        "id": "3022697779",
+        "name": "药物实验室",
+        "pinned_tweet_id": "1861564676557152611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854259369203879954/nxgmCDHX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 524,
+          "following_count": 6,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 136
+        },
+        "url": "https://t.co/71vzzaVErr",
+        "username": "RXdruglab",
+        "verified": false
+      },
+      {
+        "created_at": "2009-05-08T05:03:27.000Z",
+        "description": "All in PDD爱好者",
+        "id": "38610622",
+        "name": "David龘龘🫥🫥🫥🫥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/687963939582259200/DT1arG2t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2244,
+          "following_count": 4233,
+          "like_count": 6486,
+          "listed_count": 45,
+          "media_count": 2329,
+          "tweet_count": 84671
+        },
+        "username": "gy_yuan135",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "3022697779",
+    "conversation_id": "1886091983028121642",
+    "created_at": "2025-02-03T01:28:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-03T02:28:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1886225092054790202"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1790693324246126592",
+          "start": 0,
+          "username": "fanbo_laowang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1886225092054790202",
+    "in_reply_to_user_id": "1790693324246126592",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1886113600005382193",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fanbo_laowang 谢谢你。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3022697779",
+        "conversation_id": "1886091983028121642",
+        "created_at": "2025-02-03T01:28:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-03T02:28:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1886225092054790202"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1790693324246126592",
+              "start": 0,
+              "username": "fanbo_laowang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886225092054790202",
+        "in_reply_to_user_id": "1790693324246126592",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1886113600005382193",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fanbo_laowang 谢谢你。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790693324246126592",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "id": "1129067985451118593",
+              "name": "Physical Education"
+            }
+          }
+        ],
+        "conversation_id": "1886091983028121642",
+        "created_at": "2025-02-02T18:04:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-02T19:04:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1886113600005382193"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "3022697779",
+              "start": 0,
+              "username": "RXdruglab"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886113600005382193",
+        "in_reply_to_user_id": "3022697779",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 935,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1886091983028121642",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RXdruglab 都说观人观气，看人要看骨相、肉相、皮相，看人体三光。\n我观察了一下，这位地雷妹只是精神有些颓靡，骨相还是比较端正的。可以让她加强体育锻炼，远离电子设备，早睡早起，营养饮食，调养身心几个月后，精神状态可以好一些。\n我们应该珍惜骨相端正的人……\n曾经沧海难为水，除却巫山不是云……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-02-16T15:27:54.000Z",
+        "description": "本不一定什么时候就没，请添加下方网址的telegram频道以获得持续更新。\n以禁毒、法律教育及损害减少（harm reduction）为目的，通过非世俗及去道德的理念，追求真实的知识与反馈。除替代为目的，部分良性物质，以及特殊情况下的损害减少，不推荐任何人摄入我提及的物质。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/XDrugLab",
+                "end": 23,
+                "expanded_url": "https://t.me/XDrugLab",
+                "start": 0,
+                "url": "https://t.co/KMcpbSmDcL"
+              }
+            ]
+          }
+        },
+        "id": "3022697779",
+        "name": "药物实验室",
+        "pinned_tweet_id": "1861564676557152611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854259369203879954/nxgmCDHX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11153,
+          "following_count": 16,
+          "like_count": 11,
+          "listed_count": 11,
+          "media_count": 23,
+          "tweet_count": 614
+        },
+        "url": "https://t.co/KMcpbSmDcL",
+        "username": "RXdruglab",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-15T10:40:03.000Z",
+        "description": "实不相瞒，我是黑粉……",
+        "id": "1790693324246126592",
+        "name": "反驳老王",
+        "pinned_tweet_id": "1883703507779526976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1790694049407733760/b3FLEWTq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 187,
+          "following_count": 1382,
+          "like_count": 8985,
+          "listed_count": 1,
+          "media_count": 33,
+          "tweet_count": 925
+        },
+        "username": "fanbo_laowang",
+        "verified": false
+      }
+    ]
+  }
+}

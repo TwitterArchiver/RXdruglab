@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1886090687051132928",
+        "3_1886091459260272640"
+      ]
+    },
+    "author_id": "3022697779",
+    "conversation_id": "1886091983028121642",
+    "created_at": "2025-02-02T16:39:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-02T17:39:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1886091983028121642"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/PZpGMWBHbm",
+          "end": 62,
+          "expanded_url": "https://x.com/RXdruglab/status/1886091983028121642/photo/1",
+          "media_key": "3_1886090687051132928",
+          "start": 39,
+          "url": "https://t.co/PZpGMWBHbm"
+        },
+        {
+          "display_url": "pic.x.com/PZpGMWBHbm",
+          "end": 62,
+          "expanded_url": "https://x.com/RXdruglab/status/1886091983028121642/photo/1",
+          "media_key": "3_1886091459260272640",
+          "start": 39,
+          "url": "https://t.co/PZpGMWBHbm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1886091983028121642",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "地雷女经常无理取闹又让我哄，但是我真的不会哄人，只能坐在一边默默帮她抠胶囊。 https://t.co/PZpGMWBHbm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 960,
+        "media_key": "3_1886090687051132928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Giy9fKfa8AA987J.jpg",
+        "width": 1278
+      },
+      {
+        "height": 1440,
+        "media_key": "3_1886091459260272640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Giy-MHMbUAAPcuA.jpg",
+        "width": 810
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1886090687051132928",
+            "3_1886091459260272640"
+          ]
+        },
+        "author_id": "3022697779",
+        "conversation_id": "1886091983028121642",
+        "created_at": "2025-02-02T16:39:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-02T17:39:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1886091983028121642"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PZpGMWBHbm",
+              "end": 62,
+              "expanded_url": "https://x.com/RXdruglab/status/1886091983028121642/photo/1",
+              "media_key": "3_1886090687051132928",
+              "start": 39,
+              "url": "https://t.co/PZpGMWBHbm"
+            },
+            {
+              "display_url": "pic.x.com/PZpGMWBHbm",
+              "end": 62,
+              "expanded_url": "https://x.com/RXdruglab/status/1886091983028121642/photo/1",
+              "media_key": "3_1886091459260272640",
+              "start": 39,
+              "url": "https://t.co/PZpGMWBHbm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886091983028121642",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "地雷女经常无理取闹又让我哄，但是我真的不会哄人，只能坐在一边默默帮她抠胶囊。 https://t.co/PZpGMWBHbm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-02-16T15:27:54.000Z",
+        "description": "本不一定什么时候就没，请添加下方网址的telegram频道以获得持续更新。\n以禁毒、法律教育及损害减少（harm reduction）为目的，通过非世俗及去道德的理念，追求真实的知识与反馈。除替代为目的，部分良性物质，以及特殊情况下的损害减少，不推荐任何人摄入我提及的物质。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/XDrugLab",
+                "end": 23,
+                "expanded_url": "https://t.me/XDrugLab",
+                "start": 0,
+                "url": "https://t.co/KMcpbSmDcL"
+              }
+            ]
+          }
+        },
+        "id": "3022697779",
+        "name": "药物实验室",
+        "pinned_tweet_id": "1861564676557152611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854259369203879954/nxgmCDHX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10735,
+          "following_count": 16,
+          "like_count": 11,
+          "listed_count": 12,
+          "media_count": 23,
+          "tweet_count": 610
+        },
+        "url": "https://t.co/KMcpbSmDcL",
+        "username": "RXdruglab",
+        "verified": false
+      }
+    ]
+  }
+}

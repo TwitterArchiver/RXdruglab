@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "3022697779",
+    "conversation_id": "2033814587255226823",
+    "created_at": "2026-03-17T07:55:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-17T08:55:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033814587255226823"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1361944640325255170",
+          "start": 3,
+          "username": "Druglab_xiaohao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033814587255226823",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033556698208846010",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Druglab_xiaohao: 现货速发，明天发完就大幅涨价（回购不受影响）。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3022697779",
+        "conversation_id": "2033814587255226823",
+        "created_at": "2026-03-17T07:55:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T08:55:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033814587255226823"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1361944640325255170",
+              "start": 3,
+              "username": "Druglab_xiaohao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033814587255226823",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033556698208846010",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Druglab_xiaohao: 现货速发，明天发完就大幅涨价（回购不受影响）。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1361944640325255170",
+        "conversation_id": "2033556698208846010",
+        "created_at": "2026-03-16T14:51:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T15:51:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033556698208846010"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Druglab_xiaoha…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/Druglab_xiaohao/status/2033556449155338271",
+              "start": 24,
+              "url": "https://t.co/vNY3LKW0Wx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033556698208846010",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 81,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033556449155338271",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "现货速发，明天发完就大幅涨价（回购不受影响）。 https://t.co/vNY3LKW0Wx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-02-16T15:27:54.000Z",
+        "description": "本不一定什么时候就没，请添加下方网址的telegram频道以获得持续更新。\n以禁毒、法律教育及损害减少（harm reduction）为目的，通过非世俗及去道德的理念，追求真实的知识与反馈。除替代为目的，部分良性物质，以及特殊情况下的损害减少，不推荐任何人摄入我提及的物质。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/XDrugLab",
+                "end": 23,
+                "expanded_url": "https://t.me/XDrugLab",
+                "start": 0,
+                "url": "https://t.co/KMcpbSmDcL"
+              }
+            ]
+          }
+        },
+        "id": "3022697779",
+        "name": "药物实验室",
+        "pinned_tweet_id": "1917542345039569145",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854259369203879954/nxgmCDHX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19070,
+          "following_count": 15,
+          "like_count": 33,
+          "listed_count": 24,
+          "media_count": 53,
+          "tweet_count": 1591
+        },
+        "url": "https://t.co/KMcpbSmDcL",
+        "username": "RXdruglab",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-17T07:44:52.000Z",
+        "description": "就是小号啦。",
+        "id": "1361944640325255170",
+        "name": "药实小号",
+        "pinned_tweet_id": "2029173339965800918",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029170564368351234/eLqnP9xz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 116,
+          "following_count": 6,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 7
+        },
+        "username": "Druglab_xiaohao",
+        "verified": false
+      }
+    ]
+  }
+}

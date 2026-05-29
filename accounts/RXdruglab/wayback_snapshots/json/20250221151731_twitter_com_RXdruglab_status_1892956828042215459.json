@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1892955488700243968"
+      ],
+      "media_source_tweet_id": [
+        "1892955546183192963"
+      ]
+    },
+    "author_id": "3022697779",
+    "conversation_id": "1892956828042215459",
+    "created_at": "2025-02-21T15:17:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-21T16:17:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1892956828042215459"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1699445300950093824",
+          "start": 3,
+          "username": "kansj68531"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/52zvwpGhdd",
+          "end": 51,
+          "expanded_url": "https://x.com/kansj68531/status/1892955546183192963/video/1",
+          "media_key": "13_1892955488700243968",
+          "start": 28,
+          "url": "https://t.co/52zvwpGhdd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1892956828042215459",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1892955546183192963",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kansj68531: 地雷女来广东也得猪脚饭 https://t.co/52zvwpGhdd"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 2737,
+        "height": 1280,
+        "media_key": "13_1892955488700243968",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1892955488700243968/img/82-YTP_o5UBe_-G8.jpg",
+        "public_metrics": {
+          "view_count": 17
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1892955488700243968/vid/avc1/320x568/gcGk6xukkbwyxbo1.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1892955488700243968/vid/avc1/480x852/lxpnsn2vZfeo2qzK.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1892955488700243968/vid/avc1/720x1280/KMmzB9OGSDXztdhS.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1892955488700243968/pl/OVJyMy1V6zTbIkxo.m3u8?tag=14"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1892955488700243968"
+          ],
+          "media_source_tweet_id": [
+            "1892955546183192963"
+          ]
+        },
+        "author_id": "3022697779",
+        "conversation_id": "1892956828042215459",
+        "created_at": "2025-02-21T15:17:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-21T16:17:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1892956828042215459"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1699445300950093824",
+              "start": 3,
+              "username": "kansj68531"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/52zvwpGhdd",
+              "end": 51,
+              "expanded_url": "https://x.com/kansj68531/status/1892955546183192963/video/1",
+              "media_key": "13_1892955488700243968",
+              "start": 28,
+              "url": "https://t.co/52zvwpGhdd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1892956828042215459",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1892955546183192963",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kansj68531: 地雷女来广东也得猪脚饭 https://t.co/52zvwpGhdd"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1892955488700243968"
+          ]
+        },
+        "author_id": "1699445300950093824",
+        "conversation_id": "1892955546183192963",
+        "created_at": "2025-02-21T15:12:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-21T16:12:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1892955546183192963"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/52zvwpGhdd",
+              "end": 35,
+              "expanded_url": "https://x.com/kansj68531/status/1892955546183192963/video/1",
+              "media_key": "13_1892955488700243968",
+              "start": 12,
+              "url": "https://t.co/52zvwpGhdd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1892955546183192963",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 55,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "地雷女来广东也得猪脚饭 https://t.co/52zvwpGhdd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-02-16T15:27:54.000Z",
+        "description": "本不一定什么时候就没，请添加下方网址的telegram频道以获得持续更新。\n以禁毒、法律教育及损害减少（harm reduction）为目的，通过非世俗及去道德的理念，追求真实的知识与反馈。除替代为目的，部分良性物质，以及特殊情况下的损害减少，不推荐任何人摄入我提及的物质。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/XDrugLab",
+                "end": 23,
+                "expanded_url": "https://t.me/XDrugLab",
+                "start": 0,
+                "url": "https://t.co/KMcpbSmDcL"
+              }
+            ]
+          }
+        },
+        "id": "3022697779",
+        "name": "药物实验室",
+        "pinned_tweet_id": "1861564676557152611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854259369203879954/nxgmCDHX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12063,
+          "following_count": 17,
+          "like_count": 9,
+          "listed_count": 10,
+          "media_count": 21,
+          "tweet_count": 673
+        },
+        "url": "https://t.co/KMcpbSmDcL",
+        "username": "RXdruglab",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-06T15:31:58.000Z",
+        "description": "",
+        "id": "1699445300950093824",
+        "location": "Macau",
+        "name": "林林林林林-",
+        "pinned_tweet_id": "1892780738111820156",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888034100495400961/lsuzzYlq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1246,
+          "following_count": 27,
+          "like_count": 554,
+          "listed_count": 3,
+          "media_count": 10,
+          "tweet_count": 33
+        },
+        "username": "kansj68531",
+        "verified": false
+      }
+    ]
+  }
+}

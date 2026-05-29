@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "3022697779",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "id": "1129067985451118593",
+          "name": "Physical Education"
+        }
+      }
+    ],
+    "conversation_id": "1868458931938586742",
+    "created_at": "2024-12-16T00:51:38.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-16T01:51:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1868458931938586742"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "25950119",
+          "start": 3,
+          "username": "not_2b_or_2b"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1868458931938586742",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 33
+    },
+    "referenced_tweets": [
+      {
+        "id": "1868276336814653546",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @not_2b_or_2b: “北京的所有高校，只有一所的学生很少出极端心理问题，那所高校就是北京体育大学。”😂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3022697779",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "id": "1129067985451118593",
+              "name": "Physical Education"
+            }
+          }
+        ],
+        "conversation_id": "1868458931938586742",
+        "created_at": "2024-12-16T00:51:38.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-16T01:51:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1868458931938586742"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "25950119",
+              "start": 3,
+              "username": "not_2b_or_2b"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1868458931938586742",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 33
+        },
+        "referenced_tweets": [
+          {
+            "id": "1868276336814653546",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @not_2b_or_2b: “北京的所有高校，只有一所的学生很少出极端心理问题，那所高校就是北京体育大学。”😂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "25950119",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "id": "1129067985451118593",
+              "name": "Physical Education"
+            }
+          }
+        ],
+        "conversation_id": "1868276336814653546",
+        "created_at": "2024-12-15T12:46:04.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-15T13:46:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1868276336814653546"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1868276336814653546",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 66,
+          "impression_count": 206907,
+          "like_count": 688,
+          "quote_count": 10,
+          "reply_count": 57,
+          "retweet_count": 33
+        },
+        "reply_settings": "everyone",
+        "text": "“北京的所有高校，只有一所的学生很少出极端心理问题，那所高校就是北京体育大学。”😂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-02-16T15:27:54.000Z",
+        "description": "本账号不一定什么时候就没，请添加下方网址的telegram频道以获得持续更新。\n以禁毒、法律教育及损害减少（harm reduction）为目的，通过非世俗及去道德的理念，追求真实的知识与反馈。除替代为目的，部分良性物质，以及特殊情况下的损害减少，不推荐任何人摄入我提及的物质。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/XDrugLab",
+                "end": 23,
+                "expanded_url": "https://t.me/XDrugLab",
+                "start": 0,
+                "url": "https://t.co/71vzzaVErr"
+              }
+            ]
+          }
+        },
+        "id": "3022697779",
+        "name": "药物实验室",
+        "pinned_tweet_id": "1861564676557152611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854259369203879954/nxgmCDHX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1786,
+          "following_count": 16,
+          "like_count": 4,
+          "listed_count": 3,
+          "media_count": 16,
+          "tweet_count": 295
+        },
+        "url": "https://t.co/71vzzaVErr",
+        "username": "RXdruglab",
+        "verified": false
+      },
+      {
+        "created_at": "2009-03-23T04:08:06.000Z",
+        "description": "Less is more",
+        "id": "25950119",
+        "location": "Canada",
+        "name": "To be, or not to be",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/573708483322773504/C38RzJoL_normal.jpeg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31851,
+          "following_count": 181,
+          "like_count": 119,
+          "listed_count": 191,
+          "media_count": 6939,
+          "tweet_count": 11350
+        },
+        "username": "not_2b_or_2b",
+        "verified": false
+      }
+    ]
+  }
+}

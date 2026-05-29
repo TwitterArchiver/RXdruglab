@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "3022697779",
+    "conversation_id": "1887482214658809904",
+    "created_at": "2025-02-06T15:33:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-06T16:33:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1887525085818593527"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1248103813711458307",
+          "start": 0,
+          "username": "rguRYVDHUBSR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1887525085818593527",
+    "in_reply_to_user_id": "1248103813711458307",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1887524915718344908",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rguRYVDHUBSR 我之前也是这样认为的，直到我需要买精分类药物。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3022697779",
+        "conversation_id": "1887482214658809904",
+        "created_at": "2025-02-06T15:33:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-06T16:33:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1887525085818593527"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1248103813711458307",
+              "start": 0,
+              "username": "rguRYVDHUBSR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1887525085818593527",
+        "in_reply_to_user_id": "1248103813711458307",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1887524915718344908",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rguRYVDHUBSR 我之前也是这样认为的，直到我需要买精分类药物。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1248103813711458307",
+        "conversation_id": "1887482214658809904",
+        "created_at": "2025-02-06T15:33:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-06T16:33:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1887524915718344908"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "3022697779",
+              "start": 0,
+              "username": "RXdruglab"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1887524915718344908",
+        "in_reply_to_user_id": "3022697779",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1887482214658809904",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RXdruglab 是拿来买药还是？你直接随便搜索一个身份证号码，网上开药就行了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-02-16T15:27:54.000Z",
+        "description": "本不一定什么时候就没，请添加下方网址的telegram频道以获得持续更新。\n以禁毒、法律教育及损害减少（harm reduction）为目的，通过非世俗及去道德的理念，追求真实的知识与反馈。除替代为目的，部分良性物质，以及特殊情况下的损害减少，不推荐任何人摄入我提及的物质。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/XDrugLab",
+                "end": 23,
+                "expanded_url": "https://t.me/XDrugLab",
+                "start": 0,
+                "url": "https://t.co/KMcpbSmDcL"
+              }
+            ]
+          }
+        },
+        "id": "3022697779",
+        "name": "药物实验室",
+        "pinned_tweet_id": "1861564676557152611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854259369203879954/nxgmCDHX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11660,
+          "following_count": 15,
+          "like_count": 11,
+          "listed_count": 10,
+          "media_count": 21,
+          "tweet_count": 626
+        },
+        "url": "https://t.co/KMcpbSmDcL",
+        "username": "RXdruglab",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-09T04:23:27.000Z",
+        "description": "🌈LGBT，Furry控，0.5，戀獸者。\n暂时未请画师画兽设。",
+        "id": "1248103813711458307",
+        "location": "Hong Kong",
+        "name": "夜夜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1261657977762623492/7x0brqW3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67,
+          "following_count": 874,
+          "like_count": 184251,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 9037
+        },
+        "username": "rguRYVDHUBSR",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1873754972183228416"
+      ],
+      "media_source_tweet_id": [
+        "1873754976159486227"
+      ]
+    },
+    "author_id": "3022697779",
+    "conversation_id": "1873960219170275599",
+    "created_at": "2024-12-31T05:11:47.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-31T06:11:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1873960219170275599"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1456231777224347651",
+          "start": 3,
+          "username": "dDguwkiRkZcCSrt"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "sciencedirect.com/science/articl…",
+          "end": 73,
+          "expanded_url": "https://www.sciencedirect.com/science/article/abs/pii/S009042959900031X",
+          "start": 50,
+          "unwound_url": "https://www.sciencedirect.com/science/article/abs/pii/S009042959900031X",
+          "url": "https://t.co/F0psBbQ22X"
+        },
+        {
+          "display_url": "pic.x.com/nNBI2COuUn",
+          "end": 97,
+          "expanded_url": "https://x.com/dDguwkiRkZcCSrt/status/1873754976159486227/photo/1",
+          "media_key": "3_1873754972183228416",
+          "start": 74,
+          "url": "https://t.co/nNBI2COuUn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1873960219170275599",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1873754976159486227",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @dDguwkiRkZcCSrt: 另一篇。\n同样是说大剂量服用含有愈创甘油醚制品的副作用\n\nhttps://t.co/F0psBbQ22X https://t.co/nNBI2COuUn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1873754972183228416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GgDqODkacAAejFo.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1873754972183228416"
+          ],
+          "media_source_tweet_id": [
+            "1873754976159486227"
+          ]
+        },
+        "author_id": "3022697779",
+        "conversation_id": "1873960219170275599",
+        "created_at": "2024-12-31T05:11:47.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-31T06:11:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1873960219170275599"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1456231777224347651",
+              "start": 3,
+              "username": "dDguwkiRkZcCSrt"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "sciencedirect.com/science/articl…",
+              "end": 73,
+              "expanded_url": "https://www.sciencedirect.com/science/article/abs/pii/S009042959900031X",
+              "start": 50,
+              "unwound_url": "https://www.sciencedirect.com/science/article/abs/pii/S009042959900031X",
+              "url": "https://t.co/F0psBbQ22X"
+            },
+            {
+              "display_url": "pic.x.com/nNBI2COuUn",
+              "end": 97,
+              "expanded_url": "https://x.com/dDguwkiRkZcCSrt/status/1873754976159486227/photo/1",
+              "media_key": "3_1873754972183228416",
+              "start": 74,
+              "url": "https://t.co/nNBI2COuUn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1873960219170275599",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1873754976159486227",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @dDguwkiRkZcCSrt: 另一篇。\n同样是说大剂量服用含有愈创甘油醚制品的副作用\n\nhttps://t.co/F0psBbQ22X https://t.co/nNBI2COuUn"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1873754972183228416"
+          ]
+        },
+        "author_id": "1456231777224347651",
+        "conversation_id": "1873754976159486227",
+        "created_at": "2024-12-30T15:36:13.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-30T16:36:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1873754976159486227"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "sciencedirect.com/science/articl…",
+              "end": 52,
+              "expanded_url": "https://www.sciencedirect.com/science/article/abs/pii/S009042959900031X",
+              "start": 29,
+              "unwound_url": "https://www.sciencedirect.com/science/article/abs/pii/S009042959900031X",
+              "url": "https://t.co/F0psBbQ22X"
+            },
+            {
+              "display_url": "pic.x.com/nNBI2COuUn",
+              "end": 76,
+              "expanded_url": "https://x.com/dDguwkiRkZcCSrt/status/1873754976159486227/photo/1",
+              "media_key": "3_1873754972183228416",
+              "start": 53,
+              "url": "https://t.co/nNBI2COuUn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1873754976159486227",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 125,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "另一篇。\n同样是说大剂量服用含有愈创甘油醚制品的副作用\n\nhttps://t.co/F0psBbQ22X https://t.co/nNBI2COuUn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-02-16T15:27:54.000Z",
+        "description": "本账号不一定什么时候就没，请添加下方网址的telegram频道以获得持续更新。\n以禁毒、法律教育及损害减少（harm reduction）为目的，通过非世俗及去道德的理念，追求真实的知识与反馈。除替代为目的，部分良性物质，以及特殊情况下的损害减少，不推荐任何人摄入我提及的物质。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/XDrugLab",
+                "end": 23,
+                "expanded_url": "https://t.me/XDrugLab",
+                "start": 0,
+                "url": "https://t.co/71vzzaVErr"
+              }
+            ]
+          }
+        },
+        "id": "3022697779",
+        "name": "药物实验室",
+        "pinned_tweet_id": "1861564676557152611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854259369203879954/nxgmCDHX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2002,
+          "following_count": 14,
+          "like_count": 7,
+          "listed_count": 3,
+          "media_count": 18,
+          "tweet_count": 363
+        },
+        "url": "https://t.co/71vzzaVErr",
+        "username": "RXdruglab",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-04T12:08:26.000Z",
+        "description": "intp",
+        "id": "1456231777224347651",
+        "name": "徐翔",
+        "pinned_tweet_id": "1864929593679057128",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1456231862645428232/EwsAhO0p_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 249,
+          "following_count": 38,
+          "like_count": 945,
+          "listed_count": 0,
+          "media_count": 190,
+          "tweet_count": 2147
+        },
+        "username": "dDguwkiRkZcCSrt",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "3022697779",
+    "conversation_id": "1999232325842878578",
+    "created_at": "2025-12-12T05:26:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-12T06:26:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999350203120533916"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1921216562616561664",
+          "start": 0,
+          "username": "gmax992"
+        },
+        {
+          "end": 23,
+          "id": "1986452594206838785",
+          "start": 9,
+          "username": "Idontselldrug"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999350203120533916",
+    "in_reply_to_user_id": "1921216562616561664",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999333296300495112",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gmax992 @Idontselldrug 有什么新鲜的好东西卖吗？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3022697779",
+        "conversation_id": "1999232325842878578",
+        "created_at": "2025-12-12T05:26:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T06:26:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999350203120533916"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1921216562616561664",
+              "start": 0,
+              "username": "gmax992"
+            },
+            {
+              "end": 23,
+              "id": "1986452594206838785",
+              "start": 9,
+              "username": "Idontselldrug"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999350203120533916",
+        "in_reply_to_user_id": "1921216562616561664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999333296300495112",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gmax992 @Idontselldrug 有什么新鲜的好东西卖吗？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1921216562616561664",
+        "conversation_id": "1999232325842878578",
+        "created_at": "2025-12-12T04:19:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T05:19:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999333296300495112"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1986452594206838785",
+              "start": 0,
+              "username": "Idontselldrug"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999333296300495112",
+        "in_reply_to_user_id": "1986452594206838785",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 142,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999232325842878578",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Idontselldrug 我卖了六年dpt给老外，都没想到这东西有一天在国内会被卖到五六百一克，它现在行情价也就三四万一公斤，平均几十块钱一克，这还算透明的。至于其他的，利润会更大，甚至成本可以忽略不计。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-02-16T15:27:54.000Z",
+        "description": "本不一定什么时候就没，请添加下方网址的telegram频道以获得持续更新。\n以禁毒、法律教育及损害减少（harm reduction）为目的，通过非世俗及去道德的理念，追求真实的知识与反馈。除替代为目的，部分良性物质，以及特殊情况下的损害减少，不推荐任何人摄入我提及的物质。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/XDrugLab",
+                "end": 23,
+                "expanded_url": "https://t.me/XDrugLab",
+                "start": 0,
+                "url": "https://t.co/KMcpbSmDcL"
+              }
+            ]
+          }
+        },
+        "id": "3022697779",
+        "name": "药物实验室",
+        "pinned_tweet_id": "1917542345039569145",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854259369203879954/nxgmCDHX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16821,
+          "following_count": 18,
+          "like_count": 23,
+          "listed_count": 21,
+          "media_count": 52,
+          "tweet_count": 1399
+        },
+        "url": "https://t.co/KMcpbSmDcL",
+        "username": "RXdruglab",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-10T14:52:05.000Z",
+        "description": "业务范围：自营试剂，代购试剂，定制合成。\n销售产品仅用于科研实验以及外贸出口，咨询请先提供cas号（已列管物质以及危化品勿扰）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/huayangchem",
+                "end": 23,
+                "expanded_url": "http://t.me/huayangchem",
+                "start": 0,
+                "url": "https://t.co/Pup58OSc0f"
+              }
+            ]
+          }
+        },
+        "id": "1921216562616561664",
+        "name": "华阳化工(试剂服务)",
+        "pinned_tweet_id": "1999036268060242073",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999019852967849984/e9vRJE4t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 0,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 1
+        },
+        "url": "https://t.co/Pup58OSc0f",
+        "username": "gmax992",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "description": "已转生，互关寻回中 人在加拿大 埃德蒙顿的推友快来找我玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1P0h8"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Alberta, Canada",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 580,
+          "following_count": 183,
+          "like_count": 342,
+          "listed_count": 0,
+          "media_count": 73,
+          "tweet_count": 675
+        },
+        "url": "https://t.co/ZuiIe1P0h8",
+        "username": "Idontselldrug",
+        "verified": false
+      }
+    ]
+  }
+}

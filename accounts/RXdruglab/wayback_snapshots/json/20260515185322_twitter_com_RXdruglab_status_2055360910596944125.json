@@ -1,0 +1,170 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "3022697779",
+    "conversation_id": "2055341612474249249",
+    "created_at": "2026-05-15T18:53:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T19:53:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055360910596944125"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2055360910596944125",
+    "in_reply_to_user_id": "3022697779",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055341612474249249",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "倒也不是说格力空调工程师写的那个论文就必然是错的，只是说臭味的来源多种多样，大部分空调就是细菌滋生的问题，新空调发臭才有可能是鳍片涂层工艺的问题，只能说是比较罕见。撤稿的原因我猜就是只有格力有问题，要么研究过程或结论有问题。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3022697779",
+        "conversation_id": "2055341612474249249",
+        "created_at": "2026-05-15T18:53:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T19:53:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055360910596944125"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2055360910596944125",
+        "in_reply_to_user_id": "3022697779",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055341612474249249",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "倒也不是说格力空调工程师写的那个论文就必然是错的，只是说臭味的来源多种多样，大部分空调就是细菌滋生的问题，新空调发臭才有可能是鳍片涂层工艺的问题，只能说是比较罕见。撤稿的原因我猜就是只有格力有问题，要么研究过程或结论有问题。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3022697779",
+        "conversation_id": "2055341612474249249",
+        "created_at": "2026-05-15T17:36:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T18:36:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055341612474249249"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/H20_chemistry_…",
+              "end": 94,
+              "expanded_url": "https://twitter.com/H20_chemistry_x/status/2055274078932713833",
+              "start": 71,
+              "url": "https://t.co/mzwlJa4OgY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055341612474249249",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 594,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055274078932713833",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "鳍片涂层工艺说的那两篇论文已经撤稿了，发臭来源就是鳍片脏了，和细菌滋生有关系。\n买一瓶空调清洗剂把鳍片喷一遍就行了，注意滴水，可以买个兜子。 https://t.co/mzwlJa4OgY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-02-16T15:27:54.000Z",
+        "description": "本不一定什么时候就没，请添加下方网址的telegram频道以获得持续更新。\n以禁毒、法律教育及损害减少（harm reduction）为目的，通过非世俗及去道德的理念，追求真实的知识与反馈。除替代为目的，部分良性物质，以及特殊情况下的损害减少，不推荐任何人摄入我提及的物质。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/XDrugLab",
+                "end": 23,
+                "expanded_url": "https://t.me/XDrugLab",
+                "start": 0,
+                "url": "https://t.co/KMcpbSmDcL"
+              }
+            ]
+          }
+        },
+        "id": "3022697779",
+        "name": "药物实验室",
+        "pinned_tweet_id": "1917542345039569145",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854259369203879954/nxgmCDHX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19308,
+          "following_count": 17,
+          "like_count": 37,
+          "listed_count": 22,
+          "media_count": 55,
+          "tweet_count": 1711
+        },
+        "url": "https://t.co/KMcpbSmDcL",
+        "username": "RXdruglab",
+        "verified": false
+      }
+    ]
+  }
+}

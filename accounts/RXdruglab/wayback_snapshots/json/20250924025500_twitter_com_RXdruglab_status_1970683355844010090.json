@@ -1,0 +1,147 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1970577524485914624"
+      ]
+    },
+    "author_id": "3022697779",
+    "conversation_id": "1970683355844010090",
+    "created_at": "2025-09-24T02:55:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-24T03:55:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1970683355844010090"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/aKWfXWrmxA",
+          "end": 35,
+          "expanded_url": "https://x.com/RXdruglab/status/1970683355844010090/photo/1",
+          "media_key": "3_1970577524485914624",
+          "start": 12,
+          "url": "https://t.co/aKWfXWrmxA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1970683355844010090",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "小岛秀夫的新作，OD。 https://t.co/aKWfXWrmxA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 808,
+        "media_key": "3_1970577524485914624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1jl0WVaAAAah5F.jpg",
+        "width": 1421
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1970577524485914624"
+          ]
+        },
+        "author_id": "3022697779",
+        "conversation_id": "1970683355844010090",
+        "created_at": "2025-09-24T02:55:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-24T03:55:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1970683355844010090"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aKWfXWrmxA",
+              "end": 35,
+              "expanded_url": "https://x.com/RXdruglab/status/1970683355844010090/photo/1",
+              "media_key": "3_1970577524485914624",
+              "start": 12,
+              "url": "https://t.co/aKWfXWrmxA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970683355844010090",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "小岛秀夫的新作，OD。 https://t.co/aKWfXWrmxA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-02-16T15:27:54.000Z",
+        "description": "本不一定什么时候就没，请添加下方网址的telegram频道以获得持续更新。\n以禁毒、法律教育及损害减少（harm reduction）为目的，通过非世俗及去道德的理念，追求真实的知识与反馈。除替代为目的，部分良性物质，以及特殊情况下的损害减少，不推荐任何人摄入我提及的物质。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/XDrugLab",
+                "end": 23,
+                "expanded_url": "https://t.me/XDrugLab",
+                "start": 0,
+                "url": "https://t.co/KMcpbSmDcL"
+              }
+            ]
+          }
+        },
+        "id": "3022697779",
+        "name": "药物实验室",
+        "pinned_tweet_id": "1917542345039569145",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854259369203879954/nxgmCDHX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16087,
+          "following_count": 18,
+          "like_count": 36,
+          "listed_count": 17,
+          "media_count": 50,
+          "tweet_count": 1232
+        },
+        "url": "https://t.co/KMcpbSmDcL",
+        "username": "RXdruglab",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "3022697779",
+    "conversation_id": "1950063259199164742",
+    "created_at": "2025-07-29T05:45:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-29T06:45:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1950070114616856738"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1950070114616856738",
+    "in_reply_to_user_id": "3022697779",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1950063261556097253",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "管制药品是否是毒品这个问题上其实我觉得还是有争议的，因为法定的是让人形成瘾癖的管制药品，那么无法形成瘾癖的管制药品，是否是毒品呢？如果没有做成瘾报告，或者当事人做了一份相反结果的成瘾报告，那就存在争议了。之前的实践中一直认定的是只要管制就是非法，但是这个分类其实在拉远这个区分。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3022697779",
+        "conversation_id": "1950063259199164742",
+        "created_at": "2025-07-29T05:45:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-29T06:45:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950070114616856738"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1950070114616856738",
+        "in_reply_to_user_id": "3022697779",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950063261556097253",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "管制药品是否是毒品这个问题上其实我觉得还是有争议的，因为法定的是让人形成瘾癖的管制药品，那么无法形成瘾癖的管制药品，是否是毒品呢？如果没有做成瘾报告，或者当事人做了一份相反结果的成瘾报告，那就存在争议了。之前的实践中一直认定的是只要管制就是非法，但是这个分类其实在拉远这个区分。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3022697779",
+        "conversation_id": "1950063259199164742",
+        "created_at": "2025-07-29T05:18:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-29T06:18:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950063261556097253"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1950063261556097253",
+        "in_reply_to_user_id": "3022697779",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 92,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950063259199164742",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "但是这里有个问题，就是对于兽用以及未来形式发展的缺失，比如埃托啡，比如卡芬太尼（还没有国内应用）\n会用于大型猛兽的麻醉，这种管制会可能会形成一定的管理混乱。再比如LSD，赛洛西宾在未来可能会作为抑郁症的治疗手段，这个到时恐怕也没有很明确的方案。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-02-16T15:27:54.000Z",
+        "description": "本不一定什么时候就没，请添加下方网址的telegram频道以获得持续更新。\n以禁毒、法律教育及损害减少（harm reduction）为目的，通过非世俗及去道德的理念，追求真实的知识与反馈。除替代为目的，部分良性物质，以及特殊情况下的损害减少，不推荐任何人摄入我提及的物质。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/XDrugLab",
+                "end": 23,
+                "expanded_url": "https://t.me/XDrugLab",
+                "start": 0,
+                "url": "https://t.co/KMcpbSmDcL"
+              }
+            ]
+          }
+        },
+        "id": "3022697779",
+        "name": "药物实验室",
+        "pinned_tweet_id": "1917542345039569145",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854259369203879954/nxgmCDHX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15370,
+          "following_count": 17,
+          "like_count": 34,
+          "listed_count": 14,
+          "media_count": 44,
+          "tweet_count": 1081
+        },
+        "url": "https://t.co/KMcpbSmDcL",
+        "username": "RXdruglab",
+        "verified": false
+      }
+    ]
+  }
+}

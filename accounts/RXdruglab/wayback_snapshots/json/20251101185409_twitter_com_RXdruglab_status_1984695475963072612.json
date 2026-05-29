@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "3022697779",
+    "conversation_id": "1984655781116137681",
+    "created_at": "2025-11-01T18:54:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-01T19:54:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984695475963072612"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1514366356849897484",
+          "start": 0,
+          "username": "aa92202836"
+        },
+        {
+          "end": 23,
+          "id": "1658664482632253441",
+          "start": 12,
+          "username": "jujube8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984695475963072612",
+    "in_reply_to_user_id": "1514366356849897484",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984694103284863116",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aa92202836 @jujube8964 这种可以的，是一种很棒且有效的避险手段，包括琼瑶的那种，我都支持的。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3022697779",
+        "conversation_id": "1984655781116137681",
+        "created_at": "2025-11-01T18:54:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-01T19:54:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984695475963072612"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1514366356849897484",
+              "start": 0,
+              "username": "aa92202836"
+            },
+            {
+              "end": 23,
+              "id": "1658664482632253441",
+              "start": 12,
+              "username": "jujube8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984695475963072612",
+        "in_reply_to_user_id": "1514366356849897484",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984694103284863116",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aa92202836 @jujube8964 这种可以的，是一种很棒且有效的避险手段，包括琼瑶的那种，我都支持的。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1514366356849897484",
+        "conversation_id": "1984655781116137681",
+        "created_at": "2025-11-01T18:48:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-01T19:48:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984694103284863116"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "3022697779",
+              "start": 0,
+              "username": "RXdruglab"
+            },
+            {
+              "end": 22,
+              "id": "1658664482632253441",
+              "start": 11,
+              "username": "jujube8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984694103284863116",
+        "in_reply_to_user_id": "3022697779",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984687251629228443",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RXdruglab @jujube8964 如果是癌痛呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-02-16T15:27:54.000Z",
+        "description": "本不一定什么时候就没，请添加下方网址的telegram频道以获得持续更新。\n以禁毒、法律教育及损害减少（harm reduction）为目的，通过非世俗及去道德的理念，追求真实的知识与反馈。除替代为目的，部分良性物质，以及特殊情况下的损害减少，不推荐任何人摄入我提及的物质。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/XDrugLab",
+                "end": 23,
+                "expanded_url": "https://t.me/XDrugLab",
+                "start": 0,
+                "url": "https://t.co/KMcpbSmDcL"
+              }
+            ]
+          }
+        },
+        "id": "3022697779",
+        "name": "药物实验室",
+        "pinned_tweet_id": "1917542345039569145",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854259369203879954/nxgmCDHX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16149,
+          "following_count": 19,
+          "like_count": 20,
+          "listed_count": 20,
+          "media_count": 52,
+          "tweet_count": 1287
+        },
+        "url": "https://t.co/KMcpbSmDcL",
+        "username": "RXdruglab",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-13T22:14:28.000Z",
+        "description": "不要关注我",
+        "id": "1514366356849897484",
+        "name": "影子打飞连带狗卡比牛逼行我走",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1771896383597133824/MmBENj-N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 308,
+          "like_count": 1358,
+          "listed_count": 1,
+          "media_count": 98,
+          "tweet_count": 589
+        },
+        "username": "aa92202836",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-17T02:43:36.000Z",
+        "description": "深爱着我的爱人，直到永远             \n                我个人阳痿/风湿/前列腺炎/腰间盘突出        回fo私信立马回喵",
+        "id": "1658664482632253441",
+        "location": "爱人的怀抱",
+        "name": "冬枣",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984312223637151744/2QZKQVoq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 447,
+          "following_count": 647,
+          "like_count": 2177,
+          "listed_count": 3,
+          "media_count": 177,
+          "tweet_count": 3894
+        },
+        "username": "jujube8964",
+        "verified": false
+      }
+    ]
+  }
+}

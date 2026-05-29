@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "3022697779",
+    "conversation_id": "1861774187234287688",
+    "created_at": "2024-11-28T12:23:52.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-28T13:23:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1862110155967435087"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "869273015984562176",
+          "start": 0,
+          "username": "jack96842129"
+        },
+        {
+          "end": 24,
+          "id": "1448545153166180356",
+          "start": 14,
+          "username": "swyxy4484"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1862110155967435087",
+    "in_reply_to_user_id": "869273015984562176",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1861775875760353286",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jack96842129 @swyxy4484 妙啊。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3022697779",
+        "conversation_id": "1861774187234287688",
+        "created_at": "2024-11-28T12:23:52.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-28T13:23:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1862110155967435087"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "869273015984562176",
+              "start": 0,
+              "username": "jack96842129"
+            },
+            {
+              "end": 24,
+              "id": "1448545153166180356",
+              "start": 14,
+              "username": "swyxy4484"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1862110155967435087",
+        "in_reply_to_user_id": "869273015984562176",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1861775875760353286",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jack96842129 @swyxy4484 妙啊。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "869273015984562176",
+        "conversation_id": "1861774187234287688",
+        "created_at": "2024-11-27T14:15:33.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-27T15:15:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1861775875760353286"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1448545153166180356",
+              "start": 0,
+              "username": "swyxy4484"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1861775875760353286",
+        "in_reply_to_user_id": "1448545153166180356",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32739,
+          "like_count": 63,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1861774187234287688",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@swyxy4484 来日内瓦一半钱就够了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-02-16T15:27:54.000Z",
+        "description": "本账号不一定什么时候就没，请添加下方网址的telegram频道以获得持续更新。\n以禁毒、法律教育及损害减少（harm reduction）为目的，通过非世俗及去道德的理念，追求真实的知识与反馈。除替代为目的，部分良性物质，以及特殊情况下的损害减少，不推荐任何人摄入我提及的物质。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/XDrugLab",
+                "end": 23,
+                "expanded_url": "https://t.me/XDrugLab",
+                "start": 0,
+                "url": "https://t.co/71vzzaVErr"
+              }
+            ]
+          }
+        },
+        "id": "3022697779",
+        "name": "药物实验室",
+        "pinned_tweet_id": "1861564676557152611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854259369203879954/nxgmCDHX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 524,
+          "following_count": 6,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 136
+        },
+        "url": "https://t.co/71vzzaVErr",
+        "username": "RXdruglab",
+        "verified": false
+      },
+      {
+        "created_at": "2017-05-29T19:23:32.000Z",
+        "description": "旅居体验",
+        "id": "869273015984562176",
+        "location": "Vågsøy, Norge",
+        "name": "Jack",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1788136501009649664/gKTr5IwC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1015,
+          "following_count": 992,
+          "like_count": 559,
+          "listed_count": 5,
+          "media_count": 133,
+          "tweet_count": 963
+        },
+        "username": "jack96842129",
+        "verified": true
+      },
+      {
+        "created_at": "2021-10-14T07:04:18.000Z",
+        "description": "防失联小号2号机已挂.\n3号机@swfbs2024，小号会发不适合大号发的内容\n\n🇨🇳🇨🇳自干五。看女人，看动物，体育。美食。奇怪的东西。\n\n会主动屏蔽跑我评论区的不文明人士\n\n推文中有少部分的视频和资料会来自互联网，如有涉及版权请及时告知 立马删除。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "swfbs2024"
+              }
+            ]
+          }
+        },
+        "id": "1448545153166180356",
+        "name": "无人机咻咻咻✈️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1809458315736268800/Jad8S-Ow_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 161518,
+          "following_count": 306,
+          "like_count": 65758,
+          "listed_count": 409,
+          "media_count": 6474,
+          "tweet_count": 34055
+        },
+        "username": "swyxy4484",
+        "verified": true
+      }
+    ]
+  }
+}

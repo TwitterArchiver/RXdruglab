@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "3022697779",
+    "conversation_id": "1923881813963046927",
+    "created_at": "2025-05-17T23:22:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-18T00:22:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1923881813963046927"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/kansj68531/sta…",
+          "end": 50,
+          "expanded_url": "https://twitter.com/kansj68531/status/1923880040384823331",
+          "start": 27,
+          "url": "https://t.co/wtGH6SHA8o"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1923881813963046927",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1923880040384823331",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "其实这个号是林林的虚拟大号，我是林林，其实我是皮下女 https://t.co/wtGH6SHA8o"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3022697779",
+        "conversation_id": "1923881813963046927",
+        "created_at": "2025-05-17T23:22:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-18T00:22:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1923881813963046927"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kansj68531/sta…",
+              "end": 50,
+              "expanded_url": "https://twitter.com/kansj68531/status/1923880040384823331",
+              "start": 27,
+              "url": "https://t.co/wtGH6SHA8o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1923881813963046927",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1923880040384823331",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "其实这个号是林林的虚拟大号，我是林林，其实我是皮下女 https://t.co/wtGH6SHA8o"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1699445300950093824",
+        "conversation_id": "1923880040384823331",
+        "created_at": "2025-05-17T23:15:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-18T00:15:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1923880040384823331"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1923880040384823331",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 35,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "其实这个号是药物实验室的现生小号，我是药物实验室，其实我是皮下女"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-02-16T15:27:54.000Z",
+        "description": "本不一定什么时候就没，请添加下方网址的telegram频道以获得持续更新。\n以禁毒、法律教育及损害减少（harm reduction）为目的，通过非世俗及去道德的理念，追求真实的知识与反馈。除替代为目的，部分良性物质，以及特殊情况下的损害减少，不推荐任何人摄入我提及的物质。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/XDrugLab",
+                "end": 23,
+                "expanded_url": "https://t.me/XDrugLab",
+                "start": 0,
+                "url": "https://t.co/KMcpbSmDcL"
+              }
+            ]
+          }
+        },
+        "id": "3022697779",
+        "name": "药物实验室",
+        "pinned_tweet_id": "1917542345039569145",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854259369203879954/nxgmCDHX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14964,
+          "following_count": 18,
+          "like_count": 27,
+          "listed_count": 13,
+          "media_count": 41,
+          "tweet_count": 1001
+        },
+        "url": "https://t.co/KMcpbSmDcL",
+        "username": "RXdruglab",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-06T15:31:58.000Z",
+        "description": "overspeed编辑组人员，药圈第一个地雷女科普系博主，喜欢所有喜欢林林的人，很好说话，会回复用药咨询，闲聊过🚪。",
+        "id": "1699445300950093824",
+        "location": "Macau",
+        "name": "林讨厌你",
+        "pinned_tweet_id": "1923265743350644891",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908615592078434304/ofFo_Pzi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4893,
+          "following_count": 63,
+          "like_count": 458,
+          "listed_count": 10,
+          "media_count": 18,
+          "tweet_count": 42
+        },
+        "username": "kansj68531",
+        "verified": false
+      }
+    ]
+  }
+}

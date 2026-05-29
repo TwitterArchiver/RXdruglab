@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "3022697779",
+    "conversation_id": "1958340300168102242",
+    "created_at": "2025-08-21T01:28:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-21T02:28:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1958340300168102242"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/RXdruglab/stat…",
+          "end": 66,
+          "expanded_url": "https://twitter.com/RXdruglab/status/1957976359474720904",
+          "start": 43,
+          "url": "https://t.co/OysOc2SWUF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1958340300168102242",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1957976359474720904",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "一半以上的地雷妹更多的在床上吃饭，为什么会这样呢，我也不知道，床上怎么会适合吃饭呢。 https://t.co/OysOc2SWUF"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3022697779",
+        "conversation_id": "1958340300168102242",
+        "created_at": "2025-08-21T01:28:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-21T02:28:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1958340300168102242"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/RXdruglab/stat…",
+              "end": 66,
+              "expanded_url": "https://twitter.com/RXdruglab/status/1957976359474720904",
+              "start": 43,
+              "url": "https://t.co/OysOc2SWUF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958340300168102242",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957976359474720904",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "一半以上的地雷妹更多的在床上吃饭，为什么会这样呢，我也不知道，床上怎么会适合吃饭呢。 https://t.co/OysOc2SWUF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "1957976357549510656"
+          ]
+        },
+        "author_id": "3022697779",
+        "conversation_id": "1957976359474720904",
+        "created_at": "2025-08-20T01:21:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-20T02:21:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957976359474720904"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1957976359474720904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3391,
+          "like_count": 13,
+          "quote_count": 3,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "作为地雷妹，你更多在床上吃饭还是在桌子上吃饭？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-02-16T15:27:54.000Z",
+        "description": "本不一定什么时候就没，请添加下方网址的telegram频道以获得持续更新。\n以禁毒、法律教育及损害减少（harm reduction）为目的，通过非世俗及去道德的理念，追求真实的知识与反馈。除替代为目的，部分良性物质，以及特殊情况下的损害减少，不推荐任何人摄入我提及的物质。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/XDrugLab",
+                "end": 23,
+                "expanded_url": "https://t.me/XDrugLab",
+                "start": 0,
+                "url": "https://t.co/KMcpbSmDcL"
+              }
+            ]
+          }
+        },
+        "id": "3022697779",
+        "name": "药物实验室",
+        "pinned_tweet_id": "1917542345039569145",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854259369203879954/nxgmCDHX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15714,
+          "following_count": 18,
+          "like_count": 36,
+          "listed_count": 15,
+          "media_count": 46,
+          "tweet_count": 1155
+        },
+        "url": "https://t.co/KMcpbSmDcL",
+        "username": "RXdruglab",
+        "verified": false
+      }
+    ]
+  }
+}

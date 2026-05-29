@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "3022697779",
+    "conversation_id": "1900206154715893972",
+    "created_at": "2025-03-14T01:39:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-14T02:39:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1900360998021996767"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1829498397184946176",
+          "start": 0,
+          "username": "liangxihuigui"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1900360998021996767",
+    "in_reply_to_user_id": "1829498397184946176",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1900206154715893972",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@liangxihuigui 搞个信托吧，别不小心亏完了。"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 33106,
+        "height": 1280,
+        "media_key": "13_1900205958716153859",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1900205958716153859/img/5DRfESd_tVev2rrO.jpg",
+        "public_metrics": {
+          "view_count": 54795
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1900205958716153859/vid/avc1/320x690/-nkmwyFLBZnPYFNT.mp4?tag=16"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1900205958716153859/vid/avc1/480x1036/8SYL0HmfPwBCTmP2.mp4?tag=16"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1900205958716153859/vid/avc1/592x1280/CrajcRTMT7TDQ4ik.mp4?tag=16"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1900205958716153859/pl/3nw121DVhs9GcB6C.m3u8?tag=16&v=cfc"
+          }
+        ],
+        "width": 592
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3022697779",
+        "conversation_id": "1900206154715893972",
+        "created_at": "2025-03-14T01:39:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-14T02:39:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1900360998021996767"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1829498397184946176",
+              "start": 0,
+              "username": "liangxihuigui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1900360998021996767",
+        "in_reply_to_user_id": "1829498397184946176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1900206154715893972",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@liangxihuigui 搞个信托吧，别不小心亏完了。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1900205958716153859"
+          ]
+        },
+        "author_id": "1829498397184946176",
+        "conversation_id": "1900206154715893972",
+        "created_at": "2025-03-13T15:23:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-13T16:23:22.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1900206057210994794",
+          "1900206154715893972"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EVpggDl4Zi",
+              "end": 166,
+              "expanded_url": "https://x.com/liangxihuigui/status/1900206154715893972/video/1",
+              "media_key": "13_1900205958716153859",
+              "start": 143,
+              "url": "https://t.co/EVpggDl4Zi"
+            },
+            {
+              "display_url": "x.com/liangxihuigui/…",
+              "end": 190,
+              "expanded_url": "https://twitter.com/liangxihuigui/status/1895176751153848758",
+              "start": 167,
+              "url": "https://t.co/YAu5bErp1W"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1900206154715893972",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "心情好了就在工作群群里发一万红包，我们00后不要扣扣搜搜，有钱就得每个人开几万的工资，一个月几千工资够干你妈逼？一堆老一辈的企业家美曰其名做慈善，捐款这个捐款那个，都捐给了机构，捐给了政府，慈善的钱永远到不了老百姓，到不了穷人手里，与其拿钱去捐款装逼，不如先给身边的员工涨涨工资。让身边的人过好是最大的慈善！"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 209797,
+          "like_count": 354,
+          "quote_count": 5,
+          "reply_count": 273,
+          "retweet_count": 16
+        },
+        "referenced_tweets": [
+          {
+            "id": "1895176751153848758",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "心情好了就在工作群群里发一万红包，我们00后不要扣扣搜搜，有钱就得每个人开几万的工资，一个月几千工资够干你妈逼？一堆老一辈的企业家美曰其名做慈善，捐款这个捐款那个，都捐给了机构，捐给了政府，慈善的钱永远到不了老百姓，到不了穷人手里，与其拿钱去捐款装逼，不如先给身边的员工涨涨工资。让… https://t.co/EVpggDl4Zi https://t.co/YAu5bErp1W"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-02-16T15:27:54.000Z",
+        "description": "本不一定什么时候就没，请添加下方网址的telegram频道以获得持续更新。\n以禁毒、法律教育及损害减少（harm reduction）为目的，通过非世俗及去道德的理念，追求真实的知识与反馈。除替代为目的，部分良性物质，以及特殊情况下的损害减少，不推荐任何人摄入我提及的物质。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/XDrugLab",
+                "end": 23,
+                "expanded_url": "https://t.me/XDrugLab",
+                "start": 0,
+                "url": "https://t.co/KMcpbSmDcL"
+              }
+            ]
+          }
+        },
+        "id": "3022697779",
+        "name": "药物实验室",
+        "pinned_tweet_id": "1861564676557152611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854259369203879954/nxgmCDHX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13868,
+          "following_count": 17,
+          "like_count": 11,
+          "listed_count": 12,
+          "media_count": 24,
+          "tweet_count": 726
+        },
+        "url": "https://t.co/KMcpbSmDcL",
+        "username": "RXdruglab",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-30T12:36:57.000Z",
+        "description": "凉兮本人，负债两亿，被戴绿帽，众叛亲离，孤苦伶仃，无依无靠，只玩推特其余都是假冒得，外网只有一个号，不玩其他平台，其余都是假冒的，@liangxied原来的大号几十万粉丝，因外国人嫉妒我有21cm，所以把大号封了，没任何微博，微博早被封了，重度焦虑症重度抑郁症，精神分裂，双向情感障碍，有精神病人证",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 65,
+                "username": "liangxied"
+              }
+            ]
+          }
+        },
+        "id": "1829498397184946176",
+        "location": "阴蒂",
+        "name": "凉兮大元帅（白虎）🏳️‍⚧️",
+        "pinned_tweet_id": "1894366405568704589",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894409479107559424/yjHxCZPl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 223086,
+          "following_count": 415,
+          "like_count": 176,
+          "listed_count": 410,
+          "media_count": 1034,
+          "tweet_count": 2919
+        },
+        "username": "liangxihuigui",
+        "verified": true
+      }
+    ]
+  }
+}

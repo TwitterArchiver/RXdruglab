@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "3022697779",
+    "conversation_id": "1999352568095604882",
+    "created_at": "2025-12-15T16:38:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-15T17:38:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000606433986113958"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1907857662047629312",
+          "start": 0,
+          "username": "gaoqimen"
+        },
+        {
+          "end": 18,
+          "id": "1598199229083635713",
+          "start": 10,
+          "username": "lcn5531"
+        },
+        {
+          "end": 34,
+          "id": "1770685467077259265",
+          "start": 19,
+          "username": "strawberry_iir"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000606433986113958",
+    "in_reply_to_user_id": "1907857662047629312",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000603541526962566",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gaoqimen @lcn5531 @strawberry_iir 确实，封住就行了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3022697779",
+        "conversation_id": "1999352568095604882",
+        "created_at": "2025-12-15T16:38:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-15T17:38:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000606433986113958"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1907857662047629312",
+              "start": 0,
+              "username": "gaoqimen"
+            },
+            {
+              "end": 18,
+              "id": "1598199229083635713",
+              "start": 10,
+              "username": "lcn5531"
+            },
+            {
+              "end": 34,
+              "id": "1770685467077259265",
+              "start": 19,
+              "username": "strawberry_iir"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000606433986113958",
+        "in_reply_to_user_id": "1907857662047629312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000603541526962566",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gaoqimen @lcn5531 @strawberry_iir 确实，封住就行了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907857662047629312",
+        "conversation_id": "1999352568095604882",
+        "created_at": "2025-12-15T16:27:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-15T17:27:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000603541526962566"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "3022697779",
+              "start": 0,
+              "username": "RXdruglab"
+            },
+            {
+              "end": 19,
+              "id": "1598199229083635713",
+              "start": 11,
+              "username": "lcn5531"
+            },
+            {
+              "end": 35,
+              "id": "1770685467077259265",
+              "start": 20,
+              "username": "strawberry_iir"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000603541526962566",
+        "in_reply_to_user_id": "3022697779",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999884800094863443",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RXdruglab @lcn5531 @strawberry_iir 那更简单了，改装一下就行"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-02-16T15:27:54.000Z",
+        "description": "本不一定什么时候就没，请添加下方网址的telegram频道以获得持续更新。\n以禁毒、法律教育及损害减少（harm reduction）为目的，通过非世俗及去道德的理念，追求真实的知识与反馈。除替代为目的，部分良性物质，以及特殊情况下的损害减少，不推荐任何人摄入我提及的物质。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/XDrugLab",
+                "end": 23,
+                "expanded_url": "https://t.me/XDrugLab",
+                "start": 0,
+                "url": "https://t.co/KMcpbSmDcL"
+              }
+            ]
+          }
+        },
+        "id": "3022697779",
+        "name": "药物实验室",
+        "pinned_tweet_id": "1917542345039569145",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854259369203879954/nxgmCDHX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17261,
+          "following_count": 18,
+          "like_count": 22,
+          "listed_count": 21,
+          "media_count": 52,
+          "tweet_count": 1417
+        },
+        "url": "https://t.co/KMcpbSmDcL",
+        "username": "RXdruglab",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-03T18:08:58.000Z",
+        "description": "专业拷打乐子人\n你骂我那是你有病，我骂你那是你有病",
+        "id": "1907857662047629312",
+        "name": "忧郁坎",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986819732696424448/uFNROrQ2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 4,
+          "like_count": 7,
+          "listed_count": 1,
+          "media_count": 0,
+          "tweet_count": 103
+        },
+        "username": "gaoqimen",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-01T06:16:28.000Z",
+        "description": "",
+        "id": "1598199229083635713",
+        "name": "lcn5531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1751981983591432192/zc226sha_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 89,
+          "like_count": 27941,
+          "listed_count": 1,
+          "media_count": 0,
+          "tweet_count": 246
+        },
+        "username": "lcn5531",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-21T05:34:59.000Z",
+        "description": "🍓",
+        "id": "1770685467077259265",
+        "name": "sani",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1770687476920721409/lJO_yzH9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 15,
+          "like_count": 88,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 44
+        },
+        "username": "strawberry_iir",
+        "verified": false
+      }
+    ]
+  }
+}

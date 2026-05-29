@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "3022697779",
+    "conversation_id": "1999352568095604882",
+    "created_at": "2026-01-04T08:41:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-04T09:41:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007734137986367649"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "cj.sina.com.cn/articles/view/…",
+          "end": 23,
+          "expanded_url": "https://cj.sina.com.cn/articles/view/2415608027/8ffb40db001018wdg?froms=ggmp",
+          "start": 0,
+          "status": 200,
+          "unwound_url": "https://cj.sina.com.cn/articles/view/2415608027/8ffb40db001018wdg?froms=ggmp",
+          "url": "https://t.co/0URGUyl0E5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007734137986367649",
+    "in_reply_to_user_id": "3022697779",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999352568095604882",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "https://t.co/0URGUyl0E5\n14岁男生从10楼坠楼，保安未及时报警，男生死亡物业被判赔近27万\n有人说跳楼会瞬间失去知觉，但很多是事后事后遗忘了，这个从10楼跳下去还能被人扶着上电梯上楼，能对话呢。\n当然，肯定也有头着地瞬间死的，这个也是很多的。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3022697779",
+        "conversation_id": "1999352568095604882",
+        "created_at": "2026-01-04T08:41:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-04T09:41:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007734137986367649"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "cj.sina.com.cn/articles/view/…",
+              "end": 23,
+              "expanded_url": "https://cj.sina.com.cn/articles/view/2415608027/8ffb40db001018wdg?froms=ggmp",
+              "start": 0,
+              "status": 200,
+              "unwound_url": "https://cj.sina.com.cn/articles/view/2415608027/8ffb40db001018wdg?froms=ggmp",
+              "url": "https://t.co/0URGUyl0E5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007734137986367649",
+        "in_reply_to_user_id": "3022697779",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999352568095604882",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/0URGUyl0E5\n14岁男生从10楼坠楼，保安未及时报警，男生死亡物业被判赔近27万\n有人说跳楼会瞬间失去知觉，但很多是事后事后遗忘了，这个从10楼跳下去还能被人扶着上电梯上楼，能对话呢。\n当然，肯定也有头着地瞬间死的，这个也是很多的。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3022697779",
+        "conversation_id": "1999352568095604882",
+        "created_at": "2025-12-12T05:36:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T06:36:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999352568095604882"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1999352568095604882",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 240,
+          "impression_count": 770179,
+          "like_count": 2172,
+          "quote_count": 14,
+          "reply_count": 185,
+          "retweet_count": 90
+        },
+        "reply_settings": "everyone",
+        "text": "很多人觉得跳楼自杀很快，没有痛苦，但实际上并不是这样的，足够高的楼层（比如15楼以上）确实可能带来近乎100%的死亡率，但是有非常高的概率落地后并不能马上死亡，而是有可能在地面存活数分钟，慢慢意识消失，落地的瞬间你甚至可以听到全身骨骼断裂的声音，甚至更糟糕的是，散落的残肢可能就在眼前。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-02-16T15:27:54.000Z",
+        "description": "本不一定什么时候就没，请添加下方网址的telegram频道以获得持续更新。\n以禁毒、法律教育及损害减少（harm reduction）为目的，通过非世俗及去道德的理念，追求真实的知识与反馈。除替代为目的，部分良性物质，以及特殊情况下的损害减少，不推荐任何人摄入我提及的物质。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/XDrugLab",
+                "end": 23,
+                "expanded_url": "https://t.me/XDrugLab",
+                "start": 0,
+                "url": "https://t.co/KMcpbSmDcL"
+              }
+            ]
+          }
+        },
+        "id": "3022697779",
+        "name": "药物实验室",
+        "pinned_tweet_id": "1917542345039569145",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854259369203879954/nxgmCDHX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17257,
+          "following_count": 18,
+          "like_count": 24,
+          "listed_count": 21,
+          "media_count": 52,
+          "tweet_count": 1447
+        },
+        "url": "https://t.co/KMcpbSmDcL",
+        "username": "RXdruglab",
+        "verified": false
+      }
+    ]
+  }
+}

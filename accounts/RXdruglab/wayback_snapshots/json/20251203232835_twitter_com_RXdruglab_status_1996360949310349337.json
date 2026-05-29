@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "3022697779",
+    "conversation_id": "1996360949310349337",
+    "created_at": "2025-12-03T23:28:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-04T00:28:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1996360949310349337"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Menghuanlangqi…",
+          "end": 69,
+          "expanded_url": "https://twitter.com/Menghuanlangqi2/status/1996045177597952348",
+          "start": 46,
+          "url": "https://t.co/tWPrOsm5d8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996360949310349337",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996045177597952348",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "敌草快会导致急性肝损伤死亡，而且其本身会加入苦味剂。之前有个抖音直播自杀的就是喝的敌草快。 https://t.co/tWPrOsm5d8"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3022697779",
+        "conversation_id": "1996360949310349337",
+        "created_at": "2025-12-03T23:28:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-04T00:28:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996360949310349337"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Menghuanlangqi…",
+              "end": 69,
+              "expanded_url": "https://twitter.com/Menghuanlangqi2/status/1996045177597952348",
+              "start": 46,
+              "url": "https://t.co/tWPrOsm5d8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996360949310349337",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996045177597952348",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "敌草快会导致急性肝损伤死亡，而且其本身会加入苦味剂。之前有个抖音直播自杀的就是喝的敌草快。 https://t.co/tWPrOsm5d8"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4840324966",
+        "conversation_id": "1996045177597952348",
+        "created_at": "2025-12-03T02:33:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T03:29:28.000Z",
+          "edits_remaining": 3,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996044080078332044",
+          "1996044983842079137",
+          "1996045177597952348"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1996045177597952348",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 31,
+          "impression_count": 190270,
+          "like_count": 637,
+          "quote_count": 6,
+          "reply_count": 74,
+          "retweet_count": 61
+        },
+        "reply_settings": "everyone",
+        "text": "湖南省郴州市喝农药“敌草快”自杀的烟花店主彭海勇经抢救无效在医院去世，享年39岁。\n         彭海勇在喝农药自杀的视频里称被政府“逼得没办法了。”“没有给老百姓留活路。”\n        彭海勇自杀后留下两个年幼儿子。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-02-16T15:27:54.000Z",
+        "description": "本不一定什么时候就没，请添加下方网址的telegram频道以获得持续更新。\n以禁毒、法律教育及损害减少（harm reduction）为目的，通过非世俗及去道德的理念，追求真实的知识与反馈。除替代为目的，部分良性物质，以及特殊情况下的损害减少，不推荐任何人摄入我提及的物质。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/XDrugLab",
+                "end": 23,
+                "expanded_url": "https://t.me/XDrugLab",
+                "start": 0,
+                "url": "https://t.co/KMcpbSmDcL"
+              }
+            ]
+          }
+        },
+        "id": "3022697779",
+        "name": "药物实验室",
+        "pinned_tweet_id": "1917542345039569145",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854259369203879954/nxgmCDHX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16878,
+          "following_count": 18,
+          "like_count": 23,
+          "listed_count": 21,
+          "media_count": 52,
+          "tweet_count": 1371
+        },
+        "url": "https://t.co/KMcpbSmDcL",
+        "username": "RXdruglab",
+        "verified": false
+      },
+      {
+        "created_at": "2016-01-24T00:06:50.000Z",
+        "description": "典型低端人口，没什么可说的。 联系邮箱：menghuanlangqing85@gmail.com  YouTube 频道 https://t.co/PtHCxLMxGy",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@annie11181?si…",
+                "end": 84,
+                "expanded_url": "https://youtube.com/@annie11181?si=agaNUknHERkNj-E3",
+                "start": 61,
+                "url": "https://t.co/PtHCxLMxGy"
+              }
+            ]
+          }
+        },
+        "id": "4840324966",
+        "location": "New York, NY",
+        "name": "罗玉凤",
+        "pinned_tweet_id": "1804497399156515114",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1801786845732253696/PNX0UJ_G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 133578,
+          "following_count": 557,
+          "like_count": 27842,
+          "listed_count": 209,
+          "media_count": 1511,
+          "tweet_count": 6724
+        },
+        "username": "Menghuanlangqi2",
+        "verified": true
+      }
+    ]
+  }
+}

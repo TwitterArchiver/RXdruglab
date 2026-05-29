@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "3022697779",
+    "conversation_id": "1906184000282234950",
+    "created_at": "2025-03-30T04:40:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-30T05:40:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1906204813018448124"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1796084888241860608",
+          "start": 0,
+          "username": "chiyoko4o4"
+        },
+        {
+          "end": 21,
+          "id": "1826984800390889472",
+          "start": 12,
+          "username": "LethalRC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1906204813018448124",
+    "in_reply_to_user_id": "1796084888241860608",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1906184000282234950",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chiyoko4o4 @LethalRC 没有这种东西，纯假的。"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [LethalRC].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "LethalRC",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "LethalRC"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1906183994796085248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnQgPm5bEAAMnFz.jpg",
+        "width": 475
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3022697779",
+        "conversation_id": "1906184000282234950",
+        "created_at": "2025-03-30T04:40:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-30T05:40:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1906204813018448124"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1796084888241860608",
+              "start": 0,
+              "username": "chiyoko4o4"
+            },
+            {
+              "end": 21,
+              "id": "1826984800390889472",
+              "start": 12,
+              "username": "LethalRC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1906204813018448124",
+        "in_reply_to_user_id": "1796084888241860608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1906184000282234950",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chiyoko4o4 @LethalRC 没有这种东西，纯假的。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1906183994796085248"
+          ]
+        },
+        "author_id": "1796084888241860608",
+        "conversation_id": "1906184000282234950",
+        "created_at": "2025-03-30T03:17:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-30T04:17:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1906184000282234950"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "3022697779",
+              "start": 0,
+              "username": "RXdruglab"
+            },
+            {
+              "end": 43,
+              "id": "1826984800390889472",
+              "start": 34,
+              "username": "LethalRC"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AwXQClrtE2",
+              "end": 67,
+              "expanded_url": "https://x.com/chiyoko4o4/status/1906184000282234950/photo/1",
+              "media_key": "3_1906183994796085248",
+              "start": 44,
+              "url": "https://t.co/AwXQClrtE2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1906184000282234950",
+        "in_reply_to_user_id": "3022697779",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "@RXdruglab 谁知道这种迷药可能是用的什么物质？我比较好奇 @LethalRC https://t.co/AwXQClrtE2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-02-16T15:27:54.000Z",
+        "description": "本不一定什么时候就没，请添加下方网址的telegram频道以获得持续更新。\n以禁毒、法律教育及损害减少（harm reduction）为目的，通过非世俗及去道德的理念，追求真实的知识与反馈。除替代为目的，部分良性物质，以及特殊情况下的损害减少，不推荐任何人摄入我提及的物质。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/XDrugLab",
+                "end": 23,
+                "expanded_url": "https://t.me/XDrugLab",
+                "start": 0,
+                "url": "https://t.co/KMcpbSmDcL"
+              }
+            ]
+          }
+        },
+        "id": "3022697779",
+        "name": "药物实验室",
+        "pinned_tweet_id": "1861564676557152611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854259369203879954/nxgmCDHX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14241,
+          "following_count": 15,
+          "like_count": 18,
+          "listed_count": 11,
+          "media_count": 28,
+          "tweet_count": 835
+        },
+        "url": "https://t.co/KMcpbSmDcL",
+        "username": "RXdruglab",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-30T07:43:13.000Z",
+        "description": "人を愛し、人に愛される人になろうな\n\n📷Ins: chk1_1\n\n✈️tg: CHOICHO",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "reddit.com/r/chonglangtv",
+                "end": 23,
+                "expanded_url": "https://www.reddit.com/r/chonglangtv",
+                "start": 0,
+                "url": "https://t.co/Tto7fcBVJ4"
+              }
+            ]
+          }
+        },
+        "id": "1796084888241860608",
+        "location": "Abiko-shi, Chiba",
+        "name": "ちょちょ",
+        "pinned_tweet_id": "1906188764256555008",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848693364042141696/dyFUl7La_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 186,
+          "following_count": 1474,
+          "like_count": 6410,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 208
+        },
+        "url": "https://t.co/Tto7fcBVJ4",
+        "username": "chiyoko4o4",
+        "verified": false
+      }
+    ]
+  }
+}

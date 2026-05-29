@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "3022697779",
+    "conversation_id": "1976242659875344509",
+    "created_at": "2025-10-09T11:09:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-09T12:09:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1976243654554681699"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1292071635072061440",
+          "start": 0,
+          "username": "aeiQ5NP3CdaHpLW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976243654554681699",
+    "in_reply_to_user_id": "1292071635072061440",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976242659875344509",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aeiQ5NP3CdaHpLW 去甲肾上腺素作用的部位不同就会导致完全不同的效果。比如ADHD第二著名的药物托莫西汀是去甲肾上腺素再摄取抑制剂，所谓再摄取抑制剂的意思减少去甲肾上腺素的\n“回收”，增加大脑中去甲肾上腺素的含量，这样就镇定了。当然这个镇定的体感和一般的镇定还是有一些区别，但毫无疑问都是镇定。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3022697779",
+        "conversation_id": "1976242659875344509",
+        "created_at": "2025-10-09T11:09:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-09T12:09:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976243654554681699"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1292071635072061440",
+              "start": 0,
+              "username": "aeiQ5NP3CdaHpLW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976243654554681699",
+        "in_reply_to_user_id": "1292071635072061440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976242659875344509",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aeiQ5NP3CdaHpLW 去甲肾上腺素作用的部位不同就会导致完全不同的效果。比如ADHD第二著名的药物托莫西汀是去甲肾上腺素再摄取抑制剂，所谓再摄取抑制剂的意思减少去甲肾上腺素的\n“回收”，增加大脑中去甲肾上腺素的含量，这样就镇定了。当然这个镇定的体感和一般的镇定还是有一些区别，但毫无疑问都是镇定。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1292071635072061440",
+        "conversation_id": "1976242659875344509",
+        "created_at": "2025-10-09T11:05:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-09T12:05:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1976242659875344509"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/RXdruglab/stat…",
+              "end": 121,
+              "expanded_url": "https://twitter.com/RXdruglab/status/1974459107357970473",
+              "start": 98,
+              "url": "https://t.co/6mxaBDHiz6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976242659875344509",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974459107357970473",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "去甲肾上腺素含量高会引起过度警觉，跟放松舒适没关系，周围风吹草动都能惊吓到你，这是千万年进化的结果，就像注意力的药物很多都是降低这一系统敏感性的，多巴胺系统小幅度提高很多药物都能做到，喝咖啡都行 https://t.co/6mxaBDHiz6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-02-16T15:27:54.000Z",
+        "description": "本不一定什么时候就没，请添加下方网址的telegram频道以获得持续更新。\n以禁毒、法律教育及损害减少（harm reduction）为目的，通过非世俗及去道德的理念，追求真实的知识与反馈。除替代为目的，部分良性物质，以及特殊情况下的损害减少，不推荐任何人摄入我提及的物质。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/XDrugLab",
+                "end": 23,
+                "expanded_url": "https://t.me/XDrugLab",
+                "start": 0,
+                "url": "https://t.co/KMcpbSmDcL"
+              }
+            ]
+          }
+        },
+        "id": "3022697779",
+        "name": "药物实验室",
+        "pinned_tweet_id": "1917542345039569145",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854259369203879954/nxgmCDHX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16083,
+          "following_count": 18,
+          "like_count": 40,
+          "listed_count": 17,
+          "media_count": 52,
+          "tweet_count": 1265
+        },
+        "url": "https://t.co/KMcpbSmDcL",
+        "username": "RXdruglab",
+        "verified": false
+      },
+      {
+        "created_at": "2020-08-08T12:14:25.000Z",
+        "description": "俄方把乌东打造成“火药桶”、挑衅引战，把乌东民众推向险境，用心险恶。无论外部势力如何捣乱，乌克兰终将统一、也必将统一的历史大势不可阻挡。乌东问题纯属乌克兰内政，不容任何外来干涉。任何人都不要低估乌克兰人民、乌克兰军队捍卫国家主权和领土完整的坚强决心、坚定意志、强大能力。",
+        "id": "1292071635072061440",
+        "location": "酒精依赖与药物滥用成瘾治疗中心",
+        "name": "🇺🇦🇨🇳新鲜的冻鱼（没钱给彩礼版）",
+        "pinned_tweet_id": "1836883129593909719",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1677643931851554817/rt9c3J6T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2999,
+          "following_count": 2132,
+          "like_count": 31104,
+          "listed_count": 29,
+          "media_count": 6388,
+          "tweet_count": 39148
+        },
+        "username": "aeiQ5NP3CdaHpLW",
+        "verified": false
+      }
+    ]
+  }
+}

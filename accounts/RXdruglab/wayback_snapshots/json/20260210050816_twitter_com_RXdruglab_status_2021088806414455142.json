@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "3022697779",
+    "conversation_id": "2020727161469178236",
+    "created_at": "2026-02-10T05:08:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-10T06:08:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021088806414455142"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2006004735879639041",
+          "start": 0,
+          "username": "se_tui80656"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021088806414455142",
+    "in_reply_to_user_id": "2006004735879639041",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020847373518508198",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@se_tui80656 差不多吧。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3022697779",
+        "conversation_id": "2020727161469178236",
+        "created_at": "2026-02-10T05:08:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-10T06:08:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021088806414455142"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2006004735879639041",
+              "start": 0,
+              "username": "se_tui80656"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021088806414455142",
+        "in_reply_to_user_id": "2006004735879639041",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020847373518508198",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@se_tui80656 差不多吧。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2006004735879639041",
+        "conversation_id": "2020727161469178236",
+        "created_at": "2026-02-09T13:08:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T14:08:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020847373518508198"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "3022697779",
+              "start": 0,
+              "username": "RXdruglab"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020847373518508198",
+        "in_reply_to_user_id": "3022697779",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 88,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020727161469178236",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RXdruglab 喂喂喂有策划药卖吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-02-16T15:27:54.000Z",
+        "description": "本不一定什么时候就没，请添加下方网址的telegram频道以获得持续更新。\n以禁毒、法律教育及损害减少（harm reduction）为目的，通过非世俗及去道德的理念，追求真实的知识与反馈。除替代为目的，部分良性物质，以及特殊情况下的损害减少，不推荐任何人摄入我提及的物质。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/XDrugLab",
+                "end": 23,
+                "expanded_url": "https://t.me/XDrugLab",
+                "start": 0,
+                "url": "https://t.co/KMcpbSmDcL"
+              }
+            ]
+          }
+        },
+        "id": "3022697779",
+        "name": "药物实验室",
+        "pinned_tweet_id": "1917542345039569145",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854259369203879954/nxgmCDHX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17336,
+          "following_count": 17,
+          "like_count": 32,
+          "listed_count": 20,
+          "media_count": 52,
+          "tweet_count": 1511
+        },
+        "url": "https://t.co/KMcpbSmDcL",
+        "username": "RXdruglab",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-30T14:09:42.000Z",
+        "description": "ip广东08年170/100，🚪288可线下非绿，可验证，视频验证20r，出普瑞巴林和普瑞处方，欢迎同类互转互fo，需要请私或直接找我纸飞机，谢谢呀😌",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/komaeda0428",
+                "end": 23,
+                "expanded_url": "https://t.me/komaeda0428",
+                "start": 0,
+                "url": "https://t.co/HviZreJxOu"
+              }
+            ]
+          }
+        },
+        "id": "2006004735879639041",
+        "location": "地狱",
+        "name": "褪色（出普瑞处方",
+        "pinned_tweet_id": "2015313973898596477",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006005319713841153/QiULFjfh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 430,
+          "following_count": 72,
+          "like_count": 583,
+          "listed_count": 2,
+          "media_count": 9,
+          "tweet_count": 217
+        },
+        "url": "https://t.co/HviZreJxOu",
+        "username": "se_tui80656",
+        "verified": false
+      }
+    ]
+  }
+}

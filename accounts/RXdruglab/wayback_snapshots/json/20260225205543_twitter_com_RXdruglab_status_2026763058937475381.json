@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "3022697779",
+    "conversation_id": "2026627666322088249",
+    "created_at": "2026-02-25T20:55:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-25T21:55:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026763058937475381"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1916824571128287232",
+          "start": 0,
+          "username": "Spr1ngWlnd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026763058937475381",
+    "in_reply_to_user_id": "1916824571128287232",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026627666322088249",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Spr1ngWlnd 怎么看着这文字这么眼熟。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1423,
+        "media_key": "3_2026627657937596416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCAHHgtaMAA2gty.jpg",
+        "width": 694
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3022697779",
+        "conversation_id": "2026627666322088249",
+        "created_at": "2026-02-25T20:55:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T21:55:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026763058937475381"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1916824571128287232",
+              "start": 0,
+              "username": "Spr1ngWlnd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026763058937475381",
+        "in_reply_to_user_id": "1916824571128287232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026627666322088249",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Spr1ngWlnd 怎么看着这文字这么眼熟。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026627657937596416"
+          ]
+        },
+        "author_id": "1916824571128287232",
+        "conversation_id": "2026627666322088249",
+        "created_at": "2026-02-25T11:57:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T12:57:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026627666322088249"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/i0RZruAXkv",
+              "end": 173,
+              "expanded_url": "https://x.com/Spr1ngWlnd/status/2026627666322088249/photo/1",
+              "media_key": "3_2026627657937596416",
+              "start": 150,
+              "url": "https://t.co/i0RZruAXkv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026627666322088249",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 80,
+          "impression_count": 29686,
+          "like_count": 134,
+          "quote_count": 0,
+          "reply_count": 19,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "仙人掌懂得都懂\n\n于太阳下暴晒3-7天，不要浇水，让植物处在缺水的状态，可以更好的刺激生物碱生成。取400克-600克，去芯去刺去最外层，剁碎后冷冻，(可以再冷冻循环一次，)倒入干净的锅中，烧开后转中火熬制40分钟，拿纱布滤出固体物，挤出固体物中残留的液体。剩下纯液体，继续煮至约50-100毫升。 https://t.co/i0RZruAXkv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-02-16T15:27:54.000Z",
+        "description": "本不一定什么时候就没，请添加下方网址的telegram频道以获得持续更新。\n以禁毒、法律教育及损害减少（harm reduction）为目的，通过非世俗及去道德的理念，追求真实的知识与反馈。除替代为目的，部分良性物质，以及特殊情况下的损害减少，不推荐任何人摄入我提及的物质。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/XDrugLab",
+                "end": 23,
+                "expanded_url": "https://t.me/XDrugLab",
+                "start": 0,
+                "url": "https://t.co/KMcpbSmDcL"
+              }
+            ]
+          }
+        },
+        "id": "3022697779",
+        "name": "药物实验室",
+        "pinned_tweet_id": "1917542345039569145",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854259369203879954/nxgmCDHX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19058,
+          "following_count": 17,
+          "like_count": 31,
+          "listed_count": 23,
+          "media_count": 53,
+          "tweet_count": 1560
+        },
+        "url": "https://t.co/KMcpbSmDcL",
+        "username": "RXdruglab",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-28T11:59:48.000Z",
+        "description": "谨以此号，纪念我的童年，那是一段小有遗憾的幸福时光...",
+        "id": "1916824571128287232",
+        "location": "Japan",
+        "name": "Spring风#物质研究",
+        "pinned_tweet_id": "2026215184751313233",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023980914729254912/9d2mun2U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 762,
+          "following_count": 157,
+          "like_count": 35,
+          "listed_count": 1,
+          "media_count": 30,
+          "tweet_count": 119
+        },
+        "username": "Spr1ngWlnd",
+        "verified": false
+      }
+    ]
+  }
+}

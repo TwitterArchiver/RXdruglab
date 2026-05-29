@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "3022697779",
+    "conversation_id": "2009340270685638840",
+    "created_at": "2026-01-08T19:03:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-08T20:03:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2009340270685638840"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/LCA176232/stat…",
+          "end": 103,
+          "expanded_url": "https://twitter.com/LCA176232/status/2009267204185801028",
+          "start": 80,
+          "url": "https://t.co/36gO4E0Vjh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009340270685638840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009267204185801028",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "22%这个没什么问题，检测了的人都是怀疑的人，概率高是正常的。\n根据我的推算，全人口的非亲生率大概算1%-1.5%，农村那种人情社会会更高一些，2%-3%吧。 https://t.co/36gO4E0Vjh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1850,
+        "media_key": "3_2009267189527007234",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-JZ3QKa0AIi6yz.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2114,
+        "media_key": "3_2009267195772370945",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-JZ3nbbgAEMqVU.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3022697779",
+        "conversation_id": "2009340270685638840",
+        "created_at": "2026-01-08T19:03:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-08T20:03:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2009340270685638840"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/LCA176232/stat…",
+              "end": 103,
+              "expanded_url": "https://twitter.com/LCA176232/status/2009267204185801028",
+              "start": 80,
+              "url": "https://t.co/36gO4E0Vjh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009340270685638840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009267204185801028",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "22%这个没什么问题，检测了的人都是怀疑的人，概率高是正常的。\n根据我的推算，全人口的非亲生率大概算1%-1.5%，农村那种人情社会会更高一些，2%-3%吧。 https://t.co/36gO4E0Vjh"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2009267189527007234",
+            "3_2009267195772370945"
+          ]
+        },
+        "author_id": "1479510124079185921",
+        "conversation_id": "2009267204185801028",
+        "created_at": "2026-01-08T14:13:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-08T15:13:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2009267204185801028"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UltINV8tsX",
+              "end": 39,
+              "expanded_url": "https://x.com/LCA176232/status/2009267204185801028/photo/1",
+              "media_key": "3_2009267189527007234",
+              "start": 16,
+              "url": "https://t.co/UltINV8tsX"
+            },
+            {
+              "display_url": "pic.x.com/UltINV8tsX",
+              "end": 39,
+              "expanded_url": "https://x.com/LCA176232/status/2009267204185801028/photo/1",
+              "media_key": "3_2009267195772370945",
+              "start": 16,
+              "url": "https://t.co/UltINV8tsX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009267204185801028",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 85,
+          "impression_count": 173506,
+          "like_count": 480,
+          "quote_count": 5,
+          "reply_count": 45,
+          "retweet_count": 34
+        },
+        "reply_settings": "everyone",
+        "text": "真离谱啊，这哥们的抖音号没了。 https://t.co/UltINV8tsX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-02-16T15:27:54.000Z",
+        "description": "本不一定什么时候就没，请添加下方网址的telegram频道以获得持续更新。\n以禁毒、法律教育及损害减少（harm reduction）为目的，通过非世俗及去道德的理念，追求真实的知识与反馈。除替代为目的，部分良性物质，以及特殊情况下的损害减少，不推荐任何人摄入我提及的物质。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/XDrugLab",
+                "end": 23,
+                "expanded_url": "https://t.me/XDrugLab",
+                "start": 0,
+                "url": "https://t.co/KMcpbSmDcL"
+              }
+            ]
+          }
+        },
+        "id": "3022697779",
+        "name": "药物实验室",
+        "pinned_tweet_id": "1917542345039569145",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854259369203879954/nxgmCDHX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17299,
+          "following_count": 18,
+          "like_count": 25,
+          "listed_count": 21,
+          "media_count": 52,
+          "tweet_count": 1452
+        },
+        "url": "https://t.co/KMcpbSmDcL",
+        "username": "RXdruglab",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-07T17:48:08.000Z",
+        "description": "只有这个号和小号@FPL99386519是本人的，其他的均为假冒。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 8,
+                "username": "FPL99386519"
+              }
+            ]
+          }
+        },
+        "id": "1479510124079185921",
+        "location": "Hong Kong",
+        "name": "大漠孤鹰⛓",
+        "pinned_tweet_id": "1985612462985744585",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1837533564059242499/yQxLlDc8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45522,
+          "following_count": 919,
+          "like_count": 101870,
+          "listed_count": 123,
+          "media_count": 12402,
+          "tweet_count": 16117
+        },
+        "username": "LCA176232",
+        "verified": false
+      }
+    ]
+  }
+}

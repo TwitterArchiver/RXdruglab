@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "3022697779",
+    "conversation_id": "1868066874522841384",
+    "created_at": "2024-12-14T23:14:15.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-15T00:14:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1868072039086719466"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1568115812489400321",
+          "start": 0,
+          "username": "topclassgourmet"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1868072039086719466",
+    "in_reply_to_user_id": "1568115812489400321",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1868066874522841384",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@topclassgourmet 真他妈得去做高压氧舱了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3022697779",
+        "conversation_id": "1868066874522841384",
+        "created_at": "2024-12-14T23:14:15.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-15T00:14:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1868072039086719466"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1568115812489400321",
+              "start": 0,
+              "username": "topclassgourmet"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1868072039086719466",
+        "in_reply_to_user_id": "1568115812489400321",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1868066874522841384",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@topclassgourmet 真他妈得去做高压氧舱了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1568115812489400321",
+        "conversation_id": "1868066874522841384",
+        "created_at": "2024-12-14T22:53:44.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-14T23:53:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1868066874522841384"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1868066874522841384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 75,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不知道是不是炭放少了還是窗戶沒關嚴，反正我起來的時候頭好痛，地上的火已經熄滅了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-02-16T15:27:54.000Z",
+        "description": "本账号不一定什么时候就没，请添加下方网址的telegram频道以获得持续更新。\n以禁毒、法律教育及损害减少（harm reduction）为目的，通过非世俗及去道德的理念，追求真实的知识与反馈。除替代为目的，部分良性物质，以及特殊情况下的损害减少，不推荐任何人摄入我提及的物质。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/XDrugLab",
+                "end": 23,
+                "expanded_url": "https://t.me/XDrugLab",
+                "start": 0,
+                "url": "https://t.co/71vzzaVErr"
+              }
+            ]
+          }
+        },
+        "id": "3022697779",
+        "name": "药物实验室",
+        "pinned_tweet_id": "1861564676557152611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854259369203879954/nxgmCDHX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1754,
+          "following_count": 16,
+          "like_count": 4,
+          "listed_count": 3,
+          "media_count": 16,
+          "tweet_count": 278
+        },
+        "url": "https://t.co/71vzzaVErr",
+        "username": "RXdruglab",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-09T05:55:25.000Z",
+        "description": "歡迎勾搭\n艾琳醬在這裡 @linyeshitoude",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "linyeshitoude"
+              }
+            ]
+          }
+        },
+        "id": "1568115812489400321",
+        "name": "彤🏳‍⚧(人生倒计时版)",
+        "pinned_tweet_id": "1867223421295481231",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864552386838265856/u8_dj5YZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 841,
+          "following_count": 688,
+          "like_count": 15165,
+          "listed_count": 1,
+          "media_count": 325,
+          "tweet_count": 3657
+        },
+        "username": "topclassgourmet",
+        "verified": false
+      }
+    ]
+  }
+}

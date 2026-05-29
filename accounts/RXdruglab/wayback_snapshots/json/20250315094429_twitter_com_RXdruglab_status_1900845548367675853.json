@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "3022697779",
+    "conversation_id": "1900797823878082650",
+    "created_at": "2025-03-15T09:44:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-15T10:44:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1900845548367675853"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1797727504540807168",
+          "start": 0,
+          "username": "od_angelkaii_od"
+        },
+        {
+          "end": 33,
+          "id": "1815691300898824192",
+          "start": 17,
+          "username": "a72807871416831"
+        },
+        {
+          "end": 50,
+          "id": "1456231777224347651",
+          "start": 34,
+          "username": "dDguwkiRkZcCSrt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1900845548367675853",
+    "in_reply_to_user_id": "1797727504540807168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1900839956781953331",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@od_angelkaii_od @a72807871416831 @dDguwkiRkZcCSrt 50mg口服都没啥感觉，搭配maoi可以。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3022697779",
+        "conversation_id": "1900797823878082650",
+        "created_at": "2025-03-15T09:44:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-15T10:44:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1900845548367675853"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1797727504540807168",
+              "start": 0,
+              "username": "od_angelkaii_od"
+            },
+            {
+              "end": 33,
+              "id": "1815691300898824192",
+              "start": 17,
+              "username": "a72807871416831"
+            },
+            {
+              "end": 50,
+              "id": "1456231777224347651",
+              "start": 34,
+              "username": "dDguwkiRkZcCSrt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1900845548367675853",
+        "in_reply_to_user_id": "1797727504540807168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1900839956781953331",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@od_angelkaii_od @a72807871416831 @dDguwkiRkZcCSrt 50mg口服都没啥感觉，搭配maoi可以。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1797727504540807168",
+        "conversation_id": "1900797823878082650",
+        "created_at": "2025-03-15T09:22:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-15T10:22:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1900839956781953331"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1815691300898824192",
+              "start": 0,
+              "username": "a72807871416831"
+            },
+            {
+              "end": 33,
+              "id": "1456231777224347651",
+              "start": 17,
+              "username": "dDguwkiRkZcCSrt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1900839956781953331",
+        "in_reply_to_user_id": "1815691300898824192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1900838258780893494",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@a72807871416831 @dDguwkiRkZcCSrt 20mg是保险剂量，因为有很多危险性，致幻剂的bad trip是很难受的 惊厥 血清素都要考虑"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-02-16T15:27:54.000Z",
+        "description": "本不一定什么时候就没，请添加下方网址的telegram频道以获得持续更新。\n以禁毒、法律教育及损害减少（harm reduction）为目的，通过非世俗及去道德的理念，追求真实的知识与反馈。除替代为目的，部分良性物质，以及特殊情况下的损害减少，不推荐任何人摄入我提及的物质。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/XDrugLab",
+                "end": 23,
+                "expanded_url": "https://t.me/XDrugLab",
+                "start": 0,
+                "url": "https://t.co/KMcpbSmDcL"
+              }
+            ]
+          }
+        },
+        "id": "3022697779",
+        "name": "药物实验室",
+        "pinned_tweet_id": "1861564676557152611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854259369203879954/nxgmCDHX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13894,
+          "following_count": 17,
+          "like_count": 10,
+          "listed_count": 12,
+          "media_count": 24,
+          "tweet_count": 728
+        },
+        "url": "https://t.co/KMcpbSmDcL",
+        "username": "RXdruglab",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-03T20:30:21.000Z",
+        "description": "古希腊掌管od的神\n本账号为多人账号\n有事说事，没事别私聊，不然似全家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "overdose.day",
+                "end": 23,
+                "expanded_url": "https://www.overdose.day/",
+                "start": 0,
+                "url": "https://t.co/ZzzwvEW8Sn"
+              }
+            ]
+          }
+        },
+        "id": "1797727504540807168",
+        "name": "overdose百科",
+        "pinned_tweet_id": "1899047988791804103",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889532170391396352/BjXFZMK5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5112,
+          "following_count": 4329,
+          "like_count": 2767,
+          "listed_count": 4,
+          "media_count": 231,
+          "tweet_count": 2932
+        },
+        "url": "https://t.co/ZzzwvEW8Sn",
+        "username": "od_angelkaii_od",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-23T10:12:05.000Z",
+        "description": "フレンジーエッジ",
+        "id": "1815691300898824192",
+        "location": "Shinjuku-ku, Tokyo",
+        "name": "あ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1867877979063529472/ScbGxUDW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 89,
+          "like_count": 245,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 204
+        },
+        "username": "a72807871416831",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-04T12:08:26.000Z",
+        "description": "intp",
+        "id": "1456231777224347651",
+        "name": "徐翔",
+        "pinned_tweet_id": "1896156483093778815",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1456231862645428232/EwsAhO0p_normal.png",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 299,
+          "following_count": 55,
+          "like_count": 1850,
+          "listed_count": 0,
+          "media_count": 389,
+          "tweet_count": 4469
+        },
+        "username": "dDguwkiRkZcCSrt",
+        "verified": false
+      }
+    ]
+  }
+}

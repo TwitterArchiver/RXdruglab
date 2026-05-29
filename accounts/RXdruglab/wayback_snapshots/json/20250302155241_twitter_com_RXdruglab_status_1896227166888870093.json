@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1896227155442585600"
+      ]
+    },
+    "author_id": "3022697779",
+    "conversation_id": "1861564676557152611",
+    "created_at": "2025-03-02T15:52:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-02T16:52:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1896227166888870093"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/KjKVutIHqQ",
+          "end": 23,
+          "expanded_url": "https://x.com/RXdruglab/status/1896227166888870093/photo/1",
+          "media_key": "3_1896227155442585600",
+          "start": 0,
+          "url": "https://t.co/KjKVutIHqQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1896227166888870093",
+    "in_reply_to_user_id": "3022697779",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1861564676557152611",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "https://t.co/KjKVutIHqQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 108,
+        "media_key": "3_1896227155442585600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlDAjR2a0AAAla9.png",
+        "width": 460
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1896227155442585600"
+          ]
+        },
+        "author_id": "3022697779",
+        "conversation_id": "1861564676557152611",
+        "created_at": "2025-03-02T15:52:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-02T16:52:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1896227166888870093"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KjKVutIHqQ",
+              "end": 23,
+              "expanded_url": "https://x.com/RXdruglab/status/1896227166888870093/photo/1",
+              "media_key": "3_1896227155442585600",
+              "start": 0,
+              "url": "https://t.co/KjKVutIHqQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896227166888870093",
+        "in_reply_to_user_id": "3022697779",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1861564676557152611",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/KjKVutIHqQ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3022697779",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "1861564676557152611",
+        "created_at": "2024-11-27T00:16:19.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-27T01:16:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1861564676557152611"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "用于发布相关信息和知识。",
+              "display_url": "t.me/XDrugLab",
+              "end": 140,
+              "expanded_url": "http://t.me/XDrugLab",
+              "start": 117,
+              "status": 200,
+              "title": "药物实验室",
+              "unwound_url": "https://t.me/XDrugLab",
+              "url": "https://t.co/qmJFnHEqMM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1861564676557152611",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 30,
+          "impression_count": 401261,
+          "like_count": 73,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "我没有，也没有渠道，你买不到我也买不到。  \n不懂化学，不会制毒。  \n有事说事，有问题可以解答，不要只打招呼，不交友，不闲聊，不透露个人信息，不加其他联系方式。  除此之外的私信基本都能回。\n有特殊经历和故事可以投稿。 \nTG频道：https://t.co/qmJFnHEqMM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-02-16T15:27:54.000Z",
+        "description": "本不一定什么时候就没，请添加下方网址的telegram频道以获得持续更新。\n以禁毒、法律教育及损害减少（harm reduction）为目的，通过非世俗及去道德的理念，追求真实的知识与反馈。除替代为目的，部分良性物质，以及特殊情况下的损害减少，不推荐任何人摄入我提及的物质。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/XDrugLab",
+                "end": 23,
+                "expanded_url": "https://t.me/XDrugLab",
+                "start": 0,
+                "url": "https://t.co/KMcpbSmDcL"
+              }
+            ]
+          }
+        },
+        "id": "3022697779",
+        "name": "药物实验室",
+        "pinned_tweet_id": "1861564676557152611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854259369203879954/nxgmCDHX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13489,
+          "following_count": 18,
+          "like_count": 9,
+          "listed_count": 12,
+          "media_count": 23,
+          "tweet_count": 701
+        },
+        "url": "https://t.co/KMcpbSmDcL",
+        "username": "RXdruglab",
+        "verified": false
+      }
+    ]
+  }
+}

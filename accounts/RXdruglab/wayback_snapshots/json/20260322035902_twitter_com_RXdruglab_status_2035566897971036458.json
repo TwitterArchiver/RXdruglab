@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "3022697779",
+    "conversation_id": "2035566897971036458",
+    "created_at": "2026-03-22T03:59:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-22T04:59:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2035566897971036458"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/erchenlu1/stat…",
+          "end": 66,
+          "expanded_url": "https://twitter.com/erchenlu1/status/2035540360064381305",
+          "start": 43,
+          "url": "https://t.co/hmAafvNcPP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035566897971036458",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035540360064381305",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我就特别喜欢赌博，但是我还是统计学的忠实信徒，所以我很少赌博，只把赌博当作娱乐活动。 https://t.co/hmAafvNcPP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1295,
+        "media_key": "3_2035540347951202305",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HD-xKWWbQAES4xA.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3022697779",
+        "conversation_id": "2035566897971036458",
+        "created_at": "2026-03-22T03:59:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T04:59:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035566897971036458"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/erchenlu1/stat…",
+              "end": 66,
+              "expanded_url": "https://twitter.com/erchenlu1/status/2035540360064381305",
+              "start": 43,
+              "url": "https://t.co/hmAafvNcPP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035566897971036458",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035540360064381305",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我就特别喜欢赌博，但是我还是统计学的忠实信徒，所以我很少赌博，只把赌博当作娱乐活动。 https://t.co/hmAafvNcPP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2035540347951202305"
+          ]
+        },
+        "author_id": "1346799420709294081",
+        "conversation_id": "2035540360064381305",
+        "created_at": "2026-03-22T02:13:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T03:13:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035540360064381305"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/afn3gBvzZc",
+              "end": 138,
+              "expanded_url": "https://x.com/erchenlu1/status/2035540360064381305/photo/1",
+              "media_key": "3_2035540347951202305",
+              "start": 115,
+              "url": "https://t.co/afn3gBvzZc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035540360064381305",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 18,
+          "impression_count": 11747,
+          "like_count": 80,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "B站博主徐师傅采访一位底层保安，问他身边那些常混在底层“大神”朋友圈的人平时最爱聊什么、有哪些共同爱好。\n\n保安很直接地说：\n\n“他们最喜欢聊赌，几乎个个都嗜赌如命。输光了就再去借钱，或者跑去干日结凑点本，有了钱后继续赌…..” https://t.co/afn3gBvzZc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-02-16T15:27:54.000Z",
+        "description": "本不一定什么时候就没，请添加下方网址的telegram频道以获得持续更新。\n以禁毒、法律教育及损害减少（harm reduction）为目的，通过非世俗及去道德的理念，追求真实的知识与反馈。除替代为目的，部分良性物质，以及特殊情况下的损害减少，不推荐任何人摄入我提及的物质。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/XDrugLab",
+                "end": 23,
+                "expanded_url": "https://t.me/XDrugLab",
+                "start": 0,
+                "url": "https://t.co/KMcpbSmDcL"
+              }
+            ]
+          }
+        },
+        "id": "3022697779",
+        "name": "药物实验室",
+        "pinned_tweet_id": "1917542345039569145",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854259369203879954/nxgmCDHX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19027,
+          "following_count": 16,
+          "like_count": 35,
+          "listed_count": 24,
+          "media_count": 53,
+          "tweet_count": 1608
+        },
+        "url": "https://t.co/KMcpbSmDcL",
+        "username": "RXdruglab",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-06T12:43:41.000Z",
+        "description": "跨学科思考者｜长期主义投资人/Long-termist investor｜降噪，不追热点｜公众号：卢尔辰 ｜文章合集：https://t.co/XSlRlvTieY| tg https://t.co/edG3gW471Z |优先回复订阅者评论和私信",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "tinyurl.com/46dvtzb6",
+                "end": 82,
+                "expanded_url": "https://tinyurl.com/46dvtzb6",
+                "start": 59,
+                "url": "https://t.co/XSlRlvTieY"
+              },
+              {
+                "display_url": "t.me/erchenlu",
+                "end": 110,
+                "expanded_url": "https://t.me/erchenlu",
+                "start": 87,
+                "url": "https://t.co/edG3gW471Z"
+              }
+            ]
+          }
+        },
+        "id": "1346799420709294081",
+        "name": "卢尔辰",
+        "pinned_tweet_id": "2019923321811611672",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983310633366892544/-7DDQZ0v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47111,
+          "following_count": 2059,
+          "like_count": 4874,
+          "listed_count": 457,
+          "media_count": 1143,
+          "tweet_count": 7713
+        },
+        "username": "erchenlu1",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "3022697779",
+    "conversation_id": "2017890697031151674",
+    "created_at": "2026-02-01T09:20:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-01T10:20:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017890697031151674"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2786701",
+          "start": 3,
+          "username": "williamlong"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017890697031151674",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017865125479547010",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @williamlong: 【男子网购中药「四川江油附片」自行泡制后中毒身亡】1月20日，家住上海市杨浦区殷行街道、35岁的夏先生，仅因喝了一杯自己泡制的中药汤就突然昏迷、不省人事，被父母送到杨浦区市东医院，经过院方重症团队长达8天的全力救治，患者最终还是没能挺过来，昨晚…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3022697779",
+        "conversation_id": "2017890697031151674",
+        "created_at": "2026-02-01T09:20:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-01T10:20:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017890697031151674"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2786701",
+              "start": 3,
+              "username": "williamlong"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017890697031151674",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017865125479547010",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @williamlong: 【男子网购中药「四川江油附片」自行泡制后中毒身亡】1月20日，家住上海市杨浦区殷行街道、35岁的夏先生，仅因喝了一杯自己泡制的中药汤就突然昏迷、不省人事，被父母送到杨浦区市东医院，经过院方重症团队长达8天的全力救治，患者最终还是没能挺过来，昨晚…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2786701",
+        "conversation_id": "2017865125479547010",
+        "created_at": "2026-02-01T07:38:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-01T08:38:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017865125479547010"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2017865125479547010",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "【男子网购中药「四川江油附片」自行泡制后中毒身亡】1月20日，家住上海市杨浦区殷行街道、35岁的夏先生，仅因喝了一杯自己泡制的中药汤就突然昏迷、不省人事，被父母送到杨浦区市东医院，经过院方重症团队长达8天的全力救治，患者最终还是没能挺过来，昨晚不幸离世。\n\n据家属介绍，六年前夏先生出现血糖偏高的情况，而且控制效果不佳，多年来，他坚信中药能辅助降血糖，便习惯根据自身症状，在网上随意购药。此前，他家中已经囤积了大量从网上买来的各类药物。而就在这次昏迷前，该男子刚刚自行泡制了一大杯从直播间购买的\"四川江油附片\"。\n\n经医生核对，这所谓的\"附片\"其实就是用一味极为凶险的中药附子切的片。\n\n记者搜索后发现，附子是一味药性峻烈、具有毒性的中药，含有剧毒成分乌头碱，附子中含有的乌头碱，强心作用最强，毒性亦最大，研究发现2-4mg乌头碱即可致死。乌头碱对心脏有强烈损害，口服少量即可中毒，过量服用则会导致严重心律失常、心跳停止甚至死亡，因此必须在专业的中医师的诊断和指导下使用，绝对不可以自行购买、配伍和煎服。（天眼新闻）"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 5141,
+          "like_count": 9,
+          "quote_count": 1,
+          "reply_count": 7,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "【男子网购中药「四川江油附片」自行泡制后中毒身亡】1月20日，家住上海市杨浦区殷行街道、35岁的夏先生，仅因喝了一杯自己泡制的中药汤就突然昏迷、不省人事，被父母送到杨浦区市东医院，经过院方重症团队长达8天的全力救治，患者最终还是没能挺过来，昨晚不幸离世。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-02-16T15:27:54.000Z",
+        "description": "本不一定什么时候就没，请添加下方网址的telegram频道以获得持续更新。\n以禁毒、法律教育及损害减少（harm reduction）为目的，通过非世俗及去道德的理念，追求真实的知识与反馈。除替代为目的，部分良性物质，以及特殊情况下的损害减少，不推荐任何人摄入我提及的物质。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/XDrugLab",
+                "end": 23,
+                "expanded_url": "https://t.me/XDrugLab",
+                "start": 0,
+                "url": "https://t.co/KMcpbSmDcL"
+              }
+            ]
+          }
+        },
+        "id": "3022697779",
+        "name": "药物实验室",
+        "pinned_tweet_id": "1917542345039569145",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854259369203879954/nxgmCDHX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17342,
+          "following_count": 17,
+          "like_count": 31,
+          "listed_count": 20,
+          "media_count": 52,
+          "tweet_count": 1491
+        },
+        "url": "https://t.co/KMcpbSmDcL",
+        "username": "RXdruglab",
+        "verified": false
+      },
+      {
+        "created_at": "2007-03-29T04:16:23.000Z",
+        "description": "以科学理解世界，以哲学理解生活；在探索真知与智慧的路上，自我改善，自我实现。",
+        "id": "2786701",
+        "name": "William Long",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892484039917129730/qRBtG7Wh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 366431,
+          "following_count": 373,
+          "like_count": 0,
+          "listed_count": 2740,
+          "media_count": 3602,
+          "tweet_count": 31142
+        },
+        "username": "williamlong",
+        "verified": true
+      }
+    ]
+  }
+}

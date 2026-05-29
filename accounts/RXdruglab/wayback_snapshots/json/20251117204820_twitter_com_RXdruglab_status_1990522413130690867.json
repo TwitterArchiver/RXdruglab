@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "3022697779",
+    "conversation_id": "1990096538413224099",
+    "created_at": "2025-11-17T20:48:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-17T21:48:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990522413130690867"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1946033647481712640",
+          "start": 0,
+          "username": "0xUNTITLED"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990522413130690867",
+    "in_reply_to_user_id": "1946033647481712640",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990521129027711162",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0xUNTITLED 只吃可待因没吃布洛芬吗？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3022697779",
+        "conversation_id": "1990096538413224099",
+        "created_at": "2025-11-17T20:48:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T21:48:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990522413130690867"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1946033647481712640",
+              "start": 0,
+              "username": "0xUNTITLED"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990522413130690867",
+        "in_reply_to_user_id": "1946033647481712640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990521129027711162",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0xUNTITLED 只吃可待因没吃布洛芬吗？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1946033647481712640",
+        "conversation_id": "1990096538413224099",
+        "created_at": "2025-11-17T20:43:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T21:43:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990521129027711162"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "3022697779",
+              "start": 0,
+              "username": "RXdruglab"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990521129027711162",
+        "in_reply_to_user_id": "3022697779",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990096538413224099",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RXdruglab 以前亲友o过说胃痛（）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-02-16T15:27:54.000Z",
+        "description": "本不一定什么时候就没，请添加下方网址的telegram频道以获得持续更新。\n以禁毒、法律教育及损害减少（harm reduction）为目的，通过非世俗及去道德的理念，追求真实的知识与反馈。除替代为目的，部分良性物质，以及特殊情况下的损害减少，不推荐任何人摄入我提及的物质。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/XDrugLab",
+                "end": 23,
+                "expanded_url": "https://t.me/XDrugLab",
+                "start": 0,
+                "url": "https://t.co/KMcpbSmDcL"
+              }
+            ]
+          }
+        },
+        "id": "3022697779",
+        "name": "药物实验室",
+        "pinned_tweet_id": "1917542345039569145",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854259369203879954/nxgmCDHX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16295,
+          "following_count": 18,
+          "like_count": 22,
+          "listed_count": 20,
+          "media_count": 52,
+          "tweet_count": 1327
+        },
+        "url": "https://t.co/KMcpbSmDcL",
+        "username": "RXdruglab",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-18T02:26:05.000Z",
+        "description": "WARNING: 本账号可能含有 精神不安 负能🔪🩸💊 创伤相关｜混合型多意识体｜抑郁症强迫症确诊｜直fo是暗恋你｜LGBTQ+友好｜简体中文/正體中文/ENGLISH｜she/they/whatever｜17 forever",
+        "id": "1946033647481712640",
+        "location": "USA",
+        "name": "UNTITLED-0",
+        "pinned_tweet_id": "1969251062029729921",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946034252627480576/aLc1tEgU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 148,
+          "like_count": 3136,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 630
+        },
+        "username": "0xUNTITLED",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "3022697779",
+    "conversation_id": "1905228349728862412",
+    "created_at": "2025-03-27T13:43:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-27T14:43:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1905254420226740431"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1826984800390889472",
+          "start": 0,
+          "username": "LethalRC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1905254420226740431",
+    "in_reply_to_user_id": "1826984800390889472",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1905228349728862412",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LethalRC 这玩意不难找啊，我手头还有两三斤呢。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3022697779",
+        "conversation_id": "1905228349728862412",
+        "created_at": "2025-03-27T13:43:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-27T14:43:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1905254420226740431"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1826984800390889472",
+              "start": 0,
+              "username": "LethalRC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1905254420226740431",
+        "in_reply_to_user_id": "1826984800390889472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1905228349728862412",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LethalRC 这玩意不难找啊，我手头还有两三斤呢。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826984800390889472",
+        "conversation_id": "1905228349728862412",
+        "created_at": "2025-03-27T12:00:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-27T13:00:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1905228349728862412"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1905228349728862412",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 393,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "找到个咸鱼卖相思树皮的（可以制作最强致幻剂dmt）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-02-16T15:27:54.000Z",
+        "description": "本不一定什么时候就没，请添加下方网址的telegram频道以获得持续更新。\n以禁毒、法律教育及损害减少（harm reduction）为目的，通过非世俗及去道德的理念，追求真实的知识与反馈。除替代为目的，部分良性物质，以及特殊情况下的损害减少，不推荐任何人摄入我提及的物质。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/XDrugLab",
+                "end": 23,
+                "expanded_url": "https://t.me/XDrugLab",
+                "start": 0,
+                "url": "https://t.co/KMcpbSmDcL"
+              }
+            ]
+          }
+        },
+        "id": "3022697779",
+        "name": "药物实验室",
+        "pinned_tweet_id": "1861564676557152611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854259369203879954/nxgmCDHX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14136,
+          "following_count": 16,
+          "like_count": 17,
+          "listed_count": 11,
+          "media_count": 28,
+          "tweet_count": 809
+        },
+        "url": "https://t.co/KMcpbSmDcL",
+        "username": "RXdruglab",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-23T14:08:22.000Z",
+        "description": "od交流群 https://t.co/rQaYVBa0Cy",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/rc_wiki",
+                "end": 29,
+                "expanded_url": "https://t.me/rc_wiki",
+                "start": 6,
+                "url": "https://t.co/rQaYVBa0Cy"
+              }
+            ]
+          }
+        },
+        "id": "1826984800390889472",
+        "name": "凌驾",
+        "pinned_tweet_id": "1903262071153684728",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887677401246703616/dDyTrXV4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1226,
+          "following_count": 42,
+          "like_count": 141,
+          "listed_count": 1,
+          "media_count": 16,
+          "tweet_count": 64
+        },
+        "username": "LethalRC",
+        "verified": false
+      }
+    ]
+  }
+}

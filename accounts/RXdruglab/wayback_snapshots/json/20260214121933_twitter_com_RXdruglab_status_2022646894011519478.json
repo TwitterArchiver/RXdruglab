@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2021960811770683392"
+      ],
+      "media_source_tweet_id": [
+        "2021960827562291529"
+      ]
+    },
+    "author_id": "3022697779",
+    "conversation_id": "2022646894011519478",
+    "created_at": "2026-02-14T12:19:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-14T13:19:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022646894011519478"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2226994771",
+          "start": 3,
+          "username": "Druglab_Store"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/js8F2FIJYN",
+          "end": 42,
+          "expanded_url": "https://x.com/Druglab_Store/status/2021960827562291529/photo/1",
+          "media_key": "3_2021960811770683392",
+          "start": 19,
+          "url": "https://t.co/js8F2FIJYN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022646894011519478",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021960827562291529",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Druglab_Store: https://t.co/js8F2FIJYN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1135,
+        "media_key": "3_2021960811770683392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA9ypT9aIAAjY4N.jpg",
+        "width": 847
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2021960811770683392"
+          ],
+          "media_source_tweet_id": [
+            "2021960827562291529"
+          ]
+        },
+        "author_id": "3022697779",
+        "conversation_id": "2022646894011519478",
+        "created_at": "2026-02-14T12:19:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T13:19:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022646894011519478"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2226994771",
+              "start": 3,
+              "username": "Druglab_Store"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/js8F2FIJYN",
+              "end": 42,
+              "expanded_url": "https://x.com/Druglab_Store/status/2021960827562291529/photo/1",
+              "media_key": "3_2021960811770683392",
+              "start": 19,
+              "url": "https://t.co/js8F2FIJYN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022646894011519478",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021960827562291529",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Druglab_Store: https://t.co/js8F2FIJYN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2021960811770683392"
+          ]
+        },
+        "author_id": "2226994771",
+        "conversation_id": "2021960827562291529",
+        "created_at": "2026-02-12T14:53:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T15:53:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021960827562291529"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/js8F2FIJYN",
+              "end": 23,
+              "expanded_url": "https://x.com/Druglab_Store/status/2021960827562291529/photo/1",
+              "media_key": "3_2021960811770683392",
+              "start": 0,
+              "url": "https://t.co/js8F2FIJYN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021960827562291529",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 2514,
+          "like_count": 28,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/js8F2FIJYN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-02-16T15:27:54.000Z",
+        "description": "本不一定什么时候就没，请添加下方网址的telegram频道以获得持续更新。\n以禁毒、法律教育及损害减少（harm reduction）为目的，通过非世俗及去道德的理念，追求真实的知识与反馈。除替代为目的，部分良性物质，以及特殊情况下的损害减少，不推荐任何人摄入我提及的物质。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/XDrugLab",
+                "end": 23,
+                "expanded_url": "https://t.me/XDrugLab",
+                "start": 0,
+                "url": "https://t.co/KMcpbSmDcL"
+              }
+            ]
+          }
+        },
+        "id": "3022697779",
+        "name": "药物实验室",
+        "pinned_tweet_id": "1917542345039569145",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854259369203879954/nxgmCDHX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17351,
+          "following_count": 18,
+          "like_count": 29,
+          "listed_count": 20,
+          "media_count": 52,
+          "tweet_count": 1525
+        },
+        "url": "https://t.co/KMcpbSmDcL",
+        "username": "RXdruglab",
+        "verified": false
+      },
+      {
+        "created_at": "2013-12-02T17:14:39.000Z",
+        "description": "药物实验室的卖货号",
+        "id": "2226994771",
+        "name": "药实销售频道",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021681186830200832/bzG6bnHU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 150,
+          "following_count": 100,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 45
+        },
+        "username": "Druglab_Store",
+        "verified": false
+      }
+    ]
+  }
+}

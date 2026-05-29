@@ -1,0 +1,107 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "3022697779",
+    "conversation_id": "1910026190137815086",
+    "created_at": "2025-04-09T17:45:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-09T18:45:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1910026190137815086"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1910026190137815086",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 2,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "ICD的物质成瘾有 6 项标准：\n强烈渴求：对某种物质产生强烈的欲望或冲动。\n使用失控：难以控制开始、结束或用量。\n耐受性：需要更高剂量才能达到同样的效果。\n戒断症状：停止使用后出现身体或心理不适。\n生活受损：对其他兴趣或责任减少，日常活动围绕成瘾行为展开。\n持续使用：明知有害仍继续使用。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3022697779",
+        "conversation_id": "1910026190137815086",
+        "created_at": "2025-04-09T17:45:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-09T18:45:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1910026190137815086"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1910026190137815086",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "ICD的物质成瘾有 6 项标准：\n强烈渴求：对某种物质产生强烈的欲望或冲动。\n使用失控：难以控制开始、结束或用量。\n耐受性：需要更高剂量才能达到同样的效果。\n戒断症状：停止使用后出现身体或心理不适。\n生活受损：对其他兴趣或责任减少，日常活动围绕成瘾行为展开。\n持续使用：明知有害仍继续使用。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-02-16T15:27:54.000Z",
+        "description": "本不一定什么时候就没，请添加下方网址的telegram频道以获得持续更新。\n以禁毒、法律教育及损害减少（harm reduction）为目的，通过非世俗及去道德的理念，追求真实的知识与反馈。除替代为目的，部分良性物质，以及特殊情况下的损害减少，不推荐任何人摄入我提及的物质。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/XDrugLab",
+                "end": 23,
+                "expanded_url": "https://t.me/XDrugLab",
+                "start": 0,
+                "url": "https://t.co/KMcpbSmDcL"
+              }
+            ]
+          }
+        },
+        "id": "3022697779",
+        "name": "药物实验室",
+        "pinned_tweet_id": "1861564676557152611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854259369203879954/nxgmCDHX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14530,
+          "following_count": 17,
+          "like_count": 29,
+          "listed_count": 11,
+          "media_count": 33,
+          "tweet_count": 882
+        },
+        "url": "https://t.co/KMcpbSmDcL",
+        "username": "RXdruglab",
+        "verified": false
+      }
+    ]
+  }
+}

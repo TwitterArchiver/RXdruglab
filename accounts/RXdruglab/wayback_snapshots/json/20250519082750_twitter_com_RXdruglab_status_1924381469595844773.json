@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "3022697779",
+    "conversation_id": "1923541135722676442",
+    "created_at": "2025-05-19T08:27:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-19T09:27:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1924381469595844773"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1808173229544202242",
+          "start": 0,
+          "username": "mmooioooooo"
+        },
+        {
+          "end": 25,
+          "id": "1599125227786608655",
+          "start": 13,
+          "username": "realeco8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1924381469595844773",
+    "in_reply_to_user_id": "1808173229544202242",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1924360233029378279",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mmooioooooo @realeco8964 别喝甘露醇，瘦三五斤可能有，一天早晚一粒，没太大副作用，就是会一直渴，少喝水。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3022697779",
+        "conversation_id": "1923541135722676442",
+        "created_at": "2025-05-19T08:27:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-19T09:27:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1924381469595844773"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1808173229544202242",
+              "start": 0,
+              "username": "mmooioooooo"
+            },
+            {
+              "end": 25,
+              "id": "1599125227786608655",
+              "start": 13,
+              "username": "realeco8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1924381469595844773",
+        "in_reply_to_user_id": "1808173229544202242",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1924360233029378279",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mmooioooooo @realeco8964 别喝甘露醇，瘦三五斤可能有，一天早晚一粒，没太大副作用，就是会一直渴，少喝水。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1808173229544202242",
+        "conversation_id": "1923541135722676442",
+        "created_at": "2025-05-19T07:03:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-19T08:03:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1924360233029378279"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "3022697779",
+              "start": 0,
+              "username": "RXdruglab"
+            },
+            {
+              "end": 23,
+              "id": "1599125227786608655",
+              "start": 11,
+              "username": "realeco8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1924360233029378279",
+        "in_reply_to_user_id": "3022697779",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1923755503764767115",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RXdruglab @realeco8964 副作用是啥？如果可以撑住十几天没啥事我就去旅游前这样做了，事后再补水补回来😀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-02-16T15:27:54.000Z",
+        "description": "本不一定什么时候就没，请添加下方网址的telegram频道以获得持续更新。\n以禁毒、法律教育及损害减少（harm reduction）为目的，通过非世俗及去道德的理念，追求真实的知识与反馈。除替代为目的，部分良性物质，以及特殊情况下的损害减少，不推荐任何人摄入我提及的物质。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/XDrugLab",
+                "end": 23,
+                "expanded_url": "https://t.me/XDrugLab",
+                "start": 0,
+                "url": "https://t.co/KMcpbSmDcL"
+              }
+            ]
+          }
+        },
+        "id": "3022697779",
+        "name": "药物实验室",
+        "pinned_tweet_id": "1924319003457253636",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854259369203879954/nxgmCDHX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14993,
+          "following_count": 17,
+          "like_count": 28,
+          "listed_count": 13,
+          "media_count": 41,
+          "tweet_count": 1013
+        },
+        "url": "https://t.co/KMcpbSmDcL",
+        "username": "RXdruglab",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-02T16:17:58.000Z",
+        "description": "",
+        "id": "1808173229544202242",
+        "name": "X",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 31,
+          "like_count": 14,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 27
+        },
+        "username": "mmooioooooo",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-03T19:35:49.000Z",
+        "description": "不爱看就滚出去",
+        "id": "1599125227786608655",
+        "location": "🚪88/288 私信只回口令",
+        "name": "苦桃",
+        "pinned_tweet_id": "1918965335610270055",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920852818862247937/uKluUFUA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4995,
+          "following_count": 286,
+          "like_count": 18412,
+          "listed_count": 10,
+          "media_count": 1010,
+          "tweet_count": 11981
+        },
+        "username": "realeco8964",
+        "verified": false
+      }
+    ]
+  }
+}

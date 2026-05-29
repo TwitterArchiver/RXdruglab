@@ -1,0 +1,145 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1857594963699314690"
+      ]
+    },
+    "author_id": "3022697779",
+    "conversation_id": "1857595553070330217",
+    "created_at": "2024-11-16T01:24:26.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-16T02:24:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1857595553070330217"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/kJqJxWVG9p",
+          "end": 169,
+          "expanded_url": "https://x.com/RXdruglab/status/1857595553070330217/photo/1",
+          "media_key": "3_1857594963699314690",
+          "start": 146,
+          "url": "https://t.co/kJqJxWVG9p"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1857595553070330217",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "诺和盈，也就是司美格鲁肽的减重版上市了,最大剂量调整为一次2.4mg，价格整理如下:\n还是挺贵的，不介意多扎两针的还是买诺和泰吧。\n诺和盈有五种剂量，5个月时间从0.25/针一直扎到2.4/针，我觉得这个速度有点保守了，三个月就可以了。\n另外就是选择大剂量版，然后少扎点量是个更划算的选择。 https://t.co/kJqJxWVG9p"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 230,
+        "media_key": "3_1857594963699314690",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GceAxwvaMAI8Lv1.png",
+        "width": 855
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1857594963699314690"
+          ]
+        },
+        "author_id": "3022697779",
+        "conversation_id": "1857595553070330217",
+        "created_at": "2024-11-16T01:24:26.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-16T02:24:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1857595553070330217"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kJqJxWVG9p",
+              "end": 169,
+              "expanded_url": "https://x.com/RXdruglab/status/1857595553070330217/photo/1",
+              "media_key": "3_1857594963699314690",
+              "start": 146,
+              "url": "https://t.co/kJqJxWVG9p"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1857595553070330217",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "诺和盈，也就是司美格鲁肽的减重版上市了,最大剂量调整为一次2.4mg，价格整理如下:\n还是挺贵的，不介意多扎两针的还是买诺和泰吧。\n诺和盈有五种剂量，5个月时间从0.25/针一直扎到2.4/针，我觉得这个速度有点保守了，三个月就可以了。\n另外就是选择大剂量版，然后少扎点量是个更划算的选择。 https://t.co/kJqJxWVG9p"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-02-16T15:27:54.000Z",
+        "description": "本账号不一定什么时候就没，请添加下方网址的telegram频道以获得持续更新。\n以禁毒、法律教育及损害减少（harm reduction）为目的，通过非世俗及去道德的理念，追求真实的知识与反馈。除替代为目的，部分良性物质，以及特殊情况下的损害减少，不推荐任何人摄入我提及的物质。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/XDrugLab",
+                "end": 23,
+                "expanded_url": "https://t.me/XDrugLab",
+                "start": 0,
+                "url": "https://t.co/71vzzaVErr"
+              }
+            ]
+          }
+        },
+        "id": "3022697779",
+        "name": "药物实验室",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854259369203879954/nxgmCDHX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 198,
+          "following_count": 4,
+          "like_count": 0,
+          "listed_count": 0,
+          "tweet_count": 57
+        },
+        "url": "https://t.co/71vzzaVErr",
+        "username": "RXdruglab",
+        "verified": false
+      }
+    ]
+  }
+}

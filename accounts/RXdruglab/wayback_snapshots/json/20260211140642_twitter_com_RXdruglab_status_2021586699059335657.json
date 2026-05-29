@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "3022697779",
+    "conversation_id": "2021434016247714056",
+    "created_at": "2026-02-11T14:06:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-11T15:06:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021586699059335657"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1277252311757144067",
+          "start": 0,
+          "username": "CLEVOCO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021586699059335657",
+    "in_reply_to_user_id": "1277252311757144067",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021491824087662735",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CLEVOCO 用普通的1ml针管就很可以了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3022697779",
+        "conversation_id": "2021434016247714056",
+        "created_at": "2026-02-11T14:06:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T15:06:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021586699059335657"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1277252311757144067",
+              "start": 0,
+              "username": "CLEVOCO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021586699059335657",
+        "in_reply_to_user_id": "1277252311757144067",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021491824087662735",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CLEVOCO 用普通的1ml针管就很可以了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1277252311757144067",
+        "conversation_id": "2021434016247714056",
+        "created_at": "2026-02-11T07:49:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T08:49:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021491824087662735"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "3022697779",
+              "start": 0,
+              "username": "RXdruglab"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021491824087662735",
+        "in_reply_to_user_id": "3022697779",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 42,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021434016247714056",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RXdruglab 我还特地买了胰岛素用的注射器，大概还能抽出0.8ml药液"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-02-16T15:27:54.000Z",
+        "description": "本不一定什么时候就没，请添加下方网址的telegram频道以获得持续更新。\n以禁毒、法律教育及损害减少（harm reduction）为目的，通过非世俗及去道德的理念，追求真实的知识与反馈。除替代为目的，部分良性物质，以及特殊情况下的损害减少，不推荐任何人摄入我提及的物质。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/XDrugLab",
+                "end": 23,
+                "expanded_url": "https://t.me/XDrugLab",
+                "start": 0,
+                "url": "https://t.co/KMcpbSmDcL"
+              }
+            ]
+          }
+        },
+        "id": "3022697779",
+        "name": "药物实验室",
+        "pinned_tweet_id": "1917542345039569145",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854259369203879954/nxgmCDHX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17325,
+          "following_count": 16,
+          "like_count": 32,
+          "listed_count": 20,
+          "media_count": 52,
+          "tweet_count": 1518
+        },
+        "url": "https://t.co/KMcpbSmDcL",
+        "username": "RXdruglab",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-28T14:47:43.000Z",
+        "description": "",
+        "id": "1277252311757144067",
+        "location": "Kansai, Hyogo",
+        "name": "反射消失",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965015387537539072/w7g3kj92_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 110,
+          "following_count": 224,
+          "like_count": 1082,
+          "listed_count": 1,
+          "media_count": 80,
+          "tweet_count": 3640
+        },
+        "username": "CLEVOCO",
+        "verified": false
+      }
+    ]
+  }
+}

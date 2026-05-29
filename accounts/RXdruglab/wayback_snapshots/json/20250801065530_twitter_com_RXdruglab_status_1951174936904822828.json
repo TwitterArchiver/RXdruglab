@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "3022697779",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      }
+    ],
+    "conversation_id": "1951174936904822828",
+    "created_at": "2025-08-01T06:55:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-01T07:55:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1951174936904822828"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/FlowersRainFal…",
+          "end": 76,
+          "expanded_url": "https://twitter.com/FlowersRainFall/status/1950910999248425325",
+          "start": 53,
+          "url": "https://t.co/FjKyqfXsrX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1951174936904822828",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1950910999248425325",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这个是最新的管制药品列表，后两个是完全体了，分别是麻醉品目录，精神类药品目录，非药用目录，查这三个文档。 https://t.co/FjKyqfXsrX"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3022697779",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "1951174936904822828",
+        "created_at": "2025-08-01T06:55:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-01T07:55:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1951174936904822828"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/FlowersRainFal…",
+              "end": 76,
+              "expanded_url": "https://twitter.com/FlowersRainFall/status/1950910999248425325",
+              "start": 53,
+              "url": "https://t.co/FjKyqfXsrX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951174936904822828",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950910999248425325",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这个是最新的管制药品列表，后两个是完全体了，分别是麻醉品目录，精神类药品目录，非药用目录，查这三个文档。 https://t.co/FjKyqfXsrX"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1566430838434430977",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "1950909945991532912",
+        "created_at": "2025-07-31T13:26:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-31T14:26:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950910999248425325"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "根据《麻醉药品和精神药品管理条例》《非药用类麻醉药品和精神药品列管办法》有关规定，公安部、国家卫生健康委员会和国家药品监督管理局决定将芬太尼类物质列入《非药用类麻醉药品和精神药品管制品种增补目录》。 “芬太尼类物质” 是指化学结构与芬太尼（N-[1-（2-苯乙基）-4-哌啶基]-N-苯基丙酰胺）相比，符合以下一个或多个条件的物质： 一、合成大麻素类物质。 “合成大麻素类物质” 是指具有下列化学结构通式的物质： 一、尼秦类物质。 “尼秦类物质” 是指化学结构与依托尼秦（2-[2-(4-乙氧基苄基)-5-硝基-1H-苯并咪唑-1-基]-N,N-二乙基-1-乙胺）相比，符合以下一个或多个条件的物质：（一）使用取代或未取代的1H-苯并咪唑基替代5-硝基-1H-苯并咪唑基；（二）使用取代或未取代的C1-C2烃基替代1H-苯并咪唑基与苯基之间的 亚甲基；（三）使用取代或未取代的芳香基团替代4-乙氧基苯基；（四）使用取代或未取代的氨基替代N,N-二乙基氨基。",
+              "display_url": "jhak.com/index.php?m=co…",
+              "end": 55,
+              "expanded_url": "http://jhak.com/index.php?m=content&c=index&a=show&catid=112&id=2906283",
+              "start": 32,
+              "status": 200,
+              "title": "杜新忠戒毒网--戒毒门户 权威媒体",
+              "unwound_url": "http://jhak.com/index.php?m=content&c=index&a=show&catid=112&id=2906283",
+              "url": "https://t.co/JLpcEytQsi"
+            },
+            {
+              "display_url": "mps.gov.cn/n6557558/c1015…",
+              "end": 107,
+              "expanded_url": "https://www.mps.gov.cn/n6557558/c10150600/content.html",
+              "start": 84,
+              "status": 521,
+              "unwound_url": "https://www.mps.gov.cn/n6557558/c10150600/content.html",
+              "url": "https://t.co/r9SGuRtljG"
+            },
+            {
+              "display_url": "nmpa.gov.cn/directory/web/…",
+              "end": 180,
+              "expanded_url": "https://www.nmpa.gov.cn/directory/web/nmpa/xxgk/ggtg/ypggtg/ypqtggtg/20250728092519123.html",
+              "start": 157,
+              "status": 412,
+              "unwound_url": "https://www.nmpa.gov.cn/directory/web/nmpa/xxgk/ggtg/ypggtg/ypqtggtg/20250728092519123.html",
+              "url": "https://t.co/xWaCOKWGuy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950910999248425325",
+        "in_reply_to_user_id": "1566430838434430977",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 425,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950909945991532912",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "参考资料：\n现行我国管制物质品种目录（截止2025年7月1日） https://t.co/JLpcEytQsi\n三部门联合发布最新版《非药用类麻醉药品和精神药品目录》 https://t.co/r9SGuRtljG\n国家药监局 公安部 国家卫生健康委关于发布药用类麻醉药品和精神药品目录的公告（2025年第55号）https://t.co/xWaCOKWGuy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-02-16T15:27:54.000Z",
+        "description": "本不一定什么时候就没，请添加下方网址的telegram频道以获得持续更新。\n以禁毒、法律教育及损害减少（harm reduction）为目的，通过非世俗及去道德的理念，追求真实的知识与反馈。除替代为目的，部分良性物质，以及特殊情况下的损害减少，不推荐任何人摄入我提及的物质。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/XDrugLab",
+                "end": 23,
+                "expanded_url": "https://t.me/XDrugLab",
+                "start": 0,
+                "url": "https://t.co/KMcpbSmDcL"
+              }
+            ]
+          }
+        },
+        "id": "3022697779",
+        "name": "药物实验室",
+        "pinned_tweet_id": "1917542345039569145",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854259369203879954/nxgmCDHX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15381,
+          "following_count": 17,
+          "like_count": 35,
+          "listed_count": 14,
+          "media_count": 44,
+          "tweet_count": 1082
+        },
+        "url": "https://t.co/KMcpbSmDcL",
+        "username": "RXdruglab",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-04T14:19:59.000Z",
+        "description": "雨打梨花深闭门",
+        "id": "1566430838434430977",
+        "location": "🌐地球",
+        "name": "雨淋囹",
+        "pinned_tweet_id": "1713230975298330965",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1858860873160552448/3Dfpc66I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 587,
+          "following_count": 638,
+          "like_count": 41211,
+          "listed_count": 2,
+          "media_count": 343,
+          "tweet_count": 3089
+        },
+        "username": "FlowersRainFall",
+        "verified": false
+      }
+    ]
+  }
+}

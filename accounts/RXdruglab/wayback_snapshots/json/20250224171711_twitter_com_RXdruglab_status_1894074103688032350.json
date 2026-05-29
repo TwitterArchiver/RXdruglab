@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "3022697779",
+    "conversation_id": "1894074103688032350",
+    "created_at": "2025-02-24T17:17:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-24T18:17:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1894074103688032350"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/xx1012000456/s…",
+          "end": 79,
+          "expanded_url": "https://x.com/xx1012000456/status/1893995036406141068",
+          "start": 56,
+          "url": "https://t.co/Eo4p0Aud9A"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1894074103688032350",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1893995036406141068",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "假是不可能假的，偷工减料也不可能的，说多少剂量就是多少剂量。自己吃药吃多了没药效，还擅自加量，你不难受谁难受。\nhttps://t.co/Eo4p0Aud9A"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3022697779",
+        "conversation_id": "1894074103688032350",
+        "created_at": "2025-02-24T17:17:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-24T18:17:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1894074103688032350"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xx1012000456/s…",
+              "end": 79,
+              "expanded_url": "https://x.com/xx1012000456/status/1893995036406141068",
+              "start": 56,
+              "url": "https://t.co/Eo4p0Aud9A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1894074103688032350",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1893995036406141068",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "假是不可能假的，偷工减料也不可能的，说多少剂量就是多少剂量。自己吃药吃多了没药效，还擅自加量，你不难受谁难受。\nhttps://t.co/Eo4p0Aud9A"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1893964161824047306",
+        "created_at": "2025-02-24T12:03:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-24T13:03:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1893995036406141068"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1807107145756008448",
+              "start": 0,
+              "username": "IAmTheSolipsism"
+            },
+            {
+              "end": 32,
+              "id": "1761106331896033283",
+              "start": 17,
+              "username": "nemurikamisama"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893995036406141068",
+        "in_reply_to_user_id": "1807107145756008448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 40,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1893967345934114902",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IAmTheSolipsism @nemurikamisama 东西倒不一定是假的，但是用户告知肯定是偷工减料了。麦司卡林本体就会导致恶心呕吐与疼痛，相关衍生物剂量和效力是不明的。叶经理服用推荐是司琼（止吐）、依托考昔（止痛），剂量也应该严控（体重折算）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-02-16T15:27:54.000Z",
+        "description": "本不一定什么时候就没，请添加下方网址的telegram频道以获得持续更新。\n以禁毒、法律教育及损害减少（harm reduction）为目的，通过非世俗及去道德的理念，追求真实的知识与反馈。除替代为目的，部分良性物质，以及特殊情况下的损害减少，不推荐任何人摄入我提及的物质。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/XDrugLab",
+                "end": 23,
+                "expanded_url": "https://t.me/XDrugLab",
+                "start": 0,
+                "url": "https://t.co/KMcpbSmDcL"
+              }
+            ]
+          }
+        },
+        "id": "3022697779",
+        "name": "药物实验室",
+        "pinned_tweet_id": "1861564676557152611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854259369203879954/nxgmCDHX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12108,
+          "following_count": 17,
+          "like_count": 9,
+          "listed_count": 10,
+          "media_count": 21,
+          "tweet_count": 678
+        },
+        "url": "https://t.co/KMcpbSmDcL",
+        "username": "RXdruglab",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "pinned_tweet_id": "1846915131630145976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 439,
+          "following_count": 467,
+          "like_count": 14,
+          "listed_count": 2,
+          "media_count": 7,
+          "tweet_count": 786
+        },
+        "username": "xx1012000456",
+        "verified": false
+      }
+    ]
+  }
+}

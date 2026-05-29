@@ -1,0 +1,365 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "3022697779",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "5G",
+          "id": "1085628093627195392",
+          "name": "5G"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      }
+    ],
+    "conversation_id": "1904892458716021098",
+    "created_at": "2025-03-27T13:34:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-27T14:34:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1905252150126735821"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1000763746430500865",
+          "start": 0,
+          "username": "manoj901858808"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1905252150126735821",
+    "in_reply_to_user_id": "1000763746430500865",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1904892458716021098",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@manoj901858808 氟硝西泮一片2mg，正规药片需要按成分折算。5g要2500粒，这是不可能的。条子骗人逼你认罪认罚的，不要认，这个就是不起诉。而且要看购买者的使用目的，考虑到买家可能就是条子，所以贩毒的结果不成立，而且卖家也不是当毒品卖的。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1904892451028193280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gm-Jl3bb0AAGRRm.jpg",
+        "width": 528
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1904892450994540544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gm-Jl3TaUAA1YRt.jpg",
+        "width": 352
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1904892450994610178",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gm-Jl3TbYAIVOzR.jpg",
+        "width": 943
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3022697779",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "5G",
+              "id": "1085628093627195392",
+              "name": "5G"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "1904892458716021098",
+        "created_at": "2025-03-27T13:34:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-27T14:34:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1905252150126735821"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1000763746430500865",
+              "start": 0,
+              "username": "manoj901858808"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1905252150126735821",
+        "in_reply_to_user_id": "1000763746430500865",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1904892458716021098",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@manoj901858808 氟硝西泮一片2mg，正规药片需要按成分折算。5g要2500粒，这是不可能的。条子骗人逼你认罪认罚的，不要认，这个就是不起诉。而且要看购买者的使用目的，考虑到买家可能就是条子，所以贩毒的结果不成立，而且卖家也不是当毒品卖的。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1904892451028193280",
+            "3_1904892450994540544",
+            "3_1904892450994610178"
+          ]
+        },
+        "author_id": "1000763746430500865",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "5G",
+              "id": "1085628093627195392",
+              "name": "5G"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "1904892458716021098",
+        "created_at": "2025-03-26T13:45:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-26T14:45:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1904892458716021098"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hBeD22krxY",
+              "end": 159,
+              "expanded_url": "https://x.com/manoj901858808/status/1904892458716021098/photo/1",
+              "media_key": "3_1904892451028193280",
+              "start": 136,
+              "url": "https://t.co/hBeD22krxY"
+            },
+            {
+              "display_url": "pic.x.com/hBeD22krxY",
+              "end": 159,
+              "expanded_url": "https://x.com/manoj901858808/status/1904892458716021098/photo/1",
+              "media_key": "3_1904892450994540544",
+              "start": 136,
+              "url": "https://t.co/hBeD22krxY"
+            },
+            {
+              "display_url": "pic.x.com/hBeD22krxY",
+              "end": 159,
+              "expanded_url": "https://x.com/manoj901858808/status/1904892458716021098/photo/1",
+              "media_key": "3_1904892450994610178",
+              "start": 136,
+              "url": "https://t.co/hBeD22krxY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1904892458716021098",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 14207,
+          "like_count": 56,
+          "quote_count": 0,
+          "reply_count": 31,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "我遇到了麻烦的事情，我知道中推对贩毒的容忍度很低，但是我还是想求助因为这里有流量。我的朋友口风=岚岚=热恋门，受到坑蒙拐骗在不知情的情况下贩卖氟硝5g，现在已经跨省抓捕在上海等待审，一判很重要，有好的律师是有可能无罪释放的，关心热恋门的朋友请给我打钱，我会全部转给她妈妈 https://t.co/hBeD22krxY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-02-16T15:27:54.000Z",
+        "description": "本不一定什么时候就没，请添加下方网址的telegram频道以获得持续更新。\n以禁毒、法律教育及损害减少（harm reduction）为目的，通过非世俗及去道德的理念，追求真实的知识与反馈。除替代为目的，部分良性物质，以及特殊情况下的损害减少，不推荐任何人摄入我提及的物质。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/XDrugLab",
+                "end": 23,
+                "expanded_url": "https://t.me/XDrugLab",
+                "start": 0,
+                "url": "https://t.co/KMcpbSmDcL"
+              }
+            ]
+          }
+        },
+        "id": "3022697779",
+        "name": "药物实验室",
+        "pinned_tweet_id": "1861564676557152611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854259369203879954/nxgmCDHX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14132,
+          "following_count": 16,
+          "like_count": 17,
+          "listed_count": 11,
+          "media_count": 28,
+          "tweet_count": 806
+        },
+        "url": "https://t.co/KMcpbSmDcL",
+        "username": "RXdruglab",
+        "verified": false
+      },
+      {
+        "created_at": "2018-05-27T15:40:45.000Z",
+        "description": "只回复正常信息和门槛相关｜没回就是没看到",
+        "id": "1000763746430500865",
+        "location": "🚪200/520",
+        "name": "我本还泪",
+        "pinned_tweet_id": "1901577804141220053",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904999097196748800/M_1fIkst_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40992,
+          "following_count": 355,
+          "like_count": 2088,
+          "listed_count": 78,
+          "media_count": 168,
+          "tweet_count": 983
+        },
+        "username": "manoj901858808",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "3022697779",
+    "conversation_id": "2022393480560152786",
+    "created_at": "2026-02-14T14:39:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-14T15:39:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022682231790276843"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "55546848",
+          "start": 0,
+          "username": "vegecat"
+        },
+        {
+          "end": 16,
+          "id": "1324198319535521795",
+          "start": 9,
+          "username": "KKaWSB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022682231790276843",
+    "in_reply_to_user_id": "55546848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022418400707018806",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@vegecat @KKaWSB 量大了，没有耐受。没有耐受的话20到30mg就有可能到这种程度。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3022697779",
+        "conversation_id": "2022393480560152786",
+        "created_at": "2026-02-14T14:39:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T15:39:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022682231790276843"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "55546848",
+              "start": 0,
+              "username": "vegecat"
+            },
+            {
+              "end": 16,
+              "id": "1324198319535521795",
+              "start": 9,
+              "username": "KKaWSB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022682231790276843",
+        "in_reply_to_user_id": "55546848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022418400707018806",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@vegecat @KKaWSB 量大了，没有耐受。没有耐受的话20到30mg就有可能到这种程度。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "55546848",
+        "conversation_id": "2022393480560152786",
+        "created_at": "2026-02-13T21:11:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T22:11:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022418400707018806"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1324198319535521795",
+              "start": 0,
+              "username": "KKaWSB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022418400707018806",
+        "in_reply_to_user_id": "1324198319535521795",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6648,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022393480560152786",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KKaWSB 我也曾被老外同事送了两块自制的cookie, 我吃了一块，结果不到一会就开始心慌头昏冒汗，躺了几个小时才恢复过来。幸亏没把两块一起吃了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-02-16T15:27:54.000Z",
+        "description": "本不一定什么时候就没，请添加下方网址的telegram频道以获得持续更新。\n以禁毒、法律教育及损害减少（harm reduction）为目的，通过非世俗及去道德的理念，追求真实的知识与反馈。除替代为目的，部分良性物质，以及特殊情况下的损害减少，不推荐任何人摄入我提及的物质。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/XDrugLab",
+                "end": 23,
+                "expanded_url": "https://t.me/XDrugLab",
+                "start": 0,
+                "url": "https://t.co/KMcpbSmDcL"
+              }
+            ]
+          }
+        },
+        "id": "3022697779",
+        "name": "药物实验室",
+        "pinned_tweet_id": "1917542345039569145",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854259369203879954/nxgmCDHX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17344,
+          "following_count": 18,
+          "like_count": 29,
+          "listed_count": 20,
+          "media_count": 52,
+          "tweet_count": 1526
+        },
+        "url": "https://t.co/KMcpbSmDcL",
+        "username": "RXdruglab",
+        "verified": false
+      },
+      {
+        "created_at": "2009-07-10T12:26:17.000Z",
+        "description": "",
+        "id": "55546848",
+        "name": "猫猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1192292884801818625/Eq9nZkmj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 259,
+          "following_count": 175,
+          "like_count": 1641,
+          "listed_count": 3,
+          "media_count": 47,
+          "tweet_count": 3492
+        },
+        "username": "vegecat",
+        "verified": false
+      },
+      {
+        "created_at": "2020-11-05T03:54:29.000Z",
+        "description": "Co-founder of CarbonSilicon AI ｜ AI-powered on-chain algorithmic trading (Palo Alto) | 硅谷 P 将军｜金狗投研｜深绿 Agent👽｜Learn in public📖｜ 科技｜宇宙｜经济学｜趣闻｜",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/KKcasi",
+                "end": 23,
+                "expanded_url": "https://t.me/KKcasi",
+                "start": 0,
+                "url": "https://t.co/QsTW1lsaMp"
+              }
+            ]
+          }
+        },
+        "id": "1324198319535521795",
+        "location": "Atlanta, GA",
+        "name": "KK.aWSB",
+        "pinned_tweet_id": "1968453490084299020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1597151544004132864/tTRRgVeE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57945,
+          "following_count": 2736,
+          "like_count": 8228,
+          "listed_count": 557,
+          "media_count": 3179,
+          "tweet_count": 7198
+        },
+        "url": "https://t.co/QsTW1lsaMp",
+        "username": "KKaWSB",
+        "verified": true
+      }
+    ]
+  }
+}

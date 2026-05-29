@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "3022697779",
+    "conversation_id": "1909232376426955142",
+    "created_at": "2025-04-07T18:07:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-07T19:07:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1909307115954749943"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1079922040922992640",
+          "start": 0,
+          "username": "QIX719X5hxxTWHq"
+        },
+        {
+          "end": 28,
+          "id": "1699445300950093824",
+          "start": 17,
+          "username": "kansj68531"
+        },
+        {
+          "end": 39,
+          "id": "1810696902683607040",
+          "start": 29,
+          "username": "zzzonghao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1909307115954749943",
+    "in_reply_to_user_id": "1079922040922992640",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1909270620250251269",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@QIX719X5hxxTWHq @kansj68531 @zzzonghao 再补一句她花我的钱远没有她父母给她的多。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3022697779",
+        "conversation_id": "1909232376426955142",
+        "created_at": "2025-04-07T18:07:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-07T19:07:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1909307115954749943"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1079922040922992640",
+              "start": 0,
+              "username": "QIX719X5hxxTWHq"
+            },
+            {
+              "end": 28,
+              "id": "1699445300950093824",
+              "start": 17,
+              "username": "kansj68531"
+            },
+            {
+              "end": 39,
+              "id": "1810696902683607040",
+              "start": 29,
+              "username": "zzzonghao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1909307115954749943",
+        "in_reply_to_user_id": "1079922040922992640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1909270620250251269",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QIX719X5hxxTWHq @kansj68531 @zzzonghao 再补一句她花我的钱远没有她父母给她的多。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1079922040922992640",
+        "conversation_id": "1909232376426955142",
+        "created_at": "2025-04-07T15:42:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-07T16:42:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1909270620250251269"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1699445300950093824",
+              "start": 0,
+              "username": "kansj68531"
+            },
+            {
+              "end": 22,
+              "id": "1810696902683607040",
+              "start": 12,
+              "username": "zzzonghao"
+            },
+            {
+              "end": 33,
+              "id": "3022697779",
+              "start": 23,
+              "username": "RXdruglab"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1909270620250251269",
+        "in_reply_to_user_id": "1699445300950093824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 124,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1909252321143615667",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kansj68531 @zzzonghao @RXdruglab 赞同👍正儿八经没钱穷逼到生存都成问题谁玩这个追求精神状态"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-02-16T15:27:54.000Z",
+        "description": "本不一定什么时候就没，请添加下方网址的telegram频道以获得持续更新。\n以禁毒、法律教育及损害减少（harm reduction）为目的，通过非世俗及去道德的理念，追求真实的知识与反馈。除替代为目的，部分良性物质，以及特殊情况下的损害减少，不推荐任何人摄入我提及的物质。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/XDrugLab",
+                "end": 23,
+                "expanded_url": "https://t.me/XDrugLab",
+                "start": 0,
+                "url": "https://t.co/KMcpbSmDcL"
+              }
+            ]
+          }
+        },
+        "id": "3022697779",
+        "name": "药物实验室",
+        "pinned_tweet_id": "1861564676557152611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854259369203879954/nxgmCDHX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14536,
+          "following_count": 17,
+          "like_count": 22,
+          "listed_count": 11,
+          "media_count": 31,
+          "tweet_count": 875
+        },
+        "url": "https://t.co/KMcpbSmDcL",
+        "username": "RXdruglab",
+        "verified": false
+      },
+      {
+        "created_at": "2019-01-01T02:07:33.000Z",
+        "description": "本人25，杭州直播电商行业，在努力变更好更强大，认真想爱情寻结婚伴侣（当然也可能是奢望吧）",
+        "id": "1079922040922992640",
+        "location": "杭州",
+        "name": "深情S男主角",
+        "pinned_tweet_id": "1904903992372846746",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878966349265010688/4rV5CZre_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 166,
+          "following_count": 2561,
+          "like_count": 330,
+          "listed_count": 0,
+          "media_count": 65,
+          "tweet_count": 515
+        },
+        "username": "QIX719X5hxxTWHq",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-06T15:31:58.000Z",
+        "description": "",
+        "id": "1699445300950093824",
+        "location": "Macau",
+        "name": "林讨厌你",
+        "pinned_tweet_id": "1909277266947043362",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908615592078434304/ofFo_Pzi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4291,
+          "following_count": 45,
+          "like_count": 509,
+          "listed_count": 11,
+          "media_count": 7,
+          "tweet_count": 42
+        },
+        "username": "kansj68531",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-09T15:26:11.000Z",
+        "description": "",
+        "id": "1810696902683607040",
+        "name": "Bbn",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1810697035928207361/zTkRcPcC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 126,
+          "like_count": 15,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 56
+        },
+        "username": "zzzonghao",
+        "verified": false
+      }
+    ]
+  }
+}

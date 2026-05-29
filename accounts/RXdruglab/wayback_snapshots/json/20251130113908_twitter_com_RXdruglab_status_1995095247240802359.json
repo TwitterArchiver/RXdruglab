@@ -1,0 +1,170 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "3022697779",
+    "conversation_id": "1995080761163284677",
+    "created_at": "2025-11-30T11:39:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-30T12:39:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995095247240802359"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1995095247240802359",
+    "in_reply_to_user_id": "3022697779",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995080761163284677",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "说二硫化硒的意思是你随便买个二硫化硒洗剂量就可以了。这个我觉得不适合天天用，会耐受。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3022697779",
+        "conversation_id": "1995080761163284677",
+        "created_at": "2025-11-30T11:39:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T12:39:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995095247240802359"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1995095247240802359",
+        "in_reply_to_user_id": "3022697779",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995080761163284677",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "说二硫化硒的意思是你随便买个二硫化硒洗剂量就可以了。这个我觉得不适合天天用，会耐受。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3022697779",
+        "conversation_id": "1995080761163284677",
+        "created_at": "2025-11-30T10:41:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T11:41:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995080761163284677"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Linmiv/status/…",
+              "end": 87,
+              "expanded_url": "https://twitter.com/Linmiv/status/1994997775382303002",
+              "start": 64,
+              "url": "https://t.co/T1D07DC47W"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995080761163284677",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 344,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994997775382303002",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "第一个核心成分就是二硫化硒，确实非常好，我洗一次一个月没有头屑。\n第二个之前我发过，达克宁喷雾。不知道为啥，我觉得乳膏不好用。 https://t.co/T1D07DC47W"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-02-16T15:27:54.000Z",
+        "description": "本不一定什么时候就没，请添加下方网址的telegram频道以获得持续更新。\n以禁毒、法律教育及损害减少（harm reduction）为目的，通过非世俗及去道德的理念，追求真实的知识与反馈。除替代为目的，部分良性物质，以及特殊情况下的损害减少，不推荐任何人摄入我提及的物质。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/XDrugLab",
+                "end": 23,
+                "expanded_url": "https://t.me/XDrugLab",
+                "start": 0,
+                "url": "https://t.co/KMcpbSmDcL"
+              }
+            ]
+          }
+        },
+        "id": "3022697779",
+        "name": "药物实验室",
+        "pinned_tweet_id": "1917542345039569145",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854259369203879954/nxgmCDHX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16812,
+          "following_count": 18,
+          "like_count": 23,
+          "listed_count": 21,
+          "media_count": 53,
+          "tweet_count": 1364
+        },
+        "url": "https://t.co/KMcpbSmDcL",
+        "username": "RXdruglab",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "3022697779",
+    "conversation_id": "1987115807739167231",
+    "created_at": "2025-11-08T11:11:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-08T12:11:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1987115807739167231"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/SalviaSWC/stat…",
+          "end": 116,
+          "expanded_url": "https://twitter.com/SalviaSWC/status/1987048046027272404",
+          "start": 93,
+          "url": "https://t.co/Aj1dnK8Chz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987115807739167231",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987048046027272404",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "至少10年之前，中国没有一例缉毒犬发现毒品的案例。\n缉毒犬检查出毒品可能是对于气味极大的物质，比如大麻，还有就是面对“判断是否”的情景。对于流动的行李或包裹，检查出的概率几乎可以忽略。 https://t.co/Aj1dnK8Chz"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3022697779",
+        "conversation_id": "1987115807739167231",
+        "created_at": "2025-11-08T11:11:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-08T12:11:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987115807739167231"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/SalviaSWC/stat…",
+              "end": 116,
+              "expanded_url": "https://twitter.com/SalviaSWC/status/1987048046027272404",
+              "start": 93,
+              "url": "https://t.co/Aj1dnK8Chz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987115807739167231",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987048046027272404",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "至少10年之前，中国没有一例缉毒犬发现毒品的案例。\n缉毒犬检查出毒品可能是对于气味极大的物质，比如大麻，还有就是面对“判断是否”的情景。对于流动的行李或包裹，检查出的概率几乎可以忽略。 https://t.co/Aj1dnK8Chz"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659962043460354050",
+        "conversation_id": "1987048046027272404",
+        "created_at": "2025-11-08T06:42:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-08T07:42:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987048046027272404"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1987048046027272404",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1937,
+          "like_count": 35,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "ODer们可能想知道的知识:自己的药物会不会被缉毒犬查出来?\n答案是不会😈\n众所周知，缉毒犬靠嗅觉发现毒品，警察用缴获的真毒品训练他们。训练成本高，毒品的气味各异，警犬的记忆力和寿命也有限，只能认得出几种毒品.\n因此，只有常见的毒品会被用于训练缉毒犬，处方药和RC几乎永远不会成为它们的目标。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-02-16T15:27:54.000Z",
+        "description": "本不一定什么时候就没，请添加下方网址的telegram频道以获得持续更新。\n以禁毒、法律教育及损害减少（harm reduction）为目的，通过非世俗及去道德的理念，追求真实的知识与反馈。除替代为目的，部分良性物质，以及特殊情况下的损害减少，不推荐任何人摄入我提及的物质。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/XDrugLab",
+                "end": 23,
+                "expanded_url": "https://t.me/XDrugLab",
+                "start": 0,
+                "url": "https://t.co/KMcpbSmDcL"
+              }
+            ]
+          }
+        },
+        "id": "3022697779",
+        "name": "药物实验室",
+        "pinned_tweet_id": "1917542345039569145",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854259369203879954/nxgmCDHX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16204,
+          "following_count": 17,
+          "like_count": 20,
+          "listed_count": 20,
+          "media_count": 52,
+          "tweet_count": 1291
+        },
+        "url": "https://t.co/KMcpbSmDcL",
+        "username": "RXdruglab",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07丨上海丨退役OIer丨虚无主义者丨\n非必要不键政🥺丨\nSay Know to Drugs 💊丨\n会发各种东西丨欢迎任何人🌈丨互fo🉑🥰丨如果没回fo的话，请私信哦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/SalviaSWC",
+                "end": 23,
+                "expanded_url": "https://github.com/SalviaSWC",
+                "start": 0,
+                "url": "https://t.co/NJRjXJi1ON"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984830293103046656/fgZKegRL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1708,
+          "following_count": 669,
+          "like_count": 10750,
+          "listed_count": 7,
+          "media_count": 157,
+          "tweet_count": 3386
+        },
+        "url": "https://t.co/NJRjXJi1ON",
+        "username": "SalviaSWC",
+        "verified": false
+      }
+    ]
+  }
+}

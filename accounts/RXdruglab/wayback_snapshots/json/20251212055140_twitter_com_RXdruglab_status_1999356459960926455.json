@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "3022697779",
+    "conversation_id": "1999142337084366957",
+    "created_at": "2025-12-12T05:51:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-12T06:51:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999356459960926455"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1752167833621110785",
+          "start": 0,
+          "username": "z_rui66687"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999356459960926455",
+    "in_reply_to_user_id": "1752167833621110785",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999142337084366957",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@z_rui66687 一眼还以为是劳荣枝。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1999142324677586944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G75hWjXbMAAjVRl.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3022697779",
+        "conversation_id": "1999142337084366957",
+        "created_at": "2025-12-12T05:51:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T06:51:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999356459960926455"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1752167833621110785",
+              "start": 0,
+              "username": "z_rui66687"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999356459960926455",
+        "in_reply_to_user_id": "1752167833621110785",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999142337084366957",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@z_rui66687 一眼还以为是劳荣枝。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1999142324677586944"
+          ]
+        },
+        "author_id": "1752167833621110785",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1999142337084366957",
+        "created_at": "2025-12-11T15:40:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-11T16:40:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999142337084366957"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wlFmrBvWqo",
+              "end": 36,
+              "expanded_url": "https://x.com/z_rui66687/status/1999142337084366957/photo/1",
+              "media_key": "3_1999142324677586944",
+              "start": 13,
+              "url": "https://t.co/wlFmrBvWqo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999142337084366957",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 119410,
+          "like_count": 287,
+          "quote_count": 6,
+          "reply_count": 73,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "鹅妈妈什么时候玩推特了？ https://t.co/wlFmrBvWqo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-02-16T15:27:54.000Z",
+        "description": "本不一定什么时候就没，请添加下方网址的telegram频道以获得持续更新。\n以禁毒、法律教育及损害减少（harm reduction）为目的，通过非世俗及去道德的理念，追求真实的知识与反馈。除替代为目的，部分良性物质，以及特殊情况下的损害减少，不推荐任何人摄入我提及的物质。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/XDrugLab",
+                "end": 23,
+                "expanded_url": "https://t.me/XDrugLab",
+                "start": 0,
+                "url": "https://t.co/KMcpbSmDcL"
+              }
+            ]
+          }
+        },
+        "id": "3022697779",
+        "name": "药物实验室",
+        "pinned_tweet_id": "1917542345039569145",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854259369203879954/nxgmCDHX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16811,
+          "following_count": 18,
+          "like_count": 23,
+          "listed_count": 21,
+          "media_count": 52,
+          "tweet_count": 1402
+        },
+        "url": "https://t.co/KMcpbSmDcL",
+        "username": "RXdruglab",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-30T03:12:34.000Z",
+        "description": "做人要像小饼干一样干干脆脆( 𓏼˙ ᴥ ˙𓏼 )/ 抽象文案大王、日常碎碎念｜我会视奸每一个给我点赞的人՞-ㅅ-՞ 防失联小号！｛https://t.co/IjO9bEJZxo｝",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/freya88666?s=21",
+                "end": 88,
+                "expanded_url": "https://x.com/freya88666?s=21",
+                "start": 65,
+                "url": "https://t.co/IjO9bEJZxo"
+              }
+            ]
+          }
+        },
+        "id": "1752167833621110785",
+        "location": "有🚪可以打视频验证",
+        "name": "王者荣耀能不能让我赢",
+        "pinned_tweet_id": "1996556889531064546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998193479432933376/8Lj1XVKE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3214,
+          "following_count": 38,
+          "like_count": 925,
+          "listed_count": 11,
+          "media_count": 54,
+          "tweet_count": 303
+        },
+        "username": "z_rui66687",
+        "verified": false
+      }
+    ]
+  }
+}

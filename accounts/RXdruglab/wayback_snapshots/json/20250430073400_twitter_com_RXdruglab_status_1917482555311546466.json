@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "3022697779",
+    "conversation_id": "1917482555311546466",
+    "created_at": "2025-04-30T07:34:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-30T08:34:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1917482555311546466"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/kansj68531/sta…",
+          "end": 37,
+          "expanded_url": "https://twitter.com/kansj68531/status/1917453813537202516",
+          "start": 14,
+          "url": "https://t.co/hYvEWk5sxN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1917482555311546466",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1917453813537202516",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好好的你为什么要当抄袭狗？ https://t.co/hYvEWk5sxN"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3022697779",
+        "conversation_id": "1917482555311546466",
+        "created_at": "2025-04-30T07:34:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-30T08:34:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1917482555311546466"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kansj68531/sta…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/kansj68531/status/1917453813537202516",
+              "start": 14,
+              "url": "https://t.co/hYvEWk5sxN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917482555311546466",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1917453813537202516",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好好的你为什么要当抄袭狗？ https://t.co/hYvEWk5sxN"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1699445300950093824",
+        "conversation_id": "1917453813537202516",
+        "created_at": "2025-04-30T05:39:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-30T06:39:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1917453813537202516"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1917453813537202516",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 273,
+          "like_count": 5,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "普萘洛尔作为β受体阻滞剂，通过降低心率和心肌收缩力降压，常用于高血压治疗。然而，高血压并非总是由心率升高引起，此时普萘洛尔疗效可能有限。相较之下，厄贝沙坦、氨氯地平通过扩张血管更直接降压，适用于更广泛病因。在无低血压风险时，可优先考虑此类药物。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-02-16T15:27:54.000Z",
+        "description": "本不一定什么时候就没，请添加下方网址的telegram频道以获得持续更新。\n以禁毒、法律教育及损害减少（harm reduction）为目的，通过非世俗及去道德的理念，追求真实的知识与反馈。除替代为目的，部分良性物质，以及特殊情况下的损害减少，不推荐任何人摄入我提及的物质。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/XDrugLab",
+                "end": 23,
+                "expanded_url": "https://t.me/XDrugLab",
+                "start": 0,
+                "url": "https://t.co/KMcpbSmDcL"
+              }
+            ]
+          }
+        },
+        "id": "3022697779",
+        "name": "药物实验室",
+        "pinned_tweet_id": "1861564676557152611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854259369203879954/nxgmCDHX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14764,
+          "following_count": 18,
+          "like_count": 25,
+          "listed_count": 12,
+          "media_count": 35,
+          "tweet_count": 926
+        },
+        "url": "https://t.co/KMcpbSmDcL",
+        "username": "RXdruglab",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-06T15:31:58.000Z",
+        "description": "药圈第一个地雷女科普系博主，会回复用药咨询，想聊天请过🚪。",
+        "id": "1699445300950093824",
+        "location": "Macau",
+        "name": "林讨厌你",
+        "pinned_tweet_id": "1915930914988982736",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908615592078434304/ofFo_Pzi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4734,
+          "following_count": 58,
+          "like_count": 687,
+          "listed_count": 10,
+          "media_count": 13,
+          "tweet_count": 35
+        },
+        "username": "kansj68531",
+        "verified": false
+      }
+    ]
+  }
+}

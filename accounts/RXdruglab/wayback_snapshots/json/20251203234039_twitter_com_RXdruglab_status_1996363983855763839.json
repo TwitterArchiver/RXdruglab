@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "3022697779",
+    "conversation_id": "1996363983855763839",
+    "created_at": "2025-12-03T23:40:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-04T00:40:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1996363983855763839"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/damiaoedux/sta…",
+          "end": 90,
+          "expanded_url": "https://twitter.com/damiaoedux/status/1996126391591698774",
+          "start": 67,
+          "url": "https://t.co/ySFD9TdMdq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996363983855763839",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996126391591698774",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "一个锻炼，一个护肤，是最好的付出就有收获的东西，快则三五天，慢则一两周就可以看到成效，而且还不适合付出过多，因为付出太多收益会下降。 https://t.co/ySFD9TdMdq"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3022697779",
+        "conversation_id": "1996363983855763839",
+        "created_at": "2025-12-03T23:40:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-04T00:40:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996363983855763839"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/damiaoedux/sta…",
+              "end": 90,
+              "expanded_url": "https://twitter.com/damiaoedux/status/1996126391591698774",
+              "start": 67,
+              "url": "https://t.co/ySFD9TdMdq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996363983855763839",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996126391591698774",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "一个锻炼，一个护肤，是最好的付出就有收获的东西，快则三五天，慢则一两周就可以看到成效，而且还不适合付出过多，因为付出太多收益会下降。 https://t.co/ySFD9TdMdq"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1763921497138352128",
+        "conversation_id": "1996126391591698774",
+        "created_at": "2025-12-03T07:56:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T08:56:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996126391591698774"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1996126391591698774",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "刚刚在一个讲健身的短视频里听到了这么一段话：\n\n健身是这个时代最大的红利，只要你付出就100%有回报，不看出身，不靠背景，不需要资源置换。你去举铁，肌肉就肝长，你去跑步，心肺就会强，你控制饮食，体脂就会降。\n\n其实想了想，学编程/计算机也是完全一样的道理，不看出身，不靠背景，也不需要资源置换。你不花时间，管你是计算机专业还是什么国上牛逼大学，你就写不出代码，你不刷题不看书不思考不听课，你就不可能成为程序员。\n\n就算你爹是Linus/马化腾，他亲自教你，自己的脑子一样要转到足够多圈才能学会，他没法帮你转脑子，就像生病，只能靠自己的身体恢复，别人帮那都是外因，自己的努力必不可少。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 181,
+          "impression_count": 62787,
+          "like_count": 260,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 48
+        },
+        "reply_settings": "everyone",
+        "text": "刚刚在一个讲健身的短视频里听到了这么一段话：\n\n健身是这个时代最大的红利，只要你付出就100%有回报，不看出身，不靠背景，不需要资源置换。你去举铁，肌肉就肝长，你去跑步，心肺就会强，你控制饮食，体脂就会降。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-02-16T15:27:54.000Z",
+        "description": "本不一定什么时候就没，请添加下方网址的telegram频道以获得持续更新。\n以禁毒、法律教育及损害减少（harm reduction）为目的，通过非世俗及去道德的理念，追求真实的知识与反馈。除替代为目的，部分良性物质，以及特殊情况下的损害减少，不推荐任何人摄入我提及的物质。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/XDrugLab",
+                "end": 23,
+                "expanded_url": "https://t.me/XDrugLab",
+                "start": 0,
+                "url": "https://t.co/KMcpbSmDcL"
+              }
+            ]
+          }
+        },
+        "id": "3022697779",
+        "name": "药物实验室",
+        "pinned_tweet_id": "1917542345039569145",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854259369203879954/nxgmCDHX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16878,
+          "following_count": 18,
+          "like_count": 23,
+          "listed_count": 21,
+          "media_count": 52,
+          "tweet_count": 1371
+        },
+        "url": "https://t.co/KMcpbSmDcL",
+        "username": "RXdruglab",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-02T13:38:04.000Z",
+        "description": "大喵前端致力于用认真、靠谱、踏实的教学方式，培养真正的程序员。\n8年来培养500+名零基础同学成功转行。\n曾将多名零基础、非科班的同学通过半年培养成为大厂正式员工。\n开设有 计算机预科班 和 前端就业班\n不要私信，直接加QQ/微信：285696737",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "damiaoedu.com",
+                "end": 23,
+                "expanded_url": "http://damiaoedu.com",
+                "start": 0,
+                "url": "https://t.co/38N849prrk"
+              }
+            ]
+          }
+        },
+        "id": "1763921497138352128",
+        "location": "杭州",
+        "name": "大喵CS、转码、预科班(9年讲师，能够教你学会编程)",
+        "pinned_tweet_id": "1971934528542556511",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1764187691653234688/JIvW3b3u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8331,
+          "following_count": 49,
+          "like_count": 2702,
+          "listed_count": 39,
+          "media_count": 258,
+          "tweet_count": 2730
+        },
+        "url": "https://t.co/38N849prrk",
+        "username": "damiaoedux",
+        "verified": true
+      }
+    ]
+  }
+}

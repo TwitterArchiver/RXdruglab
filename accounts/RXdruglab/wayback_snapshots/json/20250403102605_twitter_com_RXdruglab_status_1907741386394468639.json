@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "3022697779",
+    "conversation_id": "1907670743846105109",
+    "created_at": "2025-04-03T10:26:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-03T11:26:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1907741386394468639"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1829498397184946176",
+          "start": 0,
+          "username": "liangxihuigui"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1907741386394468639",
+    "in_reply_to_user_id": "1829498397184946176",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1907670743846105109",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@liangxihuigui 我前天玩了半个小时电脑没看她，我的地雷女女朋友就在嘴上自己扎了俩钉子了。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1907670731623931904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnlobFLaoAAaDFp.jpg",
+        "width": 1083
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1907670731678449664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnlobFYagAAcIZz.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1907670731594579968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnlobFEawAASqTI.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1907670731632291842",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnlobFNaMAI8_dq.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3022697779",
+        "conversation_id": "1907670743846105109",
+        "created_at": "2025-04-03T10:26:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-03T11:26:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1907741386394468639"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1829498397184946176",
+              "start": 0,
+              "username": "liangxihuigui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907741386394468639",
+        "in_reply_to_user_id": "1829498397184946176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1907670743846105109",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@liangxihuigui 我前天玩了半个小时电脑没看她，我的地雷女女朋友就在嘴上自己扎了俩钉子了。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1907670731623931904",
+            "3_1907670731678449664",
+            "3_1907670731594579968",
+            "3_1907670731632291842"
+          ]
+        },
+        "author_id": "1829498397184946176",
+        "conversation_id": "1907670743846105109",
+        "created_at": "2025-04-03T05:45:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-03T06:45:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1907670743846105109"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zxn5gIrM1c",
+              "end": 169,
+              "expanded_url": "https://x.com/liangxihuigui/status/1907670743846105109/photo/1",
+              "media_key": "3_1907670731623931904",
+              "start": 146,
+              "url": "https://t.co/zxn5gIrM1c"
+            },
+            {
+              "display_url": "pic.x.com/zxn5gIrM1c",
+              "end": 169,
+              "expanded_url": "https://x.com/liangxihuigui/status/1907670743846105109/photo/1",
+              "media_key": "3_1907670731678449664",
+              "start": 146,
+              "url": "https://t.co/zxn5gIrM1c"
+            },
+            {
+              "display_url": "pic.x.com/zxn5gIrM1c",
+              "end": 169,
+              "expanded_url": "https://x.com/liangxihuigui/status/1907670743846105109/photo/1",
+              "media_key": "3_1907670731594579968",
+              "start": 146,
+              "url": "https://t.co/zxn5gIrM1c"
+            },
+            {
+              "display_url": "pic.x.com/zxn5gIrM1c",
+              "end": 169,
+              "expanded_url": "https://x.com/liangxihuigui/status/1907670743846105109/photo/1",
+              "media_key": "3_1907670731632291842",
+              "start": 146,
+              "url": "https://t.co/zxn5gIrM1c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907670743846105109",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "目前我在推特上发现了一个地雷女的超级大boss，地雷女普遍是指那些精神不好割腕自残的小女孩，但是也有大boss，如果生活在地雷系的世界，这个女的绝对是万里挑一的地雷女皇，集所有的仇恨于一体，嗑药od自残，全身魅魔纹，脸上都是钉子，分舌，舌钉，奶头子上也是钉子，身上全是自残伤疤，逼上打了钉子，阴蒂上一个，抽插口一个钉子，尤其是b上打钉子，我实在无法想象？这得多疼啊，这大boss究竟是经历了什么，这样折磨自己"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 43855,
+          "like_count": 62,
+          "quote_count": 1,
+          "reply_count": 122,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "目前我在推特上发现了一个地雷女的超级大boss，地雷女普遍是指那些精神不好割腕自残的小女孩，但是也有大boss，如果生活在地雷系的世界，这个女的绝对是万里挑一的地雷女皇，集所有的仇恨于一体，嗑药od自残，全身魅魔纹，脸上都是钉子，分舌，舌钉，奶头子上也是钉子，身上全是自残伤疤，逼上打了钉子 https://t.co/zxn5gIrM1c"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-02-16T15:27:54.000Z",
+        "description": "本不一定什么时候就没，请添加下方网址的telegram频道以获得持续更新。\n以禁毒、法律教育及损害减少（harm reduction）为目的，通过非世俗及去道德的理念，追求真实的知识与反馈。除替代为目的，部分良性物质，以及特殊情况下的损害减少，不推荐任何人摄入我提及的物质。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/XDrugLab",
+                "end": 23,
+                "expanded_url": "https://t.me/XDrugLab",
+                "start": 0,
+                "url": "https://t.co/KMcpbSmDcL"
+              }
+            ]
+          }
+        },
+        "id": "3022697779",
+        "name": "药物实验室",
+        "pinned_tweet_id": "1861564676557152611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854259369203879954/nxgmCDHX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14480,
+          "following_count": 15,
+          "like_count": 20,
+          "listed_count": 11,
+          "media_count": 30,
+          "tweet_count": 860
+        },
+        "url": "https://t.co/KMcpbSmDcL",
+        "username": "RXdruglab",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-30T12:36:57.000Z",
+        "description": "凉兮本人，性别男，喜欢女，负债两亿已结清，只玩推特其余都是假冒得，外网只有一个号，不玩其他平台，其余都是假冒的，@liangxied原来的大号几十万粉丝，因外国人嫉妒我有21cm，所以把大号封了，没任何微博，微博早被封了，重度焦虑症重度抑郁症，精神分裂，双向情感障碍，有精神病人证，目前在吃跨性别药，两个月后彻底丧失性欲",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 56,
+                "username": "liangxied"
+              }
+            ]
+          }
+        },
+        "id": "1829498397184946176",
+        "location": "阴蒂",
+        "name": "凉兮大元帅（白虎）",
+        "pinned_tweet_id": "1900875102960709872",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1901688257387376640/HvIXhbTH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 296198,
+          "following_count": 425,
+          "like_count": 178,
+          "listed_count": 478,
+          "media_count": 1306,
+          "tweet_count": 3640
+        },
+        "username": "liangxihuigui",
+        "verified": true
+      }
+    ]
+  }
+}

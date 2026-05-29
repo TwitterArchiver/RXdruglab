@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "3022697779",
+    "conversation_id": "1890065985736163674",
+    "created_at": "2025-02-13T16:35:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-13T17:35:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1890077423930372247"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1870354309013233667",
+          "start": 0,
+          "username": "HuoHyde"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1890077423930372247",
+    "in_reply_to_user_id": "1870354309013233667",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1890072989238235641",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HuoHyde 当然不是毒品，都是正规药厂的产品。因为没有在中国上市。没有做二三期临床试验，不能在美国及中国上市。已经发明和在俄罗斯上市很久了，如果再做实验，做出来也没有专利保护，谁都可以卖，所以就没有了。很多仅在俄罗斯及其他斯拉夫国家有卖的。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3022697779",
+        "conversation_id": "1890065985736163674",
+        "created_at": "2025-02-13T16:35:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-13T17:35:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1890077423930372247"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1870354309013233667",
+              "start": 0,
+              "username": "HuoHyde"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1890077423930372247",
+        "in_reply_to_user_id": "1870354309013233667",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1890072989238235641",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HuoHyde 当然不是毒品，都是正规药厂的产品。因为没有在中国上市。没有做二三期临床试验，不能在美国及中国上市。已经发明和在俄罗斯上市很久了，如果再做实验，做出来也没有专利保护，谁都可以卖，所以就没有了。很多仅在俄罗斯及其他斯拉夫国家有卖的。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870354309013233667",
+        "conversation_id": "1890065985736163674",
+        "created_at": "2025-02-13T16:18:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-13T17:18:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1890072989238235641"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "3022697779",
+              "start": 0,
+              "username": "RXdruglab"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1890072989238235641",
+        "in_reply_to_user_id": "3022697779",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1890065985736163674",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RXdruglab 这真的不是毒品么？效果这么好的话为啥医院不给开啊？（无恶意就是疑问，我不太懂这些"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-02-16T15:27:54.000Z",
+        "description": "本不一定什么时候就没，请添加下方网址的telegram频道以获得持续更新。\n以禁毒、法律教育及损害减少（harm reduction）为目的，通过非世俗及去道德的理念，追求真实的知识与反馈。除替代为目的，部分良性物质，以及特殊情况下的损害减少，不推荐任何人摄入我提及的物质。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/XDrugLab",
+                "end": 23,
+                "expanded_url": "https://t.me/XDrugLab",
+                "start": 0,
+                "url": "https://t.co/KMcpbSmDcL"
+              }
+            ]
+          }
+        },
+        "id": "3022697779",
+        "name": "药物实验室",
+        "pinned_tweet_id": "1861564676557152611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854259369203879954/nxgmCDHX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11831,
+          "following_count": 18,
+          "like_count": 12,
+          "listed_count": 10,
+          "media_count": 22,
+          "tweet_count": 650
+        },
+        "url": "https://t.co/KMcpbSmDcL",
+        "username": "RXdruglab",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-21T06:23:25.000Z",
+        "description": "➕v50r（乱七八糟生活居多）其实是看好多人都搞这个，闲来无事那我也写一个…",
+        "id": "1870354309013233667",
+        "name": "猫猫橘",
+        "pinned_tweet_id": "1888264414329294911",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885998652780683264/s_32cTRO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 59,
+          "like_count": 1243,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 236
+        },
+        "username": "HuoHyde",
+        "verified": false
+      }
+    ]
+  }
+}

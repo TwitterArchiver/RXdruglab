@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "3022697779",
+    "conversation_id": "1899797598640193647",
+    "created_at": "2026-02-26T14:03:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-26T15:03:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027021612328075409"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "955686752940834816",
+          "start": 0,
+          "username": "QIANsleep777"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027021612328075409",
+    "in_reply_to_user_id": "955686752940834816",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026991887815737839",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@QIANsleep777 不知道，看平时吃的量，很难说。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3022697779",
+        "conversation_id": "1899797598640193647",
+        "created_at": "2026-02-26T14:03:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T15:03:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027021612328075409"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "955686752940834816",
+              "start": 0,
+              "username": "QIANsleep777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027021612328075409",
+        "in_reply_to_user_id": "955686752940834816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026991887815737839",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QIANsleep777 不知道，看平时吃的量，很难说。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "955686752940834816",
+        "conversation_id": "1899797598640193647",
+        "created_at": "2026-02-26T12:05:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T13:05:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026991887815737839"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "3022697779",
+              "start": 0,
+              "username": "RXdruglab"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026991887815737839",
+        "in_reply_to_user_id": "3022697779",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1899797598640193647",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RXdruglab 您好 我明天要做右美的发检 我今天紧急漂了个头发漂成白金色 请问一下还能查出来吗 我跟社区说上周遵医嘱服用了一段时间愈美片"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-02-16T15:27:54.000Z",
+        "description": "本不一定什么时候就没，请添加下方网址的telegram频道以获得持续更新。\n以禁毒、法律教育及损害减少（harm reduction）为目的，通过非世俗及去道德的理念，追求真实的知识与反馈。除替代为目的，部分良性物质，以及特殊情况下的损害减少，不推荐任何人摄入我提及的物质。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/XDrugLab",
+                "end": 23,
+                "expanded_url": "https://t.me/XDrugLab",
+                "start": 0,
+                "url": "https://t.co/KMcpbSmDcL"
+              }
+            ]
+          }
+        },
+        "id": "3022697779",
+        "name": "药物实验室",
+        "pinned_tweet_id": "1917542345039569145",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854259369203879954/nxgmCDHX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19058,
+          "following_count": 16,
+          "like_count": 31,
+          "listed_count": 23,
+          "media_count": 53,
+          "tweet_count": 1561
+        },
+        "url": "https://t.co/KMcpbSmDcL",
+        "username": "RXdruglab",
+        "verified": false
+      },
+      {
+        "created_at": "2018-01-23T06:20:52.000Z",
+        "description": "ようこそボクの感情のゴミ箱！ 恋人:@Ange_Katrina_ と@midori_2434 神様:@jam_madmed",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 18,
+                "username": "Ange_Katrina_"
+              },
+              {
+                "end": 46,
+                "start": 34,
+                "username": "midori_2434"
+              },
+              {
+                "end": 61,
+                "start": 50,
+                "username": "jam_madmed"
+              }
+            ]
+          }
+        },
+        "id": "955686752940834816",
+        "location": "天堂",
+        "name": "蜜柑アレルギー",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1682476037429686272/TmKnOSIa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 490,
+          "like_count": 8226,
+          "listed_count": 2,
+          "media_count": 235,
+          "tweet_count": 4934
+        },
+        "username": "QIANsleep777",
+        "verified": false
+      }
+    ]
+  }
+}

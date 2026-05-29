@@ -1,0 +1,324 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "3022697779",
+    "conversation_id": "2037690987544486231",
+    "created_at": "2026-03-28T02:28:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-28T03:28:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037718532616777818"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2782258568",
+          "start": 0,
+          "username": "Iloveusa1776"
+        },
+        {
+          "end": 30,
+          "id": "1329318377475633154",
+          "start": 14,
+          "username": "fogehsjJceuUcen"
+        },
+        {
+          "end": 43,
+          "id": "1181432497126555648",
+          "start": 31,
+          "username": "LeeJunHao11"
+        },
+        {
+          "end": 58,
+          "id": "1072109417200414720",
+          "start": 44,
+          "username": "wangzhian8848"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037718532616777818",
+    "in_reply_to_user_id": "2782258568",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037706323228508240",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Iloveusa1776 @fogehsjJceuUcen @LeeJunHao11 @wangzhian8848 你要觉得不好你就去改变它，你所在的地方，就是马来西亚。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3022697779",
+        "conversation_id": "2037690987544486231",
+        "created_at": "2026-03-28T02:28:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T03:28:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037718532616777818"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2782258568",
+              "start": 0,
+              "username": "Iloveusa1776"
+            },
+            {
+              "end": 30,
+              "id": "1329318377475633154",
+              "start": 14,
+              "username": "fogehsjJceuUcen"
+            },
+            {
+              "end": 43,
+              "id": "1181432497126555648",
+              "start": 31,
+              "username": "LeeJunHao11"
+            },
+            {
+              "end": 58,
+              "id": "1072109417200414720",
+              "start": 44,
+              "username": "wangzhian8848"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037718532616777818",
+        "in_reply_to_user_id": "2782258568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037706323228508240",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Iloveusa1776 @fogehsjJceuUcen @LeeJunHao11 @wangzhian8848 你要觉得不好你就去改变它，你所在的地方，就是马来西亚。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2782258568",
+        "conversation_id": "2037690987544486231",
+        "created_at": "2026-03-28T01:40:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T02:40:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037706323228508240"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1329318377475633154",
+              "start": 0,
+              "username": "fogehsjJceuUcen"
+            },
+            {
+              "end": 29,
+              "id": "1181432497126555648",
+              "start": 17,
+              "username": "LeeJunHao11"
+            },
+            {
+              "end": 44,
+              "id": "1072109417200414720",
+              "start": 30,
+              "username": "wangzhian8848"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037706323228508240",
+        "in_reply_to_user_id": "1329318377475633154",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 118,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037701658172657984",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fogehsjJceuUcen @LeeJunHao11 @wangzhian8848 被逼獨立"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-02-16T15:27:54.000Z",
+        "description": "本不一定什么时候就没，请添加下方网址的telegram频道以获得持续更新。\n以禁毒、法律教育及损害减少（harm reduction）为目的，通过非世俗及去道德的理念，追求真实的知识与反馈。除替代为目的，部分良性物质，以及特殊情况下的损害减少，不推荐任何人摄入我提及的物质。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/XDrugLab",
+                "end": 23,
+                "expanded_url": "https://t.me/XDrugLab",
+                "start": 0,
+                "url": "https://t.co/KMcpbSmDcL"
+              }
+            ]
+          }
+        },
+        "id": "3022697779",
+        "name": "药物实验室",
+        "pinned_tweet_id": "1917542345039569145",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854259369203879954/nxgmCDHX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19017,
+          "following_count": 16,
+          "like_count": 35,
+          "listed_count": 23,
+          "media_count": 53,
+          "tweet_count": 1643
+        },
+        "url": "https://t.co/KMcpbSmDcL",
+        "username": "RXdruglab",
+        "verified": false
+      },
+      {
+        "created_at": "2014-08-31T13:02:52.000Z",
+        "description": "憂國",
+        "id": "2782258568",
+        "location": "Oakland, CA",
+        "name": "jim ca",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/506064997533749248/TROHQ6Ly_normal.jpeg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 96,
+          "following_count": 215,
+          "like_count": 1263,
+          "listed_count": 2,
+          "media_count": 19,
+          "tweet_count": 2491
+        },
+        "username": "Iloveusa1776",
+        "verified": false
+      },
+      {
+        "created_at": "2020-11-19T06:59:42.000Z",
+        "description": "",
+        "id": "1329318377475633154",
+        "location": "美国",
+        "name": "日本小粉红🇺🇸",
+        "pinned_tweet_id": "1918063221715681529",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877351710605324290/FSA8GWth_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 196,
+          "following_count": 365,
+          "like_count": 21781,
+          "listed_count": 8,
+          "media_count": 163,
+          "tweet_count": 6466
+        },
+        "username": "fogehsjJceuUcen",
+        "verified": false
+      },
+      {
+        "created_at": "2019-10-08T04:54:06.000Z",
+        "description": "",
+        "id": "1181432497126555648",
+        "name": "前往落锤的抓根宝",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1768867521447514112/eV9wdd7d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 69,
+          "like_count": 4640,
+          "listed_count": 1,
+          "media_count": 25,
+          "tweet_count": 1492
+        },
+        "username": "LeeJunHao11",
+        "verified": false
+      },
+      {
+        "created_at": "2018-12-10T12:42:58.000Z",
+        "description": "调查记者，主持人。油管频道地址：https://t.co/WfO3vZ0ygY?amp=1，Facebook地址：https://t.co/QO4mprdzUL，TikTok地址：https://t.co/chl5sh7Cfa",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "end": 23,
+                "start": 0,
+                "url": "https://t.co/DrbI80kqkz"
+              }
+            ]
+          }
+        },
+        "id": "1072109417200414720",
+        "name": "王局志安",
+        "pinned_tweet_id": "1876486307205251482",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1527433965824802816/PgXCsVL6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1494574,
+          "following_count": 662,
+          "like_count": 1260,
+          "listed_count": 4059,
+          "media_count": 6911,
+          "tweet_count": 20077
+        },
+        "url": "https://t.co/DrbI80kqkz",
+        "username": "wangzhian8848",
+        "verified": true
+      }
+    ]
+  }
+}

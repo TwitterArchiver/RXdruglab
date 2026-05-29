@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "3022697779",
+    "conversation_id": "1970067017987510764",
+    "created_at": "2025-09-22T18:52:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-22T19:52:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1970199630983151916"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1608413813648527360",
+          "start": 0,
+          "username": "Cano_3118"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1970199630983151916",
+    "in_reply_to_user_id": "1608413813648527360",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1970195334094786612",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cano_3118 傻逼呗。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3022697779",
+        "conversation_id": "1970067017987510764",
+        "created_at": "2025-09-22T18:52:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-22T19:52:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1970199630983151916"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1608413813648527360",
+              "start": 0,
+              "username": "Cano_3118"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970199630983151916",
+        "in_reply_to_user_id": "1608413813648527360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970195334094786612",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cano_3118 傻逼呗。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1608413813648527360",
+        "conversation_id": "1970067017987510764",
+        "created_at": "2025-09-22T18:35:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-22T19:35:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1970195334094786612"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "3022697779",
+              "start": 0,
+              "username": "RXdruglab"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970195334094786612",
+        "in_reply_to_user_id": "3022697779",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970067017987510764",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RXdruglab 怎么到处都是卖思诺思被抓的\n都已经这么多人被抓了还怎么敢卖的啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-02-16T15:27:54.000Z",
+        "description": "本不一定什么时候就没，请添加下方网址的telegram频道以获得持续更新。\n以禁毒、法律教育及损害减少（harm reduction）为目的，通过非世俗及去道德的理念，追求真实的知识与反馈。除替代为目的，部分良性物质，以及特殊情况下的损害减少，不推荐任何人摄入我提及的物质。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/XDrugLab",
+                "end": 23,
+                "expanded_url": "https://t.me/XDrugLab",
+                "start": 0,
+                "url": "https://t.co/KMcpbSmDcL"
+              }
+            ]
+          }
+        },
+        "id": "3022697779",
+        "name": "药物实验室",
+        "pinned_tweet_id": "1917542345039569145",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854259369203879954/nxgmCDHX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16024,
+          "following_count": 18,
+          "like_count": 38,
+          "listed_count": 17,
+          "media_count": 50,
+          "tweet_count": 1222
+        },
+        "url": "https://t.co/KMcpbSmDcL",
+        "username": "RXdruglab",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-29T10:45:23.000Z",
+        "description": "当难眠的人，与假寐的人，在永无回响的梦里同归于尽 。配偶 @silicium_28",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 29,
+                "username": "silicium_28"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "almswt.top",
+                "end": 23,
+                "expanded_url": "http://almswt.top",
+                "start": 0,
+                "url": "https://t.co/tHoF3q7r6k"
+              }
+            ]
+          }
+        },
+        "id": "1608413813648527360",
+        "location": "你的后面",
+        "name": "卡诺酱",
+        "pinned_tweet_id": "1901160571510419748",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896178424710139904/As9mJeZf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 866,
+          "following_count": 910,
+          "like_count": 26237,
+          "listed_count": 2,
+          "media_count": 402,
+          "tweet_count": 5362
+        },
+        "url": "https://t.co/tHoF3q7r6k",
+        "username": "Cano_3118",
+        "verified": false
+      }
+    ]
+  }
+}

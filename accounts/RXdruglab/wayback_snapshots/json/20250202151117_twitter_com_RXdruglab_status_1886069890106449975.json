@@ -1,0 +1,301 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "3022697779",
+    "conversation_id": "1886069890106449975",
+    "created_at": "2025-02-02T15:11:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-02T16:11:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1886069890106449975"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1638893284218261504",
+          "start": 3,
+          "username": "Benzyl_titanium"
+        }
+      ],
+      "urls": [
+        {
+          "description": "麻醉药品目录，第一类精神药品目录，第二类精神药品目录，非药用类麻醉药品和精神药品管制品种增补目录结构式 - Benzyl-titanium/Structural-formula",
+          "display_url": "github.com/Benzyl-titaniu…",
+          "end": 88,
+          "expanded_url": "https://github.com/Benzyl-titanium/Structural-formula",
+          "images": [
+            {
+              "height": 600,
+              "url": "https://pbs.twimg.com/news_img/1886069604864368640/vtPL4JMX?format=jpg&name=orig",
+              "width": 1200
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/1886069604864368640/vtPL4JMX?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 65,
+          "status": 200,
+          "title": "GitHub - Benzyl-titanium/Structural-formula: 麻醉药品目录，第一类精神药品目录，第二类精神药品目录，非药用类麻醉药品和精神药品管制品种增补目录结构式",
+          "unwound_url": "https://github.com/Benzyl-titanium/Structural-formula",
+          "url": "https://t.co/bbtloBOibG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1886069890106449975",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1886069561646285238",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Benzyl_titanium: 中国全部的管制药品的英文名称和结构式图片,chemdraw和kingdraw的结构式文件https://t.co/bbtloBOibG"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3022697779",
+        "conversation_id": "1886069890106449975",
+        "created_at": "2025-02-02T15:11:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-02T16:11:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1886069890106449975"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1638893284218261504",
+              "start": 3,
+              "username": "Benzyl_titanium"
+            }
+          ],
+          "urls": [
+            {
+              "description": "麻醉药品目录，第一类精神药品目录，第二类精神药品目录，非药用类麻醉药品和精神药品管制品种增补目录结构式 - Benzyl-titanium/Structural-formula",
+              "display_url": "github.com/Benzyl-titaniu…",
+              "end": 88,
+              "expanded_url": "https://github.com/Benzyl-titanium/Structural-formula",
+              "images": [
+                {
+                  "height": 600,
+                  "url": "https://pbs.twimg.com/news_img/1886069604864368640/vtPL4JMX?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1886069604864368640/vtPL4JMX?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 65,
+              "status": 200,
+              "title": "GitHub - Benzyl-titanium/Structural-formula: 麻醉药品目录，第一类精神药品目录，第二类精神药品目录，非药用类麻醉药品和精神药品管制品种增补目录结构式",
+              "unwound_url": "https://github.com/Benzyl-titanium/Structural-formula",
+              "url": "https://t.co/bbtloBOibG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886069890106449975",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1886069561646285238",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Benzyl_titanium: 中国全部的管制药品的英文名称和结构式图片,chemdraw和kingdraw的结构式文件https://t.co/bbtloBOibG"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1638893284218261504",
+        "conversation_id": "1886069561646285238",
+        "created_at": "2025-02-02T15:09:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-02T16:09:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1886069561646285238"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "麻醉药品目录，第一类精神药品目录，第二类精神药品目录，非药用类麻醉药品和精神药品管制品种增补目录结构式 - Benzyl-titanium/Structural-formula",
+              "display_url": "github.com/Benzyl-titaniu…",
+              "end": 67,
+              "expanded_url": "https://github.com/Benzyl-titanium/Structural-formula",
+              "images": [
+                {
+                  "height": 600,
+                  "url": "https://pbs.twimg.com/news_img/1886069604864368640/vtPL4JMX?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1886069604864368640/vtPL4JMX?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 44,
+              "status": 200,
+              "title": "GitHub - Benzyl-titanium/Structural-formula: 麻醉药品目录，第一类精神药品目录，第二类精神药品目录，非药用类麻醉药品和精神药品管制品种增补目录结构式",
+              "unwound_url": "https://github.com/Benzyl-titanium/Structural-formula",
+              "url": "https://t.co/bbtloBOibG"
+            },
+            {
+              "display_url": "x.com/RXdruglab/stat…",
+              "end": 91,
+              "expanded_url": "https://twitter.com/RXdruglab/status/1882092178371199401",
+              "start": 68,
+              "url": "https://t.co/SLnMfJ2qeN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886069561646285238",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1882092178371199401",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "中国全部的管制药品的英文名称和结构式图片,chemdraw和kingdraw的结构式文件https://t.co/bbtloBOibG https://t.co/SLnMfJ2qeN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-02-16T15:27:54.000Z",
+        "description": "本不一定什么时候就没，请添加下方网址的telegram频道以获得持续更新。\n以禁毒、法律教育及损害减少（harm reduction）为目的，通过非世俗及去道德的理念，追求真实的知识与反馈。除替代为目的，部分良性物质，以及特殊情况下的损害减少，不推荐任何人摄入我提及的物质。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/XDrugLab",
+                "end": 23,
+                "expanded_url": "https://t.me/XDrugLab",
+                "start": 0,
+                "url": "https://t.co/KMcpbSmDcL"
+              }
+            ]
+          }
+        },
+        "id": "3022697779",
+        "name": "药物实验室",
+        "pinned_tweet_id": "1861564676557152611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854259369203879954/nxgmCDHX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10622,
+          "following_count": 16,
+          "like_count": 11,
+          "listed_count": 11,
+          "media_count": 22,
+          "tweet_count": 609
+        },
+        "url": "https://t.co/KMcpbSmDcL",
+        "username": "RXdruglab",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-23T13:19:49.000Z",
+        "description": "Tetrabenzyl titanium 四苄基钛 @sibianjitai 苄钛 死变态 mtf 无证不含🍥 Fuck Organic Chemistry 友姬花穴 喜欢研究药物化学,有机合成,精神药理学,网络药理学,计算机辅助药物设计",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 26,
+                "username": "sibianjitai"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "benzyl-titanium.pages.dev",
+                "end": 23,
+                "expanded_url": "https://benzyl-titanium.pages.dev/",
+                "start": 0,
+                "url": "https://t.co/gbEi4JVXn5"
+              }
+            ]
+          }
+        },
+        "id": "1638893284218261504",
+        "name": "Benzyl titanium",
+        "pinned_tweet_id": "1689695640509435907",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1843324662987780096/d7hU3bqB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1221,
+          "following_count": 518,
+          "like_count": 8301,
+          "listed_count": 4,
+          "media_count": 278,
+          "tweet_count": 1732
+        },
+        "url": "https://t.co/gbEi4JVXn5",
+        "username": "Benzyl_titanium",
+        "verified": false
+      }
+    ]
+  }
+}

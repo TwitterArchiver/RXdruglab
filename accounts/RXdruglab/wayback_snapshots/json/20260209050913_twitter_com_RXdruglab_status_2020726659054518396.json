@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "3022697779",
+    "conversation_id": "2020349143848284204",
+    "created_at": "2026-02-09T05:09:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-09T06:09:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020726659054518396"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1156795720567054338",
+          "start": 0,
+          "username": "plzshutuq"
+        },
+        {
+          "end": 27,
+          "id": "839543419072499712",
+          "start": 11,
+          "username": "xYsfknBXPT6M0jo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020726659054518396",
+    "in_reply_to_user_id": "1156795720567054338",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020379461745827891",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@plzshutuq @xYsfknBXPT6M0jo 差不多是那个意思，但是也真不到哪儿去。大概相当于说喝水能让皮肤更好，因为皮肤需要水分滋润，大概好像也说的通，也确实是那么回事，但实际上没啥实际用处。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3022697779",
+        "conversation_id": "2020349143848284204",
+        "created_at": "2026-02-09T05:09:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T06:09:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020726659054518396"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1156795720567054338",
+              "start": 0,
+              "username": "plzshutuq"
+            },
+            {
+              "end": 27,
+              "id": "839543419072499712",
+              "start": 11,
+              "username": "xYsfknBXPT6M0jo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020726659054518396",
+        "in_reply_to_user_id": "1156795720567054338",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020379461745827891",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@plzshutuq @xYsfknBXPT6M0jo 差不多是那个意思，但是也真不到哪儿去。大概相当于说喝水能让皮肤更好，因为皮肤需要水分滋润，大概好像也说的通，也确实是那么回事，但实际上没啥实际用处。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1156795720567054338",
+        "conversation_id": "2020349143848284204",
+        "created_at": "2026-02-08T06:09:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-08T07:09:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020379461745827891"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "839543419072499712",
+              "start": 0,
+              "username": "xYsfknBXPT6M0jo"
+            },
+            {
+              "end": 27,
+              "id": "3022697779",
+              "start": 17,
+              "username": "RXdruglab"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020379461745827891",
+        "in_reply_to_user_id": "839543419072499712",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 113,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020349143848284204",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xYsfknBXPT6M0jo @RXdruglab"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-02-16T15:27:54.000Z",
+        "description": "本不一定什么时候就没，请添加下方网址的telegram频道以获得持续更新。\n以禁毒、法律教育及损害减少（harm reduction）为目的，通过非世俗及去道德的理念，追求真实的知识与反馈。除替代为目的，部分良性物质，以及特殊情况下的损害减少，不推荐任何人摄入我提及的物质。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/XDrugLab",
+                "end": 23,
+                "expanded_url": "https://t.me/XDrugLab",
+                "start": 0,
+                "url": "https://t.co/KMcpbSmDcL"
+              }
+            ]
+          }
+        },
+        "id": "3022697779",
+        "name": "药物实验室",
+        "pinned_tweet_id": "1917542345039569145",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854259369203879954/nxgmCDHX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17334,
+          "following_count": 17,
+          "like_count": 32,
+          "listed_count": 20,
+          "media_count": 52,
+          "tweet_count": 1507
+        },
+        "url": "https://t.co/KMcpbSmDcL",
+        "username": "RXdruglab",
+        "verified": false
+      },
+      {
+        "created_at": "2019-08-01T05:16:06.000Z",
+        "description": "不知道反正我的身材很曼妙",
+        "id": "1156795720567054338",
+        "name": "爱玩智能手机",
+        "pinned_tweet_id": "1998996092269244847",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999773704948191232/KxX7pfJw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 268,
+          "following_count": 69,
+          "like_count": 734,
+          "listed_count": 1,
+          "media_count": 55,
+          "tweet_count": 87
+        },
+        "username": "plzshutuq",
+        "verified": false
+      },
+      {
+        "created_at": "2017-03-08T18:28:43.000Z",
+        "description": "我自悠悠立清格",
+        "id": "839543419072499712",
+        "location": "East Region, Singapore",
+        "name": "宇峒",
+        "pinned_tweet_id": "1618857040704864256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1690945607844900864/NXyXyBYn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36565,
+          "following_count": 5867,
+          "like_count": 64671,
+          "listed_count": 120,
+          "media_count": 5827,
+          "tweet_count": 45394
+        },
+        "username": "xYsfknBXPT6M0jo",
+        "verified": true
+      }
+    ]
+  }
+}

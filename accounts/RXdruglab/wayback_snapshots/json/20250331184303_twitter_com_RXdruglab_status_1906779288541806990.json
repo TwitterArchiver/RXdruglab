@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "3022697779",
+    "conversation_id": "1906776159880421859",
+    "created_at": "2025-03-31T18:43:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-31T19:43:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1906779288541806990"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1826536169800437760",
+          "start": 0,
+          "username": "SQ100722"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1906779288541806990",
+    "in_reply_to_user_id": "1826536169800437760",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1906778236581024130",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SQ100722 我不认为mect是恰当的，我觉得你的精分情况可能更严重，你的抑郁问题是精分及性格还有人际关系带来的。你需要解决精分的问题。\n但是这些还需要具体的诊断，正如我之前所说，我对低龄的这个判断不好，因为年龄较低，很多疾病没有发病，一般要到高中才会开始。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3022697779",
+        "conversation_id": "1906776159880421859",
+        "created_at": "2025-03-31T18:43:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-31T19:43:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1906779288541806990"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1826536169800437760",
+              "start": 0,
+              "username": "SQ100722"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1906779288541806990",
+        "in_reply_to_user_id": "1826536169800437760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1906778236581024130",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SQ100722 我不认为mect是恰当的，我觉得你的精分情况可能更严重，你的抑郁问题是精分及性格还有人际关系带来的。你需要解决精分的问题。\n但是这些还需要具体的诊断，正如我之前所说，我对低龄的这个判断不好，因为年龄较低，很多疾病没有发病，一般要到高中才会开始。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826536169800437760",
+        "conversation_id": "1906776159880421859",
+        "created_at": "2025-03-31T18:38:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-31T19:38:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1906778236581024130"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "3022697779",
+              "start": 0,
+              "username": "RXdruglab"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1906778236581024130",
+        "in_reply_to_user_id": "3022697779",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1906778101301817856",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RXdruglab 上个月一次性吃完进ICU了 然后就没去开过了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-02-16T15:27:54.000Z",
+        "description": "本不一定什么时候就没，请添加下方网址的telegram频道以获得持续更新。\n以禁毒、法律教育及损害减少（harm reduction）为目的，通过非世俗及去道德的理念，追求真实的知识与反馈。除替代为目的，部分良性物质，以及特殊情况下的损害减少，不推荐任何人摄入我提及的物质。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/XDrugLab",
+                "end": 23,
+                "expanded_url": "https://t.me/XDrugLab",
+                "start": 0,
+                "url": "https://t.co/KMcpbSmDcL"
+              }
+            ]
+          }
+        },
+        "id": "3022697779",
+        "name": "药物实验室",
+        "pinned_tweet_id": "1861564676557152611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854259369203879954/nxgmCDHX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14347,
+          "following_count": 16,
+          "like_count": 20,
+          "listed_count": 11,
+          "media_count": 29,
+          "tweet_count": 854
+        },
+        "url": "https://t.co/KMcpbSmDcL",
+        "username": "RXdruglab",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-22T08:25:55.000Z",
+        "description": "男的/10♋️/视奸所有人/死猪/阳痿/早泄/里@pharaoh420_sq/提问箱https://t.co/8dQBjNETw8",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 24,
+                "username": "pharaoh420_sq"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/sq27272727",
+                "end": 65,
+                "expanded_url": "https://ngl.link/sq27272727",
+                "start": 42,
+                "url": "https://t.co/8dQBjNETw8"
+              }
+            ]
+          }
+        },
+        "id": "1826536169800437760",
+        "location": "镇海区公园",
+        "name": "2727_SQ",
+        "pinned_tweet_id": "1893573240221770112",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882110769422381056/eqSREqGh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 409,
+          "following_count": 650,
+          "like_count": 18847,
+          "listed_count": 0,
+          "media_count": 466,
+          "tweet_count": 2213
+        },
+        "username": "SQ100722",
+        "verified": false
+      }
+    ]
+  }
+}

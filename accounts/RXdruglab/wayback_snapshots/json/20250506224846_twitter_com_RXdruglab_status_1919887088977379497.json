@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "3022697779",
+    "conversation_id": "1919887088977379497",
+    "created_at": "2025-05-06T22:48:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-06T23:48:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1919887088977379497"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/kansj68531/sta…",
+          "end": 60,
+          "expanded_url": "https://twitter.com/kansj68531/status/1907251008314687503",
+          "start": 37,
+          "url": "https://t.co/av2D8hpWMM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1919887088977379497",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1907251008314687503",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我爱她，连同她饱经世故的天真，连同她对我的厌恶，连同她离开我选择了别人。 https://t.co/av2D8hpWMM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_1907251000244944896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gnfqrf8bwAAiL45.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3022697779",
+        "conversation_id": "1919887088977379497",
+        "created_at": "2025-05-06T22:48:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-06T23:48:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1919887088977379497"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kansj68531/sta…",
+              "end": 60,
+              "expanded_url": "https://twitter.com/kansj68531/status/1907251008314687503",
+              "start": 37,
+              "url": "https://t.co/av2D8hpWMM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919887088977379497",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1907251008314687503",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我爱她，连同她饱经世故的天真，连同她对我的厌恶，连同她离开我选择了别人。 https://t.co/av2D8hpWMM"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1907251000244944896"
+          ]
+        },
+        "author_id": "1699445300950093824",
+        "conversation_id": "1907251008314687503",
+        "created_at": "2025-04-02T01:57:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-02T02:57:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1907251008314687503"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/D9DALgsq1Z",
+              "end": 69,
+              "expanded_url": "https://x.com/kansj68531/status/1907251008314687503/photo/1",
+              "media_key": "3_1907251000244944896",
+              "start": 46,
+              "url": "https://t.co/D9DALgsq1Z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907251008314687503",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 30732,
+          "like_count": 138,
+          "quote_count": 2,
+          "reply_count": 16,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "时间根本不能冲淡痛苦啊，它会稀释在我生活的每一处，无时不刻提醒我刺痛我。受不了，太折磨了。 https://t.co/D9DALgsq1Z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-02-16T15:27:54.000Z",
+        "description": "本不一定什么时候就没，请添加下方网址的telegram频道以获得持续更新。\n以禁毒、法律教育及损害减少（harm reduction）为目的，通过非世俗及去道德的理念，追求真实的知识与反馈。除替代为目的，部分良性物质，以及特殊情况下的损害减少，不推荐任何人摄入我提及的物质。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/XDrugLab",
+                "end": 23,
+                "expanded_url": "https://t.me/XDrugLab",
+                "start": 0,
+                "url": "https://t.co/KMcpbSmDcL"
+              }
+            ]
+          }
+        },
+        "id": "3022697779",
+        "name": "药物实验室",
+        "pinned_tweet_id": "1917542345039569145",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854259369203879954/nxgmCDHX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14861,
+          "following_count": 18,
+          "like_count": 24,
+          "listed_count": 12,
+          "media_count": 40,
+          "tweet_count": 975
+        },
+        "url": "https://t.co/KMcpbSmDcL",
+        "username": "RXdruglab",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-06T15:31:58.000Z",
+        "description": "药圈第一个地雷女科普系博主，会回复用药咨询，想聊天请过🚪。",
+        "id": "1699445300950093824",
+        "location": "Macau",
+        "name": "林讨厌你",
+        "pinned_tweet_id": "1907251008314687503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908615592078434304/ofFo_Pzi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4804,
+          "following_count": 61,
+          "like_count": 749,
+          "listed_count": 10,
+          "media_count": 12,
+          "tweet_count": 34
+        },
+        "username": "kansj68531",
+        "verified": false
+      }
+    ]
+  }
+}

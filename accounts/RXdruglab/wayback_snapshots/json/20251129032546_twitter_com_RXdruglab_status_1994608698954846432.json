@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "3022697779",
+    "conversation_id": "1994415911143641373",
+    "created_at": "2025-11-29T03:25:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-29T04:25:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994608698954846432"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1099717860996325376",
+          "start": 0,
+          "username": "FlyingH04730458"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994608698954846432",
+    "in_reply_to_user_id": "1099717860996325376",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994601428539904156",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FlyingH04730458 倒也不是囤几年，有些药一年也吃不了两次，比如我买的一盒达菲已经放了三年了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3022697779",
+        "conversation_id": "1994415911143641373",
+        "created_at": "2025-11-29T03:25:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T04:25:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994608698954846432"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1099717860996325376",
+              "start": 0,
+              "username": "FlyingH04730458"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994608698954846432",
+        "in_reply_to_user_id": "1099717860996325376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994601428539904156",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FlyingH04730458 倒也不是囤几年，有些药一年也吃不了两次，比如我买的一盒达菲已经放了三年了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1099717860996325376",
+        "conversation_id": "1994415911143641373",
+        "created_at": "2025-11-29T02:56:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T03:56:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994601428539904156"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "3022697779",
+              "start": 0,
+              "username": "RXdruglab"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994601428539904156",
+        "in_reply_to_user_id": "3022697779",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 34,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994415911143641373",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RXdruglab 普通人就看好保质期呗。管理严格的话处方类药也囤不了，非处方药也没有囤几年的必要"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-02-16T15:27:54.000Z",
+        "description": "本不一定什么时候就没，请添加下方网址的telegram频道以获得持续更新。\n以禁毒、法律教育及损害减少（harm reduction）为目的，通过非世俗及去道德的理念，追求真实的知识与反馈。除替代为目的，部分良性物质，以及特殊情况下的损害减少，不推荐任何人摄入我提及的物质。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/XDrugLab",
+                "end": 23,
+                "expanded_url": "https://t.me/XDrugLab",
+                "start": 0,
+                "url": "https://t.co/KMcpbSmDcL"
+              }
+            ]
+          }
+        },
+        "id": "3022697779",
+        "name": "药物实验室",
+        "pinned_tweet_id": "1917542345039569145",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854259369203879954/nxgmCDHX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16379,
+          "following_count": 18,
+          "like_count": 22,
+          "listed_count": 20,
+          "media_count": 53,
+          "tweet_count": 1349
+        },
+        "url": "https://t.co/KMcpbSmDcL",
+        "username": "RXdruglab",
+        "verified": false
+      },
+      {
+        "created_at": "2019-02-24T17:09:04.000Z",
+        "description": "只有谎言是不许质疑的。如果相信地平说就要被烧死，那地球是圆的就只是一个巧合，而非真理。如果质疑美国登月要因叛国罪坐牢，那登月就一定只是一场骗局。质疑的存在不是否定了真相，反而是真相之所以为真相的最佳注脚。",
+        "id": "1099717860996325376",
+        "location": "United Kingdom",
+        "name": "FlyingHorse",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1600226162218831893/BcPHJmD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 310,
+          "following_count": 168,
+          "like_count": 78362,
+          "listed_count": 4,
+          "media_count": 390,
+          "tweet_count": 27169
+        },
+        "username": "FlyingH04730458",
+        "verified": false
+      }
+    ]
+  }
+}

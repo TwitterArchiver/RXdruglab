@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "3022697779",
+    "conversation_id": "1918990921980359079",
+    "created_at": "2025-05-04T14:44:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-04T15:44:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1919040387714585072"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1797292126662987776",
+          "start": 0,
+          "username": "BrokenUtopia896"
+        },
+        {
+          "end": 33,
+          "id": "937460143910014976",
+          "start": 17,
+          "username": "Someonesxiaohao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1919040387714585072",
+    "in_reply_to_user_id": "1797292126662987776",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1919039664255832216",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BrokenUtopia896 @Someonesxiaohao 也可以，但是不如我这个组合效果好。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3022697779",
+        "conversation_id": "1918990921980359079",
+        "created_at": "2025-05-04T14:44:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-04T15:44:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1919040387714585072"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1797292126662987776",
+              "start": 0,
+              "username": "BrokenUtopia896"
+            },
+            {
+              "end": 33,
+              "id": "937460143910014976",
+              "start": 17,
+              "username": "Someonesxiaohao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919040387714585072",
+        "in_reply_to_user_id": "1797292126662987776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1919039664255832216",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BrokenUtopia896 @Someonesxiaohao 也可以，但是不如我这个组合效果好。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1797292126662987776",
+        "conversation_id": "1918990921980359079",
+        "created_at": "2025-05-04T14:41:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-04T15:41:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1919039664255832216"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "937460143910014976",
+              "start": 0,
+              "username": "Someonesxiaohao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919039664255832216",
+        "in_reply_to_user_id": "937460143910014976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1918990921980359079",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Someonesxiaohao 加兰他敏可以用吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-02-16T15:27:54.000Z",
+        "description": "本不一定什么时候就没，请添加下方网址的telegram频道以获得持续更新。\n以禁毒、法律教育及损害减少（harm reduction）为目的，通过非世俗及去道德的理念，追求真实的知识与反馈。除替代为目的，部分良性物质，以及特殊情况下的损害减少，不推荐任何人摄入我提及的物质。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/XDrugLab",
+                "end": 23,
+                "expanded_url": "https://t.me/XDrugLab",
+                "start": 0,
+                "url": "https://t.co/KMcpbSmDcL"
+              }
+            ]
+          }
+        },
+        "id": "3022697779",
+        "name": "药物实验室",
+        "pinned_tweet_id": "1917542345039569145",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854259369203879954/nxgmCDHX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14795,
+          "following_count": 18,
+          "like_count": 26,
+          "listed_count": 12,
+          "media_count": 39,
+          "tweet_count": 960
+        },
+        "url": "https://t.co/KMcpbSmDcL",
+        "username": "RXdruglab",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-02T15:41:21.000Z",
+        "description": "策划药代理出售 | 吉他 | rock |🌈⃤ |梦想是成为rock star | 粪蛆走开",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/fantasiesbeyon…",
+                "end": 23,
+                "expanded_url": "https://t.me/fantasiesbeyondhumanity",
+                "start": 0,
+                "url": "https://t.co/p7EunRwA0Y"
+              }
+            ]
+          }
+        },
+        "id": "1797292126662987776",
+        "location": "乌托邦",
+        "name": "̶破̶碎̶乌̶托̶邦̶ - ℬ𝓇𝑜𝓀𝑒𝓃 𝒰𝓉𝑜𝓅𝒾𝒶 🎸🔪🕷",
+        "pinned_tweet_id": "1897116026086846713",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899382090745208832/mn2i3B_4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 709,
+          "following_count": 1394,
+          "like_count": 14534,
+          "listed_count": 0,
+          "media_count": 281,
+          "tweet_count": 4410
+        },
+        "url": "https://t.co/p7EunRwA0Y",
+        "username": "BrokenUtopia896",
+        "verified": false
+      },
+      {
+        "created_at": "2017-12-03T23:14:50.000Z",
+        "description": "有购买需求的可以关注。\n防失联可以加主号置顶的telegram频道。",
+        "id": "937460143910014976",
+        "name": "药室销售频道",
+        "pinned_tweet_id": "1880527578190233681",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1891884010948726791/HCvyKg8T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 879,
+          "following_count": 1,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 22
+        },
+        "username": "Someonesxiaohao",
+        "verified": false
+      }
+    ]
+  }
+}

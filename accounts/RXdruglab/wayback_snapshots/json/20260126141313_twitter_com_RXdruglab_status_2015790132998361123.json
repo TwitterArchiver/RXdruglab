@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "3022697779",
+    "conversation_id": "2015787807600726432",
+    "created_at": "2026-01-26T14:13:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-26T15:13:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015790132998361123"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1473227381590487044",
+          "start": 0,
+          "username": "asthewind1936"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015790132998361123",
+    "in_reply_to_user_id": "1473227381590487044",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015789770090349039",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@asthewind1936 有趣的点不在这里，是个人经历有趣。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3022697779",
+        "conversation_id": "2015787807600726432",
+        "created_at": "2026-01-26T14:13:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T15:13:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015790132998361123"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1473227381590487044",
+              "start": 0,
+              "username": "asthewind1936"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015790132998361123",
+        "in_reply_to_user_id": "1473227381590487044",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015789770090349039",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@asthewind1936 有趣的点不在这里，是个人经历有趣。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473227381590487044",
+        "conversation_id": "2015787807600726432",
+        "created_at": "2026-01-26T14:11:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T15:11:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015789770090349039"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "3022697779",
+              "start": 0,
+              "username": "RXdruglab"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015789770090349039",
+        "in_reply_to_user_id": "3022697779",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015787807600726432",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RXdruglab 传说中的“戒酒芯片”近几年在国内开始使用了。汪峰前妻葛荟婕也做这个手术了。作用机制是阿片受体拮抗剂，阻断让你觉得爽的感觉。感觉还是辅助为主，戒酒还是要自己下定决心。。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-02-16T15:27:54.000Z",
+        "description": "本不一定什么时候就没，请添加下方网址的telegram频道以获得持续更新。\n以禁毒、法律教育及损害减少（harm reduction）为目的，通过非世俗及去道德的理念，追求真实的知识与反馈。除替代为目的，部分良性物质，以及特殊情况下的损害减少，不推荐任何人摄入我提及的物质。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/XDrugLab",
+                "end": 23,
+                "expanded_url": "https://t.me/XDrugLab",
+                "start": 0,
+                "url": "https://t.co/KMcpbSmDcL"
+              }
+            ]
+          }
+        },
+        "id": "3022697779",
+        "name": "药物实验室",
+        "pinned_tweet_id": "1917542345039569145",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854259369203879954/nxgmCDHX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17322,
+          "following_count": 18,
+          "like_count": 31,
+          "listed_count": 20,
+          "media_count": 52,
+          "tweet_count": 1486
+        },
+        "url": "https://t.co/KMcpbSmDcL",
+        "username": "RXdruglab",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-21T09:42:40.000Z",
+        "description": "",
+        "id": "1473227381590487044",
+        "name": "skiit",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861286449750122499/WX_nO09S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 458,
+          "like_count": 374,
+          "listed_count": 1,
+          "media_count": 8,
+          "tweet_count": 161
+        },
+        "username": "asthewind1936",
+        "verified": false
+      }
+    ]
+  }
+}

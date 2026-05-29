@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2024012383245729792"
+      ],
+      "media_source_tweet_id": [
+        "2024012500526920053"
+      ]
+    },
+    "author_id": "3022697779",
+    "conversation_id": "2024012603547332758",
+    "created_at": "2026-02-18T06:46:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-18T07:46:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024012603547332758"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2226994771",
+          "start": 3,
+          "username": "Druglab_Store"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/UTXOnXJv22",
+          "end": 68,
+          "expanded_url": "https://x.com/Druglab_Store/status/2024012500526920053/photo/1",
+          "media_key": "3_2024012383245729792",
+          "start": 45,
+          "url": "https://t.co/UTXOnXJv22"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024012603547332758",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024012500526920053",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Druglab_Store: 刚发现还有一份2ml的，有需要的吗？卖完就不卖了。 https://t.co/UTXOnXJv22"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 941,
+        "media_key": "3_2024012383245729792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBa8ifRagAAYHJN.jpg",
+        "width": 863
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024012383245729792"
+          ],
+          "media_source_tweet_id": [
+            "2024012500526920053"
+          ]
+        },
+        "author_id": "3022697779",
+        "conversation_id": "2024012603547332758",
+        "created_at": "2026-02-18T06:46:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T07:46:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024012603547332758"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2226994771",
+              "start": 3,
+              "username": "Druglab_Store"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/UTXOnXJv22",
+              "end": 68,
+              "expanded_url": "https://x.com/Druglab_Store/status/2024012500526920053/photo/1",
+              "media_key": "3_2024012383245729792",
+              "start": 45,
+              "url": "https://t.co/UTXOnXJv22"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024012603547332758",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024012500526920053",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Druglab_Store: 刚发现还有一份2ml的，有需要的吗？卖完就不卖了。 https://t.co/UTXOnXJv22"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024012383245729792"
+          ]
+        },
+        "author_id": "2226994771",
+        "conversation_id": "2024012500526920053",
+        "created_at": "2026-02-18T06:45:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T07:45:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024012500526920053"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UTXOnXJv22",
+              "end": 49,
+              "expanded_url": "https://x.com/Druglab_Store/status/2024012500526920053/photo/1",
+              "media_key": "3_2024012383245729792",
+              "start": 26,
+              "url": "https://t.co/UTXOnXJv22"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024012500526920053",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "刚发现还有一份2ml的，有需要的吗？卖完就不卖了。 https://t.co/UTXOnXJv22"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-02-16T15:27:54.000Z",
+        "description": "本不一定什么时候就没，请添加下方网址的telegram频道以获得持续更新。\n以禁毒、法律教育及损害减少（harm reduction）为目的，通过非世俗及去道德的理念，追求真实的知识与反馈。除替代为目的，部分良性物质，以及特殊情况下的损害减少，不推荐任何人摄入我提及的物质。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/XDrugLab",
+                "end": 23,
+                "expanded_url": "https://t.me/XDrugLab",
+                "start": 0,
+                "url": "https://t.co/KMcpbSmDcL"
+              }
+            ]
+          }
+        },
+        "id": "3022697779",
+        "name": "药物实验室",
+        "pinned_tweet_id": "1917542345039569145",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854259369203879954/nxgmCDHX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18346,
+          "following_count": 18,
+          "like_count": 29,
+          "listed_count": 24,
+          "media_count": 53,
+          "tweet_count": 1543
+        },
+        "url": "https://t.co/KMcpbSmDcL",
+        "username": "RXdruglab",
+        "verified": false
+      },
+      {
+        "created_at": "2013-12-02T17:14:39.000Z",
+        "description": "药物实验室的卖货号",
+        "id": "2226994771",
+        "name": "药实销售频道",
+        "pinned_tweet_id": "2021681479080984936",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021681186830200832/bzG6bnHU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 432,
+          "following_count": 153,
+          "like_count": 2,
+          "listed_count": 2,
+          "media_count": 8,
+          "tweet_count": 57
+        },
+        "username": "Druglab_Store",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1884526241858174976"
+      ]
+    },
+    "author_id": "3022697779",
+    "conversation_id": "1884526267724390431",
+    "created_at": "2025-01-29T08:57:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-29T09:57:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1884526267724390431"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1699445300950093824",
+          "start": 6,
+          "username": "kansj68531"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/dKFlgaFY55",
+          "end": 58,
+          "expanded_url": "https://x.com/RXdruglab/status/1884526267724390431/video/1",
+          "media_key": "7_1884526241858174976",
+          "start": 35,
+          "url": "https://t.co/dKFlgaFY55"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1884526267724390431",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "县城地雷妹 @kansj68531真好骗，路边给买块儿蛋糕就满足了。 https://t.co/dKFlgaFY55"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 3586,
+        "height": 1280,
+        "media_key": "7_1884526241858174976",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1884526241858174976/pu/img/ZUkRdvU1zchahvCc.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1884526241858174976/pu/vid/avc1/320x710/LX5L5uPK94tMNDre.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1884526241858174976/pu/vid/avc1/480x1066/9cbKbj9WbwJdTmL9.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1884526241858174976/pu/vid/avc1/576x1280/E3Og1fkQWLvURxuD.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1884526241858174976/pu/pl/xCAzJ7SYg1MpJn4p.m3u8?tag=12"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1884526241858174976"
+          ]
+        },
+        "author_id": "3022697779",
+        "conversation_id": "1884526267724390431",
+        "created_at": "2025-01-29T08:57:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-29T09:57:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1884526267724390431"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1699445300950093824",
+              "start": 6,
+              "username": "kansj68531"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dKFlgaFY55",
+              "end": 58,
+              "expanded_url": "https://x.com/RXdruglab/status/1884526267724390431/video/1",
+              "media_key": "7_1884526241858174976",
+              "start": 35,
+              "url": "https://t.co/dKFlgaFY55"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1884526267724390431",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "县城地雷妹 @kansj68531真好骗，路边给买块儿蛋糕就满足了。 https://t.co/dKFlgaFY55"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-02-16T15:27:54.000Z",
+        "description": "本不一定什么时候就没，请添加下方网址的telegram频道以获得持续更新。\n以禁毒、法律教育及损害减少（harm reduction）为目的，通过非世俗及去道德的理念，追求真实的知识与反馈。除替代为目的，部分良性物质，以及特殊情况下的损害减少，不推荐任何人摄入我提及的物质。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/XDrugLab",
+                "end": 23,
+                "expanded_url": "https://t.me/XDrugLab",
+                "start": 0,
+                "url": "https://t.co/KMcpbSmDcL"
+              }
+            ]
+          }
+        },
+        "id": "3022697779",
+        "name": "药物实验室",
+        "pinned_tweet_id": "1861564676557152611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854259369203879954/nxgmCDHX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4844,
+          "following_count": 15,
+          "like_count": 11,
+          "listed_count": 5,
+          "media_count": 23,
+          "tweet_count": 555
+        },
+        "url": "https://t.co/KMcpbSmDcL",
+        "username": "RXdruglab",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-06T15:31:58.000Z",
+        "description": "",
+        "id": "1699445300950093824",
+        "name": "林林林林林_",
+        "pinned_tweet_id": "1803157806570414538",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1770636826644303872/IbmGaLKB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67,
+          "following_count": 32,
+          "like_count": 412,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 26
+        },
+        "username": "kansj68531",
+        "verified": false
+      }
+    ]
+  }
+}

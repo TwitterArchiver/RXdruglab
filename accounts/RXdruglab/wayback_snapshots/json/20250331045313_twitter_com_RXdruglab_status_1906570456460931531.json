@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1906213314826231808"
+      ],
+      "media_source_tweet_id": [
+        "1906213339149013095"
+      ]
+    },
+    "author_id": "3022697779",
+    "conversation_id": "1906570456460931531",
+    "created_at": "2025-03-31T04:53:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-31T05:53:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1906570456460931531"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/rMmtIVDtkZ",
+          "end": 34,
+          "expanded_url": "https://x.com/CrazedDeals/status/1906213339149013095/video/1",
+          "media_key": "7_1906213314826231808",
+          "start": 11,
+          "url": "https://t.co/rMmtIVDtkZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1906570456460931531",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这个好，抠药片神器。 https://t.co/rMmtIVDtkZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10933,
+        "height": 900,
+        "media_key": "7_1906213314826231808",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1906213314826231808/pu/img/1WLJNqaGHVq9qIyv.jpg",
+        "public_metrics": {
+          "view_count": 1793903
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1906213314826231808/pu/vid/avc1/320x400/8mZrB8gB3w3WcIb_.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1906213314826231808/pu/vid/avc1/480x600/H-byAyiFnFlHLOFh.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1906213314826231808/pu/vid/avc1/720x900/7aWEL0LkFCjcAgkI.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1906213314826231808/pu/pl/11JDsi4YIpLVWYN8.m3u8?tag=12&v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1906213314826231808"
+          ],
+          "media_source_tweet_id": [
+            "1906213339149013095"
+          ]
+        },
+        "author_id": "3022697779",
+        "conversation_id": "1906570456460931531",
+        "created_at": "2025-03-31T04:53:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-31T05:53:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1906570456460931531"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rMmtIVDtkZ",
+              "end": 34,
+              "expanded_url": "https://x.com/CrazedDeals/status/1906213339149013095/video/1",
+              "media_key": "7_1906213314826231808",
+              "start": 11,
+              "url": "https://t.co/rMmtIVDtkZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1906570456460931531",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这个好，抠药片神器。 https://t.co/rMmtIVDtkZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-02-16T15:27:54.000Z",
+        "description": "本不一定什么时候就没，请添加下方网址的telegram频道以获得持续更新。\n以禁毒、法律教育及损害减少（harm reduction）为目的，通过非世俗及去道德的理念，追求真实的知识与反馈。除替代为目的，部分良性物质，以及特殊情况下的损害减少，不推荐任何人摄入我提及的物质。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/XDrugLab",
+                "end": 23,
+                "expanded_url": "https://t.me/XDrugLab",
+                "start": 0,
+                "url": "https://t.co/KMcpbSmDcL"
+              }
+            ]
+          }
+        },
+        "id": "3022697779",
+        "name": "药物实验室",
+        "pinned_tweet_id": "1861564676557152611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854259369203879954/nxgmCDHX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14305,
+          "following_count": 15,
+          "like_count": 20,
+          "listed_count": 11,
+          "media_count": 29,
+          "tweet_count": 848
+        },
+        "url": "https://t.co/KMcpbSmDcL",
+        "username": "RXdruglab",
+        "verified": false
+      }
+    ]
+  }
+}

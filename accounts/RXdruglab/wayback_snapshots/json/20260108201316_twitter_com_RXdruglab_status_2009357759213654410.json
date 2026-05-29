@@ -1,0 +1,300 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "3022697779",
+    "conversation_id": "2009120986843525515",
+    "created_at": "2026-01-08T20:13:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-08T21:13:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009357759213654410"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1512569460380647429",
+          "start": 0,
+          "username": "mimimimibushuo"
+        },
+        {
+          "end": 21,
+          "id": "1720665183188922368",
+          "start": 16,
+          "username": "grok"
+        },
+        {
+          "end": 27,
+          "id": "1720665183188922368",
+          "start": 22,
+          "username": "grok"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009357759213654410",
+    "in_reply_to_user_id": "1512569460380647429",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009120986843525515",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mimimimibushuo @grok @grok 以这张照片的任务为底，从腿部向上拍仰视效果，采用近大远小的构图，人物慵懒的躺在沙发上，两个手放在大腿内侧做着勾引的动作，双腿外八张开，表情嫌弃，头部微倾的看着镜头，穿着紧身吊带，露出肩膀、胸口、腰部和大腿，34d原比例。原比例。严格遵循34D胸围/腰围/臀围比例1:0.7:1.1拒绝夸张"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2009120977200807936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-HU4kzXAAAaoil.jpg",
+        "width": 807
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3022697779",
+        "conversation_id": "2009120986843525515",
+        "created_at": "2026-01-08T20:13:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-08T21:13:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009357759213654410"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1512569460380647429",
+              "start": 0,
+              "username": "mimimimibushuo"
+            },
+            {
+              "end": 21,
+              "id": "1720665183188922368",
+              "start": 16,
+              "username": "grok"
+            },
+            {
+              "end": 27,
+              "id": "1720665183188922368",
+              "start": 22,
+              "username": "grok"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009357759213654410",
+        "in_reply_to_user_id": "1512569460380647429",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009120986843525515",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mimimimibushuo @grok @grok 以这张照片的任务为底，从腿部向上拍仰视效果，采用近大远小的构图，人物慵懒的躺在沙发上，两个手放在大腿内侧做着勾引的动作，双腿外八张开，表情嫌弃，头部微倾的看着镜头，穿着紧身吊带，露出肩膀、胸口、腰部和大腿，34d原比例。原比例。严格遵循34D胸围/腰围/臀围比例1:0.7:1.1拒绝夸张"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2009120977200807936"
+          ]
+        },
+        "author_id": "1512569460380647429",
+        "conversation_id": "2009120986843525515",
+        "created_at": "2026-01-08T04:32:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-08T05:32:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2009120986843525515"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1720665183188922368",
+              "start": 2,
+              "username": "grok"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zKjFBkvDY8",
+              "end": 46,
+              "expanded_url": "https://x.com/mimimimibushuo/status/2009120986843525515/photo/1",
+              "media_key": "3_2009120977200807936",
+              "start": 23,
+              "url": "https://t.co/zKjFBkvDY8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009120986843525515",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 266,
+          "impression_count": 1333873,
+          "like_count": 827,
+          "quote_count": 2,
+          "reply_count": 489,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "嘿 @grok 帮我换上比基尼，角度不要变化 https://t.co/zKjFBkvDY8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-02-16T15:27:54.000Z",
+        "description": "本不一定什么时候就没，请添加下方网址的telegram频道以获得持续更新。\n以禁毒、法律教育及损害减少（harm reduction）为目的，通过非世俗及去道德的理念，追求真实的知识与反馈。除替代为目的，部分良性物质，以及特殊情况下的损害减少，不推荐任何人摄入我提及的物质。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/XDrugLab",
+                "end": 23,
+                "expanded_url": "https://t.me/XDrugLab",
+                "start": 0,
+                "url": "https://t.co/KMcpbSmDcL"
+              }
+            ]
+          }
+        },
+        "id": "3022697779",
+        "name": "药物实验室",
+        "pinned_tweet_id": "1917542345039569145",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854259369203879954/nxgmCDHX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17299,
+          "following_count": 18,
+          "like_count": 24,
+          "listed_count": 21,
+          "media_count": 52,
+          "tweet_count": 1454
+        },
+        "url": "https://t.co/KMcpbSmDcL",
+        "username": "RXdruglab",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-08T23:14:08.000Z",
+        "description": "研一～～碎碎念～～分享日常和发泄情绪。",
+        "id": "1512569460380647429",
+        "name": "大幂幂",
+        "pinned_tweet_id": "2008764664428024150",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1940229236167471104/JgjeKz8b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13779,
+          "following_count": 164,
+          "like_count": 11324,
+          "listed_count": 21,
+          "media_count": 101,
+          "tweet_count": 640
+        },
+        "username": "mimimimibushuo",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "https://t.co/fqNKQSiLQB\n@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 24,
+                "username": "grok"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSiLQB"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com",
+                "end": 23,
+                "expanded_url": "https://grok.com",
+                "start": 0,
+                "url": "https://t.co/BFoTHXcJ8D"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "location": "wherever you are",
+        "name": "Grok",
+        "pinned_tweet_id": "1955006865332638036",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893219113717342208/Vgg2hEPa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7363225,
+          "following_count": 3,
+          "like_count": 82,
+          "listed_count": 5742,
+          "media_count": 7473776,
+          "tweet_count": 87536971
+        },
+        "url": "https://t.co/BFoTHXcJ8D",
+        "username": "grok",
+        "verified": true
+      }
+    ]
+  }
+}

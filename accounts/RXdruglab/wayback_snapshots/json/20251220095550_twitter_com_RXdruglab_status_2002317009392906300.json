@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "3022697779",
+    "conversation_id": "2002151415167529412",
+    "created_at": "2025-12-20T09:55:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-20T10:55:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2002317009392906300"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1870078920621731842",
+          "start": 0,
+          "username": "Jargon0007"
+        },
+        {
+          "end": 22,
+          "id": "1840720004620361728",
+          "start": 12,
+          "username": "KaoriAoii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002317009392906300",
+    "in_reply_to_user_id": "1870078920621731842",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2002171515211751451",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jargon0007 @KaoriAoii 也给我私一个吧。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3022697779",
+        "conversation_id": "2002151415167529412",
+        "created_at": "2025-12-20T09:55:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-20T10:55:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002317009392906300"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1870078920621731842",
+              "start": 0,
+              "username": "Jargon0007"
+            },
+            {
+              "end": 22,
+              "id": "1840720004620361728",
+              "start": 12,
+              "username": "KaoriAoii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002317009392906300",
+        "in_reply_to_user_id": "1870078920621731842",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002171515211751451",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jargon0007 @KaoriAoii 也给我私一个吧。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870078920621731842",
+        "conversation_id": "2002151415167529412",
+        "created_at": "2025-12-20T00:17:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-20T01:17:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002171515211751451"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1840720004620361728",
+              "start": 0,
+              "username": "KaoriAoii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002171515211751451",
+        "in_reply_to_user_id": "1840720004620361728",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 58,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002151415167529412",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KaoriAoii 看私信"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-02-16T15:27:54.000Z",
+        "description": "本不一定什么时候就没，请添加下方网址的telegram频道以获得持续更新。\n以禁毒、法律教育及损害减少（harm reduction）为目的，通过非世俗及去道德的理念，追求真实的知识与反馈。除替代为目的，部分良性物质，以及特殊情况下的损害减少，不推荐任何人摄入我提及的物质。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/XDrugLab",
+                "end": 23,
+                "expanded_url": "https://t.me/XDrugLab",
+                "start": 0,
+                "url": "https://t.co/KMcpbSmDcL"
+              }
+            ]
+          }
+        },
+        "id": "3022697779",
+        "name": "药物实验室",
+        "pinned_tweet_id": "1917542345039569145",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854259369203879954/nxgmCDHX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17262,
+          "following_count": 18,
+          "like_count": 24,
+          "listed_count": 21,
+          "media_count": 52,
+          "tweet_count": 1435
+        },
+        "url": "https://t.co/KMcpbSmDcL",
+        "username": "RXdruglab",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-20T12:09:06.000Z",
+        "description": "男の娘 女装子，iiii四爱男，中國語，妹@Bronbangbangbon",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 21,
+                "username": "Bronbangbangbon"
+              }
+            ]
+          }
+        },
+        "id": "1870078920621731842",
+        "name": "捉鬼人",
+        "pinned_tweet_id": "1997028891660284088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996939820384636934/65niko5J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 461,
+          "following_count": 434,
+          "like_count": 20595,
+          "listed_count": 9,
+          "media_count": 302,
+          "tweet_count": 3110
+        },
+        "username": "Jargon0007",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-30T11:47:15.000Z",
+        "description": "“迈向平庸。”\n=小香丨画师丨utau+vocaloid丨爱鸡tv丨第五人格丨無言フォロー失礼します丨🚪88",
+        "id": "1840720004620361728",
+        "location": "后室",
+        "name": "苍井香绪里",
+        "pinned_tweet_id": "1980685233134633169",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999712686217789445/sk80tQRf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 176,
+          "following_count": 137,
+          "like_count": 198,
+          "listed_count": 0,
+          "media_count": 87,
+          "tweet_count": 463
+        },
+        "username": "KaoriAoii",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "3022697779",
+    "conversation_id": "1990719904325030366",
+    "created_at": "2025-11-18T09:53:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-18T10:53:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1990719904325030366"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/liaojieta1/sta…",
+          "end": 164,
+          "expanded_url": "https://twitter.com/liaojieta1/status/1990590497979838672",
+          "start": 141,
+          "url": "https://t.co/1sMEFSrjh9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990719904325030366",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990590497979838672",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这个男的还是嫩，这么快就露出鸡脚了。\n这里可以让步一下，说人均500可不可以（500已经非常好了），女的肯定会同意，之后你就可以聊人生难以逾越的屏障；女性缺少的安全感的来源；坦诚自己既要又要表达喜爱；夸赞女方；让女方下次请他。然后下次记得带花，不要随便买的，要好的；当晚肯定拿下。 https://t.co/1sMEFSrjh9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1990590492669882368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5__gajbsAA4Abe.jpg",
+        "width": 947
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3022697779",
+        "conversation_id": "1990719904325030366",
+        "created_at": "2025-11-18T09:53:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-18T10:53:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990719904325030366"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/liaojieta1/sta…",
+              "end": 164,
+              "expanded_url": "https://twitter.com/liaojieta1/status/1990590497979838672",
+              "start": 141,
+              "url": "https://t.co/1sMEFSrjh9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990719904325030366",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990590497979838672",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这个男的还是嫩，这么快就露出鸡脚了。\n这里可以让步一下，说人均500可不可以（500已经非常好了），女的肯定会同意，之后你就可以聊人生难以逾越的屏障；女性缺少的安全感的来源；坦诚自己既要又要表达喜爱；夸赞女方；让女方下次请他。然后下次记得带花，不要随便买的，要好的；当晚肯定拿下。 https://t.co/1sMEFSrjh9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1990590492669882368"
+          ]
+        },
+        "author_id": "1980992351930863616",
+        "conversation_id": "1990590497979838672",
+        "created_at": "2025-11-18T01:18:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-18T02:18:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990590497979838672"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nZWgCsDw9l",
+              "end": 160,
+              "expanded_url": "https://x.com/liaojieta1/status/1990590497979838672/photo/1",
+              "media_key": "3_1990590492669882368",
+              "start": 137,
+              "url": "https://t.co/nZWgCsDw9l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990590497979838672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 32,
+          "impression_count": 54717,
+          "like_count": 320,
+          "quote_count": 15,
+          "reply_count": 37,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "记一次与男性的高效沟通。\n（男生来自微博，之前偶尔会跟我聊几句关于性别观点类的，正经且礼貌。偶然知道同城，开始有意无意吧啦自己有腹肌长得不错之类的话，已经婉拒了两次，这是第三次约吃饭。）\n总结➡️当你想拒绝一个男人，只要直球告诉他:不做爱或者会花他的钱，就能快速结束对话。 https://t.co/nZWgCsDw9l"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-02-16T15:27:54.000Z",
+        "description": "本不一定什么时候就没，请添加下方网址的telegram频道以获得持续更新。\n以禁毒、法律教育及损害减少（harm reduction）为目的，通过非世俗及去道德的理念，追求真实的知识与反馈。除替代为目的，部分良性物质，以及特殊情况下的损害减少，不推荐任何人摄入我提及的物质。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/XDrugLab",
+                "end": 23,
+                "expanded_url": "https://t.me/XDrugLab",
+                "start": 0,
+                "url": "https://t.co/KMcpbSmDcL"
+              }
+            ]
+          }
+        },
+        "id": "3022697779",
+        "name": "药物实验室",
+        "pinned_tweet_id": "1917542345039569145",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854259369203879954/nxgmCDHX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16299,
+          "following_count": 18,
+          "like_count": 22,
+          "listed_count": 20,
+          "media_count": 52,
+          "tweet_count": 1332
+        },
+        "url": "https://t.co/KMcpbSmDcL",
+        "username": "RXdruglab",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-22T13:39:26.000Z",
+        "description": "“禁止共情”",
+        "id": "1980992351930863616",
+        "name": "我也不太了解她",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980992553794035712/p0W79iJU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11070,
+          "following_count": 0,
+          "like_count": 2,
+          "listed_count": 6,
+          "media_count": 5,
+          "tweet_count": 79
+        },
+        "username": "liaojieta1",
+        "verified": true
+      }
+    ]
+  }
+}

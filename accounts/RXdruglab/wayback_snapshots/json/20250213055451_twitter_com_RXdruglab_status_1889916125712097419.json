@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "3022697779",
+    "conversation_id": "1889449586823143691",
+    "created_at": "2025-02-13T05:54:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-13T06:54:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1889916125712097419"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1551103218884567040",
+          "start": 0,
+          "username": "RainyGwen"
+        },
+        {
+          "end": 23,
+          "id": "1726985228609298432",
+          "start": 11,
+          "username": "zzzvivi0722"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1889916125712097419",
+    "in_reply_to_user_id": "1551103218884567040",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1889747709713850511",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RainyGwen @zzzvivi0722 有用。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3022697779",
+        "conversation_id": "1889449586823143691",
+        "created_at": "2025-02-13T05:54:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-13T06:54:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1889916125712097419"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1551103218884567040",
+              "start": 0,
+              "username": "RainyGwen"
+            },
+            {
+              "end": 23,
+              "id": "1726985228609298432",
+              "start": 11,
+              "username": "zzzvivi0722"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1889916125712097419",
+        "in_reply_to_user_id": "1551103218884567040",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1889747709713850511",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RainyGwen @zzzvivi0722 有用。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1551103218884567040",
+        "conversation_id": "1889449586823143691",
+        "created_at": "2025-02-12T18:45:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-12T19:45:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1889747709713850511"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "3022697779",
+              "start": 0,
+              "username": "RXdruglab"
+            },
+            {
+              "end": 23,
+              "id": "1726985228609298432",
+              "start": 11,
+              "username": "zzzvivi0722"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1889747709713850511",
+        "in_reply_to_user_id": "3022697779",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1889456528983466250",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RXdruglab @zzzvivi0722 长期每天600mg普瑞 断了就失眠 吃莱博雷生有用吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-02-16T15:27:54.000Z",
+        "description": "本不一定什么时候就没，请添加下方网址的telegram频道以获得持续更新。\n以禁毒、法律教育及损害减少（harm reduction）为目的，通过非世俗及去道德的理念，追求真实的知识与反馈。除替代为目的，部分良性物质，以及特殊情况下的损害减少，不推荐任何人摄入我提及的物质。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/XDrugLab",
+                "end": 23,
+                "expanded_url": "https://t.me/XDrugLab",
+                "start": 0,
+                "url": "https://t.co/KMcpbSmDcL"
+              }
+            ]
+          }
+        },
+        "id": "3022697779",
+        "name": "药物实验室",
+        "pinned_tweet_id": "1861564676557152611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854259369203879954/nxgmCDHX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11819,
+          "following_count": 16,
+          "like_count": 12,
+          "listed_count": 10,
+          "media_count": 22,
+          "tweet_count": 639
+        },
+        "url": "https://t.co/KMcpbSmDcL",
+        "username": "RXdruglab",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-24T07:13:27.000Z",
+        "description": "坐标京津 telegram同名 接🧵⬇️",
+        "id": "1551103218884567040",
+        "location": "🚪¥199 请礼貌私信",
+        "name": "格温",
+        "pinned_tweet_id": "1845514884576153748",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1843259717306683392/NHcz8b_6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 196,
+          "following_count": 114,
+          "like_count": 5,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 25
+        },
+        "username": "RainyGwen",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-21T15:25:47.000Z",
+        "description": "讲道理，有些时候不如不讲道理。",
+        "id": "1726985228609298432",
+        "name": "周末直接不睡",
+        "pinned_tweet_id": "1817914220211785933",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1726985889140891648/TIQVgw7H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 76,
+          "following_count": 465,
+          "like_count": 359,
+          "listed_count": 0,
+          "media_count": 77,
+          "tweet_count": 963
+        },
+        "username": "zzzvivi0722",
+        "verified": false
+      }
+    ]
+  }
+}

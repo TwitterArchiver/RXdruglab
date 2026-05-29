@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "3022697779",
+    "conversation_id": "2023758673450070170",
+    "created_at": "2026-02-19T08:44:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T09:44:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024404648774562167"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1702195611213484032",
+          "start": 0,
+          "username": "TY98dk"
+        },
+        {
+          "end": 24,
+          "id": "1232984673720004609",
+          "start": 8,
+          "username": "flyinsk83548267"
+        },
+        {
+          "end": 41,
+          "id": "1000284998874812416",
+          "start": 25,
+          "username": "EddyWon18253207"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024404648774562167",
+    "in_reply_to_user_id": "1702195611213484032",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024401473564717249",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TY98dk @flyinsk83548267 @EddyWon18253207 就这意思。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3022697779",
+        "conversation_id": "2023758673450070170",
+        "created_at": "2026-02-19T08:44:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T09:44:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024404648774562167"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1702195611213484032",
+              "start": 0,
+              "username": "TY98dk"
+            },
+            {
+              "end": 24,
+              "id": "1232984673720004609",
+              "start": 8,
+              "username": "flyinsk83548267"
+            },
+            {
+              "end": 41,
+              "id": "1000284998874812416",
+              "start": 25,
+              "username": "EddyWon18253207"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024404648774562167",
+        "in_reply_to_user_id": "1702195611213484032",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024401473564717249",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TY98dk @flyinsk83548267 @EddyWon18253207 就这意思。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1702195611213484032",
+        "conversation_id": "2023758673450070170",
+        "created_at": "2026-02-19T08:31:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T09:31:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024401473564717249"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1232984673720004609",
+              "start": 0,
+              "username": "flyinsk83548267"
+            },
+            {
+              "end": 27,
+              "id": "3022697779",
+              "start": 17,
+              "username": "RXdruglab"
+            },
+            {
+              "end": 44,
+              "id": "1000284998874812416",
+              "start": 28,
+              "username": "EddyWon18253207"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024401473564717249",
+        "in_reply_to_user_id": "1232984673720004609",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024156963429576853",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@flyinsk83548267 @RXdruglab @EddyWon18253207 零号胶囊就是低劣的毒品兑出来的，现在早就没了，想体验，就是吸毒喽"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-02-16T15:27:54.000Z",
+        "description": "本不一定什么时候就没，请添加下方网址的telegram频道以获得持续更新。\n以禁毒、法律教育及损害减少（harm reduction）为目的，通过非世俗及去道德的理念，追求真实的知识与反馈。除替代为目的，部分良性物质，以及特殊情况下的损害减少，不推荐任何人摄入我提及的物质。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/XDrugLab",
+                "end": 23,
+                "expanded_url": "https://t.me/XDrugLab",
+                "start": 0,
+                "url": "https://t.co/KMcpbSmDcL"
+              }
+            ]
+          }
+        },
+        "id": "3022697779",
+        "name": "药物实验室",
+        "pinned_tweet_id": "1917542345039569145",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854259369203879954/nxgmCDHX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18881,
+          "following_count": 15,
+          "like_count": 29,
+          "listed_count": 23,
+          "media_count": 53,
+          "tweet_count": 1556
+        },
+        "url": "https://t.co/KMcpbSmDcL",
+        "username": "RXdruglab",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-14T05:40:46.000Z",
+        "description": "广州黄埔 空白号打招呼请说明情况+玩法 可出原",
+        "id": "1702195611213484032",
+        "name": "TY-TY98",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1763849996141727744/sEKNo7zK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 337,
+          "following_count": 635,
+          "like_count": 405,
+          "listed_count": 2,
+          "media_count": 31,
+          "tweet_count": 151
+        },
+        "username": "TY98dk",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-27T11:04:01.000Z",
+        "description": "",
+        "id": "1232984673720004609",
+        "name": "南浚",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1467054434119077889/ig2P4k9Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 100,
+          "like_count": 287,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 23
+        },
+        "username": "flyinsk83548267",
+        "verified": false
+      },
+      {
+        "created_at": "2018-05-26T07:58:22.000Z",
+        "description": "170.52.25.0喜硬长，缺优质的你💤💤💤💤。一起放开玩。",
+        "id": "1000284998874812416",
+        "location": "云南，昆明",
+        "name": "也许明天",
+        "pinned_tweet_id": "1606753618077556736",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1095721811088556032/Eq4Lt65o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1331,
+          "following_count": 1863,
+          "like_count": 5309,
+          "listed_count": 5,
+          "media_count": 1,
+          "tweet_count": 201
+        },
+        "username": "EddyWon18253207",
+        "verified": false
+      }
+    ]
+  }
+}

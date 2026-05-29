@@ -1,0 +1,375 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "3022697779",
+    "conversation_id": "1906933536806052038",
+    "created_at": "2025-04-05T05:36:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-05T06:36:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1908393283983991123"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1386670401422434304",
+          "start": 0,
+          "username": "xx1012000456"
+        },
+        {
+          "end": 27,
+          "id": "1658222935717580800",
+          "start": 14,
+          "username": "xiaosong23_3"
+        },
+        {
+          "end": 41,
+          "id": "1796427186557100032",
+          "start": 28,
+          "username": "Alismatales_"
+        },
+        {
+          "end": 55,
+          "id": "1798724969695977472",
+          "start": 42,
+          "username": "overdosewiki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1908393283983991123",
+    "in_reply_to_user_id": "1386670401422434304",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1908164852985766119",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xx1012000456 @xiaosong23_3 @Alismatales_ @overdosewiki 哌嗪类的都便宜。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3022697779",
+        "conversation_id": "1906933536806052038",
+        "created_at": "2025-04-05T05:36:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-05T06:36:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1908393283983991123"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1386670401422434304",
+              "start": 0,
+              "username": "xx1012000456"
+            },
+            {
+              "end": 27,
+              "id": "1658222935717580800",
+              "start": 14,
+              "username": "xiaosong23_3"
+            },
+            {
+              "end": 41,
+              "id": "1796427186557100032",
+              "start": 28,
+              "username": "Alismatales_"
+            },
+            {
+              "end": 55,
+              "id": "1798724969695977472",
+              "start": 42,
+              "username": "overdosewiki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908393283983991123",
+        "in_reply_to_user_id": "1386670401422434304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1908164852985766119",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xx1012000456 @xiaosong23_3 @Alismatales_ @overdosewiki 哌嗪类的都便宜。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1906933536806052038",
+        "created_at": "2025-04-04T14:28:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-04T15:28:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1908164852985766119"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1658222935717580800",
+              "start": 0,
+              "username": "xiaosong23_3"
+            },
+            {
+              "end": 27,
+              "id": "1796427186557100032",
+              "start": 14,
+              "username": "Alismatales_"
+            },
+            {
+              "end": 41,
+              "id": "1798724969695977472",
+              "start": 28,
+              "username": "overdosewiki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908164852985766119",
+        "in_reply_to_user_id": "1658222935717580800",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 134,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1908161478844424426",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaosong23_3 @Alismatales_ @overdosewiki 鸡哥已经测上MDMA衍生物了，该说不说人家找便宜货的水平真挺高的，我看好的东西都贼他妈贵😅"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-02-16T15:27:54.000Z",
+        "description": "本不一定什么时候就没，请添加下方网址的telegram频道以获得持续更新。\n以禁毒、法律教育及损害减少（harm reduction）为目的，通过非世俗及去道德的理念，追求真实的知识与反馈。除替代为目的，部分良性物质，以及特殊情况下的损害减少，不推荐任何人摄入我提及的物质。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/XDrugLab",
+                "end": 23,
+                "expanded_url": "https://t.me/XDrugLab",
+                "start": 0,
+                "url": "https://t.co/KMcpbSmDcL"
+              }
+            ]
+          }
+        },
+        "id": "3022697779",
+        "name": "药物实验室",
+        "pinned_tweet_id": "1861564676557152611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854259369203879954/nxgmCDHX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14501,
+          "following_count": 16,
+          "like_count": 20,
+          "listed_count": 11,
+          "media_count": 30,
+          "tweet_count": 863
+        },
+        "url": "https://t.co/KMcpbSmDcL",
+        "username": "RXdruglab",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 768,
+          "following_count": 520,
+          "like_count": 16,
+          "listed_count": 2,
+          "media_count": 11,
+          "tweet_count": 1350
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-15T21:29:02.000Z",
+        "description": "也许是xiaosong。 钢丝｜战争后霆｜充军 ｜日术｜前odw编辑，曾负责精神病学栏目｜接精神障碍咨询，详见置顶，有事找我的话   https://t.co/Astgqj3Uap",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/xiaosong2_33",
+                "end": 90,
+                "expanded_url": "https://t.me/xiaosong2_33",
+                "start": 67,
+                "url": "https://t.co/Astgqj3Uap"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mizuame.chat",
+                "end": 23,
+                "expanded_url": "http://mizuame.chat",
+                "start": 0,
+                "url": "https://t.co/xv2wq7KSUy"
+              }
+            ]
+          }
+        },
+        "id": "1658222935717580800",
+        "name": "xiaosong",
+        "pinned_tweet_id": "1902633656725692581",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1704482710830620672/ET3tOMIZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1170,
+          "following_count": 347,
+          "like_count": 20002,
+          "listed_count": 2,
+          "media_count": 118,
+          "tweet_count": 3008
+        },
+        "url": "https://t.co/xv2wq7KSUy",
+        "username": "xiaosong23_3",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-31T06:23:36.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pubmed.ncbi.nlm.nih.gov",
+                "end": 23,
+                "expanded_url": "https://pubmed.ncbi.nlm.nih.gov/",
+                "start": 0,
+                "url": "https://t.co/E8tmKN4934"
+              }
+            ]
+          }
+        },
+        "id": "1796427186557100032",
+        "location": "Province of Moscow, Russia",
+        "name": "Мотыльковые",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1824575686595710976/PyyZ2Bra_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88,
+          "following_count": 170,
+          "like_count": 242,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 92
+        },
+        "url": "https://t.co/E8tmKN4934",
+        "username": "Alismatales_",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-06T14:33:54.000Z",
+        "description": "https://t.co/YPBvo1PgeO官方站点\n有关问题可以联系我",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "overdose.wiki",
+                "end": 23,
+                "expanded_url": "http://www.overdose.wiki",
+                "start": 0,
+                "url": "https://t.co/YPBvo1PgeO"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "Overdose.wiki",
+                "end": 23,
+                "expanded_url": "http://www.Overdose.wiki",
+                "start": 0,
+                "url": "https://t.co/4peUFQFPyC"
+              }
+            ]
+          }
+        },
+        "id": "1798724969695977472",
+        "location": "受命于天 即寿永昌",
+        "name": "Overdosewiki重建",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899860345377665024/_7eudjIf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2291,
+          "following_count": 10,
+          "like_count": 344,
+          "listed_count": 2,
+          "media_count": 28,
+          "tweet_count": 251
+        },
+        "url": "https://t.co/4peUFQFPyC",
+        "username": "overdosewiki",
+        "verified": false
+      }
+    ]
+  }
+}

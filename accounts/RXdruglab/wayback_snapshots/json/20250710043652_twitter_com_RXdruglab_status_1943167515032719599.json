@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "3022697779",
+    "conversation_id": "1856816639003824387",
+    "created_at": "2025-07-10T04:36:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-10T05:36:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1943167515032719599"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1685486343399645185",
+          "start": 0,
+          "username": "AsNeTsurfer"
+        },
+        {
+          "end": 28,
+          "id": "1830266473627123714",
+          "start": 13,
+          "username": "Levis425865241"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1943167515032719599",
+    "in_reply_to_user_id": "1685486343399645185",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1943114468256550923",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AsNeTsurfer @Levis425865241 银和翠含量极低，讨论不同部位没有意义。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3022697779",
+        "conversation_id": "1856816639003824387",
+        "created_at": "2025-07-10T04:36:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-10T05:36:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1943167515032719599"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1685486343399645185",
+              "start": 0,
+              "username": "AsNeTsurfer"
+            },
+            {
+              "end": 28,
+              "id": "1830266473627123714",
+              "start": 13,
+              "username": "Levis425865241"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943167515032719599",
+        "in_reply_to_user_id": "1685486343399645185",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943114468256550923",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AsNeTsurfer @Levis425865241 银和翠含量极低，讨论不同部位没有意义。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1685486343399645185",
+        "conversation_id": "1856816639003824387",
+        "created_at": "2025-07-10T01:06:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-10T02:06:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1943114468256550923"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "3022697779",
+              "start": 0,
+              "username": "RXdruglab"
+            },
+            {
+              "end": 26,
+              "id": "1830266473627123714",
+              "start": 11,
+              "username": "Levis425865241"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943114468256550923",
+        "in_reply_to_user_id": "3022697779",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1856826729459061237",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RXdruglab @Levis425865241 国内乌羽玉好买吧，银冠玉倒是在闲鱼上就直接有卖的，有人好像是整个榨汁的，我倒挺好奇银冠玉的不同部位，麦斯卡林含量各怎么样？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-02-16T15:27:54.000Z",
+        "description": "本不一定什么时候就没，请添加下方网址的telegram频道以获得持续更新。\n以禁毒、法律教育及损害减少（harm reduction）为目的，通过非世俗及去道德的理念，追求真实的知识与反馈。除替代为目的，部分良性物质，以及特殊情况下的损害减少，不推荐任何人摄入我提及的物质。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/XDrugLab",
+                "end": 23,
+                "expanded_url": "https://t.me/XDrugLab",
+                "start": 0,
+                "url": "https://t.co/KMcpbSmDcL"
+              }
+            ]
+          }
+        },
+        "id": "3022697779",
+        "name": "药物实验室",
+        "pinned_tweet_id": "1917542345039569145",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854259369203879954/nxgmCDHX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15297,
+          "following_count": 17,
+          "like_count": 35,
+          "listed_count": 14,
+          "media_count": 45,
+          "tweet_count": 1070
+        },
+        "url": "https://t.co/KMcpbSmDcL",
+        "username": "RXdruglab",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-30T03:04:18.000Z",
+        "description": "",
+        "id": "1685486343399645185",
+        "name": "永不翻案Meursault",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1685486594437070848/btUHc7M1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 326,
+          "like_count": 10,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 298
+        },
+        "username": "AsNeTsurfer",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-01T15:28:51.000Z",
+        "description": "",
+        "id": "1830266473627123714",
+        "name": "Levis",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 11,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 22
+        },
+        "username": "Levis425865241",
+        "verified": false
+      }
+    ]
+  }
+}

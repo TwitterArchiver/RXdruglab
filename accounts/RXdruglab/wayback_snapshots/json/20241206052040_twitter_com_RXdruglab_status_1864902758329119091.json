@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "3022697779",
+    "conversation_id": "1864655899199197398",
+    "created_at": "2024-12-06T05:20:40.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-06T06:20:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1864902758329119091"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1312846083899510784",
+          "start": 0,
+          "username": "nkpUber"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1864902758329119091",
+    "in_reply_to_user_id": "1312846083899510784",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1864901312812577146",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nkpUber 不是，应该是刺激性太大了，大概理解为喝油漆之类的，味道过于刺激。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3022697779",
+        "conversation_id": "1864655899199197398",
+        "created_at": "2024-12-06T05:20:40.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-06T06:20:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1864902758329119091"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1312846083899510784",
+              "start": 0,
+              "username": "nkpUber"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1864902758329119091",
+        "in_reply_to_user_id": "1312846083899510784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1864901312812577146",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nkpUber 不是，应该是刺激性太大了，大概理解为喝油漆之类的，味道过于刺激。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1312846083899510784",
+        "conversation_id": "1864655899199197398",
+        "created_at": "2024-12-06T05:14:55.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-06T06:14:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1864901312812577146"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "3022697779",
+              "start": 0,
+              "username": "RXdruglab"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1864901312812577146",
+        "in_reply_to_user_id": "3022697779",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1864655899199197398",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RXdruglab 巴比妥盐？呕吐是因为太苦了？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-02-16T15:27:54.000Z",
+        "description": "本账号不一定什么时候就没，请添加下方网址的telegram频道以获得持续更新。\n以禁毒、法律教育及损害减少（harm reduction）为目的，通过非世俗及去道德的理念，追求真实的知识与反馈。除替代为目的，部分良性物质，以及特殊情况下的损害减少，不推荐任何人摄入我提及的物质。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/XDrugLab",
+                "end": 23,
+                "expanded_url": "https://t.me/XDrugLab",
+                "start": 0,
+                "url": "https://t.co/71vzzaVErr"
+              }
+            ]
+          }
+        },
+        "id": "3022697779",
+        "name": "药物实验室",
+        "pinned_tweet_id": "1861564676557152611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854259369203879954/nxgmCDHX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1471,
+          "following_count": 7,
+          "like_count": 1,
+          "listed_count": 1,
+          "media_count": 12,
+          "tweet_count": 199
+        },
+        "url": "https://t.co/71vzzaVErr",
+        "username": "RXdruglab",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-04T20:04:53.000Z",
+        "description": "不过是一个色情狂罢了",
+        "id": "1312846083899510784",
+        "name": "过期的沙海蜇",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 238,
+          "like_count": 917,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 870
+        },
+        "username": "nkpUber",
+        "verified": false
+      }
+    ]
+  }
+}

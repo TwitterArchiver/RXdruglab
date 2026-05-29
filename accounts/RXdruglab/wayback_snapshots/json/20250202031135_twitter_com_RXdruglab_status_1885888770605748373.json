@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "3022697779",
+    "conversation_id": "1877283813027393729",
+    "created_at": "2025-02-02T03:11:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-02T04:11:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1885888770605748373"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1427135303320408065",
+          "start": 0,
+          "username": "nk5vWfbzQy8cJYv"
+        },
+        {
+          "end": 26,
+          "id": "1644980615245348864",
+          "start": 17,
+          "username": "Weleess_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1885888770605748373",
+    "in_reply_to_user_id": "1427135303320408065",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1885886323808165891",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nk5vWfbzQy8cJYv @Weleess_ 司美格鲁肽是诺和诺德啊，这个国产的意思是中国其他工厂生产的仿制品。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3022697779",
+        "conversation_id": "1877283813027393729",
+        "created_at": "2025-02-02T03:11:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-02T04:11:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1885888770605748373"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1427135303320408065",
+              "start": 0,
+              "username": "nk5vWfbzQy8cJYv"
+            },
+            {
+              "end": 26,
+              "id": "1644980615245348864",
+              "start": 17,
+              "username": "Weleess_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1885888770605748373",
+        "in_reply_to_user_id": "1427135303320408065",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1885886323808165891",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nk5vWfbzQy8cJYv @Weleess_ 司美格鲁肽是诺和诺德啊，这个国产的意思是中国其他工厂生产的仿制品。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1427135303320408065",
+        "conversation_id": "1877283813027393729",
+        "created_at": "2025-02-02T03:01:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-02T04:01:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1885886323808165891"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "3022697779",
+              "start": 0,
+              "username": "RXdruglab"
+            },
+            {
+              "end": 20,
+              "id": "1644980615245348864",
+              "start": 11,
+              "username": "Weleess_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1885886323808165891",
+        "in_reply_to_user_id": "3022697779",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1877312444453777649",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RXdruglab @Weleess_ 替尔泊肽和司美不都礼来生产的吗，还是说礼来中国工厂不是那么安全"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-02-16T15:27:54.000Z",
+        "description": "本不一定什么时候就没，请添加下方网址的telegram频道以获得持续更新。\n以禁毒、法律教育及损害减少（harm reduction）为目的，通过非世俗及去道德的理念，追求真实的知识与反馈。除替代为目的，部分良性物质，以及特殊情况下的损害减少，不推荐任何人摄入我提及的物质。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/XDrugLab",
+                "end": 23,
+                "expanded_url": "https://t.me/XDrugLab",
+                "start": 0,
+                "url": "https://t.co/KMcpbSmDcL"
+              }
+            ]
+          }
+        },
+        "id": "3022697779",
+        "name": "药物实验室",
+        "pinned_tweet_id": "1861564676557152611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854259369203879954/nxgmCDHX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9077,
+          "following_count": 16,
+          "like_count": 11,
+          "listed_count": 9,
+          "media_count": 23,
+          "tweet_count": 616
+        },
+        "url": "https://t.co/KMcpbSmDcL",
+        "username": "RXdruglab",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-16T05:09:27.000Z",
+        "description": "d",
+        "id": "1427135303320408065",
+        "name": "古的",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1522474872513122304/KsJOUStF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 15,
+          "like_count": 5,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 6
+        },
+        "username": "nk5vWfbzQy8cJYv",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-09T08:28:49.000Z",
+        "description": "“首先想说的是 大笑跟寂寞很相似”",
+        "id": "1644980615245348864",
+        "location": "TARDIS",
+        "name": "夢與",
+        "pinned_tweet_id": "1863637962052997600",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863638539214458880/OvXI7AGt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 712,
+          "following_count": 102,
+          "like_count": 1331,
+          "listed_count": 6,
+          "media_count": 162,
+          "tweet_count": 450
+        },
+        "username": "Weleess_",
+        "verified": false
+      }
+    ]
+  }
+}

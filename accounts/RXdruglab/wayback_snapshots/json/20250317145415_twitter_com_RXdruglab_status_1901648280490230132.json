@@ -1,0 +1,107 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "3022697779",
+    "conversation_id": "1901648280490230132",
+    "created_at": "2025-03-17T14:54:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-17T15:54:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1901648280490230132"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1901648280490230132",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "所谓的催情药有四种原理，一是抑制了大脑中的某些部分，会产生精神活性；二是致幻以及专注，使得人醉心于某件事情，在药效期间，神经递质可能会加强感受，此外一些药物长期吃可能也会有此类作用；三是褪黑素受体激动剂，这些褪黑素受体可能和性欲有关；四是睾酮等激素可能会直接间接导致人的性欲增加。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3022697779",
+        "conversation_id": "1901648280490230132",
+        "created_at": "2025-03-17T14:54:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-17T15:54:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1901648280490230132"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1901648280490230132",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "所谓的催情药有四种原理，一是抑制了大脑中的某些部分，会产生精神活性；二是致幻以及专注，使得人醉心于某件事情，在药效期间，神经递质可能会加强感受，此外一些药物长期吃可能也会有此类作用；三是褪黑素受体激动剂，这些褪黑素受体可能和性欲有关；四是睾酮等激素可能会直接间接导致人的性欲增加。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-02-16T15:27:54.000Z",
+        "description": "本不一定什么时候就没，请添加下方网址的telegram频道以获得持续更新。\n以禁毒、法律教育及损害减少（harm reduction）为目的，通过非世俗及去道德的理念，追求真实的知识与反馈。除替代为目的，部分良性物质，以及特殊情况下的损害减少，不推荐任何人摄入我提及的物质。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/XDrugLab",
+                "end": 23,
+                "expanded_url": "https://t.me/XDrugLab",
+                "start": 0,
+                "url": "https://t.co/KMcpbSmDcL"
+              }
+            ]
+          }
+        },
+        "id": "3022697779",
+        "name": "药物实验室",
+        "pinned_tweet_id": "1861564676557152611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854259369203879954/nxgmCDHX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13960,
+          "following_count": 17,
+          "like_count": 14,
+          "listed_count": 12,
+          "media_count": 26,
+          "tweet_count": 747
+        },
+        "url": "https://t.co/KMcpbSmDcL",
+        "username": "RXdruglab",
+        "verified": false
+      }
+    ]
+  }
+}

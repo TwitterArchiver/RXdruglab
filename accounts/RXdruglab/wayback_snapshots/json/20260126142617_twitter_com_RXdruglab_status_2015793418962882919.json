@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "3022697779",
+    "conversation_id": "2015793418962882919",
+    "created_at": "2026-01-26T14:26:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-26T15:26:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2015793418962882919"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/aliciahan007/s…",
+          "end": 63,
+          "expanded_url": "https://twitter.com/aliciahan007/status/2015719182562705743",
+          "start": 40,
+          "url": "https://t.co/tF0bVf2EbY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015793418962882919",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015719182562705743",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "可能是程序员挣钱多，又没有多到会因此承担社会责任，所以可以做自己想要成为的人。 https://t.co/tF0bVf2EbY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 770,
+        "media_key": "3_2015717047020199936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_lD-XtWoAAYLQf.jpg",
+        "width": 1024
+      },
+      {
+        "height": 2736,
+        "media_key": "3_2015719089969221632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_lF1SSW0AAiKKG.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3022697779",
+        "conversation_id": "2015793418962882919",
+        "created_at": "2026-01-26T14:26:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T15:26:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015793418962882919"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/aliciahan007/s…",
+              "end": 63,
+              "expanded_url": "https://twitter.com/aliciahan007/status/2015719182562705743",
+              "start": 40,
+              "url": "https://t.co/tF0bVf2EbY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015793418962882919",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015719182562705743",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "可能是程序员挣钱多，又没有多到会因此承担社会责任，所以可以做自己想要成为的人。 https://t.co/tF0bVf2EbY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2015717047020199936",
+            "3_2015719089969221632"
+          ]
+        },
+        "author_id": "376396452",
+        "conversation_id": "2015719182562705743",
+        "created_at": "2026-01-26T09:31:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T10:31:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015719182562705743"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uMKqoZhNAq",
+              "end": 60,
+              "expanded_url": "https://x.com/aliciahan007/status/2015719182562705743/photo/1",
+              "media_key": "3_2015717047020199936",
+              "start": 37,
+              "url": "https://t.co/uMKqoZhNAq"
+            },
+            {
+              "display_url": "pic.x.com/uMKqoZhNAq",
+              "end": 60,
+              "expanded_url": "https://x.com/aliciahan007/status/2015719182562705743/photo/1",
+              "media_key": "3_2015719089969221632",
+              "start": 37,
+              "url": "https://t.co/uMKqoZhNAq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015719182562705743",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 122,
+          "impression_count": 132225,
+          "like_count": 411,
+          "quote_count": 24,
+          "reply_count": 48,
+          "retweet_count": 33
+        },
+        "reply_settings": "everyone",
+        "text": "借用某位大神网友留言。我觉得，我们计算机的祖坟，最近可能出了点什么问题。 https://t.co/uMKqoZhNAq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-02-16T15:27:54.000Z",
+        "description": "本不一定什么时候就没，请添加下方网址的telegram频道以获得持续更新。\n以禁毒、法律教育及损害减少（harm reduction）为目的，通过非世俗及去道德的理念，追求真实的知识与反馈。除替代为目的，部分良性物质，以及特殊情况下的损害减少，不推荐任何人摄入我提及的物质。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/XDrugLab",
+                "end": 23,
+                "expanded_url": "https://t.me/XDrugLab",
+                "start": 0,
+                "url": "https://t.co/KMcpbSmDcL"
+              }
+            ]
+          }
+        },
+        "id": "3022697779",
+        "name": "药物实验室",
+        "pinned_tweet_id": "1917542345039569145",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854259369203879954/nxgmCDHX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17322,
+          "following_count": 18,
+          "like_count": 31,
+          "listed_count": 20,
+          "media_count": 52,
+          "tweet_count": 1487
+        },
+        "url": "https://t.co/KMcpbSmDcL",
+        "username": "RXdruglab",
+        "verified": false
+      },
+      {
+        "created_at": "2011-09-19T20:24:12.000Z",
+        "description": "今天仍旧没有变瘦喔😭",
+        "id": "376396452",
+        "location": "France",
+        "name": "污妖王的远征",
+        "pinned_tweet_id": "1823264456367100214",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875676632351965185/xLRn2hTy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5038,
+          "following_count": 925,
+          "like_count": 2722,
+          "listed_count": 25,
+          "media_count": 1282,
+          "tweet_count": 4570
+        },
+        "username": "aliciahan007",
+        "verified": false
+      }
+    ]
+  }
+}

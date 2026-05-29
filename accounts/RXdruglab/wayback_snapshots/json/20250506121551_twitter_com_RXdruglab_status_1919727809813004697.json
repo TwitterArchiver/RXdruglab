@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "3022697779",
+    "conversation_id": "1919727809813004697",
+    "created_at": "2025-05-06T12:15:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-06T13:15:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1919727809813004697"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/kansj68531/sta…",
+          "end": 69,
+          "expanded_url": "https://twitter.com/kansj68531/status/1919727195389624625",
+          "start": 46,
+          "url": "https://t.co/wYUgcS8sGI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1919727809813004697",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1919727195389624625",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "不是，你找我咨询我都没有收你钱，我这个也是有成本的，你也没有让我优惠点，我为啥要给你便宜。 https://t.co/wYUgcS8sGI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1646,
+        "media_key": "3_1919726919404421121",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqQ9dkjbAAEGjQ-.jpg",
+        "width": 933
+      },
+      {
+        "height": 1308,
+        "media_key": "3_1919726919358304256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqQ9dkYbUAAIBHP.jpg",
+        "width": 966
+      },
+      {
+        "height": 1290,
+        "media_key": "3_1919726919286980614",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqQ9dkHbAAYR6nz.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3022697779",
+        "conversation_id": "1919727809813004697",
+        "created_at": "2025-05-06T12:15:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-06T13:15:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1919727809813004697"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kansj68531/sta…",
+              "end": 69,
+              "expanded_url": "https://twitter.com/kansj68531/status/1919727195389624625",
+              "start": 46,
+              "url": "https://t.co/wYUgcS8sGI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919727809813004697",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1919727195389624625",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不是，你找我咨询我都没有收你钱，我这个也是有成本的，你也没有让我优惠点，我为啥要给你便宜。 https://t.co/wYUgcS8sGI"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1919726919404421121",
+            "3_1919726919358304256",
+            "3_1919726919286980614"
+          ]
+        },
+        "author_id": "1699445300950093824",
+        "conversation_id": "1919727195389624625",
+        "created_at": "2025-05-06T12:13:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-06T13:13:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1919727195389624625"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 28,
+              "id": "3022697779",
+              "start": 18,
+              "username": "RXdruglab"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FmYv7ehOxN",
+              "end": 52,
+              "expanded_url": "https://x.com/kansj68531/status/1919727195389624625/photo/1",
+              "media_key": "3_1919726919404421121",
+              "start": 29,
+              "url": "https://t.co/FmYv7ehOxN"
+            },
+            {
+              "display_url": "pic.x.com/FmYv7ehOxN",
+              "end": 52,
+              "expanded_url": "https://x.com/kansj68531/status/1919727195389624625/photo/1",
+              "media_key": "3_1919726919358304256",
+              "start": 29,
+              "url": "https://t.co/FmYv7ehOxN"
+            },
+            {
+              "display_url": "pic.x.com/FmYv7ehOxN",
+              "end": 52,
+              "expanded_url": "https://x.com/kansj68531/status/1919727195389624625/photo/1",
+              "media_key": "3_1919726919286980614",
+              "start": 29,
+              "url": "https://t.co/FmYv7ehOxN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919727195389624625",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "药物实验室你有良心没，管我都收原价？@RXdruglab https://t.co/FmYv7ehOxN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-02-16T15:27:54.000Z",
+        "description": "本不一定什么时候就没，请添加下方网址的telegram频道以获得持续更新。\n以禁毒、法律教育及损害减少（harm reduction）为目的，通过非世俗及去道德的理念，追求真实的知识与反馈。除替代为目的，部分良性物质，以及特殊情况下的损害减少，不推荐任何人摄入我提及的物质。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/XDrugLab",
+                "end": 23,
+                "expanded_url": "https://t.me/XDrugLab",
+                "start": 0,
+                "url": "https://t.co/KMcpbSmDcL"
+              }
+            ]
+          }
+        },
+        "id": "3022697779",
+        "name": "药物实验室",
+        "pinned_tweet_id": "1917542345039569145",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854259369203879954/nxgmCDHX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14848,
+          "following_count": 18,
+          "like_count": 25,
+          "listed_count": 12,
+          "media_count": 39,
+          "tweet_count": 972
+        },
+        "url": "https://t.co/KMcpbSmDcL",
+        "username": "RXdruglab",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-06T15:31:58.000Z",
+        "description": "药圈第一个地雷女科普系博主，会回复用药咨询，想聊天请过🚪。",
+        "id": "1699445300950093824",
+        "location": "Macau",
+        "name": "林讨厌你",
+        "pinned_tweet_id": "1907251008314687503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908615592078434304/ofFo_Pzi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4786,
+          "following_count": 61,
+          "like_count": 733,
+          "listed_count": 10,
+          "media_count": 16,
+          "tweet_count": 45
+        },
+        "username": "kansj68531",
+        "verified": false
+      }
+    ]
+  }
+}
