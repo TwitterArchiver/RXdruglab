@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "3022697779",
+    "conversation_id": "2061698299909054500",
+    "created_at": "2026-06-02T06:35:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T07:35:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061698299909054500"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "38489678",
+          "start": 3,
+          "username": "JAMA_current"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061698299909054500",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 21
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061091635698479316",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @JAMA_current: Misuse of nitrous oxide, which has increased markedly in the US and worldwide among teens and young adults over the past…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1036,
+        "media_key": "3_2061091632322129920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJp362IXMAArDAJ.jpg",
+        "width": 961
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3022697779",
+        "conversation_id": "2061698299909054500",
+        "created_at": "2026-06-02T06:35:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T07:35:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061698299909054500"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "38489678",
+              "start": 3,
+              "username": "JAMA_current"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061698299909054500",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 21
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061091635698479316",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @JAMA_current: Misuse of nitrous oxide, which has increased markedly in the US and worldwide among teens and young adults over the past…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061091632322129920"
+          ]
+        },
+        "author_id": "38489678",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to medical equipment, pharmacy supplies, vaccines, pharmaceuticals, hospitals",
+              "id": "1557697038183149573",
+              "name": "Medical & Health Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "News Categories like Entertainment or Technology",
+              "id": "69",
+              "name": "News Vertical"
+            },
+            "entity": {
+              "description": "Health News",
+              "id": "1003939287300071425",
+              "name": "Health news"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Health News",
+              "id": "1003939287300071425",
+              "name": "Health news"
+            }
+          }
+        ],
+        "conversation_id": "2061091635698479316",
+        "created_at": "2026-05-31T14:25:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T15:25:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061091635698479316"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2wSU5gKgGp",
+              "end": 304,
+              "expanded_url": "https://x.com/JAMA_current/status/2061091635698479316/photo/1",
+              "media_key": "3_2061091632322129920",
+              "start": 281,
+              "url": "https://t.co/2wSU5gKgGp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061091635698479316",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "ja.ma/4uC8ejT",
+                "end": 345,
+                "expanded_url": "https://ja.ma/4uC8ejT",
+                "start": 322,
+                "url": "https://t.co/3sGXdDEBzS"
+              }
+            ]
+          },
+          "text": "Misuse of nitrous oxide, which has increased markedly in the US and worldwide among teens and young adults over the past decade, may have serious adverse health effects.\n\nThis JAMA Patient Page describes nitrous oxide misuse, potential complications of acute and long-term misuse, and treatment and prevention measures. \n\nhttps://t.co/3sGXdDEBzS"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 14625,
+          "like_count": 49,
+          "quote_count": 3,
+          "reply_count": 1,
+          "retweet_count": 21
+        },
+        "reply_settings": "everyone",
+        "text": "Misuse of nitrous oxide, which has increased markedly in the US and worldwide among teens and young adults over the past decade, may have serious adverse health effects.\n\nThis JAMA Patient Page describes nitrous oxide misuse, potential complications of acute and long-term misuse, https://t.co/2wSU5gKgGp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-02-16T15:27:54.000Z",
+        "description": "本不一定什么时候就没，请添加下方网址的telegram频道以获得持续更新。\n以禁毒、法律教育及损害减少（harm reduction）为目的，通过非世俗及去道德的理念，追求真实的知识与反馈。除替代为目的，部分良性物质，以及特殊情况下的损害减少，不推荐任何人摄入我提及的物质。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/XDrugLab",
+                "end": 23,
+                "expanded_url": "https://t.me/XDrugLab",
+                "start": 0,
+                "url": "https://t.co/KMcpbSmDcL"
+              }
+            ]
+          }
+        },
+        "id": "3022697779",
+        "name": "药物实验室",
+        "pinned_tweet_id": "1917542345039569145",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854259369203879954/nxgmCDHX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19344,
+          "following_count": 16,
+          "like_count": 37,
+          "listed_count": 22,
+          "media_count": 55,
+          "tweet_count": 1736
+        },
+        "url": "https://t.co/KMcpbSmDcL",
+        "username": "RXdruglab",
+        "verified": false
+      },
+      {
+        "created_at": "2009-05-07T18:45:39.000Z",
+        "description": "JAMA is an international peer-reviewed general medical journal published weekly online and in print, and a member of the @JAMANetwork family of journals.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 121,
+                "username": "JAMANetwork"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "jama.com",
+                "end": 22,
+                "expanded_url": "http://jama.com",
+                "start": 0,
+                "url": "http://t.co/qiHMnQF7up"
+              }
+            ]
+          }
+        },
+        "id": "38489678",
+        "location": "Chicago, IL",
+        "name": "JAMA",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1117842000076787714/w9OPhFbM_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 493463,
+          "following_count": 748,
+          "like_count": 2100,
+          "listed_count": 6012,
+          "media_count": 12672,
+          "tweet_count": 50085
+        },
+        "url": "http://t.co/qiHMnQF7up",
+        "username": "JAMA_current",
+        "verified": true
+      }
+    ]
+  }
+}

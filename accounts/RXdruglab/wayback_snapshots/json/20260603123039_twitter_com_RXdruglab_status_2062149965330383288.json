@@ -1,0 +1,154 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "3022697779",
+    "conversation_id": "2062148973310472410",
+    "created_at": "2026-06-03T12:30:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T13:30:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062149965330383288"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2062149965330383288",
+    "in_reply_to_user_id": "3022697779",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062148973310472410",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "问AI得到几个反例，氟胺酮，GBL都属于。美托咪酯差不多久不说了，反正是不多。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3022697779",
+        "conversation_id": "2062148973310472410",
+        "created_at": "2026-06-03T12:30:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T13:30:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062149965330383288"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062149965330383288",
+        "in_reply_to_user_id": "3022697779",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062148973310472410",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "问AI得到几个反例，氟胺酮，GBL都属于。美托咪酯差不多久不说了，反正是不多。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3022697779",
+        "conversation_id": "2062148973310472410",
+        "created_at": "2026-06-03T12:26:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T13:26:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062148973310472410"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062148973310472410",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "感觉物质进管制列表对于政府部门来说挺难的，除了联合国那个可以照搬进入以及可能会出口美国的阿片类物质（以及合成大麻素）以外，再除了右美沙芬，依托咪酯以外好像就没有什么主动列管的物质了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-02-16T15:27:54.000Z",
+        "description": "本不一定什么时候就没，请添加下方网址的telegram频道以获得持续更新。\n以禁毒、法律教育及损害减少（harm reduction）为目的，通过非世俗及去道德的理念，追求真实的知识与反馈。除替代为目的，部分良性物质，以及特殊情况下的损害减少，不推荐任何人摄入我提及的物质。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/XDrugLab",
+                "end": 23,
+                "expanded_url": "https://t.me/XDrugLab",
+                "start": 0,
+                "url": "https://t.co/KMcpbSmDcL"
+              }
+            ]
+          }
+        },
+        "id": "3022697779",
+        "name": "药物实验室",
+        "pinned_tweet_id": "1917542345039569145",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854259369203879954/nxgmCDHX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19350,
+          "following_count": 16,
+          "like_count": 37,
+          "listed_count": 22,
+          "media_count": 55,
+          "tweet_count": 1742
+        },
+        "url": "https://t.co/KMcpbSmDcL",
+        "username": "RXdruglab",
+        "verified": false
+      }
+    ]
+  }
+}
