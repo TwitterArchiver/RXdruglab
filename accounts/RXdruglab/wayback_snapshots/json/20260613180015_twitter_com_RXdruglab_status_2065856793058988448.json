@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "3022697779",
+    "conversation_id": "2065856793058988448",
+    "created_at": "2026-06-13T18:00:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T19:00:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065856793058988448"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/morellifit/sta…",
+          "end": 44,
+          "expanded_url": "https://twitter.com/morellifit/status/2065772383596929061",
+          "start": 21,
+          "url": "https://t.co/NRMVUaqMwl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065856793058988448",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065772383596929061",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "鸡巴硬梆梆的感觉确实会带给自己蜜汁自信。 https://t.co/NRMVUaqMwl"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3022697779",
+        "conversation_id": "2065856793058988448",
+        "created_at": "2026-06-13T18:00:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T19:00:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065856793058988448"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/morellifit/sta…",
+              "end": 44,
+              "expanded_url": "https://twitter.com/morellifit/status/2065772383596929061",
+              "start": 21,
+              "url": "https://t.co/NRMVUaqMwl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065856793058988448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065772383596929061",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "鸡巴硬梆梆的感觉确实会带给自己蜜汁自信。 https://t.co/NRMVUaqMwl"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "303519518",
+        "conversation_id": "2065772383596929061",
+        "created_at": "2026-06-13T12:24:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T13:24:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065772383596929061"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/17468569/statu…",
+              "end": 287,
+              "expanded_url": "https://twitter.com/17468569/status/2065535163749294136",
+              "start": 264,
+              "url": "https://t.co/xXIclTIc1P"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065772383596929061",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 113,
+          "impression_count": 62840,
+          "like_count": 207,
+          "quote_count": 2,
+          "reply_count": 17,
+          "retweet_count": 12
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065535163749294136",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "I’ve been on 5 mg of daily tadalafil for over a year now.\n\nI recently decided to increase the dose to 5 mg in the morning and 5 mg in the evening.\n\nI can safely report noticeable benefits for my cardiovascular health, my blood pressure, and my performance in bed. https://t.co/xXIclTIc1P"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-02-16T15:27:54.000Z",
+        "description": "本不一定什么时候就没，请添加下方网址的telegram频道以获得持续更新。\n以禁毒、法律教育及损害减少（harm reduction）为目的，通过非世俗及去道德的理念，追求真实的知识与反馈。除替代为目的，部分良性物质，以及特殊情况下的损害减少，不推荐任何人摄入我提及的物质。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/XDrugLab",
+                "end": 23,
+                "expanded_url": "https://t.me/XDrugLab",
+                "start": 0,
+                "url": "https://t.co/KMcpbSmDcL"
+              }
+            ]
+          }
+        },
+        "id": "3022697779",
+        "name": "药物实验室",
+        "pinned_tweet_id": "1917542345039569145",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854259369203879954/nxgmCDHX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19377,
+          "following_count": 18,
+          "like_count": 37,
+          "listed_count": 23,
+          "media_count": 55,
+          "tweet_count": 1753
+        },
+        "url": "https://t.co/KMcpbSmDcL",
+        "username": "RXdruglab",
+        "verified": false
+      },
+      {
+        "created_at": "2011-05-23T01:01:41.000Z",
+        "description": "Invented performance healthcare. Biomarkers, AI, peptides, and precision protocols to optimize human performance.\n\nThis changes everything ↓",
+        "id": "303519518",
+        "location": "Florida, USA",
+        "name": "Michael Morelli",
+        "pinned_tweet_id": "2064383557582336021",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052079464444571651/6d0BYzhF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 213483,
+          "following_count": 616,
+          "like_count": 16804,
+          "listed_count": 1027,
+          "media_count": 9257,
+          "tweet_count": 50471
+        },
+        "username": "morellifit",
+        "verified": true
+      }
+    ]
+  }
+}

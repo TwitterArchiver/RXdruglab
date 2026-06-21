@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "3022697779",
+    "conversation_id": "2066926737561403531",
+    "created_at": "2026-06-17T15:36:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T16:36:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067270274475868322"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1121302615336337408",
+          "start": 0,
+          "username": "xuanjianquanxua"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067270274475868322",
+    "in_reply_to_user_id": "1121302615336337408",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067269888641847542",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xuanjianquanxua 有替来他明也有其他的。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3022697779",
+        "conversation_id": "2066926737561403531",
+        "created_at": "2026-06-17T15:36:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T16:36:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067270274475868322"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1121302615336337408",
+              "start": 0,
+              "username": "xuanjianquanxua"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067270274475868322",
+        "in_reply_to_user_id": "1121302615336337408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067269888641847542",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xuanjianquanxua 有替来他明也有其他的。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1121302615336337408",
+        "conversation_id": "2066926737561403531",
+        "created_at": "2026-06-17T15:35:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T16:35:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067269888641847542"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "3022697779",
+              "start": 0,
+              "username": "RXdruglab"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067269888641847542",
+        "in_reply_to_user_id": "3022697779",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066926737561403531",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RXdruglab 里面不就是合成大麻吗？也就是依托咪酯 手抖 浑身瘫但是很舒服，致幻效果很强烈，闭眼秒入，睁眼会削减致幻效果，但是跟大多数毒品一样，会有被迫害妄想症，至于品尝食物味道是好吃的  因为他的作用本很就是放大人体的感官系统，做爱 听歌 吃东西，看电影，都可，  \n有人专门用来吃自己喜欢的食物"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-02-16T15:27:54.000Z",
+        "description": "本不一定什么时候就没，请添加下方网址的telegram频道以获得持续更新。\n以禁毒、法律教育及损害减少（harm reduction）为目的，通过非世俗及去道德的理念，追求真实的知识与反馈。除替代为目的，部分良性物质，以及特殊情况下的损害减少，不推荐任何人摄入我提及的物质。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/XDrugLab",
+                "end": 23,
+                "expanded_url": "https://t.me/XDrugLab",
+                "start": 0,
+                "url": "https://t.co/KMcpbSmDcL"
+              }
+            ]
+          }
+        },
+        "id": "3022697779",
+        "name": "药物实验室",
+        "pinned_tweet_id": "1917542345039569145",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854259369203879954/nxgmCDHX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19414,
+          "following_count": 18,
+          "like_count": 38,
+          "listed_count": 22,
+          "media_count": 57,
+          "tweet_count": 1768
+        },
+        "url": "https://t.co/KMcpbSmDcL",
+        "username": "RXdruglab",
+        "verified": false
+      },
+      {
+        "created_at": "2019-04-25T06:39:11.000Z",
+        "description": "",
+        "id": "1121302615336337408",
+        "location": "济南",
+        "name": "彼岸花开",
+        "pinned_tweet_id": "1442882957182521349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1369007382005694471/WU0lJ9lH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1885,
+          "following_count": 3643,
+          "like_count": 3927,
+          "listed_count": 7,
+          "media_count": 1,
+          "tweet_count": 3650
+        },
+        "username": "xuanjianquanxua",
+        "verified": false
+      }
+    ]
+  }
+}
