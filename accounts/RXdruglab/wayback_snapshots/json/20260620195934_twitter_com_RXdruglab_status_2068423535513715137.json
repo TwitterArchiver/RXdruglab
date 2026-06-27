@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "3022697779",
+    "conversation_id": "2047214844563116094",
+    "created_at": "2026-06-20T19:59:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T20:59:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068423535513715137"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1598080657162637312",
+          "start": 0,
+          "username": "Gangsta3_Barbie"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068423535513715137",
+    "in_reply_to_user_id": "1598080657162637312",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047214844563116094",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Gangsta3_Barbie 我去，ER开药得多少钱啊。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2047214813621702656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGkrBsDW0AAk0rl.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2047214813663694848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGkrBsNXkAADepB.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2047214813810446336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGkrBswW0AANz6V.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2047214813663596544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGkrBsNWEAA6A6X.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3022697779",
+        "conversation_id": "2047214844563116094",
+        "created_at": "2026-06-20T19:59:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T20:59:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068423535513715137"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1598080657162637312",
+              "start": 0,
+              "username": "Gangsta3_Barbie"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068423535513715137",
+        "in_reply_to_user_id": "1598080657162637312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047214844563116094",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Gangsta3_Barbie 我去，ER开药得多少钱啊。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047214813621702656",
+            "3_2047214813663694848",
+            "3_2047214813810446336",
+            "3_2047214813663596544"
+          ]
+        },
+        "author_id": "1598080657162637312",
+        "conversation_id": "2047214844563116094",
+        "created_at": "2026-04-23T07:23:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T08:23:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047214844563116094"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 92,
+              "start": 83,
+              "tag": "zolpidem"
+            },
+            {
+              "end": 97,
+              "start": 93,
+              "tag": "思诺思"
+            },
+            {
+              "end": 106,
+              "start": 98,
+              "tag": "anxiety"
+            },
+            {
+              "end": 110,
+              "start": 107,
+              "tag": "ER"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nqRu7udbgo",
+              "end": 134,
+              "expanded_url": "https://x.com/Gangsta3_Barbie/status/2047214844563116094/photo/1",
+              "media_key": "3_2047214813621702656",
+              "start": 111,
+              "url": "https://t.co/nqRu7udbgo"
+            },
+            {
+              "display_url": "pic.x.com/nqRu7udbgo",
+              "end": 134,
+              "expanded_url": "https://x.com/Gangsta3_Barbie/status/2047214844563116094/photo/1",
+              "media_key": "3_2047214813663694848",
+              "start": 111,
+              "url": "https://t.co/nqRu7udbgo"
+            },
+            {
+              "display_url": "pic.x.com/nqRu7udbgo",
+              "end": 134,
+              "expanded_url": "https://x.com/Gangsta3_Barbie/status/2047214844563116094/photo/1",
+              "media_key": "3_2047214813810446336",
+              "start": 111,
+              "url": "https://t.co/nqRu7udbgo"
+            },
+            {
+              "display_url": "pic.x.com/nqRu7udbgo",
+              "end": 134,
+              "expanded_url": "https://x.com/Gangsta3_Barbie/status/2047214844563116094/photo/1",
+              "media_key": "3_2047214813663596544",
+              "start": 111,
+              "url": "https://t.co/nqRu7udbgo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047214844563116094",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 383,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "坐标纽约，anxiety没药了晚上跑urgent care来了，帮我验了血之后转诊到大医院的ER急诊，当天晚上就拿到了思诺思和劳拉西泮，美国医疗效率还是比英国快太多\n#zolpidem #思诺思 #anxiety #ER https://t.co/nqRu7udbgo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-02-16T15:27:54.000Z",
+        "description": "本不一定什么时候就没，请添加下方网址的telegram频道以获得持续更新。\n以禁毒、法律教育及损害减少（harm reduction）为目的，通过非世俗及去道德的理念，追求真实的知识与反馈。除替代为目的，部分良性物质，以及特殊情况下的损害减少，不推荐任何人摄入我提及的物质。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/XDrugLab",
+                "end": 23,
+                "expanded_url": "https://t.me/XDrugLab",
+                "start": 0,
+                "url": "https://t.co/KMcpbSmDcL"
+              }
+            ]
+          }
+        },
+        "id": "3022697779",
+        "name": "药物实验室",
+        "pinned_tweet_id": "1917542345039569145",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854259369203879954/nxgmCDHX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19508,
+          "following_count": 18,
+          "like_count": 24,
+          "listed_count": 23,
+          "media_count": 58,
+          "tweet_count": 1776
+        },
+        "url": "https://t.co/KMcpbSmDcL",
+        "username": "RXdruglab",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-30T22:25:03.000Z",
+        "description": "- 纽约留学生 -od妹 -体验派 -亚文化爱好者 -欧美HipHop爱好者 -ADHD -讨厌粉红 -讨厌去电音节的人 - 一个原生家庭幸福的双相患者在美国的药物记录",
+        "id": "1598080657162637312",
+        "location": "New York, USA",
+        "name": "Gangst3r_Barbie",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1598081086390927360/kO_ZeUf8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 170,
+          "following_count": 229,
+          "like_count": 327,
+          "listed_count": 1,
+          "media_count": 9,
+          "tweet_count": 47
+        },
+        "url": "",
+        "username": "Gangsta3_Barbie",
+        "verified": false
+      }
+    ]
+  }
+}
