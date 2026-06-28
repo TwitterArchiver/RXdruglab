@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "3022697779",
+    "conversation_id": "2070620329077326297",
+    "created_at": "2026-06-26T21:28:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T22:28:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2070620329077326297"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/boyaki2023/sta…",
+          "end": 47,
+          "expanded_url": "https://twitter.com/boyaki2023/status/2070309375663804581",
+          "start": 24,
+          "url": "https://t.co/3xrbQwqJQT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070620329077326297",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070309375663804581",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "Very fake stupid shits. https://t.co/3xrbQwqJQT"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3022697779",
+        "conversation_id": "2070620329077326297",
+        "created_at": "2026-06-26T21:28:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T22:28:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070620329077326297"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/boyaki2023/sta…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/boyaki2023/status/2070309375663804581",
+              "start": 24,
+              "url": "https://t.co/3xrbQwqJQT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070620329077326297",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070309375663804581",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Very fake stupid shits. https://t.co/3xrbQwqJQT"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659384548340412416",
+        "conversation_id": "2070309375663804581",
+        "created_at": "2026-06-26T00:53:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T01:53:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070309375663804581"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/gekageka_inko/…",
+              "end": 106,
+              "expanded_url": "https://twitter.com/gekageka_inko/status/2070016879561941060",
+              "start": 83,
+              "url": "https://t.co/Djmr1OV29P"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070309375663804581",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {},
+          "text": "昔、ほんの少しだけAV撮影のアルバイトをしたことがあります。\n\nやってみて意外だったのは、「裸に慣れる」というより、その場の空気が性的なものではなくなることでした。\n\n出演者は演技に集中し、カメラマンは画角を確認し、照明や音声スタッフもそれぞれの仕事を黙々とこなす。エロを撮っているはずなのに、現場全体は一つの映像制作の仕事として動いている。そんな不思議な感覚でした。\n\nたぶん、学校の健康診断の現場も似たようなものなのだと思います。医師は児童の身体を見ているのではなく、異常がないかを真剣に診ている。そこにあるのは職務であって、好奇心や欲望ではありません。\n\nそういう真剣な現場を実際に知らないまま、自分の想像だけで「ああだ、こうだ」と語るのは、その仕事に携わる人たちに対して無礼だと私は思います。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 107,
+          "impression_count": 553165,
+          "like_count": 741,
+          "quote_count": 12,
+          "reply_count": 5,
+          "retweet_count": 86
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070016879561941060",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "昔、ほんの少しだけAV撮影のアルバイトをしたことがあります。\n\nやってみて意外だったのは、「裸に慣れる」というより、その場の空気が性的なものではなくなることでした。 https://t.co/Djmr1OV29P"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-02-16T15:27:54.000Z",
+        "description": "本不一定什么时候就没，请添加下方网址的telegram频道以获得持续更新。\n以禁毒、法律教育及损害减少（harm reduction）为目的，通过非世俗及去道德的理念，追求真实的知识与反馈。除替代为目的，部分良性物质，以及特殊情况下的损害减少，不推荐任何人摄入我提及的物质。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/XDrugLab",
+                "end": 23,
+                "expanded_url": "https://t.me/XDrugLab",
+                "start": 0,
+                "url": "https://t.co/KMcpbSmDcL"
+              }
+            ]
+          }
+        },
+        "id": "3022697779",
+        "name": "药物实验室",
+        "pinned_tweet_id": "1917542345039569145",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854259369203879954/nxgmCDHX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19628,
+          "following_count": 18,
+          "like_count": 25,
+          "listed_count": 23,
+          "media_count": 58,
+          "tweet_count": 1801
+        },
+        "url": "https://t.co/KMcpbSmDcL",
+        "username": "RXdruglab",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-19T02:25:06.000Z",
+        "description": "海外生活20年からの本帰国。\n料理や沖縄関係の時事などについてポストしてます。\n麺じょーぐー\n和牛はステーキよりすき焼き派です。\nエセ科学には神罰が下りますように！\nガパオ警察とゴーヤー警察を兼任👮\n\n異論反論はお好きにどうぞ。\n ※posted here are all my personal opinions",
+        "id": "1659384548340412416",
+        "location": "日本の外地",
+        "name": "ボヤッキー",
+        "pinned_tweet_id": "2044011589582630961",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866759096495640577/3PXjUDf3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1347,
+          "following_count": 1557,
+          "like_count": 216639,
+          "listed_count": 8,
+          "media_count": 4336,
+          "tweet_count": 71780
+        },
+        "url": "",
+        "username": "boyaki2023",
+        "verified": true
+      }
+    ]
+  }
+}

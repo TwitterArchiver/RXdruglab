@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "3022697779",
+    "conversation_id": "2070622148708995204",
+    "created_at": "2026-06-27T12:39:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T13:39:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070849592175001857"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1858868336366678016",
+          "start": 0,
+          "username": "5car1e4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070849592175001857",
+    "in_reply_to_user_id": "1858868336366678016",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070836353324159191",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@5car1e4 没办法回答，一般没事，抓住也会数量太少没事，但是具体不好说。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 952,
+        "media_key": "3_2070836348467269632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL0Wr-pb0AAQ9NY.jpg",
+        "width": 951
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3022697779",
+        "conversation_id": "2070622148708995204",
+        "created_at": "2026-06-27T12:39:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T13:39:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070849592175001857"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1858868336366678016",
+              "start": 0,
+              "username": "5car1e4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070849592175001857",
+        "in_reply_to_user_id": "1858868336366678016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070836353324159191",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@5car1e4 没办法回答，一般没事，抓住也会数量太少没事，但是具体不好说。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070836348467269632"
+          ]
+        },
+        "author_id": "1858868336366678016",
+        "conversation_id": "2070622148708995204",
+        "created_at": "2026-06-27T11:47:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T12:47:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070836353324159191"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "3022697779",
+              "start": 0,
+              "username": "RXdruglab"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/f1bgrDfT1O",
+              "end": 47,
+              "expanded_url": "https://x.com/5car1e4/status/2070836353324159191/photo/1",
+              "media_key": "3_2070836348467269632",
+              "start": 24,
+              "url": "https://t.co/f1bgrDfT1O"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070836353324159191",
+        "in_reply_to_user_id": "3022697779",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 47,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070622148708995204",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RXdruglab 美国寄中国会不会卡海关啊 https://t.co/f1bgrDfT1O"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-02-16T15:27:54.000Z",
+        "description": "本不一定什么时候就没，请添加下方网址的telegram频道以获得持续更新。\n以禁毒、法律教育及损害减少（harm reduction）为目的，通过非世俗及去道德的理念，追求真实的知识与反馈。除替代为目的，部分良性物质，以及特殊情况下的损害减少，不推荐任何人摄入我提及的物质。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/XDrugLab",
+                "end": 23,
+                "expanded_url": "https://t.me/XDrugLab",
+                "start": 0,
+                "url": "https://t.co/KMcpbSmDcL"
+              }
+            ]
+          }
+        },
+        "id": "3022697779",
+        "name": "药物实验室",
+        "pinned_tweet_id": "1917542345039569145",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854259369203879954/nxgmCDHX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19642,
+          "following_count": 18,
+          "like_count": 25,
+          "listed_count": 23,
+          "media_count": 58,
+          "tweet_count": 1804
+        },
+        "url": "https://t.co/KMcpbSmDcL",
+        "username": "RXdruglab",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-19T13:42:23.000Z",
+        "description": "倘若你想被青睐、娱君伴驾或效犬马之劳，空口无凭 ，用行动来证明你的忠诚。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "yyyyyyy.info",
+                "end": 23,
+                "expanded_url": "http://yyyyyyy.info",
+                "start": 0,
+                "url": "https://t.co/NTXArsxJyc"
+              }
+            ]
+          }
+        },
+        "id": "1858868336366678016",
+        "location": "阿佐特图书馆",
+        "name": "谵妄诡辩",
+        "pinned_tweet_id": "2039679500376739973",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063554819907108864/dJFtSpY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 19,
+          "like_count": 478,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 385
+        },
+        "url": "https://t.co/NTXArsxJyc",
+        "username": "5car1e4",
+        "verified": true
+      }
+    ]
+  }
+}
