@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "3022697779",
+    "conversation_id": "2073037207104073915",
+    "created_at": "2026-07-03T13:32:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T14:32:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2073037207104073915"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/linlin444444/s…",
+          "end": 61,
+          "expanded_url": "https://twitter.com/linlin444444/status/2072922470794010932",
+          "start": 38,
+          "url": "https://t.co/yNXOBCxp7k"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073037207104073915",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072922470794010932",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "你这个人，身边的人，你们的情谊本就会害死别人，案例就在身边，你不愿意承认。 https://t.co/yNXOBCxp7k"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3022697779",
+        "conversation_id": "2073037207104073915",
+        "created_at": "2026-07-03T13:32:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T14:32:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073037207104073915"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/linlin444444/s…",
+              "end": 61,
+              "expanded_url": "https://twitter.com/linlin444444/status/2072922470794010932",
+              "start": 38,
+              "url": "https://t.co/yNXOBCxp7k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073037207104073915",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072922470794010932",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你这个人，身边的人，你们的情谊本就会害死别人，案例就在身边，你不愿意承认。 https://t.co/yNXOBCxp7k"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1699445300950093824",
+        "conversation_id": "2072922470794010932",
+        "created_at": "2026-07-03T05:56:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T06:56:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072922470794010932"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/rxdruglab/stat…",
+              "end": 44,
+              "expanded_url": "https://twitter.com/rxdruglab/status/2072300197326237875",
+              "start": 21,
+              "url": "https://t.co/o4HYJrlc7W"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072922470794010932",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 748,
+          "like_count": 9,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072300197326237875",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我们这些人，本身的情谊，就是会害死人的。 https://t.co/o4HYJrlc7W"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-02-16T15:27:54.000Z",
+        "description": "本不一定什么时候就没，请添加下方网址的telegram频道以获得持续更新。\n以禁毒、法律教育及损害减少（harm reduction）为目的，通过非世俗及去道德的理念，追求真实的知识与反馈。除替代为目的，部分良性物质，以及特殊情况下的损害减少，不推荐任何人摄入我提及的物质。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/XDrugLab",
+                "end": 23,
+                "expanded_url": "https://t.me/XDrugLab",
+                "start": 0,
+                "url": "https://t.co/KMcpbSmDcL"
+              }
+            ]
+          }
+        },
+        "id": "3022697779",
+        "name": "药物实验室",
+        "pinned_tweet_id": "1917542345039569145",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854259369203879954/nxgmCDHX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19699,
+          "following_count": 18,
+          "like_count": 25,
+          "listed_count": 23,
+          "media_count": 58,
+          "tweet_count": 1826
+        },
+        "url": "https://t.co/KMcpbSmDcL",
+        "username": "RXdruglab",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-06T15:31:58.000Z",
+        "description": "林林婊翻全世界",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "laa.onl",
+                "end": 23,
+                "expanded_url": "https://www.laa.onl",
+                "start": 0,
+                "url": "https://t.co/ccXEa3StK7"
+              }
+            ]
+          }
+        },
+        "id": "1699445300950093824",
+        "location": "Macau",
+        "name": "林林林林林",
+        "pinned_tweet_id": "1937100433887216005",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908615592078434304/ofFo_Pzi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5539,
+          "following_count": 59,
+          "like_count": 402,
+          "listed_count": 11,
+          "media_count": 28,
+          "tweet_count": 76
+        },
+        "url": "https://t.co/ccXEa3StK7",
+        "username": "linlin444444",
+        "verified": false
+      }
+    ]
+  }
+}

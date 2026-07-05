@@ -1,0 +1,344 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "3022697779",
+    "conversation_id": "2072851585026367494",
+    "created_at": "2026-07-03T01:15:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T02:15:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072851585026367494"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2058978544634785792",
+          "start": 3,
+          "username": "theriac33"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072851585026367494",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 27
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072493713050480972",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @theriac33: a russian lab built a compound that tells your brain to grow new wiring\n\nthe dose is smaller than a grain of rice\n\nit's call…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 610,
+        "media_key": "3_2072493709137190912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HML6DERaoAAM6pJ.png",
+        "width": 610
+      },
+      {
+        "height": 1000,
+        "media_key": "3_2072493709141381120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HML6DESakAAE3vq.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3022697779",
+        "conversation_id": "2072851585026367494",
+        "created_at": "2026-07-03T01:15:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T02:15:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072851585026367494"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2058978544634785792",
+              "start": 3,
+              "username": "theriac33"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072851585026367494",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 27
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072493713050480972",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @theriac33: a russian lab built a compound that tells your brain to grow new wiring\n\nthe dose is smaller than a grain of rice\n\nit's call…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072493709137190912",
+            "3_2072493709141381120"
+          ]
+        },
+        "author_id": "2058978544634785792",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Food Blogs",
+              "id": "826817907946450944",
+              "name": "Food Blogs"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity tracks all conversations that mention lunch.",
+              "id": "1006588701193879552",
+              "name": "Lunch"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Food Blogs",
+              "id": "826817907946450944",
+              "name": "Food Blogs"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity tracks all conversations that mention lunch.",
+              "id": "1006588701193879552",
+              "name": "Lunch"
+            }
+          },
+          {
+            "domain": {
+              "description": "Topics about food, like Donuts or Brunch",
+              "id": "152",
+              "name": "Food"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          }
+        ],
+        "conversation_id": "2072493713050480972",
+        "created_at": "2026-07-02T01:33:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T02:33:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072493713050480972"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hV7hMGZkch",
+              "end": 301,
+              "expanded_url": "https://x.com/theriac33/status/2072493713050480972/photo/1",
+              "media_key": "3_2072493709137190912",
+              "start": 278,
+              "url": "https://t.co/hV7hMGZkch"
+            },
+            {
+              "display_url": "pic.x.com/hV7hMGZkch",
+              "end": 301,
+              "expanded_url": "https://x.com/theriac33/status/2072493713050480972/photo/1",
+              "media_key": "3_2072493709141381120",
+              "start": 278,
+              "url": "https://t.co/hV7hMGZkch"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072493713050480972",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {},
+          "text": "a russian lab built a compound that tells your brain to grow new wiring\n\nthe dose is smaller than a grain of rice\n\nit's called noopept. \n\npiracetam's successor and the most potent nootropic in existence\n\nby lunch you feel the obvious stuff. \n\nrecall gets fast, words come easy, the fog you didn't know you had is gone\n\nwhat you don't feel is the BDNF and NGF it's spiking.  \n\nthose are the growth factors that build new connections between your neurons and keep the old ones from dying off. you're sharper today and you're keeping the hardware alive for years\n\nI take it before anything that needs me on the spot. \n- supplier calls \n- negotiations\n- copy that has to convert\n\nhonestly I'd run it even if it did nothing same-day, just for the long game\n\n10-20mg under the tongue\n\nrussian pharma-grade only. \n\nyou're putting this in your brain, don't cheap out on chinese powder\n\nt33"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 302,
+          "impression_count": 10691,
+          "like_count": 213,
+          "quote_count": 0,
+          "reply_count": 17,
+          "retweet_count": 27
+        },
+        "reply_settings": "everyone",
+        "text": "a russian lab built a compound that tells your brain to grow new wiring\n\nthe dose is smaller than a grain of rice\n\nit's called noopept. \n\npiracetam's successor and the most potent nootropic in existence\n\nby lunch you feel the obvious stuff. \n\nrecall gets fast, words come easy, https://t.co/hV7hMGZkch"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-02-16T15:27:54.000Z",
+        "description": "本不一定什么时候就没，请添加下方网址的telegram频道以获得持续更新。\n以禁毒、法律教育及损害减少（harm reduction）为目的，通过非世俗及去道德的理念，追求真实的知识与反馈。除替代为目的，部分良性物质，以及特殊情况下的损害减少，不推荐任何人摄入我提及的物质。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/XDrugLab",
+                "end": 23,
+                "expanded_url": "https://t.me/XDrugLab",
+                "start": 0,
+                "url": "https://t.co/KMcpbSmDcL"
+              }
+            ]
+          }
+        },
+        "id": "3022697779",
+        "name": "药物实验室",
+        "pinned_tweet_id": "1917542345039569145",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854259369203879954/nxgmCDHX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19685,
+          "following_count": 18,
+          "like_count": 25,
+          "listed_count": 23,
+          "media_count": 58,
+          "tweet_count": 1822
+        },
+        "url": "https://t.co/KMcpbSmDcL",
+        "username": "RXdruglab",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-25T18:30:25.000Z",
+        "description": "cognitive pharma research\n\nyour reminder that success isn't drug tested",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/t33vault",
+                "end": 23,
+                "expanded_url": "https://t.me/t33vault",
+                "start": 0,
+                "url": "https://t.co/v7yHIbG29Z"
+              }
+            ]
+          }
+        },
+        "id": "2058978544634785792",
+        "name": "theriac",
+        "pinned_tweet_id": "2061996449320350043",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 512,
+          "following_count": 8,
+          "like_count": 530,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 329
+        },
+        "url": "https://t.co/v7yHIbG29Z",
+        "username": "theriac33",
+        "verified": true
+      }
+    ]
+  }
+}

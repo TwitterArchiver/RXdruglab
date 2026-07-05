@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "3022697779",
+    "conversation_id": "2071226144280777066",
+    "created_at": "2026-06-28T19:12:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T20:12:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071310809943474523"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2061831120292020225",
+          "start": 0,
+          "username": "ElonloveDEA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071310809943474523",
+    "in_reply_to_user_id": "2061831120292020225",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071226144280777066",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ElonloveDEA 大概率没有，中国加起来估计也没有50家医院能搞。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3022697779",
+        "conversation_id": "2071226144280777066",
+        "created_at": "2026-06-28T19:12:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T20:12:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071310809943474523"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2061831120292020225",
+              "start": 0,
+              "username": "ElonloveDEA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071310809943474523",
+        "in_reply_to_user_id": "2061831120292020225",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071226144280777066",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ElonloveDEA 大概率没有，中国加起来估计也没有50家医院能搞。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2061831120292020225",
+        "conversation_id": "2071226144280777066",
+        "created_at": "2026-06-28T13:36:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T14:36:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071226144280777066"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2071226144280777066",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 238,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这两天精神状况让我自己都有点担心，正在考虑去开艾斯氯胺酮，虽然比加拿大的要贵五十倍，但是心情最重要\n不过我这里三线小城市，医院还不一定有，真流汗了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-02-16T15:27:54.000Z",
+        "description": "本不一定什么时候就没，请添加下方网址的telegram频道以获得持续更新。\n以禁毒、法律教育及损害减少（harm reduction）为目的，通过非世俗及去道德的理念，追求真实的知识与反馈。除替代为目的，部分良性物质，以及特殊情况下的损害减少，不推荐任何人摄入我提及的物质。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/XDrugLab",
+                "end": 23,
+                "expanded_url": "https://t.me/XDrugLab",
+                "start": 0,
+                "url": "https://t.co/KMcpbSmDcL"
+              }
+            ]
+          }
+        },
+        "id": "3022697779",
+        "name": "药物实验室",
+        "pinned_tweet_id": "1917542345039569145",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854259369203879954/nxgmCDHX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19656,
+          "following_count": 17,
+          "like_count": 25,
+          "listed_count": 23,
+          "media_count": 58,
+          "tweet_count": 1811
+        },
+        "url": "https://t.co/KMcpbSmDcL",
+        "username": "RXdruglab",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-02T15:24:54.000Z",
+        "description": "已转生，互关寻回中",
+        "id": "2061831120292020225",
+        "location": "Edmonton, Alberta",
+        "name": "VVV3.0",
+        "pinned_tweet_id": "2061832974522581286",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070953339584438273/g0Z5NyX1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 243,
+          "following_count": 154,
+          "like_count": 474,
+          "listed_count": 1,
+          "media_count": 18,
+          "tweet_count": 222
+        },
+        "url": "",
+        "username": "ElonloveDEA",
+        "verified": false
+      }
+    ]
+  }
+}
