@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "3022697779",
+    "conversation_id": "2072659092926349403",
+    "created_at": "2026-07-07T14:39:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T15:39:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074503464563228852"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1877886557316689920",
+          "start": 0,
+          "username": "L77TuT"
+        },
+        {
+          "end": 18,
+          "id": "2064752526495457280",
+          "start": 8,
+          "username": "SachiMizz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074503464563228852",
+    "in_reply_to_user_id": "1877886557316689920",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074500694653231289",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@L77TuT @SachiMizz 因为就没有卖的，之前有一段时间有了一下就没了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3022697779",
+        "conversation_id": "2072659092926349403",
+        "created_at": "2026-07-07T14:39:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T15:39:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074503464563228852"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1877886557316689920",
+              "start": 0,
+              "username": "L77TuT"
+            },
+            {
+              "end": 18,
+              "id": "2064752526495457280",
+              "start": 8,
+              "username": "SachiMizz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074503464563228852",
+        "in_reply_to_user_id": "1877886557316689920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074500694653231289",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@L77TuT @SachiMizz 因为就没有卖的，之前有一段时间有了一下就没了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877886557316689920",
+        "conversation_id": "2072659092926349403",
+        "created_at": "2026-07-07T14:28:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T15:28:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074500694653231289"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2064752526495457280",
+              "start": 0,
+              "username": "SachiMizz"
+            },
+            {
+              "end": 21,
+              "id": "3022697779",
+              "start": 11,
+              "username": "RXdruglab"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074500694653231289",
+        "in_reply_to_user_id": "2064752526495457280",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074388857861402706",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SachiMizz @RXdruglab 好滴好滴 但是我没搜到sos"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-02-16T15:27:54.000Z",
+        "description": "本不一定什么时候就没，请添加下方网址的telegram频道以获得持续更新。\n以禁毒、法律教育及损害减少（harm reduction）为目的，通过非世俗及去道德的理念，追求真实的知识与反馈。除替代为目的，部分良性物质，以及特殊情况下的损害减少，不推荐任何人摄入我提及的物质。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/XDrugLab",
+                "end": 23,
+                "expanded_url": "https://t.me/XDrugLab",
+                "start": 0,
+                "url": "https://t.co/KMcpbSmDcL"
+              }
+            ]
+          }
+        },
+        "id": "3022697779",
+        "name": "药物实验室",
+        "pinned_tweet_id": "1917542345039569145",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854259369203879954/nxgmCDHX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19725,
+          "following_count": 18,
+          "like_count": 27,
+          "listed_count": 23,
+          "media_count": 59,
+          "tweet_count": 1833
+        },
+        "url": "https://t.co/KMcpbSmDcL",
+        "username": "RXdruglab",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-11T01:13:55.000Z",
+        "description": "",
+        "id": "1877886557316689920",
+        "name": "77",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071603788427804672/bqvYvOl9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 113,
+          "like_count": 381,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 302
+        },
+        "url": "",
+        "username": "L77TuT",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-10T16:53:28.000Z",
+        "description": "",
+        "id": "2064752526495457280",
+        "name": "SachiMi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064753140696797184/1hbEk6nV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 82,
+          "like_count": 55,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 38
+        },
+        "url": "",
+        "username": "SachiMizz",
+        "verified": false
+      }
+    ]
+  }
+}
