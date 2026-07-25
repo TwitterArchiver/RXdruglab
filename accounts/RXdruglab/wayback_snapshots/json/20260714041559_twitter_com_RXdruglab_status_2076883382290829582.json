@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "3022697779",
+    "conversation_id": "2076608356027138508",
+    "created_at": "2026-07-14T04:15:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T05:15:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076883382290829582"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1886765037831991296",
+          "start": 0,
+          "username": "MMen_Too"
+        },
+        {
+          "end": 19,
+          "id": "1821124186930397184",
+          "start": 10,
+          "username": "siyuzzz_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076883382290829582",
+    "in_reply_to_user_id": "1886765037831991296",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076880042437591206",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MMen_Too @siyuzzz_ 你加telegram频道啊，上面都有。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3022697779",
+        "conversation_id": "2076608356027138508",
+        "created_at": "2026-07-14T04:15:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T05:15:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076883382290829582"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1886765037831991296",
+              "start": 0,
+              "username": "MMen_Too"
+            },
+            {
+              "end": 19,
+              "id": "1821124186930397184",
+              "start": 10,
+              "username": "siyuzzz_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076883382290829582",
+        "in_reply_to_user_id": "1886765037831991296",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076880042437591206",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MMen_Too @siyuzzz_ 你加telegram频道啊，上面都有。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1886765037831991296",
+        "conversation_id": "2076608356027138508",
+        "created_at": "2026-07-14T04:02:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T05:02:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076880042437591206"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1821124186930397184",
+              "start": 0,
+              "username": "siyuzzz_"
+            },
+            {
+              "end": 20,
+              "id": "3022697779",
+              "start": 10,
+              "username": "RXdruglab"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076880042437591206",
+        "in_reply_to_user_id": "1821124186930397184",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076738848781160543",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@siyuzzz_ @RXdruglab 求"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-02-16T15:27:54.000Z",
+        "description": "本不一定什么时候就没，请添加下方网址的telegram频道以获得持续更新。\n以禁毒、法律教育及损害减少（harm reduction）为目的，通过非世俗及去道德的理念，追求真实的知识与反馈。除替代为目的，部分良性物质，以及特殊情况下的损害减少，不推荐任何人摄入我提及的物质。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/XDrugLab",
+                "end": 23,
+                "expanded_url": "https://t.me/XDrugLab",
+                "start": 0,
+                "url": "https://t.co/KMcpbSmDcL"
+              }
+            ]
+          }
+        },
+        "id": "3022697779",
+        "name": "药物实验室",
+        "pinned_tweet_id": "1917542345039569145",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854259369203879954/nxgmCDHX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19779,
+          "following_count": 18,
+          "like_count": 26,
+          "listed_count": 23,
+          "media_count": 58,
+          "tweet_count": 1840
+        },
+        "url": "https://t.co/KMcpbSmDcL",
+        "username": "RXdruglab",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-04T13:13:44.000Z",
+        "description": "07🎀京粤iiiis🖤",
+        "id": "1886765037831991296",
+        "location": "🚪188/520/1314💗",
+        "name": "闷闷兔To",
+        "pinned_tweet_id": "1936957460352512209",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936713298700840960/WD5gmWC6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 192,
+          "following_count": 333,
+          "like_count": 2700,
+          "listed_count": 1,
+          "media_count": 27,
+          "tweet_count": 137
+        },
+        "url": "",
+        "username": "MMen_Too",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-07T10:00:30.000Z",
+        "description": "，、提问箱：https://t.co/dJHrZXVVHH",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/l_ian58450",
+                "end": 29,
+                "expanded_url": "https://ngl.link/l_ian58450",
+                "start": 6,
+                "url": "https://t.co/dJHrZXVVHH"
+              }
+            ]
+          }
+        },
+        "id": "1821124186930397184",
+        "name": "Ren'ichii7",
+        "pinned_tweet_id": "2058410100424098235",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058100125776613376/Z7FIyEox_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 64,
+          "like_count": 278,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 72
+        },
+        "url": "",
+        "username": "siyuzzz_",
+        "verified": false
+      }
+    ]
+  }
+}
