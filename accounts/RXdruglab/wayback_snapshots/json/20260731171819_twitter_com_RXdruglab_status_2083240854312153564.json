@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "3022697779",
+    "conversation_id": "2083240854312153564",
+    "created_at": "2026-07-31T17:18:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T18:18:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083240854312153564"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/RXdruglab/stat…",
+          "end": 57,
+          "expanded_url": "https://twitter.com/RXdruglab/status/2083238439047307438",
+          "start": 34,
+          "url": "https://t.co/Hav1Bmd0Pb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083240854312153564",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083238439047307438",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "照这种一个禁了下一个顶上的吸法，不出三年，相似物条例就他妈得出来。 https://t.co/Hav1Bmd0Pb"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3022697779",
+        "conversation_id": "2083240854312153564",
+        "created_at": "2026-07-31T17:18:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T18:18:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083240854312153564"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/RXdruglab/stat…",
+              "end": 57,
+              "expanded_url": "https://twitter.com/RXdruglab/status/2083238439047307438",
+              "start": 34,
+              "url": "https://t.co/Hav1Bmd0Pb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083240854312153564",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083238439047307438",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "照这种一个禁了下一个顶上的吸法，不出三年，相似物条例就他妈得出来。 https://t.co/Hav1Bmd0Pb"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3022697779",
+        "conversation_id": "2083238439047307438",
+        "created_at": "2026-07-31T17:08:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T18:08:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083238439047307438"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "作者 | 何国胜编辑 | 向现李梦抽了几口电子烟，吐出了白色的烟雾，有一股浓烈的水果香味。随后，她看着自己握电子烟的手，跟身边人说“开始抖了”。这是她抽的电子烟带来的副作用。李梦今年15岁，",
+              "display_url": "app.myzaker.com/news/article.p…",
+              "end": 42,
+              "expanded_url": "https://app.myzaker.com/news/article.php?pk=6a688941b15ec0049d5798bc",
+              "start": 19,
+              "status": 200,
+              "title": "这些少年，正被“毒蛋”围猎",
+              "unwound_url": "https://app.myzaker.com/news/article.php?pk=6a688941b15ec0049d5798bc",
+              "url": "https://t.co/Pz3tnuL287"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083238439047307438",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 62,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "关于低龄人群使用“上头”烟弹的报道。\nhttps://t.co/Pz3tnuL287"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-02-16T15:27:54.000Z",
+        "description": "本不一定什么时候就没，请添加下方网址的telegram频道以获得持续更新。\n以禁毒、法律教育及损害减少（harm reduction）为目的，通过非世俗及去道德的理念，追求真实的知识与反馈。除替代为目的，部分良性物质，以及特殊情况下的损害减少，不推荐任何人摄入我提及的物质。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/XDrugLab",
+                "end": 23,
+                "expanded_url": "https://t.me/XDrugLab",
+                "start": 0,
+                "url": "https://t.co/KMcpbSmDcL"
+              }
+            ]
+          }
+        },
+        "id": "3022697779",
+        "name": "药物实验室",
+        "pinned_tweet_id": "1917542345039569145",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854259369203879954/nxgmCDHX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19964,
+          "following_count": 16,
+          "like_count": 26,
+          "listed_count": 23,
+          "media_count": 61,
+          "tweet_count": 1883
+        },
+        "url": "https://t.co/KMcpbSmDcL",
+        "username": "RXdruglab",
+        "verified": false
+      }
+    ]
+  }
+}
