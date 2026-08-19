@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "3022697779",
+    "conversation_id": "2088377264740483476",
+    "created_at": "2026-08-14T23:55:15.000Z",
+    "display_text_range": [
+      15,
+      38
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T00:55:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088414179241963724"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1975254953519435776",
+          "start": 0,
+          "username": "what3veruneed"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088414179241963724",
+    "in_reply_to_user_id": "1975254953519435776",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088382650587423058",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@what3veruneed 你说的非常有可取之处，但这是被抓之后的事情了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3022697779",
+        "conversation_id": "2088377264740483476",
+        "created_at": "2026-08-14T23:55:15.000Z",
+        "display_text_range": [
+          15,
+          38
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T00:55:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088414179241963724"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1975254953519435776",
+              "start": 0,
+              "username": "what3veruneed"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088414179241963724",
+        "in_reply_to_user_id": "1975254953519435776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088382650587423058",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@what3veruneed 你说的非常有可取之处，但这是被抓之后的事情了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1975254953519435776",
+        "conversation_id": "2088377264740483476",
+        "created_at": "2026-08-14T21:49:58.000Z",
+        "display_text_range": [
+          11,
+          107
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T22:49:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088382650587423058"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "3022697779",
+              "start": 0,
+              "username": "RXdruglab"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088382650587423058",
+        "in_reply_to_user_id": "3022697779",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 96,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088377264740483476",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RXdruglab 涉毒的话法律要求主观上明知 平台还是有些许帮助证明无主观故意 可以略微辩解完全不知情有正当治疗需求购买的是合理个人剂量以及使用了真实身份公开下单  但是如果查手机被查到一些od字眼还是会有问题"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2015-02-16T15:27:54.000Z",
+        "description": "本不一定什么时候就没，请添加下方网址的telegram频道以获得持续更新。\n以禁毒、法律教育及损害减少（harm reduction）为目的，通过非世俗及去道德的理念，追求真实的知识与反馈。除替代为目的，部分良性物质，以及特殊情况下的损害减少，不推荐任何人摄入我提及的物质。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/XDrugLab",
+                "end": 23,
+                "expanded_url": "https://t.me/XDrugLab",
+                "start": 0,
+                "url": "https://t.co/KMcpbSmDcL"
+              }
+            ]
+          }
+        },
+        "id": "3022697779",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088414179241963724",
+        "name": "药物实验室",
+        "pinned_tweet_id": "1917542345039569145",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3022697779/1730924898",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854259369203879954/nxgmCDHX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20422,
+          "following_count": 15,
+          "like_count": 40,
+          "listed_count": 23,
+          "media_count": 62,
+          "tweet_count": 1911
+        },
+        "url": "https://t.co/KMcpbSmDcL",
+        "username": "RXdruglab",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-10-06T17:41:50.000Z",
+        "description": "大部分药都有，滥用性质的不用问我了一律不回，留言看到都会尽快回，消息回复不及时可自助口令下单哦 长时间不回复联系tg @what3veruneeed 药物频道https://t.co/Ce7W7uFwdm",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 59,
+                "username": "what3veruneeed"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/what3veruneed12",
+                "end": 102,
+                "expanded_url": "https://t.me/what3veruneed12",
+                "start": 79,
+                "url": "https://t.co/Ce7W7uFwdm"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/what3veruneed12",
+                "end": 23,
+                "expanded_url": "https://t.me/what3veruneed12",
+                "start": 0,
+                "url": "https://t.co/Ce7W7uFwdm"
+              }
+            ]
+          }
+        },
+        "id": "1975254953519435776",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088386655879344471",
+        "name": "IGOR促智/苯基吡拉西坦/noopept/聪明药",
+        "pinned_tweet_id": "2085367423566487655",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1975254953519435776/1778398202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048693948160589824/OUQtgSg9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70,
+          "following_count": 92,
+          "like_count": 220,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 112
+        },
+        "url": "https://t.co/Ce7W7uFwdm",
+        "username": "what3veruneed",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "3022697779",
+    "conversation_id": "2084697138647466219",
+    "created_at": "2026-08-05T16:53:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T17:53:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085046505736732881"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1724834451715510272",
+          "start": 0,
+          "username": "fhHOFOhf8r69654"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085046505736732881",
+    "in_reply_to_user_id": "1724834451715510272",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085042371537052144",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fhHOFOhf8r69654 如果是神经反射导致的收缩（比如紧张，没有经验导致的神经反射），是有效的，但是对于极限扩张的话，可能是不太行。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3022697779",
+        "conversation_id": "2084697138647466219",
+        "created_at": "2026-08-05T16:53:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T17:53:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085046505736732881"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1724834451715510272",
+              "start": 0,
+              "username": "fhHOFOhf8r69654"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085046505736732881",
+        "in_reply_to_user_id": "1724834451715510272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085042371537052144",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fhHOFOhf8r69654 如果是神经反射导致的收缩（比如紧张，没有经验导致的神经反射），是有效的，但是对于极限扩张的话，可能是不太行。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1724834451715510272",
+        "conversation_id": "2084697138647466219",
+        "created_at": "2026-08-05T16:36:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T17:36:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085042371537052144"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "3022697779",
+              "start": 0,
+              "username": "RXdruglab"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085042371537052144",
+        "in_reply_to_user_id": "3022697779",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084697138647466219",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RXdruglab 肛门括约肌也能松吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2015-02-16T15:27:54.000Z",
+        "description": "本不一定什么时候就没，请添加下方网址的telegram频道以获得持续更新。\n以禁毒、法律教育及损害减少（harm reduction）为目的，通过非世俗及去道德的理念，追求真实的知识与反馈。除替代为目的，部分良性物质，以及特殊情况下的损害减少，不推荐任何人摄入我提及的物质。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/XDrugLab",
+                "end": 23,
+                "expanded_url": "https://t.me/XDrugLab",
+                "start": 0,
+                "url": "https://t.co/KMcpbSmDcL"
+              }
+            ]
+          }
+        },
+        "id": "3022697779",
+        "name": "药物实验室",
+        "pinned_tweet_id": "1917542345039569145",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854259369203879954/nxgmCDHX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20362,
+          "following_count": 15,
+          "like_count": 26,
+          "listed_count": 23,
+          "media_count": 62,
+          "tweet_count": 1896
+        },
+        "url": "https://t.co/KMcpbSmDcL",
+        "username": "RXdruglab",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-15T16:59:25.000Z",
+        "description": "杭州 0.5轻m 想要绿帽1/固/3/刺激/圣水",
+        "id": "1724834451715510272",
+        "location": "Hong Kong",
+        "name": "王子",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761599405424054272/w761h-Vp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 133,
+          "following_count": 618,
+          "like_count": 2212,
+          "listed_count": 5,
+          "media_count": 1,
+          "tweet_count": 31
+        },
+        "url": "",
+        "username": "fhHOFOhf8r69654",
+        "verified": false
+      }
+    ]
+  }
+}
