@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "3022697779",
+    "conversation_id": "2092173324252233819",
+    "created_at": "2026-08-26T15:03:41.000Z",
+    "display_text_range": [
+      20,
+      36
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-26T16:03:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092629057641083004"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2064752526495457280",
+          "start": 0,
+          "username": "SachiMizz"
+        },
+        {
+          "end": 19,
+          "id": "1073240806905933824",
+          "start": 11,
+          "username": "zunsun5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092629057641083004",
+    "in_reply_to_user_id": "2064752526495457280",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092627818048086310",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SachiMizz @zunsun5 不用AI能猜出来就算你们有本事。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3022697779",
+        "conversation_id": "2092173324252233819",
+        "created_at": "2026-08-26T15:03:41.000Z",
+        "display_text_range": [
+          20,
+          36
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T16:03:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092629057641083004"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2064752526495457280",
+              "start": 0,
+              "username": "SachiMizz"
+            },
+            {
+              "end": 19,
+              "id": "1073240806905933824",
+              "start": 11,
+              "username": "zunsun5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092629057641083004",
+        "in_reply_to_user_id": "2064752526495457280",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092627818048086310",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SachiMizz @zunsun5 不用AI能猜出来就算你们有本事。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2064752526495457280",
+        "conversation_id": "2092173324252233819",
+        "created_at": "2026-08-26T14:58:45.000Z",
+        "display_text_range": [
+          20,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T15:58:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092627818048086310"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1073240806905933824",
+              "start": 0,
+              "username": "zunsun5"
+            },
+            {
+              "end": 19,
+              "id": "3022697779",
+              "start": 9,
+              "username": "RXdruglab"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092627818048086310",
+        "in_reply_to_user_id": "1073240806905933824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092500736370516287",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zunsun5 @RXdruglab 我觉得是的"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2015-02-16T15:27:54.000Z",
+        "description": "本不一定什么时候就没，请添加下方网址的telegram频道以获得持续更新。\n以禁毒、法律教育及损害减少（harm reduction）为目的，通过非世俗及去道德的理念，追求真实的知识与反馈。除替代为目的，部分良性物质，以及特殊情况下的损害减少，不推荐任何人摄入我提及的物质。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/XDrugLab",
+                "end": 23,
+                "expanded_url": "https://t.me/XDrugLab",
+                "start": 0,
+                "url": "https://t.co/KMcpbSmDcL"
+              }
+            ]
+          }
+        },
+        "id": "3022697779",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092629057641083004",
+        "name": "药物实验室",
+        "pinned_tweet_id": "1917542345039569145",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3022697779/1730924898",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854259369203879954/nxgmCDHX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20871,
+          "following_count": 15,
+          "like_count": 41,
+          "listed_count": 25,
+          "media_count": 66,
+          "tweet_count": 1958
+        },
+        "url": "https://t.co/KMcpbSmDcL",
+        "username": "RXdruglab",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-10T16:53:28.000Z",
+        "description": "",
+        "id": "2064752526495457280",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092627818048086310",
+        "name": "SachiMi",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064753140696797184/1hbEk6nV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82,
+          "following_count": 108,
+          "like_count": 447,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 97
+        },
+        "url": "",
+        "username": "SachiMizz",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2018-12-13T15:38:43.000Z",
+        "description": "喀什。纯攻，持久，正装大叔，170-68-1。VX: g5151419",
+        "id": "1073240806905933824",
+        "is_identity_verified": false,
+        "location": "喀什",
+        "most_recent_tweet_id": "2092500736370516287",
+        "name": "狂客",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1632401259088216065/EqhaD9tg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 911,
+          "following_count": 106,
+          "like_count": 36,
+          "listed_count": 3,
+          "media_count": 57,
+          "tweet_count": 168
+        },
+        "url": "",
+        "username": "zunsun5",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

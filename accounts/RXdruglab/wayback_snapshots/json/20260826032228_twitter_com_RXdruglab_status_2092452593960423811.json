@@ -1,0 +1,319 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "3022697779",
+    "conversation_id": "2092452593960423811",
+    "created_at": "2026-08-26T03:22:28.000Z",
+    "display_text_range": [
+      0,
+      110
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-26T04:22:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2092452593960423811"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/QuanLujun/stat…",
+          "end": 134,
+          "expanded_url": "https://twitter.com/QuanLujun/status/2092119962974589365",
+          "start": 111,
+          "url": "https://t.co/1Vj9bwEQHS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092452593960423811",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092119962974589365",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "首先，百草枯已经买不到了，不可能有这种完整包装的商品；然后，百草枯添加了臭味剂苦味剂，哪怕0.1ml，也可以完全造成食物味道剧烈变化；最后，如果一家三甲医院因为百草枯死亡过四千，可以料想全国有多少，这种量级不可能瞒得住。 https://t.co/1Vj9bwEQHS"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 27600,
+        "height": 720,
+        "media_key": "13_2092119901708423169",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2092119901708423169/img/7UGMMP4T3exUJwb9.jpg",
+        "public_metrics": {
+          "view_count": 35253
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2092119901708423169/vid/avc1/480x270/-iikMP027xlYzD_6.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2092119901708423169/vid/avc1/640x360/3fpU_EE_9nQf9Lfc.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2092119901708423169/vid/avc1/1280x720/d6lHE0tAuzj8OGDH.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2092119901708423169/pl/WcU9mVMXnBn32egp.m3u8?v=cfc"
+          }
+        ],
+        "width": 1280
+      },
+      {
+        "height": 1232,
+        "media_key": "3_2092119335053697025",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQizc2GaIAE7HjR.jpg",
+        "width": 1236
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3022697779",
+        "conversation_id": "2092452593960423811",
+        "created_at": "2026-08-26T03:22:28.000Z",
+        "display_text_range": [
+          0,
+          110
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T04:22:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092452593960423811"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/QuanLujun/stat…",
+              "end": 134,
+              "expanded_url": "https://twitter.com/QuanLujun/status/2092119962974589365",
+              "start": 111,
+              "url": "https://t.co/1Vj9bwEQHS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092452593960423811",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092119962974589365",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "首先，百草枯已经买不到了，不可能有这种完整包装的商品；然后，百草枯添加了臭味剂苦味剂，哪怕0.1ml，也可以完全造成食物味道剧烈变化；最后，如果一家三甲医院因为百草枯死亡过四千，可以料想全国有多少，这种量级不可能瞒得住。 https://t.co/1Vj9bwEQHS"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2092119901708423169",
+            "3_2092119335053697025"
+          ]
+        },
+        "author_id": "1653278595719081986",
+        "conversation_id": "2092119962974589365",
+        "created_at": "2026-08-25T05:20:43.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T06:20:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092119962974589365"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fAAXbBimfY",
+              "end": 164,
+              "expanded_url": "https://x.com/QuanLujun/status/2092119962974589365/video/1",
+              "media_key": "13_2092119901708423169",
+              "start": 141,
+              "url": "https://t.co/fAAXbBimfY"
+            },
+            {
+              "display_url": "pic.x.com/fAAXbBimfY",
+              "end": 164,
+              "expanded_url": "https://x.com/QuanLujun/status/2092119962974589365/video/1",
+              "media_key": "3_2092119335053697025",
+              "start": 141,
+              "url": "https://t.co/fAAXbBimfY"
+            },
+            {
+              "display_url": "x.com/quanlujun/stat…",
+              "end": 188,
+              "expanded_url": "https://twitter.com/quanlujun/status/2091975299382886897",
+              "start": 165,
+              "url": "https://t.co/Vy1qmzWIGW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092119962974589365",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2092119901708423169"
+          },
+          {
+            "media_key": "3_2092119335053697025"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "外卖员百草枯互害事件陆续有更多爆料出现，以下是来自罗翔老师爆料：我是三甲医院内部人员，有件事情不得不爆料。近一年来，收治百草枯中毒患者突然暴涨，以前一年碰不到几个。但今年死亡过四干，重症超一万。大部分都点过外卖后发生的，肯定人为的，我们没有权力调查。院里就是封口。不讨论，不跟其他医院交流人数，说往上报了，可能是怕恐慌和模仿吧。警察来了一波又一波，配合了一次又一次，就是走形式，一个字：混，也没经费，没意愿查，麻了。整个在失序.."
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 161,
+          "impression_count": 76573,
+          "like_count": 386,
+          "quote_count": 10,
+          "reply_count": 54,
+          "retweet_count": 104
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091975299382886897",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "外卖员百草枯互害事件陆续有更多爆料出现，以下是来自罗翔老师爆料：我是三甲医院内部人员，有件事情不得不爆料。近一年来，收治百草枯中毒患者突然暴涨，以前一年碰不到几个。但今年死亡过四干，重症超一万。大部分都点过外卖后发生的，肯定人为的，我们没有权力调查。院里就是封口。不讨论，不跟其他 https://t.co/fAAXbBimfY https://t.co/Vy1qmzWIGW"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2015-02-16T15:27:54.000Z",
+        "description": "本不一定什么时候就没，请添加下方网址的telegram频道以获得持续更新。\n以禁毒、法律教育及损害减少（harm reduction）为目的，通过非世俗及去道德的理念，追求真实的知识与反馈。除替代为目的，部分良性物质，以及特殊情况下的损害减少，不推荐任何人摄入我提及的物质。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/XDrugLab",
+                "end": 23,
+                "expanded_url": "https://t.me/XDrugLab",
+                "start": 0,
+                "url": "https://t.co/KMcpbSmDcL"
+              }
+            ]
+          }
+        },
+        "id": "3022697779",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092452593960423811",
+        "name": "药物实验室",
+        "pinned_tweet_id": "1917542345039569145",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3022697779/1730924898",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854259369203879954/nxgmCDHX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20792,
+          "following_count": 15,
+          "like_count": 41,
+          "listed_count": 24,
+          "media_count": 65,
+          "tweet_count": 1951
+        },
+        "url": "https://t.co/KMcpbSmDcL",
+        "username": "RXdruglab",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-05-02T06:02:43.000Z",
+        "description": "台湾就是台湾；守护民主自由就是守护普世价值与人类的底线未来，对邪恶中共说不！结束习近平中共封建独裁专制纳粹暴政祸害世界；「世界需要真实的声音」 ！🔥【欢迎加入反共电报群https://t.co/xxJHoK3DNT】基督✝️文明世界必将战胜邪恶撒旦；守护民主自由/荣耀基督联盟 Luke-权录军",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/+_MojCr8soxMyN…",
+                "end": 107,
+                "expanded_url": "https://t.me/+_MojCr8soxMyNGEx",
+                "start": 84,
+                "url": "https://t.co/xxJHoK3DNT"
+              }
+            ]
+          }
+        },
+        "id": "1653278595719081986",
+        "is_identity_verified": false,
+        "location": "California, USA",
+        "most_recent_tweet_id": "2092451451771756917",
+        "name": "LuJun Quan",
+        "pinned_tweet_id": "2069514459455078543",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1653278595719081986/1761814774",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780063090182365184/OY7ky_fp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27121,
+          "following_count": 9622,
+          "like_count": 40085,
+          "listed_count": 129,
+          "media_count": 3673,
+          "tweet_count": 21439
+        },
+        "url": "",
+        "username": "QuanLujun",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

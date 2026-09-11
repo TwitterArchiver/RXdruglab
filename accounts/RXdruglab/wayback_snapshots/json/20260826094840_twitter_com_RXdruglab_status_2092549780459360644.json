@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "3022697779",
+    "conversation_id": "2092453797306196377",
+    "created_at": "2026-08-26T09:48:40.000Z",
+    "display_text_range": [
+      12,
+      60
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-26T10:48:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092549780459360644"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2840847226",
+          "start": 0,
+          "username": "al84139034"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092549780459360644",
+    "in_reply_to_user_id": "2840847226",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092536322280054885",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@al84139034 4000肯定能盖住，但是一家三甲三个季度就四千，照这个比例看全国30万不过分吧，这就很难盖住了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3022697779",
+        "conversation_id": "2092453797306196377",
+        "created_at": "2026-08-26T09:48:40.000Z",
+        "display_text_range": [
+          12,
+          60
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T10:48:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092549780459360644"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2840847226",
+              "start": 0,
+              "username": "al84139034"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092549780459360644",
+        "in_reply_to_user_id": "2840847226",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092536322280054885",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@al84139034 4000肯定能盖住，但是一家三甲三个季度就四千，照这个比例看全国30万不过分吧，这就很难盖住了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2840847226",
+        "conversation_id": "2092453797306196377",
+        "created_at": "2026-08-26T08:55:11.000Z",
+        "display_text_range": [
+          11,
+          58
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T09:55:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092536322280054885"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "3022697779",
+              "start": 0,
+              "username": "RXdruglab"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092536322280054885",
+        "in_reply_to_user_id": "3022697779",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 185,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092453797306196377",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RXdruglab 新冠死100万都能盖住，何况这区区四千？前一阵子横州水库死的都不止四千吧？不也是没有一点动静."
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2015-02-16T15:27:54.000Z",
+        "description": "本不一定什么时候就没，请添加下方网址的telegram频道以获得持续更新。\n以禁毒、法律教育及损害减少（harm reduction）为目的，通过非世俗及去道德的理念，追求真实的知识与反馈。除替代为目的，部分良性物质，以及特殊情况下的损害减少，不推荐任何人摄入我提及的物质。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/XDrugLab",
+                "end": 23,
+                "expanded_url": "https://t.me/XDrugLab",
+                "start": 0,
+                "url": "https://t.co/KMcpbSmDcL"
+              }
+            ]
+          }
+        },
+        "id": "3022697779",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092549780459360644",
+        "name": "药物实验室",
+        "pinned_tweet_id": "1917542345039569145",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3022697779/1730924898",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854259369203879954/nxgmCDHX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20843,
+          "following_count": 15,
+          "like_count": 41,
+          "listed_count": 24,
+          "media_count": 66,
+          "tweet_count": 1953
+        },
+        "url": "https://t.co/KMcpbSmDcL",
+        "username": "RXdruglab",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2014-10-22T01:44:23.000Z",
+        "description": "",
+        "id": "2840847226",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092542861988536429",
+        "name": "jr",
+        "profile_banner_url": "",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82,
+          "following_count": 128,
+          "like_count": 276,
+          "listed_count": 1,
+          "media_count": 14,
+          "tweet_count": 3928
+        },
+        "url": "",
+        "username": "al84139034",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

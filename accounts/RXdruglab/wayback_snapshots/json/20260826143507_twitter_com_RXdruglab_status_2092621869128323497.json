@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "3022697779",
+    "conversation_id": "2092453797306196377",
+    "created_at": "2026-08-26T14:35:07.000Z",
+    "display_text_range": [
+      20,
+      41
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-26T15:35:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092621869128323497"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "396312303",
+          "start": 0,
+          "username": "wjianjvn"
+        },
+        {
+          "end": 19,
+          "id": "1114159753410670594",
+          "start": 10,
+          "username": "yeyi0401"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092621869128323497",
+    "in_reply_to_user_id": "396312303",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092621239605194907",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wjianjvn @yeyi0401 这个是另一种农药，它是肝毒性的，也能喝死。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3022697779",
+        "conversation_id": "2092453797306196377",
+        "created_at": "2026-08-26T14:35:07.000Z",
+        "display_text_range": [
+          20,
+          41
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T15:35:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092621869128323497"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "396312303",
+              "start": 0,
+              "username": "wjianjvn"
+            },
+            {
+              "end": 19,
+              "id": "1114159753410670594",
+              "start": 10,
+              "username": "yeyi0401"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092621869128323497",
+        "in_reply_to_user_id": "396312303",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092621239605194907",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wjianjvn @yeyi0401 这个是另一种农药，它是肝毒性的，也能喝死。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "396312303",
+        "conversation_id": "2092453797306196377",
+        "created_at": "2026-08-26T14:32:37.000Z",
+        "display_text_range": [
+          21,
+          33
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T15:32:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092621239605194907"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "3022697779",
+              "start": 0,
+              "username": "RXdruglab"
+            },
+            {
+              "end": 20,
+              "id": "1114159753410670594",
+              "start": 11,
+              "username": "yeyi0401"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092621239605194907",
+        "in_reply_to_user_id": "3022697779",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092519024869655038",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RXdruglab @yeyi0401 是能买到，但包装是敌草快"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2015-02-16T15:27:54.000Z",
+        "description": "本不一定什么时候就没，请添加下方网址的telegram频道以获得持续更新。\n以禁毒、法律教育及损害减少（harm reduction）为目的，通过非世俗及去道德的理念，追求真实的知识与反馈。除替代为目的，部分良性物质，以及特殊情况下的损害减少，不推荐任何人摄入我提及的物质。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/XDrugLab",
+                "end": 23,
+                "expanded_url": "https://t.me/XDrugLab",
+                "start": 0,
+                "url": "https://t.co/KMcpbSmDcL"
+              }
+            ]
+          }
+        },
+        "id": "3022697779",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092621869128323497",
+        "name": "药物实验室",
+        "pinned_tweet_id": "1917542345039569145",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3022697779/1730924898",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854259369203879954/nxgmCDHX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20870,
+          "following_count": 15,
+          "like_count": 41,
+          "listed_count": 25,
+          "media_count": 66,
+          "tweet_count": 1956
+        },
+        "url": "https://t.co/KMcpbSmDcL",
+        "username": "RXdruglab",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2011-10-23T02:45:11.000Z",
+        "description": "当恐惧消失，生活就会开始",
+        "id": "396312303",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092621239605194907",
+        "name": "Peter",
+        "pinned_tweet_id": "1115206058040012800",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1384799517313101827/S_KMJJN9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 137,
+          "following_count": 208,
+          "like_count": 1509,
+          "listed_count": 2,
+          "media_count": 35,
+          "tweet_count": 2769
+        },
+        "url": "",
+        "username": "wjianjvn",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-04-05T13:36:00.000Z",
+        "description": "根正苗红，碌碌无为，失败的man。\nINFP-T，至于到底是E还是I我也不知道。\nlang: zh-CN 母语 / en-US C1 / de-DE B2 / ja-JP 工地",
+        "id": "1114159753410670594",
+        "is_identity_verified": false,
+        "location": "JO30BS17",
+        "most_recent_tweet_id": "2092517832093204955",
+        "name": "叶奕",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1114160255695351808/rgetUkvG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 20,
+          "like_count": 1220,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 347
+        },
+        "url": "",
+        "username": "yeyi0401",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
