@@ -1,0 +1,483 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2104483056182853633",
+        "3_2104483248420319232"
+      ]
+    },
+    "author_id": "3022697779",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1631434932688920576",
+          "name": "OpenAI"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      }
+    ],
+    "conversation_id": "2104310008653709809",
+    "created_at": "2026-09-28T08:08:02.000Z",
+    "display_text_range": [
+      15,
+      114
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-28T09:08:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104483256301428991"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1986452594206838785",
+          "start": 0,
+          "username": "Idontselldrug"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ysCi8z7kRO",
+          "end": 138,
+          "expanded_url": "https://x.com/RXdruglab/status/2104483256301428991/photo/1",
+          "media_key": "3_2104483056182853633",
+          "start": 115,
+          "url": "https://t.co/ysCi8z7kRO"
+        },
+        {
+          "display_url": "pic.x.com/ysCi8z7kRO",
+          "end": 138,
+          "expanded_url": "https://x.com/RXdruglab/status/2104483256301428991/photo/1",
+          "media_key": "3_2104483248420319232",
+          "start": 115,
+          "url": "https://t.co/ysCi8z7kRO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104483256301428991",
+    "in_reply_to_user_id": "1986452594206838785",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2104483056182853633"
+      },
+      {
+        "media_key": "3_2104483248420319232"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104310008653709809",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Idontselldrug 我也差不多，另外早期GPT2的时候我也搞过一下，那时候是开源项目，也不用注册个账号啥的。然后我四月的时候加入dall-e的waiting list，那个也不用注册，但是是openai发的第一封邮件。 https://t.co/ysCi8z7kRO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 562,
+        "media_key": "3_2104483056182853633",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTSgMIebgAE4WF6.jpg",
+        "width": 1124
+      },
+      {
+        "height": 762,
+        "media_key": "3_2104483248420319232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTSgXUnacAAf58A.jpg",
+        "width": 924
+      },
+      {
+        "height": 3120,
+        "media_key": "3_2104310005227020288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTQCzPbbYAAXIq9.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104483056182853633",
+            "3_2104483248420319232"
+          ]
+        },
+        "author_id": "3022697779",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2104310008653709809",
+        "created_at": "2026-09-28T08:08:02.000Z",
+        "display_text_range": [
+          15,
+          114
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T09:08:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104483256301428991"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1986452594206838785",
+              "start": 0,
+              "username": "Idontselldrug"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ysCi8z7kRO",
+              "end": 138,
+              "expanded_url": "https://x.com/RXdruglab/status/2104483256301428991/photo/1",
+              "media_key": "3_2104483056182853633",
+              "start": 115,
+              "url": "https://t.co/ysCi8z7kRO"
+            },
+            {
+              "display_url": "pic.x.com/ysCi8z7kRO",
+              "end": 138,
+              "expanded_url": "https://x.com/RXdruglab/status/2104483256301428991/photo/1",
+              "media_key": "3_2104483248420319232",
+              "start": 115,
+              "url": "https://t.co/ysCi8z7kRO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104483256301428991",
+        "in_reply_to_user_id": "1986452594206838785",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2104483056182853633"
+          },
+          {
+            "media_key": "3_2104483248420319232"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104310008653709809",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Idontselldrug 我也差不多，另外早期GPT2的时候我也搞过一下，那时候是开源项目，也不用注册个账号啥的。然后我四月的时候加入dall-e的waiting list，那个也不用注册，但是是openai发的第一封邮件。 https://t.co/ysCi8z7kRO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104310005227020288"
+          ]
+        },
+        "author_id": "1986452594206838785",
+        "conversation_id": "2104310008653709809",
+        "created_at": "2026-09-27T20:39:36.000Z",
+        "display_text_range": [
+          0,
+          4
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T21:39:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104310008653709809"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qnwxpMYFIb",
+              "end": 28,
+              "expanded_url": "https://x.com/Idontselldrug/status/2104310008653709809/photo/1",
+              "media_key": "3_2104310005227020288",
+              "start": 5,
+              "url": "https://t.co/qnwxpMYFIb"
+            },
+            {
+              "display_url": "x.com/Idontselldrug/…",
+              "end": 52,
+              "expanded_url": "https://twitter.com/Idontselldrug/status/2104018368034636042",
+              "start": 29,
+              "url": "https://t.co/0MsjuUSt5F"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104310008653709809",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2104310005227020288"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 968,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104018368034636042",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "资历证明 https://t.co/qnwxpMYFIb https://t.co/0MsjuUSt5F"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2015-02-16T15:27:54.000Z",
+        "description": "本不一定什么时候就没，请添加下方网址的telegram频道以获得持续更新。\n以禁毒、法律教育及损害减少（harm reduction）为目的，通过非世俗及去道德的理念，追求真实的知识与反馈。除替代为目的，部分良性物质，以及特殊情况下的损害减少，不推荐任何人摄入我提及的物质。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/XDrugLab",
+                "end": 23,
+                "expanded_url": "https://t.me/XDrugLab",
+                "start": 0,
+                "url": "https://t.co/KMcpbSmDcL"
+              }
+            ]
+          }
+        },
+        "id": "3022697779",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104483256301428991",
+        "name": "药物实验室",
+        "pinned_tweet_id": "1917542345039569145",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3022697779/1730924898",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854259369203879954/nxgmCDHX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21338,
+          "following_count": 15,
+          "like_count": 42,
+          "listed_count": 25,
+          "media_count": 68,
+          "tweet_count": 2015
+        },
+        "url": "https://t.co/KMcpbSmDcL",
+        "username": "RXdruglab",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "description": "人在加拿大 埃德蒙顿的推友快来找我玩\n逃生舱@elonlovedea",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 22,
+                "username": "elonlovedea"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1Py6G"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "is_identity_verified": false,
+        "location": "Edmonton, Alberta",
+        "most_recent_tweet_id": "2104470769992671293",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1986452594206838785/1776620101",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1585,
+          "following_count": 351,
+          "like_count": 4199,
+          "listed_count": 0,
+          "media_count": 687,
+          "tweet_count": 4438
+        },
+        "url": "https://t.co/ZuiIe1Py6G",
+        "username": "Idontselldrug",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

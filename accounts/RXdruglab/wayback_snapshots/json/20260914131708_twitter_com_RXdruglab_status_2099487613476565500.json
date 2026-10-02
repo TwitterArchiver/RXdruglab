@@ -1,0 +1,341 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "3022697779",
+    "conversation_id": "2098901681715237068",
+    "created_at": "2026-09-14T13:17:08.000Z",
+    "display_text_range": [
+      24,
+      63
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-14T14:17:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099487613476565500"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1726969617850286080",
+          "start": 0,
+          "username": "K1ku21_"
+        },
+        {
+          "end": 23,
+          "id": "1986452594206838785",
+          "start": 9,
+          "username": "Idontselldrug"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099487613476565500",
+    "in_reply_to_user_id": "1726969617850286080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099051560026485107",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@K1ku21_ @Idontselldrug 完全不是的，造成憋气就是二氧化碳量造成的，无论你怎么呼吸，氧气量都差不了很多。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3022697779",
+        "conversation_id": "2098901681715237068",
+        "created_at": "2026-09-14T13:17:08.000Z",
+        "display_text_range": [
+          24,
+          63
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-14T14:17:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099487613476565500"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1726969617850286080",
+              "start": 0,
+              "username": "K1ku21_"
+            },
+            {
+              "end": 23,
+              "id": "1986452594206838785",
+              "start": 9,
+              "username": "Idontselldrug"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099487613476565500",
+        "in_reply_to_user_id": "1726969617850286080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099051560026485107",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@K1ku21_ @Idontselldrug 完全不是的，造成憋气就是二氧化碳量造成的，无论你怎么呼吸，氧气量都差不了很多。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1726969617850286080",
+        "conversation_id": "2098901681715237068",
+        "created_at": "2026-09-13T08:24:25.000Z",
+        "display_text_range": [
+          15,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T09:24:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099051560026485107"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1986452594206838785",
+              "start": 0,
+              "username": "Idontselldrug"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099051560026485107",
+        "in_reply_to_user_id": "1986452594206838785",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 48,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099036712487862304",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Idontselldrug 我感觉不用了 就是氧气浓度低。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2015-02-16T15:27:54.000Z",
+        "description": "本不一定什么时候就没，请添加下方网址的telegram频道以获得持续更新。\n以禁毒、法律教育及损害减少（harm reduction）为目的，通过非世俗及去道德的理念，追求真实的知识与反馈。除替代为目的，部分良性物质，以及特殊情况下的损害减少，不推荐任何人摄入我提及的物质。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/XDrugLab",
+                "end": 23,
+                "expanded_url": "https://t.me/XDrugLab",
+                "start": 0,
+                "url": "https://t.co/KMcpbSmDcL"
+              }
+            ]
+          }
+        },
+        "id": "3022697779",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2099487613476565500",
+        "name": "药物实验室",
+        "pinned_tweet_id": "1917542345039569145",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3022697779/1730924898",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854259369203879954/nxgmCDHX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21277,
+          "following_count": 14,
+          "like_count": 42,
+          "listed_count": 25,
+          "media_count": 67,
+          "tweet_count": 1998
+        },
+        "url": "https://t.co/KMcpbSmDcL",
+        "username": "RXdruglab",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-11-21T14:23:48.000Z",
+        "description": "梨子丨我的情感应该被埋葬在马里亚纳海沟下丨intp-t丨non-binary丨osdd-1a丨碎碎念推\n关注@Yesmynamehaer1 @MukugeOvO @Nijika_Dark2 @winterfruit_1 @tianxiao0502 @Akinoyo_desu谢谢喵！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 54,
+                "username": "Yesmynamehaer1"
+              },
+              {
+                "end": 80,
+                "start": 70,
+                "username": "MukugeOvO"
+              },
+              {
+                "end": 94,
+                "start": 81,
+                "username": "Nijika_Dark2"
+              },
+              {
+                "end": 109,
+                "start": 95,
+                "username": "winterfruit_1"
+              },
+              {
+                "end": 123,
+                "start": 110,
+                "username": "tianxiao0502"
+              },
+              {
+                "end": 137,
+                "start": 124,
+                "username": "Akinoyo_desu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Kiku21",
+                "end": 23,
+                "expanded_url": "http://t.me/Kiku21",
+                "start": 0,
+                "url": "https://t.co/7u4At2gRpa"
+              }
+            ]
+          }
+        },
+        "id": "1726969617850286080",
+        "is_identity_verified": false,
+        "location": "天目山路305号",
+        "most_recent_tweet_id": "2099485452747387147",
+        "name": "涙の販売機",
+        "pinned_tweet_id": "1942953404315394445",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1726969617850286080/1759513143",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088823027933093888/mRDdqdIk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1962,
+          "following_count": 259,
+          "like_count": 25805,
+          "listed_count": 3,
+          "media_count": 706,
+          "tweet_count": 14258
+        },
+        "url": "https://t.co/7u4At2gRpa",
+        "username": "K1ku21_",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "description": "人在加拿大 埃德蒙顿的推友快来找我玩\n逃生舱@elonlovedea",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 22,
+                "username": "elonlovedea"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1Py6G"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "is_identity_verified": false,
+        "location": "Edmonton, Alberta",
+        "most_recent_tweet_id": "2099386670349250888",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1986452594206838785/1776620101",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1555,
+          "following_count": 350,
+          "like_count": 3944,
+          "listed_count": 0,
+          "media_count": 663,
+          "tweet_count": 4170
+        },
+        "url": "https://t.co/ZuiIe1Py6G",
+        "username": "Idontselldrug",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
