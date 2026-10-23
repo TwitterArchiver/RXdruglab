@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "3022697779",
+    "conversation_id": "2110580624402898988",
+    "created_at": "2026-10-15T23:09:33.000Z",
+    "display_text_range": [
+      16,
+      31
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-16T00:09:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2110870725326422016"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1629877998148042757",
+          "start": 0,
+          "username": "99905230523aol"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2110870725326422016",
+    "in_reply_to_user_id": "1629877998148042757",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2110580624402898988",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@99905230523aol 没有剧烈疼痛然后难受一个月吗？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3264,
+        "media_key": "3_2110580608783327232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HUpJ4aBboAAncdx.jpg",
+        "width": 2448
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3022697779",
+        "conversation_id": "2110580624402898988",
+        "created_at": "2026-10-15T23:09:33.000Z",
+        "display_text_range": [
+          16,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-16T00:09:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2110870725326422016"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1629877998148042757",
+              "start": 0,
+              "username": "99905230523aol"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2110870725326422016",
+        "in_reply_to_user_id": "1629877998148042757",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2110580624402898988",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@99905230523aol 没有剧烈疼痛然后难受一个月吗？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2110580608783327232"
+          ]
+        },
+        "author_id": "1629877998148042757",
+        "conversation_id": "2110580624402898988",
+        "created_at": "2026-10-15T03:56:48.000Z",
+        "display_text_range": [
+          0,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-15T04:56:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2110580624402898988"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hu4mD93ykT",
+              "end": 55,
+              "expanded_url": "https://x.com/99905230523aol/status/2110580624402898988/photo/1",
+              "media_key": "3_2110580608783327232",
+              "start": 32,
+              "url": "https://t.co/hu4mD93ykT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2110580624402898988",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2110580608783327232"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 7580,
+          "like_count": 122,
+          "quote_count": 1,
+          "reply_count": 20,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "二甲卡因（可卡因衍生物）\n鼻吸大概100mg+-以下为药物报告 https://t.co/hu4mD93ykT"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2015-02-16T15:27:54.000Z",
+        "description": "本不一定什么时候就没，请添加下方网址的telegram频道以获得持续更新。\n以禁毒、法律教育及损害减少（harm reduction）为目的，通过非世俗及去道德的理念，追求真实的知识与反馈。除替代为目的，部分良性物质，以及特殊情况下的损害减少，不推荐任何人摄入我提及的物质。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/XDrugLab",
+                "end": 23,
+                "expanded_url": "https://t.me/XDrugLab",
+                "start": 0,
+                "url": "https://t.co/KMcpbSmDcL"
+              }
+            ]
+          }
+        },
+        "id": "3022697779",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2110870725326422016",
+        "name": "药物实验室",
+        "pinned_tweet_id": "1917542345039569145",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3022697779/1730924898",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854259369203879954/nxgmCDHX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21604,
+          "following_count": 16,
+          "like_count": 29,
+          "listed_count": 25,
+          "media_count": 67,
+          "tweet_count": 2035
+        },
+        "url": "https://t.co/KMcpbSmDcL",
+        "username": "RXdruglab",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-02-26T16:16:23.000Z",
+        "description": "想称呼我就叫我安那其，双性恋🌈，一位普通的罪木厨，超高校级的oder💊，孤独症谱系人，11年，传奇药师攒学费中☠️/正在期盼大麻与致幻剂合法化\n群组: https://t.co/gYcSYOk65W\n药物实验室：@zzzzuimu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 115,
+                "start": 106,
+                "username": "zzzzuimu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "discord.gg/6uFMpBV9Xw",
+                "end": 99,
+                "expanded_url": "https://discord.gg/6uFMpBV9Xw",
+                "start": 76,
+                "url": "https://t.co/gYcSYOk65W"
+              }
+            ]
+          }
+        },
+        "id": "1629877998148042757",
+        "is_identity_verified": false,
+        "location": "虚无加速",
+        "most_recent_tweet_id": "2110712187472028013",
+        "name": "无政府主义联盟（PEA🌵找我）",
+        "pinned_tweet_id": "2107838881475465240",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1629877998148042757/1790917014",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2107339842220875776/Vud6uzNW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1006,
+          "following_count": 193,
+          "like_count": 126,
+          "listed_count": 0,
+          "media_count": 119,
+          "tweet_count": 786
+        },
+        "url": "",
+        "username": "99905230523aol",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

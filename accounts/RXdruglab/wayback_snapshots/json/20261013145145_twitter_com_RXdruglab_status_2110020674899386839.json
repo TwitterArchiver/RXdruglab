@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "3022697779",
+    "conversation_id": "2109948105785491900",
+    "created_at": "2026-10-13T14:51:45.000Z",
+    "display_text_range": [
+      14,
+      62
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-13T15:51:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2110020674899386839"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2041449281677045760",
+          "start": 0,
+          "username": "Sorcerer1311"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2110020674899386839",
+    "in_reply_to_user_id": "2041449281677045760",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2109983841880519079",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sorcerer1311 血脑屏障肯定是问题的，我是看大龄人士的报告。但我后来又合计了一下，觉得还是有点问题，说得太满了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3022697779",
+        "conversation_id": "2109948105785491900",
+        "created_at": "2026-10-13T14:51:45.000Z",
+        "display_text_range": [
+          14,
+          62
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-13T15:51:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2110020674899386839"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2041449281677045760",
+              "start": 0,
+              "username": "Sorcerer1311"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2110020674899386839",
+        "in_reply_to_user_id": "2041449281677045760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2109983841880519079",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sorcerer1311 血脑屏障肯定是问题的，我是看大龄人士的报告。但我后来又合计了一下，觉得还是有点问题，说得太满了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2109948105785491900",
+        "created_at": "2026-10-13T12:25:24.000Z",
+        "display_text_range": [
+          11,
+          36
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-13T13:25:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2109983841880519079"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "3022697779",
+              "start": 0,
+              "username": "RXdruglab"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2109983841880519079",
+        "in_reply_to_user_id": "3022697779",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 636,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2109948105785491900",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RXdruglab 而且pea的问题不是血脑屏障而是会被脱氢氧化酶分解"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2015-02-16T15:27:54.000Z",
+        "description": "本不一定什么时候就没，请添加下方网址的telegram频道以获得持续更新。\n以禁毒、法律教育及损害减少（harm reduction）为目的，通过非世俗及去道德的理念，追求真实的知识与反馈。除替代为目的，部分良性物质，以及特殊情况下的损害减少，不推荐任何人摄入我提及的物质。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/XDrugLab",
+                "end": 23,
+                "expanded_url": "https://t.me/XDrugLab",
+                "start": 0,
+                "url": "https://t.co/KMcpbSmDcL"
+              }
+            ]
+          }
+        },
+        "id": "3022697779",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2110020674899386839",
+        "name": "药物实验室",
+        "pinned_tweet_id": "1917542345039569145",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3022697779/1730924898",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854259369203879954/nxgmCDHX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21507,
+          "following_count": 16,
+          "like_count": 29,
+          "listed_count": 25,
+          "media_count": 68,
+          "tweet_count": 2034
+        },
+        "url": "https://t.co/KMcpbSmDcL",
+        "username": "RXdruglab",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世假死过， 互fo寻回中｜ 985本科在读 ｜ enby/MTF｜Queer｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜药物收藏家｜交易员｜ 随缘发生活和观点，照片无p ｜ 🚪28.8｜同类可免互fo可面哦",
+        "id": "2041449281677045760",
+        "is_identity_verified": false,
+        "location": "北京市西城区西华门大街28号",
+        "most_recent_tweet_id": "2110018898183741947",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2041449281677045760/1787357405",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072703506100977664/gMi_fG2-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1762,
+          "following_count": 1179,
+          "like_count": 3440,
+          "listed_count": 3,
+          "media_count": 702,
+          "tweet_count": 4906
+        },
+        "url": "",
+        "username": "Sorcerer1311",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

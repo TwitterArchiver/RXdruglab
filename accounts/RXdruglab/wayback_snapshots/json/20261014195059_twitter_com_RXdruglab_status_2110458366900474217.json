@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "3022697779",
+    "conversation_id": "2110254333392760981",
+    "created_at": "2026-10-14T19:50:59.000Z",
+    "display_text_range": [
+      9,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-14T20:50:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2110458366900474217"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1226126253893341184",
+          "start": 0,
+          "username": "konosuz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2110458366900474217",
+    "in_reply_to_user_id": "1226126253893341184",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2110254333392760981",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@konosuz 真是老吃家了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3022697779",
+        "conversation_id": "2110254333392760981",
+        "created_at": "2026-10-14T19:50:59.000Z",
+        "display_text_range": [
+          9,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-14T20:50:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2110458366900474217"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1226126253893341184",
+              "start": 0,
+              "username": "konosuz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2110458366900474217",
+        "in_reply_to_user_id": "1226126253893341184",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2110254333392760981",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@konosuz 真是老吃家了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1226126253893341184",
+        "conversation_id": "2110254333392760981",
+        "created_at": "2026-10-14T06:20:14.000Z",
+        "display_text_range": [
+          0,
+          92
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-14T07:20:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2110254333392760981"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2110254333392760981",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 20,
+          "impression_count": 8879,
+          "like_count": 59,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "分享我最喜欢的磕药套餐：\n600-1000mg普瑞巴林➕20-50mg巴氯芬，起效后喝超大杯咖啡，余韵时鼻吸15mg的3mepcpy，有时候我还会吃20mg左右唑吡坦，不过这样可能会吐"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2015-02-16T15:27:54.000Z",
+        "description": "本不一定什么时候就没，请添加下方网址的telegram频道以获得持续更新。\n以禁毒、法律教育及损害减少（harm reduction）为目的，通过非世俗及去道德的理念，追求真实的知识与反馈。除替代为目的，部分良性物质，以及特殊情况下的损害减少，不推荐任何人摄入我提及的物质。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/XDrugLab",
+                "end": 23,
+                "expanded_url": "https://t.me/XDrugLab",
+                "start": 0,
+                "url": "https://t.co/KMcpbSmDcL"
+              }
+            ]
+          }
+        },
+        "id": "3022697779",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2110458366900474217",
+        "name": "药物实验室",
+        "pinned_tweet_id": "1917542345039569145",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3022697779/1730924898",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854259369203879954/nxgmCDHX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21598,
+          "following_count": 15,
+          "like_count": 29,
+          "listed_count": 25,
+          "media_count": 67,
+          "tweet_count": 2034
+        },
+        "url": "https://t.co/KMcpbSmDcL",
+        "username": "RXdruglab",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-02-08T12:51:19.000Z",
+        "description": "中国人冷静一下💦💦",
+        "id": "1226126253893341184",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2110436659779223893",
+        "name": "小米粥",
+        "pinned_tweet_id": "2107014266092126391",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1226126253893341184/1665502917",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066222208255729665/HqLRhNww_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 200,
+          "following_count": 364,
+          "like_count": 3598,
+          "listed_count": 1,
+          "media_count": 32,
+          "tweet_count": 1670
+        },
+        "url": "",
+        "username": "konosuz",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

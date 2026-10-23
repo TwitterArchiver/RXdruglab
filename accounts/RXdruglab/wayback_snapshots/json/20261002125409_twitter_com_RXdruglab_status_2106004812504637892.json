@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "3022697779",
+    "conversation_id": "2105982284197408895",
+    "created_at": "2026-10-02T12:54:09.000Z",
+    "display_text_range": [
+      17,
+      27
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-02T13:54:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106004812504637892"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1998633997623300096",
+          "start": 0,
+          "username": "17kxscvooo45974"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106004812504637892",
+    "in_reply_to_user_id": "1998633997623300096",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105992262111150388",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@17kxscvooo45974 我反正感觉是被抓了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3022697779",
+        "conversation_id": "2105982284197408895",
+        "created_at": "2026-10-02T12:54:09.000Z",
+        "display_text_range": [
+          17,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T13:54:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106004812504637892"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1998633997623300096",
+              "start": 0,
+              "username": "17kxscvooo45974"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106004812504637892",
+        "in_reply_to_user_id": "1998633997623300096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105992262111150388",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@17kxscvooo45974 我反正感觉是被抓了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1998633997623300096",
+        "conversation_id": "2105982284197408895",
+        "created_at": "2026-10-02T12:04:17.000Z",
+        "display_text_range": [
+          11,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T13:04:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105992262111150388"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "3022697779",
+              "start": 0,
+              "username": "RXdruglab"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105992262111150388",
+        "in_reply_to_user_id": "3022697779",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 89,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105982284197408895",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RXdruglab 他好像跑路了，可能评论区的是骗子小号"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2015-02-16T15:27:54.000Z",
+        "description": "本不一定什么时候就没，请添加下方网址的telegram频道以获得持续更新。\n以禁毒、法律教育及损害减少（harm reduction）为目的，通过非世俗及去道德的理念，追求真实的知识与反馈。除替代为目的，部分良性物质，以及特殊情况下的损害减少，不推荐任何人摄入我提及的物质。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/XDrugLab",
+                "end": 23,
+                "expanded_url": "https://t.me/XDrugLab",
+                "start": 0,
+                "url": "https://t.co/KMcpbSmDcL"
+              }
+            ]
+          }
+        },
+        "id": "3022697779",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2106004812504637892",
+        "name": "药物实验室",
+        "pinned_tweet_id": "1917542345039569145",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3022697779/1730924898",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854259369203879954/nxgmCDHX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21377,
+          "following_count": 16,
+          "like_count": 30,
+          "listed_count": 25,
+          "media_count": 68,
+          "tweet_count": 2019
+        },
+        "url": "https://t.co/KMcpbSmDcL",
+        "username": "RXdruglab",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-12-10T06:00:59.000Z",
+        "description": "https://t.co/Yn9N2XnAZK长时间不更新就是去到啊偏星球了",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/erfjjuu",
+                "end": 23,
+                "expanded_url": "https://t.me/erfjjuu",
+                "start": 0,
+                "url": "https://t.co/Yn9N2XnAZK"
+              }
+            ]
+          }
+        },
+        "id": "1998633997623300096",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2106003323774288170",
+        "name": "liyuexi263527282🏳️‍⚧️🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1998633997623300096/1781697073",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089300666359664640/x2Seu3j3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93,
+          "following_count": 332,
+          "like_count": 570,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 267
+        },
+        "url": "",
+        "username": "17kxscvooo45974",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
